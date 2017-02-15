@@ -1901,3 +1901,197 @@ coat_strap_r_06
 
 [2017.02.15-03.59.08:520][845]LogSavePackage: Save=310.24ms
 [2017.02.15-03.59.08:520][845]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Minimal_Default1074F8D049FE6C2D01A70795DF3BDE56.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.02.15-03.59.08:525][845]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.02.15-04.00.37:381][948]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.15-04.00.37:413][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.02.15-04.00.37:428][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.15-04.00.37:585][948]PIE: New page: PIE session: Minimal_Default (Feb 14, 2017, 6:00:37 PM)
+[2017.02.15-04.00.37:603][948]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.02.15-04.00.37:738][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134029s)
+[2017.02.15-04.00.37:750][948]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.02.15-04.00.37:765][948]LogPlayLevel: PIE: World Init took: (0.027949s)
+[2017.02.15-04.00.37:778][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.174579s)
+[2017.02.15-04.00.37:806][948]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.15-04.00.37:818][948]LogInit: FAudioDevice initialized.
+[2017.02.15-04.00.38:034][948]LogLoad: Game class is 'GameModeBase'
+[2017.02.15-04.00.38:036][948]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2017.02.14-23.00.38
+[2017.02.15-04.00.38:105][948]LogWorld: Bringing up level for play took: 0.065371
+[2017.02.15-04.00.38:472][948]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 11 classes and 0 folders.
+[2017.02.15-04.00.38:551][948]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.808
+[2017.02.15-04.00.38:552][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.02.15-04.00.48:385][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.02.15-04.00.48:558][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.02.15-04.01.35:973][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/character_material" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material.uasset" SILENT=true
+[2017.02.15-04.01.35:991][299]LogSavePackage: Save=15.28ms
+[2017.02.15-04.01.35:992][299]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/character_material2688AB7744C2E9DC9303F681A79EFA26.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material.uasset'
+[2017.02.15-04.01.35:997][299]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material.uasset
+[2017.02.15-04.02.35:807][627]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.02.36:398][627]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.02.36:409][627]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.02.41:283][711]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.02.41:283][711]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.02.41:283][711]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.05.16:241][ 57]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.05.16:253][ 57]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.05.16:254][ 57]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.05.21:358][184]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.05.21:358][184]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.05.21:358][184]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.06.42:637][ 93]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.06.42:653][ 93]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.06.42:683][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.06.46:798][191]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.06.46:798][191]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.06.46:799][191]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.07.56:423][469]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.07.56:434][469]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.07.56:460][469]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.08.00:272][562]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.08.00:298][562]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.08.00:350][562]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.08.05:097][682]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.08.05:097][682]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.08.05:097][682]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.08.23:027][  0]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.08.23:043][  0]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.08.23:069][  0]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.08.29:007][145]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.08.29:008][145]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.08.29:008][145]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.08.29:384][153]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.08.29:407][153]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.08.29:436][153]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.08.33:225][244]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.08.33:249][244]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.08.33:278][244]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.08.39:989][412]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.08.39:989][412]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.08.39:989][412]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.09.19:840][601]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.029
+[2017.02.15-04.09.19:851][601]LogSavePackage: Save=3.40ms
+[2017.02.15-04.09.19:851][601]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/NewMaterial_Auto443A0B9C94D7B98072B50ACB45260AD41.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/NewMaterial_Auto4.uasset'
+[2017.02.15-04.09.19:853][601]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/NewMaterial_Auto4.uasset
+[2017.02.15-04.09.19:853][601]LogFileHelpers: Auto-saving content packages took 0.013
+[2017.02.15-04.09.34:758][747]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.09.34:772][747]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.09.34:801][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.09.39:939][879]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.09.39:939][879]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.09.39:940][879]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.10.07:992][130]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.10.08:006][130]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.10.13:759][277]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.10.13:759][277]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.10.13:759][277]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.11.28:833][890]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.11.28:846][890]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.11.33:639][988]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.11.33:639][988]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.11.33:639][988]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.13.10:794][703]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.13.10:805][703]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.13.16:892][858]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.13.16:892][858]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.13.16:892][858]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.14.24:007][ 13]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.14.24:019][ 13]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.14.30:320][172]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.14.30:321][172]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.14.30:321][172]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.15.06:264][621]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.15.06:275][621]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.15.10:663][731]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.15.10:685][731]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.15.10:786][731]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.15.15:966][862]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.15.15:966][862]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.15.15:966][862]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.15.19:579][951]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.15.19:591][951]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.15.19:688][951]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.15.19:701][951]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.15.19:780][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.02.15-04.15.24:235][ 64]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.15.24:235][ 64]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.15.24:236][ 64]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.16.11:371][480]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.16.11:402][480]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.16.18:191][652]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.02.15-04.16.18:191][652]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.16.18:191][652]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.16.18:426][657]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.16.18:531][657]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.16.22:495][729]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 40 instructions
+[2017.02.15-04.16.22:495][729]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.16.22:495][729]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.17.13:706][343]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.17.13:721][343]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.17.20:112][482]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 40 instructions
+[2017.02.15-04.17.20:112][482]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.17.20:112][482]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.17.41:142][769]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.17.41:158][769]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.17.54:129][ 97]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 40 instructions
+[2017.02.15-04.17.54:129][ 97]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.17.54:129][ 97]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.18.09:776][498]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.18.09:835][498]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.18.13:933][551]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 41 instructions
+[2017.02.15-04.18.13:933][551]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.18.13:933][551]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.18.55:997][102]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.18.56:009][102]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.19.01:385][238]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 41 instructions
+[2017.02.15-04.19.01:385][238]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.19.01:385][238]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.19.09:690][446]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.19.09:708][446]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.19.14:025][553]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.19.14:057][553]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.19.18:376][641]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 41 instructions
+[2017.02.15-04.19.18:376][641]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.19.18:376][641]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.20.08:285][219]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.20.08:301][219]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.20.13:051][294]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 41 instructions
+[2017.02.15-04.20.13:051][294]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.20.13:051][294]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.02.15-04.20.30:639][401]LogMaterialEditor: Applying material character_material
+[2017.02.15-04.20.33:858][401]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.20.33:897][401]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.20.33:942][401]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.20.33:978][401]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.20.34:011][401]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.20.36:608][464]LogMaterialEditor: Saving and Compiling material character_material
+[2017.02.15-04.20.39:945][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/character_material" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material.uasset" SILENT=true
+[2017.02.15-04.20.39:975][464]LogSavePackage: Save=20.01ms
+[2017.02.15-04.20.39:975][464]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/character_material13DB084D4E886EDAEC836F96EC39576E.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material.uasset'
+[2017.02.15-04.20.39:982][464]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material.uasset
+[2017.02.15-04.20.39:988][464]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 76 instructions
+[2017.02.15-04.20.39:988][464]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.02.15-04.20.39:988][464]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.02.15-04.21.18:543][982]LogRenderer: Reallocating scene render targets to support 988x612 NumSamples 1 (Frame:63291).
+[2017.02.15-04.21.59:621][669]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.026
+[2017.02.15-04.21.59:624][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/character_material_Inst] ([1] browsable assets)...
+[2017.02.15-04.21.59:661][669]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/character/character_material_Inst.character_material_Inst]
+[2017.02.15-04.21.59:661][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/character_material_Inst]
+[2017.02.15-04.21.59:704][669]LogSavePackage: Save=14.65ms
+[2017.02.15-04.21.59:704][669]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/character_material_Inst_Auto5780DE3874C7AA5DE5997739C4C07D065.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/character_material_Inst_Auto5.uasset'
+[2017.02.15-04.21.59:723][669]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/character_material_Inst_Auto5.uasset
+[2017.02.15-04.21.59:724][669]LogFileHelpers: Auto-saving content packages took 0.102
+[2017.02.15-04.22.20:282][122]LogSavePackage: Save=13.98ms
+[2017.02.15-04.22.20:283][122]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/character_material_Inst6EAADE9646DC70E44CD288BFDF3CB71B.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material_Inst.uasset'
+[2017.02.15-04.22.20:289][122]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material_Inst.uasset
+[2017.02.15-04.22.20:292][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/NewMaterial" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/NewMaterial.uasset" SILENT=true
+[2017.02.15-04.22.20:299][122]LogSavePackage: Save=2.14ms
+[2017.02.15-04.22.20:299][122]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/NewMaterial3A9BF4FD484C6439B1AACABA23662F89.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/NewMaterial.uasset'
+[2017.02.15-04.22.20:305][122]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/NewMaterial.uasset
+[2017.02.15-04.22.47:403][299]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.02.15-04.23.31:170][592]LogMaterial:Warning: Material /Game/character/character_material.character_material needed to have new flag set bUsedWithSkeletalMesh !
+[2017.02.15-04.23.31:176][592]LogMaterial: Missing cached shader map for material character_material, compiling. 
+[2017.02.15-04.23.31:216][592]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-04.24.41:158][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/SK_Mannequin" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset" SILENT=true
+[2017.02.15-04.24.41:392][190]LogSavePackage: Save=73.68ms
+[2017.02.15-04.24.41:392][190]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin21533CFB4A24B9056604AF9E86EDC6CF.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset'
+[2017.02.15-04.24.41:403][190]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset
+[2017.02.15-04.25.17:794][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/character_material" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_material.uasset" SILENT=true
