@@ -560,3 +560,1288 @@ LogInit: Object subsystem initialized
 [2017.02.14-03.47.02:325][  1]LogAssetRegistry: Asset discovery search completed in 93.2660 seconds
 [2017.02.14-03.47.02:325][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2017.02.14-03.47.02:325][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2017.02.14-05.15.58:509][954]LogRenderer: Reallocating scene render targets to support 856x396 NumSamples 1 (Frame:3106).
+[2017.02.15-02.40.54:176][590]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/SK_Mannequin.FBX)
+[2017.02.15-02.40.54:440][590]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.15-02.40.54:440][590]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.02.15-02.40.54:440][590]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.02.15-02.40.54:440][590]LogFbx: ItemName: Model, ItemCount : 70
+[2017.02.15-02.40.54:441][590]LogFbx: ItemName: NodeAttribute, ItemCount : 68
+[2017.02.15-02.40.54:441][590]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.15-02.40.54:441][590]LogFbx: ItemName: Material, ItemCount : 2
+[2017.02.15-02.40.54:441][590]LogFbx: ItemName: Deformer, ItemCount : 69
+[2017.02.15-02.40.54:441][590]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.02.15-02.40.54:498][590]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/SK_Mannequin.FBX
+[2017.02.15-02.40.54:620][590]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.49.31:237][590]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/SK_Mannequin.FBX
+[2017.02.15-02.49.31:280][590]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.49.31:291][590]LogFbx: =================================================
+[2017.02.15-02.49.31:291][590]LogFbx: Dumping Node START [SK_Mannequin] 
+[2017.02.15-02.49.31:291][590]LogFbx: 	Total Deformer Count 950006016.
+[2017.02.15-02.49.31:291][590]LogFbx: 		[Node 1]  (Type Skin).
+[2017.02.15-02.49.31:291][590]LogFbx: =================================================
+[2017.02.15-02.49.31:291][590]LogFbx: 	Attribute (SK_Mannequin) Type (4).
+[2017.02.15-02.49.31:291][590]LogFbx: 		[Node Attribute Child 1] SK_Mannequin (Type Mesh).
+[2017.02.15-02.49.31:291][590]LogFbx: Dumping Node END [SK_Mannequin]
+[2017.02.15-02.49.31:291][590]LogFbx: =================================================
+[2017.02.15-02.49.31:291][590]LogFbx: Dumping Node START [SK_Mannequin] 
+[2017.02.15-02.49.31:291][590]LogFbx: 	Total Deformer Count 950006016.
+[2017.02.15-02.49.31:291][590]LogFbx: 		[Node 1]  (Type Skin).
+[2017.02.15-02.49.31:291][590]LogFbx: =================================================
+[2017.02.15-02.49.31:291][590]LogFbx: 	Attribute (SK_Mannequin) Type (4).
+[2017.02.15-02.49.31:291][590]LogFbx: 		[Node Attribute Child 1] SK_Mannequin (Type Mesh).
+[2017.02.15-02.49.31:291][590]LogFbx: Dumping Node END [SK_Mannequin]
+[2017.02.15-02.49.31:293][590]LogFbx: =================================================
+[2017.02.15-02.49.31:293][590]LogFbx: Dumping Node START [SK_Mannequin] 
+[2017.02.15-02.49.31:293][590]LogFbx: 	Total Deformer Count 949999056.
+[2017.02.15-02.49.31:293][590]LogFbx: 		[Node 1]  (Type Skin).
+[2017.02.15-02.49.31:293][590]LogFbx: =================================================
+[2017.02.15-02.49.31:293][590]LogFbx: 	Attribute (SK_Mannequin) Type (4).
+[2017.02.15-02.49.31:293][590]LogFbx: 		[Node Attribute Child 1] SK_Mannequin (Type Mesh).
+[2017.02.15-02.49.31:293][590]LogFbx: Dumping Node END [SK_Mannequin]
+[2017.02.15-02.49.31:322][590]LogFbx: Valid bind pose for Pose (SK_Mannequin) - SK_Mannequin
+[2017.02.15-02.49.31:346][590]LogLinker: Can't find file '/Game/M_UE4Man_Body'
+[2017.02.15-02.49.31:346][590]LogLinker: Can't find file '/Game/M_UE4Man_Body'
+[2017.02.15-02.49.31:377][590]LogMaterial:Warning: Material /Game/M_UE4Man_Body.M_UE4Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2017.02.15-02.49.31:407][590]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.02.15-02.49.31:683][590]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-02.49.31:708][590]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.02.15-02.49.31:885][590]LogLinker: Can't find file '/Game/Fbx_Default_Material_1'
+[2017.02.15-02.49.31:885][590]LogLinker: Can't find file '/Game/Fbx_Default_Material_1'
+[2017.02.15-02.49.31:885][590]LogMaterial:Warning: Material /Game/Fbx_Default_Material_1.Fbx_Default_Material_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.02.15-02.49.31:889][590]LogMaterial: Missing cached shader map for material Fbx_Default_Material_1, compiling. 
+[2017.02.15-02.49.31:936][590]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.15-02.49.31:950][590]LogMaterial: Missing cached shader map for material Fbx_Default_Material_1, compiling. 
+[2017.02.15-02.49.32:356][590]LogFbx:Warning: Bones digested - 68  Depth of hierarchy - 12
+[2017.02.15-02.49.33:814][590]LogSkeletalMesh: Section 0: 23274 vertices, 60 active bones
+[2017.02.15-02.49.33:814][590]LogSkeletalMesh: Section 1: 35 vertices, 4 active bones
+[2017.02.15-02.49.33:924][590]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2017.02.15-02.49.33:924][590]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2017.02.15-02.49.34:123][590]LogLinker: Can't find file '/Game/SK_Mannequin_PhysicsAsset'
+[2017.02.15-02.49.34:123][590]LogLinker: Can't find file '/Game/SK_Mannequin_PhysicsAsset'
+[2017.02.15-02.49.34:209][590]LogLinker: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.49.34:209][590]LogLinker: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.49.34:311][590]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.15-02.49.59:148][257]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.088
+[2017.02.15-02.49.59:156][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SK_Mannequin] ([1] browsable assets)...
+[2017.02.15-02.49.59:217][257]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/SK_Mannequin.SK_Mannequin]
+[2017.02.15-02.49.59:217][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/SK_Mannequin]
+[2017.02.15-02.49.59:317][257]LogSavePackage: Save=96.48ms
+[2017.02.15-02.49.59:317][257]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Auto1137B991B46817A90D3E8169C5DBE10DB.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/SK_Mannequin_Auto1.uasset'
+[2017.02.15-02.49.59:321][257]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/SK_Mannequin_Auto1.uasset
+[2017.02.15-02.49.59:323][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/M_UE4Man_Body] ([1] browsable assets)...
+[2017.02.15-02.49.59:375][257]OBJ SavePackage:     Rendered thumbnail for [Material /Game/M_UE4Man_Body.M_UE4Man_Body]
+[2017.02.15-02.49.59:375][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_UE4Man_Body]
+[2017.02.15-02.49.59:425][257]LogSavePackage: Save=46.16ms
+[2017.02.15-02.49.59:425][257]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/M_UE4Man_Body_Auto10F509CB44FDD97CA8BE9BDB04D1DA17E.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/M_UE4Man_Body_Auto1.uasset'
+[2017.02.15-02.49.59:428][257]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/M_UE4Man_Body_Auto1.uasset
+[2017.02.15-02.49.59:430][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fbx_Default_Material_1] ([1] browsable assets)...
+[2017.02.15-02.49.59:464][257]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fbx_Default_Material_1.Fbx_Default_Material_1]
+[2017.02.15-02.49.59:464][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fbx_Default_Material_1]
+[2017.02.15-02.49.59:481][257]LogSavePackage: Save=13.71ms
+[2017.02.15-02.49.59:481][257]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Fbx_Default_Material_1_Auto1BC55A5824EFA9F04855A43BC0FB982D0.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Fbx_Default_Material_1_Auto1.uasset'
+[2017.02.15-02.49.59:484][257]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Fbx_Default_Material_1_Auto1.uasset
+[2017.02.15-02.49.59:486][257]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SK_Mannequin_PhysicsAsset] ([1] browsable assets)...
+[2017.02.15-02.49.59:486][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/SK_Mannequin_PhysicsAsset]
+[2017.02.15-02.49.59:522][257]LogSavePackage: Save=32.52ms
+[2017.02.15-02.49.59:522][257]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_PhysicsAsset_Auto1E40B7FB4463170597B9C52A95B4CC854.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/SK_Mannequin_PhysicsAsset_Auto1.uasset'
+[2017.02.15-02.49.59:525][257]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/SK_Mannequin_PhysicsAsset_Auto1.uasset
+[2017.02.15-02.49.59:527][257]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.02.15-02.49.59:527][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/SK_Mannequin_Skeleton]
+[2017.02.15-02.49.59:533][257]LogSavePackage: Save=3.72ms
+[2017.02.15-02.49.59:533][257]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton_Auto190E0A5DA4120A1C3A707B9967FCD19E5.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/SK_Mannequin_Skeleton_Auto1.uasset'
+[2017.02.15-02.49.59:536][257]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/SK_Mannequin_Skeleton_Auto1.uasset
+[2017.02.15-02.49.59:536][257]LogFileHelpers: Auto-saving content packages took 0.388
+[2017.02.15-02.51.22:600][959]LogSavePackage: Save=13.54ms
+[2017.02.15-02.51.22:600][959]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Fbx_Default_Material_1568FED79421C23D240FD25B8ACFACA37.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/Fbx_Default_Material_1.uasset'
+[2017.02.15-02.51.22:607][959]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/Fbx_Default_Material_1.uasset
+[2017.02.15-02.51.27:423][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/SK_Mannequin" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset" SILENT=true
+[2017.02.15-02.51.27:497][263]LogSavePackage: Save=70.40ms
+[2017.02.15-02.51.27:497][263]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_MannequinC74FC2F24F3A82A917F62ABCEC4A30EF.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset'
+[2017.02.15-02.51.27:503][263]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset
+[2017.02.15-02.51.31:826][584]LogLinker:Warning: Can't find file '/Game/M_UE4Man_Body'
+[2017.02.15-02.51.31:826][584]LogLinker:Warning: Can't find file for asset '/Game/M_UE4Man_Body' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.31:866][584]LoadErrors:Error: Error /Game/character/SK_Mannequin : Can't find file for asset. /Game/M_UE4Man_Body
+[2017.02.15-02.51.31:867][584]LogLinker:Warning: Can't find file '/Game/M_UE4Man_Body'
+[2017.02.15-02.51.31:867][584]LogLinker:Warning: Can't find file for asset '/Game/M_UE4Man_Body' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.31:867][584]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_PhysicsAsset'
+[2017.02.15-02.51.31:867][584]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_PhysicsAsset' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.31:867][584]LoadErrors:Error: Error /Game/character/SK_Mannequin : Can't find file for asset. /Game/SK_Mannequin_PhysicsAsset
+[2017.02.15-02.51.31:867][584]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.51.31:867][584]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_Skeleton' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.31:867][584]LoadErrors:Error: Error /Game/character/SK_Mannequin : Can't find file for asset. /Game/SK_Mannequin_Skeleton
+[2017.02.15-02.51.31:868][584]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_PhysicsAsset'
+[2017.02.15-02.51.31:868][584]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_PhysicsAsset' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.31:868][584]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.51.31:868][584]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_Skeleton' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.31:950][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/M_UE4Man_Body" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/M_UE4Man_Body.uasset" SILENT=true
+[2017.02.15-02.51.31:966][584]LogSavePackage: Save=13.07ms
+[2017.02.15-02.51.31:966][584]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/M_UE4Man_Body1B74ED8D42DD6CE812D44EBB5AC75388.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/M_UE4Man_Body.uasset'
+[2017.02.15-02.51.31:972][584]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/M_UE4Man_Body.uasset
+[2017.02.15-02.51.32:042][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/SK_Mannequin" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset" SILENT=true
+[2017.02.15-02.51.32:117][584]LogSavePackage: Save=58.71ms
+[2017.02.15-02.51.32:117][584]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_MannequinD608049D43688DE01A6DF6892FD41C4E.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset'
+[2017.02.15-02.51.32:121][584]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset
+[2017.02.15-02.51.35:368][894]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_PhysicsAsset'
+[2017.02.15-02.51.35:368][894]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_PhysicsAsset' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.35:369][894]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.51.35:369][894]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_Skeleton' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.35:369][894]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_PhysicsAsset'
+[2017.02.15-02.51.35:369][894]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_PhysicsAsset' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.35:369][894]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.51.35:369][894]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_Skeleton' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.35:433][894]LogSavePackage: Save=22.03ms
+[2017.02.15-02.51.35:433][894]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_PhysicsAsset8911EA6A45D1831C2384D69384316491.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_PhysicsAsset.uasset'
+[2017.02.15-02.51.35:442][894]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_PhysicsAsset.uasset
+[2017.02.15-02.51.35:516][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/SK_Mannequin" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset" SILENT=true
+[2017.02.15-02.51.35:584][894]LogSavePackage: Save=62.97ms
+[2017.02.15-02.51.35:584][894]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin7EA23EA34943FD2C53CA2683B5D36038.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset'
+[2017.02.15-02.51.35:588][894]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset
+[2017.02.15-02.51.38:575][152]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.51.38:575][152]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_Skeleton' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.38:575][152]LogLinker:Warning: Can't find file '/Game/SK_Mannequin_Skeleton'
+[2017.02.15-02.51.38:575][152]LogLinker:Warning: Can't find file for asset '/Game/SK_Mannequin_Skeleton' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset.
+[2017.02.15-02.51.38:616][152]LogSavePackage: Save=3.26ms
+[2017.02.15-02.51.38:616][152]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_SkeletonD4A7E8DC40A4C48BA219C5B99CCCBD24.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset'
+[2017.02.15-02.51.38:623][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset
+[2017.02.15-02.51.38:696][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/SK_Mannequin" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset" SILENT=true
+[2017.02.15-02.51.38:760][152]LogSavePackage: Save=58.54ms
+[2017.02.15-02.51.38:760][152]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin61827ECD457F843649591CB73A78364A.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset'
+[2017.02.15-02.51.38:764][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin.uasset
+[2017.02.15-02.56.32:290][251]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_End_1.FBX)
+[2017.02.15-02.56.32:301][251]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.15-02.56.32:301][251]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.02.15-02.56.32:301][251]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.02.15-02.56.32:301][251]LogFbx: ItemName: Model, ItemCount : 88
+[2017.02.15-02.56.32:301][251]LogFbx: ItemName: NodeAttribute, ItemCount : 87
+[2017.02.15-02.56.32:301][251]LogFbx: ItemName: AnimationCurveNode, ItemCount : 174
+[2017.02.15-02.56.32:301][251]LogFbx: ItemName: AnimationCurve, ItemCount : 522
+[2017.02.15-02.56.32:308][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_End_1.FBX
+[2017.02.15-02.56.32:393][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.42:777][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_End_1.FBX
+[2017.02.15-02.56.42:837][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(0) Root
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(3) coat_l_01
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(4) coat_l_02
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(5) coat_l_03
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(6) coat_l_04
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(7) coat_l_05
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(8) coat_l_06
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(9) coat_l_07
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(10) coat_r_01
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(11) coat_r_02
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(12) coat_r_03
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(13) coat_r_04
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(14) coat_r_05
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(15) coat_r_06
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(16) coat_r_07
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(17) coat_strap_l_01
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(18) coat_strap_l_02
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(19) coat_strap_l_03
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(20) coat_strap_l_04
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(21) coat_strap_l_05
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(22) coat_strap_l_06
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(23) coat_strap_r_01
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(24) coat_strap_r_02
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(25) coat_strap_r_03
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(26) coat_strap_r_04
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(27) coat_strap_r_05
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(28) coat_strap_r_06
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(29) spine_02
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(30) spine_03
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(31) clavicle_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(32) upperarm_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(33) lowerarm_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(34) hand_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(35) index_01_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(36) index_02_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(37) index_03_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(38) middle_01_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(39) middle_02_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(40) middle_03_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(41) pinky_01_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(42) pinky_02_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(43) pinky_03_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(44) ring_01_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(45) ring_02_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(46) ring_03_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(47) thumb_01_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(48) thumb_02_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(49) thumb_03_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(51) upperarm_twist_01_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(52) clavicle_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(53) upperarm_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(54) lowerarm_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(55) hand_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(56) index_01_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(57) index_02_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(58) index_03_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(59) middle_01_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(60) middle_02_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(61) middle_03_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(62) pinky_01_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(63) pinky_02_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(64) pinky_03_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(65) ring_01_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(66) ring_02_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(67) ring_03_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(68) thumb_01_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(69) thumb_02_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(70) thumb_03_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(72) upperarm_twist_01_r
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(73) neck_01
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(74) head
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(75) thigh_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(76) calf_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(77) foot_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(78) ball_l
+[2017.02.15-02.56.42:882][251]LogFbx: SortedLinks :(79) calf_twist_01_l
+[2017.02.15-02.56.42:883][251]LogFbx: SortedLinks :(80) thigh_twist_01_l
+[2017.02.15-02.56.42:883][251]LogFbx: SortedLinks :(81) thigh_r
+[2017.02.15-02.56.42:883][251]LogFbx: SortedLinks :(82) calf_r
+[2017.02.15-02.56.42:883][251]LogFbx: SortedLinks :(83) foot_r
+[2017.02.15-02.56.42:883][251]LogFbx: SortedLinks :(84) ball_r
+[2017.02.15-02.56.42:883][251]LogFbx: SortedLinks :(85) calf_twist_01_r
+[2017.02.15-02.56.42:883][251]LogFbx: SortedLinks :(86) thigh_twist_01_r
+[2017.02.15-02.56.42:893][251]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2017.02.15-02.56.42:942][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_End_1'
+[2017.02.15-02.56.42:942][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_End_1'
+[2017.02.15-02.56.43:302][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/MontageExample_End_1.MontageExample_End_1
+[2017.02.15-02.56.43:401][251]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ coat_l_01  
+coat_l_02  
+coat_l_03  
+coat_l_04  
+coat_l_05  
+coat_l_06  
+coat_l_07  
+coat_r_01  
+coat_r_02  
+coat_r_03  
+coat_r_04  
+coat_r_05  
+coat_r_06  
+coat_r_07  
+coat_strap_l_01  
+coat_strap_l_02  
+coat_strap_l_03  
+coat_strap_l_04  
+coat_strap_l_05  
+coat_strap_l_06  
+coat_strap_r_01  
+coat_strap_r_02  
+coat_strap_r_03  
+coat_strap_r_04  
+coat_strap_r_05  
+coat_strap_r_06  
+ 
+[2017.02.15-02.56.43:429][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_End_2.FBX)
+[2017.02.15-02.56.43:456][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_End_2.FBX
+[2017.02.15-02.56.43:509][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(0) Root
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(3) coat_l_01
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(4) coat_l_02
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(5) coat_l_03
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(6) coat_l_04
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(7) coat_l_05
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(8) coat_l_06
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(9) coat_l_07
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(10) coat_r_01
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(11) coat_r_02
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(12) coat_r_03
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(13) coat_r_04
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(14) coat_r_05
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(15) coat_r_06
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(16) coat_r_07
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(17) coat_strap_l_01
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(18) coat_strap_l_02
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(19) coat_strap_l_03
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(20) coat_strap_l_04
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(21) coat_strap_l_05
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(22) coat_strap_l_06
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(23) coat_strap_r_01
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(24) coat_strap_r_02
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(25) coat_strap_r_03
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(26) coat_strap_r_04
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(27) coat_strap_r_05
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(28) coat_strap_r_06
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(29) spine_02
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(30) spine_03
+[2017.02.15-02.56.43:517][251]LogFbx: SortedLinks :(31) clavicle_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(32) upperarm_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(33) lowerarm_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(34) hand_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(35) index_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(36) index_02_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(37) index_03_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(38) middle_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(39) middle_02_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(40) middle_03_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(41) pinky_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(42) pinky_02_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(43) pinky_03_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(44) ring_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(45) ring_02_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(46) ring_03_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(47) thumb_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(48) thumb_02_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(49) thumb_03_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(51) upperarm_twist_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(52) clavicle_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(53) upperarm_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(54) lowerarm_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(55) hand_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(56) index_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(57) index_02_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(58) index_03_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(59) middle_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(60) middle_02_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(61) middle_03_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(62) pinky_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(63) pinky_02_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(64) pinky_03_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(65) ring_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(66) ring_02_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(67) ring_03_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(68) thumb_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(69) thumb_02_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(70) thumb_03_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(72) upperarm_twist_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(73) neck_01
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(74) head
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(75) thigh_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(76) calf_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(77) foot_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(78) ball_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(79) calf_twist_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(80) thigh_twist_01_l
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(81) thigh_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(82) calf_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(83) foot_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(84) ball_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(85) calf_twist_01_r
+[2017.02.15-02.56.43:518][251]LogFbx: SortedLinks :(86) thigh_twist_01_r
+[2017.02.15-02.56.43:519][251]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2017.02.15-02.56.43:522][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_End_2'
+[2017.02.15-02.56.43:522][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_End_2'
+[2017.02.15-02.56.43:665][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/MontageExample_End_2.MontageExample_End_2
+[2017.02.15-02.56.43:675][251]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ coat_l_01  
+coat_l_02  
+coat_l_03  
+coat_l_04  
+coat_l_05  
+coat_l_06  
+coat_l_07  
+coat_r_01  
+coat_r_02  
+coat_r_03  
+coat_r_04  
+coat_r_05  
+coat_r_06  
+coat_r_07  
+coat_strap_l_01  
+coat_strap_l_02  
+coat_strap_l_03  
+coat_strap_l_04  
+coat_strap_l_05  
+coat_strap_l_06  
+coat_strap_r_01  
+coat_strap_r_02  
+coat_strap_r_03  
+coat_strap_r_04  
+coat_strap_r_05  
+coat_strap_r_06  
+ 
+[2017.02.15-02.56.43:680][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_Punch_1.FBX)
+[2017.02.15-02.56.43:694][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_Punch_1.FBX
+[2017.02.15-02.56.43:736][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(0) Root
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(3) coat_l_01
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(4) coat_l_02
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(5) coat_l_03
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(6) coat_l_04
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(7) coat_l_05
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(8) coat_l_06
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(9) coat_l_07
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(10) coat_r_01
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(11) coat_r_02
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(12) coat_r_03
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(13) coat_r_04
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(14) coat_r_05
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(15) coat_r_06
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(16) coat_r_07
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(17) coat_strap_l_01
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(18) coat_strap_l_02
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(19) coat_strap_l_03
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(20) coat_strap_l_04
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(21) coat_strap_l_05
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(22) coat_strap_l_06
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(23) coat_strap_r_01
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(24) coat_strap_r_02
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(25) coat_strap_r_03
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(26) coat_strap_r_04
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(27) coat_strap_r_05
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(28) coat_strap_r_06
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(29) spine_02
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(30) spine_03
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(31) clavicle_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(32) upperarm_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(33) lowerarm_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(34) hand_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(35) index_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(36) index_02_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(37) index_03_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(38) middle_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(39) middle_02_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(40) middle_03_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(41) pinky_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(42) pinky_02_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(43) pinky_03_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(44) ring_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(45) ring_02_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(46) ring_03_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(47) thumb_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(48) thumb_02_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(49) thumb_03_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(51) upperarm_twist_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(52) clavicle_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(53) upperarm_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(54) lowerarm_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(55) hand_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(56) index_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(57) index_02_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(58) index_03_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(59) middle_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(60) middle_02_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(61) middle_03_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(62) pinky_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(63) pinky_02_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(64) pinky_03_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(65) ring_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(66) ring_02_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(67) ring_03_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(68) thumb_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(69) thumb_02_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(70) thumb_03_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(72) upperarm_twist_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(73) neck_01
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(74) head
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(75) thigh_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(76) calf_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(77) foot_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(78) ball_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(79) calf_twist_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(80) thigh_twist_01_l
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(81) thigh_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(82) calf_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(83) foot_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(84) ball_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(85) calf_twist_01_r
+[2017.02.15-02.56.43:742][251]LogFbx: SortedLinks :(86) thigh_twist_01_r
+[2017.02.15-02.56.43:743][251]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2017.02.15-02.56.43:750][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_Punch_1'
+[2017.02.15-02.56.43:750][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_Punch_1'
+[2017.02.15-02.56.43:919][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/MontageExample_Punch_1.MontageExample_Punch_1
+[2017.02.15-02.56.43:930][251]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ coat_l_01  
+coat_l_02  
+coat_l_03  
+coat_l_04  
+coat_l_05  
+coat_l_06  
+coat_l_07  
+coat_r_01  
+coat_r_02  
+coat_r_03  
+coat_r_04  
+coat_r_05  
+coat_r_06  
+coat_r_07  
+coat_strap_l_01  
+coat_strap_l_02  
+coat_strap_l_03  
+coat_strap_l_04  
+coat_strap_l_05  
+coat_strap_l_06  
+coat_strap_r_01  
+coat_strap_r_02  
+coat_strap_r_03  
+coat_strap_r_04  
+coat_strap_r_05  
+coat_strap_r_06  
+ 
+[2017.02.15-02.56.43:934][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_Punch_2.FBX)
+[2017.02.15-02.56.43:947][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_Punch_2.FBX
+[2017.02.15-02.56.43:989][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.43:995][251]LogFbx: SortedLinks :(0) Root
+[2017.02.15-02.56.43:995][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.43:995][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(3) coat_l_01
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(4) coat_l_02
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(5) coat_l_03
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(6) coat_l_04
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(7) coat_l_05
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(8) coat_l_06
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(9) coat_l_07
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(10) coat_r_01
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(11) coat_r_02
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(12) coat_r_03
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(13) coat_r_04
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(14) coat_r_05
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(15) coat_r_06
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(16) coat_r_07
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(17) coat_strap_l_01
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(18) coat_strap_l_02
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(19) coat_strap_l_03
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(20) coat_strap_l_04
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(21) coat_strap_l_05
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(22) coat_strap_l_06
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(23) coat_strap_r_01
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(24) coat_strap_r_02
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(25) coat_strap_r_03
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(26) coat_strap_r_04
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(27) coat_strap_r_05
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(28) coat_strap_r_06
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(29) spine_02
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(30) spine_03
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(31) clavicle_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(32) upperarm_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(33) lowerarm_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(34) hand_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(35) index_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(36) index_02_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(37) index_03_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(38) middle_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(39) middle_02_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(40) middle_03_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(41) pinky_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(42) pinky_02_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(43) pinky_03_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(44) ring_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(45) ring_02_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(46) ring_03_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(47) thumb_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(48) thumb_02_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(49) thumb_03_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(51) upperarm_twist_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(52) clavicle_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(53) upperarm_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(54) lowerarm_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(55) hand_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(56) index_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(57) index_02_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(58) index_03_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(59) middle_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(60) middle_02_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(61) middle_03_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(62) pinky_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(63) pinky_02_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(64) pinky_03_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(65) ring_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(66) ring_02_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(67) ring_03_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(68) thumb_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(69) thumb_02_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(70) thumb_03_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(72) upperarm_twist_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(73) neck_01
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(74) head
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(75) thigh_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(76) calf_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(77) foot_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(78) ball_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(79) calf_twist_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(80) thigh_twist_01_l
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(81) thigh_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(82) calf_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(83) foot_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(84) ball_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(85) calf_twist_01_r
+[2017.02.15-02.56.43:996][251]LogFbx: SortedLinks :(86) thigh_twist_01_r
+[2017.02.15-02.56.43:998][251]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2017.02.15-02.56.44:000][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_Punch_2'
+[2017.02.15-02.56.44:001][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_Punch_2'
+[2017.02.15-02.56.44:171][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/MontageExample_Punch_2.MontageExample_Punch_2
+[2017.02.15-02.56.44:183][251]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ coat_l_01  
+coat_l_02  
+coat_l_03  
+coat_l_04  
+coat_l_05  
+coat_l_06  
+coat_l_07  
+coat_r_01  
+coat_r_02  
+coat_r_03  
+coat_r_04  
+coat_r_05  
+coat_r_06  
+coat_r_07  
+coat_strap_l_01  
+coat_strap_l_02  
+coat_strap_l_03  
+coat_strap_l_04  
+coat_strap_l_05  
+coat_strap_l_06  
+coat_strap_r_01  
+coat_strap_r_02  
+coat_strap_r_03  
+coat_strap_r_04  
+coat_strap_r_05  
+coat_strap_r_06  
+ 
+[2017.02.15-02.56.44:188][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_Start.FBX)
+[2017.02.15-02.56.44:201][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/MontageExample_Start.FBX
+[2017.02.15-02.56.44:247][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(0) Root
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(3) coat_l_01
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(4) coat_l_02
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(5) coat_l_03
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(6) coat_l_04
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(7) coat_l_05
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(8) coat_l_06
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(9) coat_l_07
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(10) coat_r_01
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(11) coat_r_02
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(12) coat_r_03
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(13) coat_r_04
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(14) coat_r_05
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(15) coat_r_06
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(16) coat_r_07
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(17) coat_strap_l_01
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(18) coat_strap_l_02
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(19) coat_strap_l_03
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(20) coat_strap_l_04
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(21) coat_strap_l_05
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(22) coat_strap_l_06
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(23) coat_strap_r_01
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(24) coat_strap_r_02
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(25) coat_strap_r_03
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(26) coat_strap_r_04
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(27) coat_strap_r_05
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(28) coat_strap_r_06
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(29) spine_02
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(30) spine_03
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(31) clavicle_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(32) upperarm_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(33) lowerarm_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(34) hand_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(35) index_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(36) index_02_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(37) index_03_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(38) middle_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(39) middle_02_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(40) middle_03_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(41) pinky_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(42) pinky_02_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(43) pinky_03_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(44) ring_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(45) ring_02_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(46) ring_03_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(47) thumb_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(48) thumb_02_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(49) thumb_03_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(51) upperarm_twist_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(52) clavicle_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(53) upperarm_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(54) lowerarm_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(55) hand_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(56) index_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(57) index_02_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(58) index_03_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(59) middle_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(60) middle_02_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(61) middle_03_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(62) pinky_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(63) pinky_02_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(64) pinky_03_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(65) ring_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(66) ring_02_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(67) ring_03_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(68) thumb_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(69) thumb_02_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(70) thumb_03_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(72) upperarm_twist_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(73) neck_01
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(74) head
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(75) thigh_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(76) calf_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(77) foot_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(78) ball_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(79) calf_twist_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(80) thigh_twist_01_l
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(81) thigh_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(82) calf_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(83) foot_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(84) ball_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(85) calf_twist_01_r
+[2017.02.15-02.56.44:253][251]LogFbx: SortedLinks :(86) thigh_twist_01_r
+[2017.02.15-02.56.44:254][251]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2017.02.15-02.56.44:257][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_Start'
+[2017.02.15-02.56.44:257][251]LogLinker: Can't find file '/Game/character/animations/MontageExample_Start'
+[2017.02.15-02.56.44:398][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/MontageExample_Start.MontageExample_Start
+[2017.02.15-02.56.44:407][251]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ coat_l_01  
+coat_l_02  
+coat_l_03  
+coat_l_04  
+coat_l_05  
+coat_l_06  
+coat_l_07  
+coat_r_01  
+coat_r_02  
+coat_r_03  
+coat_r_04  
+coat_r_05  
+coat_r_06  
+coat_r_07  
+coat_strap_l_01  
+coat_strap_l_02  
+coat_strap_l_03  
+coat_strap_l_04  
+coat_strap_l_05  
+coat_strap_l_06  
+coat_strap_r_01  
+coat_strap_r_02  
+coat_strap_r_03  
+coat_strap_r_04  
+coat_strap_r_05  
+coat_strap_r_06  
+ 
+[2017.02.15-02.56.44:413][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonIdle.FBX)
+[2017.02.15-02.56.44:426][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonIdle.FBX
+[2017.02.15-02.56.44:464][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(0) root
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(3) spine_02
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(4) spine_03
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(5) clavicle_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(6) upperarm_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(8) hand_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(9) index_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(10) index_02_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(11) index_03_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(12) middle_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(13) middle_02_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(14) middle_03_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(18) ring_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(19) ring_02_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(20) ring_03_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(26) clavicle_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(27) upperarm_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(29) hand_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(30) index_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(31) index_02_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(32) index_03_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(33) middle_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(34) middle_02_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(35) middle_03_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(39) ring_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(40) ring_02_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(41) ring_03_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(47) neck_01
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(48) head
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(49) thigh_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(50) calf_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(52) foot_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(53) ball_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(55) thigh_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(56) calf_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(58) foot_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(59) ball_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.02.15-02.56.44:469][251]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.02.15-02.56.44:470][251]LogFbx: Parsing AnimStack Unreal Take
+[2017.02.15-02.56.44:475][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonIdle'
+[2017.02.15-02.56.44:475][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonIdle'
+[2017.02.15-02.56.45:001][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/ThirdPersonIdle.ThirdPersonIdle
+[2017.02.15-02.56.45:020][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonJump_End.FBX)
+[2017.02.15-02.56.45:035][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonJump_End.FBX
+[2017.02.15-02.56.45:069][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(0) root
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(3) spine_02
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(4) spine_03
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(5) clavicle_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(6) upperarm_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(8) hand_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(9) index_01_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(10) index_02_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(11) index_03_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(12) middle_01_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(13) middle_02_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(14) middle_03_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(18) ring_01_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(19) ring_02_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(20) ring_03_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(26) clavicle_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(27) upperarm_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(29) hand_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(30) index_01_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(31) index_02_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(32) index_03_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(33) middle_01_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(34) middle_02_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(35) middle_03_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(39) ring_01_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(40) ring_02_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(41) ring_03_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.02.15-02.56.45:074][251]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(47) neck_01
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(48) head
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(49) thigh_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(50) calf_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(52) foot_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(53) ball_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(55) thigh_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(56) calf_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(58) foot_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(59) ball_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.02.15-02.56.45:075][251]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.02.15-02.56.45:076][251]LogFbx: Parsing AnimStack Unreal Take
+[2017.02.15-02.56.45:079][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonJump_End'
+[2017.02.15-02.56.45:080][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonJump_End'
+[2017.02.15-02.56.45:202][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2017.02.15-02.56.45:215][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonJump_Loop.FBX)
+[2017.02.15-02.56.45:229][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonJump_Loop.FBX
+[2017.02.15-02.56.45:264][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(0) root
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(3) spine_02
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(4) spine_03
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(5) clavicle_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(6) upperarm_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(8) hand_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(9) index_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(10) index_02_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(11) index_03_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(12) middle_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(13) middle_02_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(14) middle_03_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(18) ring_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(19) ring_02_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(20) ring_03_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(26) clavicle_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(27) upperarm_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(29) hand_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(30) index_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(31) index_02_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(32) index_03_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(33) middle_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(34) middle_02_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(35) middle_03_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(39) ring_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(40) ring_02_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(41) ring_03_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(47) neck_01
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(48) head
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(49) thigh_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(50) calf_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(52) foot_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(53) ball_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(55) thigh_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(56) calf_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(58) foot_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(59) ball_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.02.15-02.56.45:269][251]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.02.15-02.56.45:270][251]LogFbx: Parsing AnimStack Unreal Take
+[2017.02.15-02.56.45:273][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonJump_Loop'
+[2017.02.15-02.56.45:273][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonJump_Loop'
+[2017.02.15-02.56.45:467][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2017.02.15-02.56.45:482][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonJump_Start.FBX)
+[2017.02.15-02.56.45:495][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonJump_Start.FBX
+[2017.02.15-02.56.45:534][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(0) root
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(3) spine_02
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(4) spine_03
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(5) clavicle_l
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(6) upperarm_l
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(8) hand_l
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(9) index_01_l
+[2017.02.15-02.56.45:538][251]LogFbx: SortedLinks :(10) index_02_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(11) index_03_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(12) middle_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(13) middle_02_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(14) middle_03_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(18) ring_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(19) ring_02_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(20) ring_03_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(26) clavicle_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(27) upperarm_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(29) hand_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(30) index_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(31) index_02_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(32) index_03_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(33) middle_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(34) middle_02_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(35) middle_03_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(39) ring_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(40) ring_02_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(41) ring_03_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(47) neck_01
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(48) head
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(49) thigh_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(50) calf_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(52) foot_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(53) ball_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(55) thigh_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(56) calf_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(58) foot_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(59) ball_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.02.15-02.56.45:539][251]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.02.15-02.56.45:540][251]LogFbx: Parsing AnimStack Unreal Take
+[2017.02.15-02.56.45:542][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonJump_Start'
+[2017.02.15-02.56.45:542][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonJump_Start'
+[2017.02.15-02.56.45:709][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2017.02.15-02.56.45:723][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonRun.FBX)
+[2017.02.15-02.56.45:737][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonRun.FBX
+[2017.02.15-02.56.45:772][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(0) root
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(3) spine_02
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(4) spine_03
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(5) clavicle_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(6) upperarm_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(8) hand_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(9) index_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(10) index_02_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(11) index_03_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(12) middle_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(13) middle_02_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(14) middle_03_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(18) ring_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(19) ring_02_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(20) ring_03_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(26) clavicle_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(27) upperarm_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(29) hand_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(30) index_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(31) index_02_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(32) index_03_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(33) middle_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(34) middle_02_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(35) middle_03_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(39) ring_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(40) ring_02_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(41) ring_03_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(47) neck_01
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(48) head
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(49) thigh_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(50) calf_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(52) foot_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(53) ball_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(55) thigh_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(56) calf_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(58) foot_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(59) ball_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.02.15-02.56.45:777][251]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.02.15-02.56.45:778][251]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.02.15-02.56.45:778][251]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.02.15-02.56.45:778][251]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.02.15-02.56.45:778][251]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.02.15-02.56.45:779][251]LogFbx: Parsing AnimStack Unreal Take
+[2017.02.15-02.56.45:783][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonRun'
+[2017.02.15-02.56.45:783][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonRun'
+[2017.02.15-02.56.45:967][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/ThirdPersonRun.ThirdPersonRun
+[2017.02.15-02.56.45:983][251]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonWalk.FBX)
+[2017.02.15-02.56.45:996][251]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/ThirdPerson_FBX/ThirdPerson_FBX_v48/FBX/ThirdPersonWalk.FBX
+[2017.02.15-02.56.46:034][251]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(0) root
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(1) pelvis
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(2) spine_01
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(3) spine_02
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(4) spine_03
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(5) clavicle_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(6) upperarm_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(8) hand_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(9) index_01_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(10) index_02_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(11) index_03_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(12) middle_01_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(13) middle_02_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(14) middle_03_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(18) ring_01_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(19) ring_02_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(20) ring_03_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(26) clavicle_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(27) upperarm_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(29) hand_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(30) index_01_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(31) index_02_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(32) index_03_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(33) middle_01_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(34) middle_02_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(35) middle_03_r
+[2017.02.15-02.56.46:038][251]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(39) ring_01_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(40) ring_02_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(41) ring_03_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(47) neck_01
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(48) head
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(49) thigh_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(50) calf_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(52) foot_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(53) ball_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(55) thigh_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(56) calf_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(58) foot_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(59) ball_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.02.15-02.56.46:039][251]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.02.15-02.56.46:040][251]LogFbx: Parsing AnimStack Unreal Take
+[2017.02.15-02.56.46:042][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonWalk'
+[2017.02.15-02.56.46:043][251]LogLinker: Can't find file '/Game/character/animations/ThirdPersonWalk'
+[2017.02.15-02.56.46:283][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/animations/ThirdPersonWalk.ThirdPersonWalk
+[2017.02.15-02.57.54:659][774]LogSavePackage: Save=37.05ms
+[2017.02.15-02.57.54:659][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/MontageExample_End_11D8AE4D54BB9896456E2BAB1C22C66E1.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_End_1.uasset'
+[2017.02.15-02.57.54:668][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_End_1.uasset
+[2017.02.15-02.57.54:692][774]LogSavePackage: Save=7.11ms
+[2017.02.15-02.57.54:692][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/MontageExample_End_2F323F134471050C187E68EA0069C42C2.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_End_2.uasset'
+[2017.02.15-02.57.54:700][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_End_2.uasset
+[2017.02.15-02.57.54:725][774]LogSavePackage: Save=8.58ms
+[2017.02.15-02.57.54:725][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/MontageExample_Punch_109DF77CD4049F3A5A98EF88C9C167B7A.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_Punch_1.uasset'
+[2017.02.15-02.57.54:730][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_Punch_1.uasset
+[2017.02.15-02.57.54:754][774]LogSavePackage: Save=8.26ms
+[2017.02.15-02.57.54:754][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/MontageExample_Punch_25549BC7C40F91B307011B684113B6EB7.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_Punch_2.uasset'
+[2017.02.15-02.57.54:762][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_Punch_2.uasset
+[2017.02.15-02.57.54:783][774]LogSavePackage: Save=6.82ms
+[2017.02.15-02.57.54:783][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/MontageExample_Start6F39F33040FA2DF1A8804DB99D65E945.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_Start.uasset'
+[2017.02.15-02.57.54:790][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/MontageExample_Start.uasset
+[2017.02.15-02.57.54:812][774]LogSavePackage: Save=7.16ms
+[2017.02.15-02.57.54:812][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ThirdPersonIdleF8448EF84F0ED42C7E7FCB97337D4BDB.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonIdle.uasset'
+[2017.02.15-02.57.54:821][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonIdle.uasset
+[2017.02.15-02.57.54:845][774]LogSavePackage: Save=6.68ms
+[2017.02.15-02.57.54:845][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ThirdPersonJump_EndABA9EEA4403A41AC68A5678D7D4ED65B.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonJump_End.uasset'
+[2017.02.15-02.57.54:852][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonJump_End.uasset
+[2017.02.15-02.57.54:876][774]LogSavePackage: Save=7.41ms
+[2017.02.15-02.57.54:876][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ThirdPersonJump_Loop4CAE9CE442BA04EE371FD0850AE20A42.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonJump_Loop.uasset'
+[2017.02.15-02.57.54:883][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonJump_Loop.uasset
+[2017.02.15-02.57.54:908][774]LogSavePackage: Save=10.20ms
+[2017.02.15-02.57.54:908][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ThirdPersonJump_StartF877721D40FEC2FB649DD08BA60BED8B.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonJump_Start.uasset'
+[2017.02.15-02.57.54:914][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonJump_Start.uasset
+[2017.02.15-02.57.54:936][774]LogSavePackage: Save=7.73ms
+[2017.02.15-02.57.54:936][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ThirdPersonRun7A3029D04488FF3E5D936C9DCA90F3B6.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonRun.uasset'
+[2017.02.15-02.57.54:943][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonRun.uasset
+[2017.02.15-02.57.54:964][774]LogSavePackage: Save=7.14ms
+[2017.02.15-02.57.54:964][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ThirdPersonWalkE39AA6DE4044BD222CCE6FAC4354F0FF.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonWalk.uasset'
+[2017.02.15-02.57.54:972][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/ThirdPersonWalk.uasset
+[2017.02.15-02.57.54:975][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fbx_Default_Material_1" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/Fbx_Default_Material_1.uasset" SILENT=true
+[2017.02.15-02.57.54:980][774]LogSavePackage: Save=1.92ms
+[2017.02.15-02.57.54:980][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Fbx_Default_Material_187AAD57C4D011E6234F0ED854EB130B6.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/Fbx_Default_Material_1.uasset'
+[2017.02.15-02.57.54:987][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/Fbx_Default_Material_1.uasset
+[2017.02.15-02.57.54:991][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_UE4Man_Body" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/M_UE4Man_Body.uasset" SILENT=true
+[2017.02.15-02.57.54:996][774]LogSavePackage: Save=2.03ms
+[2017.02.15-02.57.54:996][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/M_UE4Man_Body9B29BFC54FA1C024C851EAB774F5870D.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/M_UE4Man_Body.uasset'
+[2017.02.15-02.57.55:006][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/M_UE4Man_Body.uasset
+[2017.02.15-02.57.55:009][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Mannequin" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin.uasset" SILENT=true
+[2017.02.15-02.57.55:014][774]LogSavePackage: Save=1.96ms
+[2017.02.15-02.57.55:014][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_MannequinCF399AC2496BFB60258B1B8A0D9A4C0D.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin.uasset'
+[2017.02.15-02.57.55:023][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin.uasset
+[2017.02.15-02.57.55:026][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Mannequin_PhysicsAsset" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin_PhysicsAsset.uasset" SILENT=true
+[2017.02.15-02.57.55:032][774]LogSavePackage: Save=2.26ms
+[2017.02.15-02.57.55:032][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_PhysicsAsset3ED562924A7F53E0802C7C8F57F624FE.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin_PhysicsAsset.uasset'
+[2017.02.15-02.57.55:040][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin_PhysicsAsset.uasset
+[2017.02.15-02.57.55:044][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SK_Mannequin_Skeleton" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin_Skeleton.uasset" SILENT=true
+[2017.02.15-02.57.55:049][774]LogSavePackage: Save=2.14ms
+[2017.02.15-02.57.55:049][774]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton7DC8867E4089B50366EE21B5F4D302AF.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin_Skeleton.uasset'
+[2017.02.15-02.57.55:056][774]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/SK_Mannequin_Skeleton.uasset
+[2017.02.15-02.59.19:035][714]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (SK_Mannequin)
+[2017.02.15-02.59.23:430][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.15-02.59.24:992][212]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2017.02.15-02.59.26:498][263]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (SK_Mannequin)
+[2017.02.15-02.59.31:584][783]Cmd: EDIT CUT
+[2017.02.15-02.59.31:912][783]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.02.15-02.59.31:935][783]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2017.02.15-03.00.01:132][940]LogSavePackage: Save=759.70ms
+[2017.02.15-03.00.01:132][940]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Minimal_Default_Auto2D82B44944DF8DBEF89306AAD78D096A8.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2017.02.15-03.00.01:135][940]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
