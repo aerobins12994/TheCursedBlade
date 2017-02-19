@@ -608,3 +608,125 @@ LogInit: Object subsystem initialized
 [2017.02.19-23.00.36:742][910]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.212
 [2017.02.19-23.00.36:742][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
 [2017.02.19-23.00.58:874][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.00.58:928][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.02:494][645]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2017.02.19-23.03.08:525][204]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.02.19-23.03.26:478][ 85]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.19-23.03.26:494][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.26:494][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.19-23.03.26:494][ 85]PIE: New page: PIE session: AI_Test (Feb 19, 2017, 1:03:26 PM)
+[2017.02.19-23.03.26:494][ 85]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.02.19-23.03.26:500][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006310s)
+[2017.02.19-23.03.26:501][ 85]LogAIModule: Creating AISystem for world AI_Test
+[2017.02.19-23.03.26:501][ 85]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2017.02.19-23.03.26:501][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007440s)
+[2017.02.19-23.03.26:544][ 85]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.19-23.03.26:554][ 85]LogInit: FAudioDevice initialized.
+[2017.02.19-23.03.26:588][ 85]LogLoad: Game class is 'myGame_C'
+[2017.02.19-23.03.26:591][ 85]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.02.19-18.03.26
+[2017.02.19-23.03.26:591][ 85]LogWorld: Bringing up level for play took: 0.001894
+[2017.02.19-23.03.26:594][ 85]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.36
+[2017.02.19-23.03.26:594][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.37:407][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.37:455][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.38:293][462]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.19-23.03.38:309][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.38:309][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.19-23.03.38:310][462]PIE: New page: PIE session: AI_Test (Feb 19, 2017, 1:03:38 PM)
+[2017.02.19-23.03.38:310][462]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.02.19-23.03.38:316][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006554s)
+[2017.02.19-23.03.38:317][462]LogAIModule: Creating AISystem for world AI_Test
+[2017.02.19-23.03.38:317][462]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2017.02.19-23.03.38:317][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007713s)
+[2017.02.19-23.03.38:366][462]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.19-23.03.38:376][462]LogInit: FAudioDevice initialized.
+[2017.02.19-23.03.38:413][462]LogLoad: Game class is 'myGame_C'
+[2017.02.19-23.03.38:415][462]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.02.19-18.03.38
+[2017.02.19-23.03.38:416][462]LogWorld: Bringing up level for play took: 0.002078
+[2017.02.19-23.03.38:418][462]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.536
+[2017.02.19-23.03.38:418][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.44:415][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.03.44:458][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.05.54:524][171]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.19-23.05.54:539][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.05.54:539][171]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.02.19-23.05.54:539][171]LogPlayLevel: [PlayLevel] Compiling AI_Test before play...
+[2017.02.19-23.05.54:649][171]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2017.02.19-23.05.54:649][171]PIE: New page: PIE session: AI_Test (Feb 19, 2017, 1:05:54 PM)
+[2017.02.19-23.05.54:650][171]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.02.19-23.05.54:656][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006400s)
+[2017.02.19-23.05.54:657][171]LogAIModule: Creating AISystem for world AI_Test
+[2017.02.19-23.05.54:657][171]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2017.02.19-23.05.54:657][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007676s)
+[2017.02.19-23.05.54:698][171]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.19-23.05.54:708][171]LogInit: FAudioDevice initialized.
+[2017.02.19-23.05.54:738][171]LogLoad: Game class is 'myGame_C'
+[2017.02.19-23.05.54:741][171]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.02.19-18.05.54
+[2017.02.19-23.05.54:741][171]LogWorld: Bringing up level for play took: 0.001954
+[2017.02.19-23.05.54:743][171]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.211
+[2017.02.19-23.05.54:743][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.06.05:880][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.06.05:931][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.06.34:424][669]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.19-23.06.34:440][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.06.34:440][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.19-23.06.34:440][669]PIE: New page: PIE session: AI_Test (Feb 19, 2017, 1:06:34 PM)
+[2017.02.19-23.06.34:440][669]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.02.19-23.06.34:447][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007011s)
+[2017.02.19-23.06.34:448][669]LogAIModule: Creating AISystem for world AI_Test
+[2017.02.19-23.06.34:448][669]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2017.02.19-23.06.34:448][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008069s)
+[2017.02.19-23.06.34:491][669]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.19-23.06.34:501][669]LogInit: FAudioDevice initialized.
+[2017.02.19-23.06.34:536][669]LogLoad: Game class is 'myGame_C'
+[2017.02.19-23.06.34:539][669]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.02.19-18.06.34
+[2017.02.19-23.06.34:539][669]LogWorld: Bringing up level for play took: 0.001854
+[2017.02.19-23.06.34:541][669]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.413
+[2017.02.19-23.06.34:541][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.06.37:840][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.06.37:886][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.06.40:156][300]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.19-23.06.42:542][537]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.19-23.06.47:804][ 64]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint2)
+[2017.02.19-23.06.49:526][239]Cmd: DELETE
+[2017.02.19-23.06.49:526][239]Cmd: ACTOR DELETE
+[2017.02.19-23.06.49:527][239]LogEditorActor: Deleted Actor: TargetPoint
+[2017.02.19-23.06.49:556][239]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2017.02.19-23.06.52:073][536]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2017.02.19-23.09.09:678][777]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.19-23.09.09:695][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.09.09:695][777]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.02.19-23.09.09:695][777]LogPlayLevel: [PlayLevel] Compiling AI_Test before play...
+[2017.02.19-23.09.09:808][777]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2017.02.19-23.09.09:809][777]PIE: New page: PIE session: AI_Test (Feb 19, 2017, 1:09:09 PM)
+[2017.02.19-23.09.09:809][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.02.19-23.09.09:816][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007130s)
+[2017.02.19-23.09.09:817][777]LogAIModule: Creating AISystem for world AI_Test
+[2017.02.19-23.09.09:817][777]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2017.02.19-23.09.09:817][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008372s)
+[2017.02.19-23.09.09:864][777]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.19-23.09.09:874][777]LogInit: FAudioDevice initialized.
+[2017.02.19-23.09.09:906][777]LogLoad: Game class is 'myGame_C'
+[2017.02.19-23.09.09:909][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.02.19-18.09.09
+[2017.02.19-23.09.09:910][777]LogWorld: Bringing up level for play took: 0.002005
+[2017.02.19-23.09.09:912][777]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.958
+[2017.02.19-23.09.09:912][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.09.12:123][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.09.12:170][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.09.19:413][445]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.19-23.09.19:429][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.09.19:429][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.19-23.09.19:429][445]PIE: New page: PIE session: AI_Test (Feb 19, 2017, 1:09:19 PM)
+[2017.02.19-23.09.19:429][445]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.02.19-23.09.19:435][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006296s)
+[2017.02.19-23.09.19:436][445]LogAIModule: Creating AISystem for world AI_Test
+[2017.02.19-23.09.19:436][445]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2017.02.19-23.09.19:437][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007438s)
+[2017.02.19-23.09.19:479][445]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.19-23.09.19:489][445]LogInit: FAudioDevice initialized.
+[2017.02.19-23.09.19:523][445]LogLoad: Game class is 'myGame_C'
+[2017.02.19-23.09.19:526][445]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.02.19-18.09.19
+[2017.02.19-23.09.19:527][445]LogWorld: Bringing up level for play took: 0.001916
+[2017.02.19-23.09.19:529][445]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.575
+[2017.02.19-23.09.19:529][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.02.19-23.09.41:979][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
