@@ -426,3 +426,175 @@ LogInit: Object subsystem initialized
 [2017.03.02-04.10.00:474][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2017.03.02-04.10.03:385][450]LogSavePackage: Save=161.65ms
 [2017.03.02-04.10.03:385][450]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AI_Test750759FF4A2283C1C10C2DBEBFDF60D1.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.03.02-04.10.03:395][450]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.03.02-04.10.03:431][450]LogFileHelpers: Saving map 'AI_Test' took 0.407
+[2017.03.02-04.10.51:279][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.02-04.10.53:021][844]LogEditorViewport: Clicking on Actor (LMB): Enemy_AI_C (Enemy_AI)
+[2017.03.02-04.11.10:723][250]LogSavePackage: Save=163.00ms
+[2017.03.02-04.11.10:723][250]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AI_TestF1DAF49444C17290F42344A9CC0C732F.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.03.02-04.11.10:733][250]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.03.02-04.11.10:771][250]LogFileHelpers: Saving map 'AI_Test' took 0.413
+[2017.03.02-04.12.23:505][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.12.23:566][217]LogSavePackage: Save=49.25ms
+[2017.03.02-04.12.23:566][217]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AIFF90AC7B478423BE5E2CF09132BF04F1.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.12.23:574][217]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.12.25:036][305]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.12.41:457][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.12.41:512][148]LogSavePackage: Save=44.88ms
+[2017.03.02-04.12.41:512][148]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AIDF8738124BB7787A9C78728404C09DE1.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.12.41:521][148]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.12.42:252][235]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.14.16:269][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.14.16:319][558]LogSavePackage: Save=41.74ms
+[2017.03.02-04.14.16:319][558]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AID09538DA4BECF23F3FE006A83E991859.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.14.16:327][558]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.14.17:323][677]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.14.17:338][677]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.CollisionCylinder is already used by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.03.02-04.14.17:338][677]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.Arrow is already used by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.03.02-04.14.17:338][677]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.03.02-04.14.17:338][677]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.03.02-04.14.58:830][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.14.58:885][388]LogSavePackage: Save=46.69ms
+[2017.03.02-04.14.58:885][388]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI0E50DDED45057841BFB1DBAB72C46B11.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.14.58:893][388]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.14.59:753][491]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.16.20:763][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.16.20:820][105]LogSavePackage: Save=49.05ms
+[2017.03.02-04.16.20:820][105]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AIA7CDD08749E6B02963D67FB0516CC442.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.16.20:828][105]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.16.23:066][373]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.16.54:447][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.16.54:504][933]LogSavePackage: Save=48.97ms
+[2017.03.02-04.16.54:504][933]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AIB2D7A8C34403FCBDBEDB7A9CD9CE6FB0.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.16.54:512][933]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.16.55:130][  5]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.16.58:334][292]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.02-04.16.58:354][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.16.58:354][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.02-04.16.58:355][292]PIE: New page: PIE session: AI_Test (Mar 1, 2017, 6:16:58 PM)
+[2017.03.02-04.16.58:355][292]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.03.02-04.16.58:362][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007136s)
+[2017.03.02-04.16.58:363][292]LogAIModule: Creating AISystem for world AI_Test
+[2017.03.02-04.16.58:363][292]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2017.03.02-04.16.58:363][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008220s)
+[2017.03.02-04.16.58:412][292]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.02-04.16.58:423][292]LogInit: FAudioDevice initialized.
+[2017.03.02-04.16.58:458][292]LogLoad: Game class is 'myGame_C'
+[2017.03.02-04.16.58:460][292]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.03.01-23.16.58
+[2017.03.02-04.16.58:463][292]LogWorld: Bringing up level for play took: 0.003952
+[2017.03.02-04.16.58:465][292]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.411
+[2017.03.02-04.16.58:465][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.17.32:831][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.17.32:927][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.17.48:967][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.17.49:051][236]LogSavePackage: Save=72.83ms
+[2017.03.02-04.17.49:051][236]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AIBF890FA247C74C59BBEA6D8F0031BA9C.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.17.49:059][236]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.17.49:702][311]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.17.53:410][681]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.02-04.17.53:434][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.17.53:434][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.02-04.17.53:434][681]PIE: New page: PIE session: AI_Test (Mar 1, 2017, 6:17:53 PM)
+[2017.03.02-04.17.53:434][681]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.03.02-04.17.53:440][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006189s)
+[2017.03.02-04.17.53:441][681]LogAIModule: Creating AISystem for world AI_Test
+[2017.03.02-04.17.53:441][681]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2017.03.02-04.17.53:441][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007295s)
+[2017.03.02-04.17.53:489][681]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.02-04.17.53:500][681]LogInit: FAudioDevice initialized.
+[2017.03.02-04.17.53:535][681]LogLoad: Game class is 'myGame_C'
+[2017.03.02-04.17.53:538][681]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.03.01-23.17.53
+[2017.03.02-04.17.53:538][681]LogWorld: Bringing up level for play took: 0.001497
+[2017.03.02-04.17.53:540][681]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.514
+[2017.03.02-04.17.53:540][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.18.12:406][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.18.12:493][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.18.59:125][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.18.59:188][458]LogSavePackage: Save=54.06ms
+[2017.03.02-04.18.59:188][458]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI760EF0F44A86279C653FF480F6775488.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.18.59:197][458]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.18.59:959][547]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.19.02:856][798]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.02-04.19.02:879][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.19.02:879][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.02-04.19.02:879][798]PIE: New page: PIE session: AI_Test (Mar 1, 2017, 6:19:02 PM)
+[2017.03.02-04.19.02:880][798]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.03.02-04.19.02:886][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006191s)
+[2017.03.02-04.19.02:887][798]LogAIModule: Creating AISystem for world AI_Test
+[2017.03.02-04.19.02:887][798]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2017.03.02-04.19.02:887][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007316s)
+[2017.03.02-04.19.02:935][798]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.02-04.19.02:945][798]LogInit: FAudioDevice initialized.
+[2017.03.02-04.19.02:977][798]LogLoad: Game class is 'myGame_C'
+[2017.03.02-04.19.02:979][798]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.03.01-23.19.02
+[2017.03.02-04.19.02:980][798]LogWorld: Bringing up level for play took: 0.001659
+[2017.03.02-04.19.02:981][798]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.927
+[2017.03.02-04.19.02:982][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.19.15:456][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.19.15:546][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.19.30:716][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.19.30:775][ 30]LogSavePackage: Save=50.52ms
+[2017.03.02-04.19.30:775][ 30]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI85C5DE8E43022B80C9FF6F97D7320BAB.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.19.30:784][ 30]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.19.31:479][111]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.19.33:510][281]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.02-04.19.33:533][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.19.33:533][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.02-04.19.33:533][281]PIE: New page: PIE session: AI_Test (Mar 1, 2017, 6:19:33 PM)
+[2017.03.02-04.19.33:533][281]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.03.02-04.19.33:540][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006180s)
+[2017.03.02-04.19.33:540][281]LogAIModule: Creating AISystem for world AI_Test
+[2017.03.02-04.19.33:541][281]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2017.03.02-04.19.33:541][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007433s)
+[2017.03.02-04.19.33:588][281]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.02-04.19.33:599][281]LogInit: FAudioDevice initialized.
+[2017.03.02-04.19.33:628][281]LogLoad: Game class is 'myGame_C'
+[2017.03.02-04.19.33:631][281]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.03.01-23.19.33
+[2017.03.02-04.19.33:632][281]LogWorld: Bringing up level for play took: 0.001593
+[2017.03.02-04.19.33:633][281]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.421
+[2017.03.02-04.19.33:634][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.19.39:139][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.19.39:231][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.20.23:336][ 51]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.03.02-04.23.10:975][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.23.11:035][543]LogSavePackage: Save=50.58ms
+[2017.03.02-04.23.11:035][543]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI057A54DE4AAD8F2FAC84BFB24442BE88.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.23.11:043][543]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.23.11:590][606]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.25.11:967][694]LogSavePackage: Save=150.47ms
+[2017.03.02-04.25.11:967][694]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AI_Test_Auto16EB4E56D4573C53A42400DB7886DEAA4.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto1.umap'
+[2017.03.02-04.25.11:973][694]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto1.umap
+[2017.03.02-04.25.11:981][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.206
+[2017.03.02-04.25.11:981][694]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2017.03.02-04.25.11:984][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/Enemy_AI] ([1] browsable assets)...
+[2017.03.02-04.25.12:005][694]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/Enemy_AI.Enemy_AI]
+[2017.03.02-04.25.12:006][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/Enemy_AI]
+[2017.03.02-04.25.12:063][694]LogSavePackage: Save=50.23ms
+[2017.03.02-04.25.12:063][694]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI_Auto1D1175C014B3490D6A396888008EF168F.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/Enemy_AI_Auto1.uasset'
+[2017.03.02-04.25.12:068][694]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/Enemy_AI_Auto1.uasset
+[2017.03.02-04.25.12:068][694]LogFileHelpers: Auto-saving content packages took 0.086
+[2017.03.02-04.27.09:624][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.02-04.27.09:682][990]LogSavePackage: Save=49.22ms
+[2017.03.02-04.27.09:682][990]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI00A59FB94342FE02A7018E92DAD4D62D.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.02-04.27.09:690][990]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.02-04.27.10:377][ 70]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.02-04.27.13:768][392]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.02-04.27.13:787][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.27.13:788][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.02-04.27.13:788][392]PIE: New page: PIE session: AI_Test (Mar 1, 2017, 6:27:13 PM)
+[2017.03.02-04.27.13:788][392]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.03.02-04.27.13:794][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006164s)
+[2017.03.02-04.27.13:795][392]LogAIModule: Creating AISystem for world AI_Test
+[2017.03.02-04.27.13:795][392]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2017.03.02-04.27.13:795][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.007233s)
+[2017.03.02-04.27.13:839][392]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.02-04.27.13:849][392]LogInit: FAudioDevice initialized.
+[2017.03.02-04.27.13:880][392]LogLoad: Game class is 'myGame_C'
+[2017.03.02-04.27.13:883][392]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.03.01-23.27.13
+[2017.03.02-04.27.13:883][392]LogWorld: Bringing up level for play took: 0.001720
+[2017.03.02-04.27.13:885][392]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.169
+[2017.03.02-04.27.13:885][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.27.45:419][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.27.45:507][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.02-04.27.48:343][352]LogSavePackage: Save=168.91ms
+[2017.03.02-04.27.48:343][352]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AI_Test46B804D5424903120CBAB1969F69FA86.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
