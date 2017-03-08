@@ -13903,3 +13903,38 @@ Make sure 'characterBP_C' has been compiled for  K2Node_VariableGet_33
 [2017.03.07-06.45.47:170][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2017.03.07-06.45.47:466][470]LogSavePackage: Save=206.15ms
 [2017.03.07-06.45.47:466][470]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/TheCursedBlade/Cursed_Blade/Saved/AI_Test01CBEBF44CE3D2CE93FCFFA9A7321138.tmp' to '../../../../../../Users/aerob/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.03.07-06.45.47:472][470]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.03.07-16.42.58:621][275]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.07-16.42.58:766][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.07-16.42.58:766][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.07-16.42.58:767][275]PIE: New page: PIE session: AI_Test (Mar 7, 2017, 6:42:58 AM)
+[2017.03.07-16.42.58:767][275]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.03.07-16.42.58:785][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017373s)
+[2017.03.07-16.42.58:788][275]LogAIModule: Creating AISystem for world AI_Test
+[2017.03.07-16.42.58:788][275]LogPlayLevel: PIE: World Init took: (0.003869s)
+[2017.03.07-16.42.58:790][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.022571s)
+[2017.03.07-16.42.59:006][275]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.07-16.42.59:019][275]LogInit: FAudioDevice initialized.
+[2017.03.07-16.42.59:048][275]LogLoad: Game class is 'myGame_C'
+[2017.03.07-16.42.59:053][275]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 60) at 2017.03.07-11.42.59
+[2017.03.07-16.42.59:054][275]LogWorld: Bringing up level for play took: 0.004108
+[2017.03.07-16.42.59:057][275]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 1.083
+[2017.03.07-16.42.59:057][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.07-16.48.44:895][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.07-16.48.44:994][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x16a20c9bd60 [can pipeline])
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 1 (Re-using existing connection! (#229) with host datarouter.ol.epicgames.com)
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.192.111.22) port 443 (#229))
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 3 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 5 (Closing connection 229)
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90E74F5-45E4-D7A0-8E49-959D1756B288%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=387b70224916b372f018038901396989%7Ccd786ad7a4df419daec99cc9d0720e3a%7C81e74947-e005-436d-b267-0a7a8cd5b3bd&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.03.07-22.14.30:351][305]LogHttp:Warning: 0000016AEF378E80: libcurl info message cache 8 (Closing connection 230)
+[2017.03.08-05.28.14:515][ 26]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.03.08-05.28.15:602][ 28]LogHttp:Warning: 0000016B1C57F880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.03.08-05.28.15:602][ 28]LogHttp:Warning: 0000016B1C57F880: libcurl info message cache 0 (Connection 241 seems to be dead!)
+[2017.03.08-05.28.15:602][ 28]LogHttp:Warning: 0000016B1C57F880: libcurl info message cache 1 (Closing connection 241)
+[2017.03.08-05.28.15:602][ 28]LogHttp:Warning: 0000016B1C57F880: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.03.08-05.28.15:602][ 28]LogHttp:Warning: 0000016B1C57F880: libcurl info message cache 3 (Closing connection 242)
