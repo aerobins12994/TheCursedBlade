@@ -2653,3 +2653,82 @@ LogInit: Object subsystem initialized
 [2017.03.08-20.27.07:658][443]LogSavePackage: Save=18.33ms
 [2017.03.08-20.27.07:658][443]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/sword_and_shield_slash_4DEDE21744AEB107D804BF08F444794B5.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/sword_and_shield_slash_4.uasset'
 [2017.03.08-20.27.07:665][443]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/sword_and_shield_slash_4.uasset
+[2017.03.08-20.27.07:732][443]LogSavePackage: Save=18.35ms
+[2017.03.08-20.27.07:732][443]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/sword_and_shield_slash_5B6F9BB674C5ABEA10B060AB2107B8863.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/sword_and_shield_slash_5.uasset'
+[2017.03.08-20.27.07:738][443]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/sword_and_shield_slash_5.uasset
+[2017.03.08-20.31.33:019][559]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.32.07:932][517]LogSavePackage: Save=22.77ms
+[2017.03.08-20.32.07:932][517]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/forward_spin_slash40DA423A4DB55C6C62DCE097D08EA0CE.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_spin_slash.uasset'
+[2017.03.08-20.32.07:938][517]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_spin_slash.uasset
+[2017.03.08-20.32.18:150][696]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.03.08-20.32.18:385][696]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.32.25:939][887]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2017.03.08-20.32.27:850][955]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.32.48:065][699]LogSavePackage: Save=12.37ms
+[2017.03.08-20.32.48:065][699]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_forward_spin_slashE38C68C24F9617656860CA95143BF5EE.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_spin_slash.uasset'
+[2017.03.08-20.32.48:072][699]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_spin_slash.uasset
+[2017.03.08-20.33.03:140][303]LogSavePackage: Save=13.44ms
+[2017.03.08-20.33.03:140][303]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_forward_spin_slash20C71DC6B4209A92FADE754A58AA6B57D.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_spin_slash2.uasset'
+[2017.03.08-20.33.03:147][303]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_spin_slash2.uasset
+[2017.03.08-20.33.12:225][658]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2017.03.08-20.33.13:811][712]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.33.39:492][569]LogSavePackage: Save=12.72ms
+[2017.03.08-20.33.39:492][569]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_forward_slashD018EAA14438315F2184B79625506B82.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_slash.uasset'
+[2017.03.08-20.33.39:498][569]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_slash.uasset
+[2017.03.08-20.33.44:338][752]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2017.03.08-20.33.47:846][887]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.35.21:915][826]LogSavePackage: Save=11.71ms
+[2017.03.08-20.35.21:915][826]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ground_slash27D1816C49102E291F014A8B5B2A659B.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/ground_slash.uasset'
+[2017.03.08-20.35.21:922][826]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/ground_slash.uasset
+[2017.03.08-20.35.49:167][706]LogSavePackage: Save=20.49ms
+[2017.03.08-20.35.49:167][706]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/forward_spin_slash21A2B88DE41986332802E3BB422ED8BF6.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_spin_slash2.uasset'
+[2017.03.08-20.35.49:173][706]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_spin_slash2.uasset
+[2017.03.08-20.36.07:562][250]LogSavePackage: Save=20.77ms
+[2017.03.08-20.36.07:562][250]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/forward_slash94C04B7A488651280EE756B467371665.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_slash.uasset'
+[2017.03.08-20.36.07:568][250]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_slash.uasset
+[2017.03.08-20.36.58:134][242]LogSavePackage: Save=19.23ms
+[2017.03.08-20.36.58:134][242]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/ground_slash44E0587B4F5D6C2C5818138429476116.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/ground_slash.uasset'
+[2017.03.08-20.36.58:142][242]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/ground_slash.uasset
+[2017.03.08-20.37.13:675][656]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2017.03.08-20.37.15:900][738]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.40.39:291][413]LogSavePackage: Save=14.85ms
+[2017.03.08-20.40.39:291][413]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/wide_forward_slash0E8312D9465A933FD8D6608B99DB4662.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/wide_forward_slash.uasset'
+[2017.03.08-20.40.39:297][413]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/wide_forward_slash.uasset
+[2017.03.08-20.40.53:349][985]LogSavePackage: Save=10.93ms
+[2017.03.08-20.40.53:349][985]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_wide_forward_slash351EEF144DEC1C07B710F5A007BFF267.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_wide_forward_slash.uasset'
+[2017.03.08-20.40.53:356][985]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_wide_forward_slash.uasset
+[2017.03.08-20.41.17:493][697]LogSavePackage: Save=19.35ms
+[2017.03.08-20.41.17:493][697]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/wide_forward_slash8215BDE64F70F258C2C0BCAED02A6CAE.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/wide_forward_slash.uasset'
+[2017.03.08-20.41.17:499][697]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/wide_forward_slash.uasset
+[2017.03.08-20.41.29:933][962]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2017.03.08-20.41.58:336][130]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.42.32:641][434]LogSavePackage: Save=12.06ms
+[2017.03.08-20.42.32:641][434]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_forard_into_spin_A9E021434A74186FC252F592D07FCF71.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forard_into_spin_.uasset'
+[2017.03.08-20.42.32:648][434]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forard_into_spin_.uasset
+[2017.03.08-20.42.59:698][297]LogSavePackage: Save=21.26ms
+[2017.03.08-20.42.59:698][297]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/forward_into_spin827DA4854F2AC682513ACF953744DDB0.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_into_spin.uasset'
+[2017.03.08-20.42.59:704][297]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_into_spin.uasset
+[2017.03.08-20.43.19:466][850]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2017.03.08-20.43.21:338][917]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.43.40:344][559]LogSavePackage: Save=44.13ms
+[2017.03.08-20.43.40:344][559]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_backhand_slash12C93A51423BBC492996EB8F29795E9E.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_backhand_slash.uasset'
+[2017.03.08-20.43.40:350][559]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_backhand_slash.uasset
+[2017.03.08-20.44.13:610][318]LogSavePackage: Save=19.33ms
+[2017.03.08-20.44.13:610][318]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/backhand_slash9F7682B944AF27EBFCDAAFB8B560F643.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/backhand_slash.uasset'
+[2017.03.08-20.44.13:616][318]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/backhand_slash.uasset
+[2017.03.08-20.44.23:273][547]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2017.03.08-20.44.24:706][594]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.44.48:973][468]LogSavePackage: Save=12.22ms
+[2017.03.08-20.44.48:973][468]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_spin2ground_slash49E9A5B04B12266951E3B6ABCB990D65.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_spin2ground_slash.uasset'
+[2017.03.08-20.44.48:981][468]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_spin2ground_slash.uasset
+[2017.03.08-20.44.51:367][550]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_30) - call TermArticulated first.
+[2017.03.08-20.44.53:289][619]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-20.45.07:582][129]LogSavePackage: Save=12.38ms
+[2017.03.08-20.45.07:582][129]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_crounch_slash95A2588E444AAA22F98D4A89BB3B0185.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_crounch_slash.uasset'
+[2017.03.08-20.45.07:588][129]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_crounch_slash.uasset
+[2017.03.08-20.45.39:950][140]LogSavePackage: Save=20.56ms
+[2017.03.08-20.45.39:951][140]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/spin2ground_slashF1B268B242C5440DA4A907A7712EC96E.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/spin2ground_slash.uasset'
+[2017.03.08-20.45.39:957][140]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/spin2ground_slash.uasset
+[2017.03.08-20.45.55:968][724]LogSavePackage: Save=18.72ms
+[2017.03.08-20.45.55:968][724]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/crouch_slashC89E313C4978FD9BB667FBAABDA68174.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/crouch_slash.uasset'
+[2017.03.08-20.45.55:975][724]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/crouch_slash.uasset
