@@ -1,9 +1,9 @@
-﻿Log file open, 03/08/17 02:31:56
+﻿Log file open, 03/08/17 12:08:17
 LogInit:Display: Running engine for game: Cursed_Blade
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-348892905) SRandInit(-348892905).
-LogTaskGraph: Started task graph with 5 named threads and 7 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.089655
+LogInit:Display: RandInit(620831367) SRandInit(620831368).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.196532
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
@@ -138,493 +138,576 @@ LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
 LogInit: Compiled with Visual C++: 19.00.23026.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.14
-LogInit: Command line: 
+LogInit: Command line:  
 LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.03.08-07.31.57:114][  0]LogInit: Selected Device Profile: [Windows]
-[2017.03.08-07.31.57:114][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.03.08-07.31.57:147][  0]LogInit: Computer: STEVEN-DESKTOP
-[2017.03.08-07.31.57:147][  0]LogInit: User: Steven
-[2017.03.08-07.31.57:147][  0]LogInit: CPU Page size=65536, Cores=3
-[2017.03.08-07.31.57:147][  0]LogInit: High frequency timer resolution =3.433386 MHz
-[2017.03.08-07.31.57:147][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
-[2017.03.08-07.31.57:147][  0]LogMemory: Platform Memory Stats for Windows
-[2017.03.08-07.31.57:147][  0]LogMemory: Process Physical Memory: 264.04 MB used, 264.04 MB peak
-[2017.03.08-07.31.57:147][  0]LogMemory: Process Virtual Memory: 262.68 MB used, 262.68 MB peak
-[2017.03.08-07.31.57:147][  0]LogMemory: Physical Memory: 6019.20 MB used,  2154.91 MB free, 8174.11 MB total
-[2017.03.08-07.31.57:147][  0]LogMemory: Virtual Memory: 661.50 MB used,  2154.91 MB free, 134217728.00 MB total
-[2017.03.08-07.31.57:182][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
-[2017.03.08-07.31.58:226][  0]LogD3D11RHI: D3D11 adapters:
-[2017.03.08-07.31.58:804][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
-[2017.03.08-07.31.58:804][  0]LogD3D11RHI:       2017/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
-[2017.03.08-07.31.58:806][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.03.08-07.31.58:806][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.03.08-07.31.58:806][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.03.08-07.31.58:814][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.03.08-07.31.58:814][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
-[2017.03.08-07.31.58:814][  0]LogWindows: EnumDisplayDevices:
-[2017.03.08-07.31.58:814][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
-[2017.03.08-07.31.58:814][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
-[2017.03.08-07.31.58:815][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
-[2017.03.08-07.31.58:815][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
-[2017.03.08-07.31.58:815][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2017.03.08-07.31.58:815][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
-[2017.03.08-07.31.58:815][  0]LogD3D11RHI:   Driver Version: 378.66 (internal:21.21.13.7866, unified:378.66)
-[2017.03.08-07.31.58:815][  0]LogD3D11RHI:      Driver Date: 2-9-2017
-[2017.03.08-07.31.58:815][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2017.03.08-07.31.59:337][  0]LogD3D11RHI: Async texture creation enabled
-[2017.03.08-07.32.00:259][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.03.08-07.32.00:260][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/4204/).
-[2017.03.08-07.32.00:260][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Steven/AppData/Local/Temp/UnrealShaderWorkingDir/3D94A5614AF105BBF01531967BD1FB2B/'.
-[2017.03.08-07.32.00:260][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2017.03.08-07.32.01:949][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2017.03.08-07.32.02:062][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2017.03.08-07.32.02:169][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2017.03.08-07.32.02:279][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2017.03.08-07.32.02:395][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2017.03.08-07.32.02:514][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2017.03.08-07.32.02:627][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.03.08-07.32.02:741][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2017.03.08-07.32.02:836][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2017.03.08-07.32.02:950][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2017.03.08-07.32.03:059][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2017.03.08-07.32.03:165][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2017.03.08-07.32.03:275][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2017.03.08-07.32.03:383][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2017.03.08-07.32.03:499][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2017.03.08-07.32.03:714][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2017.03.08-07.32.03:714][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.03.08-07.32.03:799][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2017.03.08-07.32.03:961][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2017.03.08-07.32.04:030][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2017.03.08-07.32.04:135][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2017.03.08-07.32.04:242][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.03.08-07.32.04:353][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2017.03.08-07.32.04:460][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2017.03.08-07.32.04:460][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2017.03.08-07.32.05:261][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2017.03.08-07.32.05:354][  0]LogDerivedDataCache: Loaded boot cache 0.09s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.03.08-07.32.05:354][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
-[2017.03.08-07.32.05:354][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.03.08-07.32.05:354][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.03.08-07.32.05:354][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.03.08-07.32.05:354][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.03.08-07.32.05:378][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.03.08-07.32.05:390][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Steven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.03.08-07.32.05:730][  0]LogInit: Selected Device Profile: [Windows]
-[2017.03.08-07.32.05:735][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2017.03.08-07.32.06:089][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.03.08-07.32.06:179][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.03.08-07.32.06:285][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.03.08-07.32.06:285][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2017.03.08-07.32.06:285][  0]LogMeshUtilities: No automatic mesh merging module available
-[2017.03.08-07.32.07:137][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
-[2017.03.08-07.32.07:224][  0]LogAssetRegistry: FAssetRegistry took 0.0215 seconds to start up
-[2017.03.08-07.32.07:336][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.065009 seconds
-[2017.03.08-07.32.07:345][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
-[2017.03.08-07.32.07:345][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
-[2017.03.08-07.32.07:345][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.03.08-07.32.07:482][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.03.08-07.32.09:093][  0]LogSlate: Using Freetype 2.6.0
-[2017.03.08-07.32.09:095][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.03.08-07.32.09:095][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.03.08-07.32.10:503][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.03.08-07.32.10:572][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.03.08-07.32.11:163][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.03.08-07.32.11:927][  0]SourceControl: Info Source control is disabled
-[2017.03.08-07.32.11:929][  0]SourceControl: Info Source control is disabled
-[2017.03.08-07.32.12:029][  0]SourceControl: Info Source control is disabled
-[2017.03.08-07.32.12:127][  0]SourceControl: Info Source control is disabled
-[2017.03.08-07.32.14:755][  0]LogEngine: Initializing Engine...
-[2017.03.08-07.32.14:756][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.03.08-07.32.15:138][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.03.08-07.32.15:163][  0]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.03.08-07.32.15:178][  0]LogInit: FAudioDevice initialized.
-[2017.03.08-07.32.15:224][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.03.08-07.32.15:237][  0]LogInit: Texture streaming: Enabled
-[2017.03.08-07.32.15:586][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.03.08-07.32.15:657][  0]LogInit: Transaction tracking system initialized
-[2017.03.08-07.32.16:448][  0]BlueprintLog: New page: Editor Load
-[2017.03.08-07.32.18:488][  0]LocalizationService: Info Localization service is disabled
-[2017.03.08-07.32.19:899][  0]LogConsoleResponse:Display: 
-[2017.03.08-07.32.20:108][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.03.08-07.32.20:108][  0]LogCook:Display: Mobile HDR setting 1
-[2017.03.08-07.32.20:949][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/' took 0.03s
-[2017.03.08-07.32.22:125][  0]SourceControl: Info Source control is disabled
-[2017.03.08-07.32.22:125][  0]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.03.08-07.32.22:126][  0]LightingResults: New page: Lighting Build
-[2017.03.08-07.32.22:212][  0]MapCheck: New page: Map Check
-[2017.03.08-07.32.22:212][  0]LightingResults: New page: Lighting Build
-[2017.03.08-07.32.22:250][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
-[2017.03.08-07.32.22:250][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap.
-[2017.03.08-07.32.22:250][  0]LoadErrors:Error: Error /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/character/MainMenuGameMode
-[2017.03.08-07.32.22:439][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
-[2017.03.08-07.32.22:439][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap.
-[2017.03.08-07.32.22:439][  0]LoadErrors:Error: Error /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/character/MainMenuGameMode
-[2017.03.08-07.32.22:541][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
-[2017.03.08-07.32.22:541][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading NULL.
-[2017.03.08-07.32.22:541][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
-[2017.03.08-07.32.22:541][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading NULL.
-[2017.03.08-07.32.22:560][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
-[2017.03.08-07.32.22:560][  0]LoadErrors: Info Failed to load /Game/character/MainMenuGameMode.MainMenuGameMode_C Referenced by WorldSettings_1
-[2017.03.08-07.32.22:560][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading NULL.
-[2017.03.08-07.32.22:560][  0]LoadErrors: Info Failed to load /Game/character/MainMenuGameMode.MainMenuGameMode_C Referenced by WorldSettings_1
-[2017.03.08-07.32.22:775][  0]LogAIModule: Creating AISystem for world Minimal_Default
-[2017.03.08-07.32.22:793][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.03.08-07.32.22:794][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.03.08-07.32.22:910][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 116.627ms to complete.
-[2017.03.08-07.32.22:910][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.786
-[2017.03.08-07.32.23:159][  0]LogCollectionManager: Loaded 0 collections in 0.003118 seconds
-[2017.03.08-07.32.23:311][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
-[2017.03.08-07.32.23:311][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Developers/Steven/Collections/' took 0.01s
-[2017.03.08-07.32.23:311][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
-[2017.03.08-07.32.23:311][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
-[2017.03.08-07.32.23:325][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2190 classes and 428 folders.
-[2017.03.08-07.32.23:410][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.03.08-07.32.23:410][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.03.08-07.32.23:412][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0010 seconds. Added 13 classes and 0 folders.
-[2017.03.08-07.32.23:535][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
-[2017.03.08-07.32.23:684][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
-[2017.03.08-07.32.23:779][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
-[2017.03.08-07.32.23:857][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2017.03.08-07.32.23:865][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.03.08-07.32.23:995][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
-[2017.03.08-07.32.23:996][  0]LogLoad: (Engine Initialization) Total time: 29.60 seconds
-[2017.03.08-07.32.23:996][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.09 seconds
-[2017.03.08-07.32.23:996][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.03.08-07.32.23:996][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.03.08-07.32.24:005][  0]LogOcInput: OculusInput pre-init called
-[2017.03.08-07.32.24:030][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.03.08-07.32.24:346][  0]LogRenderer: Reallocating scene render targets to support 1028x576 NumSamples 1 (Frame:2).
-[2017.03.08-07.32.24:511][  2]LogAssetRegistry: Asset discovery search completed in 17.3093 seconds
-[2017.03.08-07.32.24:512][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.03.08-07.32.24:512][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000027 seconds (updated 0 objects)
-[2017.03.08-07.32.42:218][776]LogContentBrowser:Verbose: The majority of assets in the view are of type: Skeleton
-[2017.03.08-07.32.49:482][858]LogRenderer: Reallocating scene render targets to support 1028x708 NumSamples 1 (Frame:1647).
-[2017.03.08-07.32.51:024][922]LogRenderer: Reallocating scene render targets to support 1028x888 NumSamples 1 (Frame:1777).
-[2017.03.08-07.32.56:889][232]LogSavePackage: Save=23.62ms
-[2017.03.08-07.32.56:889][232]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/SK_CharM_Ram96B037AE4B77F7004DF22788E3FE2FEC.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Ram.uasset'
-[2017.03.08-07.32.56:897][232]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Ram.uasset
-[2017.03.08-07.33.04:392][946]LogAIModule: Creating AISystem for world AI_Test
-[2017.03.08-07.33.04:431][946]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.03.08-07.33.04:431][946]LightingResults: New page: Lighting Build
-[2017.03.08-07.33.04:432][946]LoadErrors: New page: Loading map: AI_Test.umap
-[2017.03.08-07.33.04:436][946]MapCheck: New page: Map Check
-[2017.03.08-07.33.04:436][946]LightingResults: New page: Lighting Build
-[2017.03.08-07.33.04:467][946]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.03.08-07.33.04:507][946]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.03.08-07.33.04:660][946]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 152.511ms to complete.
-[2017.03.08-07.33.04:661][946]LogFileHelpers: Loading map 'AI_Test' took 0.231
-[2017.03.08-07.33.09:257][214]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 111 classes and 0 folders.
-[2017.03.08-07.33.41:427][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
-[2017.03.08-07.33.41:525][391]LogSavePackage: Save=86.45ms
-[2017.03.08-07.33.41:525][391]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/characterBP75B353C04CBA12C652FEE0BB65904D85.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
-[2017.03.08-07.33.41:534][391]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
-[2017.03.08-07.33.42:218][445]BlueprintLog: New page: Compile characterBP
-[2017.03.08-07.33.44:013][539]LogRenderer: Reallocating scene render targets to support 1060x888 NumSamples 1 (Frame:6957).
-[2017.03.08-07.33.45:917][744]LogTemp: Repeting last play command: Selected Viewport
-[2017.03.08-07.33.45:938][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.33.45:938][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.03.08-07.33.45:940][744]PIE: New page: PIE session: AI_Test (Mar 7, 2017, 9:33:45 PM)
-[2017.03.08-07.33.45:940][744]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
-[2017.03.08-07.33.45:948][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007627s)
-[2017.03.08-07.33.45:948][744]LogAIModule: Creating AISystem for world AI_Test
-[2017.03.08-07.33.45:948][744]LogPlayLevel: PIE: World Init took: (0.000765s)
-[2017.03.08-07.33.45:949][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008620s)
-[2017.03.08-07.33.45:998][744]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.03.08-07.33.46:009][744]LogInit: FAudioDevice initialized.
-[2017.03.08-07.33.46:097][744]LogLoad: Game class is 'myGame_C'
-[2017.03.08-07.33.46:101][744]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.03.08-02.33.46
-[2017.03.08-07.33.46:109][744]LogWorld: Bringing up level for play took: 0.010566
-[2017.03.08-07.33.46:205][744]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
-[2017.03.08-07.33.46:210][744]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.202
-[2017.03.08-07.33.46:210][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.33.49:821][159]LogCharacterMovement: Enemy_AI3 is stuck and failed to move! Velocity: X=-339.09 Y=295.84 Z=0.00 Location: X=83.73 Y=-75.99 Z=110.15 Normal: X=-0.05 Y=-0.98 Z=-0.21 PenetrationDepth:1.275 Actor:characterBP_C_0 Component:RightHandCollision BoneName:None (0 other events since notify)
-[2017.03.08-07.33.50:759][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.33.50:807][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.36.16:682][444]LogTemp: Repeting last play command: Selected Viewport
-[2017.03.08-07.36.16:704][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.36.16:704][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.03.08-07.36.16:704][444]PIE: New page: PIE session: AI_Test (Mar 7, 2017, 9:36:16 PM)
-[2017.03.08-07.36.16:704][444]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
-[2017.03.08-07.36.16:714][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009709s)
-[2017.03.08-07.36.16:715][444]LogAIModule: Creating AISystem for world AI_Test
-[2017.03.08-07.36.16:715][444]LogPlayLevel: PIE: World Init took: (0.000791s)
-[2017.03.08-07.36.16:715][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.010743s)
-[2017.03.08-07.36.16:759][444]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.03.08-07.36.16:769][444]LogInit: FAudioDevice initialized.
-[2017.03.08-07.36.16:804][444]LogLoad: Game class is 'myGame_C'
-[2017.03.08-07.36.16:807][444]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.03.08-02.36.16
-[2017.03.08-07.36.16:808][444]LogWorld: Bringing up level for play took: 0.002229
-[2017.03.08-07.36.16:810][444]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.803
-[2017.03.08-07.36.16:811][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.36.22:018][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.36.22:051][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.03.08-07.36.31:147][928]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.03.08-07.36.31:367][929]Cmd: QUIT_EDITOR
-[2017.03.08-07.36.31:524][929]LogExit: Preparing to exit.
-[2017.03.08-07.36.31:841][929]LogExit: Editor shut down
-[2017.03.08-07.36.31:841][929]LogExit: Transaction tracking system shut down
-[2017.03.08-07.36.31:960][929]LogObj: Freed 0b from 0 cluster array pools.
-[2017.03.08-07.36.31:960][929]LogExit: Object subsystem successfully closed.
-[2017.03.08-07.36.31:971][929]LogD3D11RHI: Shutdown
-[2017.03.08-07.36.31:971][929]LogD3D11RHI: CleanupD3DDevice
-[2017.03.08-07.36.32:112][929]LogD3D11RHI: ~FD3D11DynamicRHI
-[2017.03.08-07.36.32:149][929]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2017.03.08-07.36.32:150][929]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F51784C-48BC-4286-E973-F1925B32322C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=57fd777c47184b4ce198e59d28693f17%7C37affbd969a64a0b8ebede4037eb50b3%7Ce153f579-52c7-4170-8d5d-6df47f81a337&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2017.03.08-07.36.32:154][929]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (246)
-[2017.03.08-07.36.32:154][929]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
-[2017.03.08-07.36.32:154][929]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
-[2017.03.08-07.36.32:154][929]LogModuleManager: Shutting down and abandoning module SkeletonEditor (243)
-[2017.03.08-07.36.32:154][929]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (242)
-[2017.03.08-07.36.32:154][929]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
-[2017.03.08-07.36.32:154][929]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
-[2017.03.08-07.36.32:155][929]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
-[2017.03.08-07.36.32:156][929]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
-[2017.03.08-07.36.32:156][929]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
-[2017.03.08-07.36.32:156][929]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
-[2017.03.08-07.36.32:158][929]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Collections/' was aborted.
-[2017.03.08-07.36.32:158][929]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Developers/Steven/Collections/' was aborted.
-[2017.03.08-07.36.32:158][929]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Collections/' was aborted.
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module BspMode (226)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module Media (215)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
-[2017.03.08-07.36.32:158][929]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module SessionServices (208)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
-[2017.03.08-07.36.32:159][929]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module MergeActors (193)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module SizeMap (192)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module TreeMap (191)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module XmlParser (183)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module Blutility (182)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
-[2017.03.08-07.36.32:399][929]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module AutomationController (172)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module Layers (170)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module Persona (165)
-[2017.03.08-07.36.32:442][929]LogModuleManager: Shutting down and abandoning module Kismet (164)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module Toolbox (161)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module OutputLog (158)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module GammaUI (157)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module Documentation (156)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module Niagara (155)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module PortalServices (152)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module AIModule (147)
-[2017.03.08-07.36.32:451][929]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SteamVR (142)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module OculusInput (138)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module CableComponent (135)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module SourceControl (115)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
-[2017.03.08-07.36.32:464][929]LogModuleManager: Shutting down and abandoning module HotReload (108)
-[2017.03.08-07.36.32:465][929]LogModuleManager: Shutting down and abandoning module MainFrame (107)
-[2017.03.08-07.36.32:465][929]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
-[2017.03.08-07.36.32:466][929]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
-[2017.03.08-07.36.32:467][929]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
-[2017.03.08-07.36.32:467][929]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
-[2017.03.08-07.36.32:568][929]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module Paper2D (100)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module VREditor (94)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module Sequencer (89)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module MessageLog (87)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module AssetTools (86)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module UMG (84)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module Slate (82)
-[2017.03.08-07.36.32:669][929]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
-[2017.03.08-07.36.32:675][929]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
-[2017.03.08-07.36.32:675][929]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
-[2017.03.08-07.36.32:675][929]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
-[2017.03.08-07.36.32:675][929]LogModuleManager: Shutting down and abandoning module Networking (76)
-[2017.03.08-07.36.32:675][929]LogModuleManager: Shutting down and abandoning module Core (75)
-[2017.03.08-07.36.32:675][929]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
-[2017.03.08-07.36.32:675][929]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2017.03.08-07.36.32:675][929]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/' was aborted.
-[2017.03.08-07.36.32:675][929]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2017.03.08-07.36.32:676][929]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
-[2017.03.08-07.36.32:833][929]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
-[2017.03.08-07.36.32:840][929]LogDerivedDataCache: Shutdown
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Messaging (45)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module InputCore (24)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module Settings (23)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module OculusRift (22)
-[2017.03.08-07.36.32:840][929]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
-[2017.03.08-07.36.32:841][929]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
-[2017.03.08-07.36.32:841][929]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
-[2017.03.08-07.36.32:841][929]LogOnline:Display: Unloading online subsystem: NULL
-[2017.03.08-07.36.32:841][929]LogModuleManager: Shutting down and abandoning module SSL (17)
-[2017.03.08-07.36.32:843][929]LogModuleManager: Shutting down and abandoning module HTTP (16)
-[2017.03.08-07.36.32:843][929]LogModuleManager: Shutting down and abandoning module XMPP (15)
-[2017.03.08-07.36.32:843][929]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
-[2017.03.08-07.36.32:843][929]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
-[2017.03.08-07.36.32:843][929]LogModuleManager: Shutting down and abandoning module Landscape (12)
-[2017.03.08-07.36.32:843][929]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2017.03.08-07.36.32:846][929]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2017.03.08-07.36.32:848][929]LogExit: Exiting.
-[2017.03.08-07.36.32:850][929]Log file closed, 03/08/17 02:36:32
+[2017.03.08-17.08.18:030][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.08-17.08.18:030][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.08-17.08.18:047][  0]LogInit: Computer: LAPTOP-CP3ESMCT
+[2017.03.08-17.08.18:047][  0]LogInit: User: aerob
+[2017.03.08-17.08.18:047][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.03.08-17.08.18:047][  0]LogInit: High frequency timer resolution =2.343749 MHz
+[2017.03.08-17.08.18:047][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.08-17.08.18:047][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.08-17.08.18:047][  0]LogMemory: Process Physical Memory: 263.51 MB used, 263.51 MB peak
+[2017.03.08-17.08.18:047][  0]LogMemory: Process Virtual Memory: 262.49 MB used, 262.49 MB peak
+[2017.03.08-17.08.18:047][  0]LogMemory: Physical Memory: 5949.74 MB used,  2132.17 MB free, 8081.91 MB total
+[2017.03.08-17.08.18:047][  0]LogMemory: Virtual Memory: 674.53 MB used,  2132.17 MB free, 134217728.00 MB total
+[2017.03.08-17.08.18:102][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.08-17.08.21:074][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.08-17.08.21:083][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.03.08-17.08.21:083][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.03.08-17.08.21:086][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.08-17.08.21:086][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.08-17.08.21:086][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.08-17.08.21:095][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.08-17.08.21:095][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.08-17.08.21:095][  0]LogWindows: EnumDisplayDevices:
+[2017.03.08-17.08.21:095][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.03.08-17.08.21:095][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.03.08-17.08.21:096][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.03.08-17.08.21:096][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.03.08-17.08.21:096][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.03.08-17.08.21:096][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
+[2017.03.08-17.08.21:096][  0]LogD3D11RHI:      Driver Date: 10-24-2016
+[2017.03.08-17.08.21:096][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.08-17.08.21:104][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.08-17.08.21:110][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.03.08-17.08.21:111][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/14512/).
+[2017.03.08-17.08.21:111][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aerob/AppData/Local/Temp/UnrealShaderWorkingDir/8F335815410C4AC0B165BEA0ABDB3EC8/'.
+[2017.03.08-17.08.21:112][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.08-17.08.26:247][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.08-17.08.26:336][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.08-17.08.26:421][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.08-17.08.26:504][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.08-17.08.26:620][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.08-17.08.26:707][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.08-17.08.26:796][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.08-17.08.26:879][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.08-17.08.26:950][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.08-17.08.27:049][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.08-17.08.27:133][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.08-17.08.27:216][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.08-17.08.27:296][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.08-17.08.27:379][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.08-17.08.27:468][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.08-17.08.27:632][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.08-17.08.27:632][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.08-17.08.27:690][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.08-17.08.27:838][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.08-17.08.27:881][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.08-17.08.27:960][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.08-17.08.28:046][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.08-17.08.28:129][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.08-17.08.28:288][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.08-17.08.28:288][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.08-17.08.28:921][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.08-17.08.28:983][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.08-17.08.28:983][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.03.08-17.08.28:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.08-17.08.28:984][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.08-17.08.28:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.08-17.08.28:984][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.08-17.08.29:006][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.08-17.08.29:019][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aerob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.08-17.08.33:900][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.08-17.08.33:953][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.08-17.08.34:595][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.08-17.08.34:734][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.08-17.08.34:826][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.08-17.08.34:826][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.08-17.08.34:826][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.08-17.08.39:792][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.03.08-17.08.39:972][  0]LogAssetRegistry: FAssetRegistry took 0.0225 seconds to start up
+[2017.03.08-17.08.40:246][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.067039 seconds
+[2017.03.08-17.08.40:257][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.03.08-17.08.40:257][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.03.08-17.08.40:257][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.08-17.08.40:481][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.08-17.08.42:924][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.08-17.08.43:060][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.08-17.08.43:060][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.08-17.09.12:101][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.08-17.09.12:193][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.08-17.09.13:446][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.08-17.09.14:446][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.09.15:112][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.09.15:219][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.09.15:356][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.09.19:461][  0]LogEngine: Initializing Engine...
+[2017.03.08-17.09.19:465][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.08-17.09.20:289][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.08-17.09.20:303][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.08-17.09.21:495][  0]LogInit: FAudioDevice initialized.
+[2017.03.08-17.09.21:508][  0]LogDerivedDataCache:Error: Could not save memory cache C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.08-17.09.21:516][  0]LogInit: Texture streaming: Enabled
+[2017.03.08-17.09.22:399][  0]LogInit: Transaction tracking system initialized
+[2017.03.08-17.09.23:243][  0]BlueprintLog: New page: Editor Load
+[2017.03.08-17.09.25:808][  0]LocalizationService: Info Localization service is disabled
+[2017.03.08-17.09.27:648][  0]LogConsoleResponse:Display: 
+[2017.03.08-17.09.30:631][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.08-17.09.30:631][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.08-17.09.31:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/' took 0.02s
+[2017.03.08-17.09.34:087][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.09.34:087][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.08-17.09.34:128][  0]LightingResults: New page: Lighting Build
+[2017.03.08-17.09.34:211][  0]MapCheck: New page: Map Check
+[2017.03.08-17.09.34:211][  0]LightingResults: New page: Lighting Build
+[2017.03.08-17.09.34:262][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
+[2017.03.08-17.09.34:262][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap.
+[2017.03.08-17.09.34:281][  0]LoadErrors:Error: Error /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/character/MainMenuGameMode
+[2017.03.08-17.09.34:482][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
+[2017.03.08-17.09.34:482][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/StarterContent/Maps/Minimal_Default.umap.
+[2017.03.08-17.09.34:482][  0]LoadErrors:Error: Error /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/character/MainMenuGameMode
+[2017.03.08-17.09.34:734][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
+[2017.03.08-17.09.34:735][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading NULL.
+[2017.03.08-17.09.34:735][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
+[2017.03.08-17.09.34:735][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading NULL.
+[2017.03.08-17.09.35:375][  0]LogLinker:Warning: Can't find file '/Game/character/MainMenuGameMode'
+[2017.03.08-17.09.35:375][  0]LoadErrors: Info Failed to load /Game/character/MainMenuGameMode.MainMenuGameMode_C Referenced by WorldSettings_1
+[2017.03.08-17.09.35:376][  0]LogLinker:Warning: Can't find file for asset '/Game/character/MainMenuGameMode' while loading NULL.
+[2017.03.08-17.09.35:376][  0]LoadErrors: Info Failed to load /Game/character/MainMenuGameMode.MainMenuGameMode_C Referenced by WorldSettings_1
+[2017.03.08-17.09.36:945][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.08-17.09.37:039][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.08-17.09.37:040][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.08-17.09.37:115][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 74.834ms to complete.
+[2017.03.08-17.09.37:115][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.028
+[2017.03.08-17.09.37:174][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.08-17.09.37:462][  0]LogCollectionManager: Loaded 0 collections in 0.002947 seconds
+[2017.03.08-17.09.37:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.03.08-17.09.37:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' took 0.01s
+[2017.03.08-17.09.37:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.03.08-17.09.37:566][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.08-17.09.37:580][  0]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2190 classes and 428 folders.
+[2017.03.08-17.09.37:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.08-17.09.37:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.08-17.09.37:669][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 13 classes and 0 folders.
+[2017.03.08-17.09.37:770][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.03.08-17.09.40:246][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.03.08-17.09.40:446][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.08-17.09.40:615][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.08-17.09.40:622][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.08-17.09.40:738][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.03.08-17.09.40:739][  0]LogLoad: (Engine Initialization) Total time: 86.33 seconds
+[2017.03.08-17.09.40:739][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.38 seconds
+[2017.03.08-17.09.40:739][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.08-17.09.40:739][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.08-17.09.40:757][  0]LogOcInput: OculusInput pre-init called
+[2017.03.08-17.09.40:777][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.08-17.09.41:271][  0]LogRenderer: Reallocating scene render targets to support 800x272 NumSamples 1 (Frame:2).
+[2017.03.08-17.09.43:665][  2]LogAssetRegistry: Asset discovery search completed in 63.7149 seconds
+[2017.03.08-17.09.43:665][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.08-17.09.43:665][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2017.03.08-17.10.04:407][858]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.08-17.10.04:430][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.08-17.10.04:430][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.08-17.10.04:489][858]PIE: New page: PIE session: Minimal_Default (Mar 8, 2017, 7:10:04 AM)
+[2017.03.08-17.10.04:489][858]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.03.08-17.10.04:496][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007184s)
+[2017.03.08-17.10.04:497][858]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.08-17.10.04:497][858]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2017.03.08-17.10.04:497][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008282s)
+[2017.03.08-17.10.04:521][858]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.08-17.10.04:533][858]LogInit: FAudioDevice initialized.
+[2017.03.08-17.10.07:256][858]LogLoad: Game class is 'myGame_C'
+[2017.03.08-17.10.07:258][858]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2017.03.08-12.10.07
+[2017.03.08-17.10.07:259][858]LogWorld: Bringing up level for play took: 0.001254
+[2017.03.08-17.10.07:331][858]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.03.08-17.10.07:389][858]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 3.463
+[2017.03.08-17.10.07:390][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.08-17.10.28:383][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.08-17.10.28:522][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.08-17.11.33:226][990]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/Character_And_Animations/Character And Animations/TestMaleModel.fbx)
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: Model, ItemCount : 71
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: Material, ItemCount : 1
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: Texture, ItemCount : 4
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: Video, ItemCount : 4
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: Geometry, ItemCount : 153
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: Deformer, ItemCount : 271
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: NodeAttribute, ItemCount : 68
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: AnimationCurveNode, ItemCount : 75
+[2017.03.08-17.11.35:063][990]LogFbx: ItemName: AnimationCurve, ItemCount : 426
+[2017.03.08-17.11.35:117][990]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Character_And_Animations/Character And Animations/TestMaleModel.fbx
+[2017.03.08-17.11.42:744][990]LogFbx: FBX Scene Loaded Succesfully
+[2017.03.08-17.11.49:722][990]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Character_And_Animations/Character And Animations/TestMaleModel.fbx
+[2017.03.08-17.11.57:126][990]LogFbx: FBX Scene Loaded Succesfully
+[2017.03.08-17.11.57:185][990]LogFbx: =================================================
+[2017.03.08-17.11.57:185][990]LogFbx: Dumping Node START [Eyes] 
+[2017.03.08-17.11.57:186][990]LogFbx: 	Total Deformer Count 757018496.
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.03.08-17.11.57:186][990]LogFbx: Dumping Node END [Eyes]
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: Dumping Node START [default] 
+[2017.03.08-17.11.57:186][990]LogFbx: 	Total Deformer Count 1862706792.
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.03.08-17.11.57:186][990]LogFbx: Dumping Node END [default]
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: Dumping Node START [Body] 
+[2017.03.08-17.11.57:186][990]LogFbx: 	Total Deformer Count 757018448.
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.11.57:186][990]LogFbx: =================================================
+[2017.03.08-17.11.57:186][990]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.03.08-17.11.57:186][990]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.03.08-17.11.57:186][990]LogFbx: Dumping Node END [Body]
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: Dumping Node START [Eyes] 
+[2017.03.08-17.11.57:187][990]LogFbx: 	Total Deformer Count 757018256.
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.03.08-17.11.57:187][990]LogFbx: Dumping Node END [Eyes]
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: Dumping Node START [default] 
+[2017.03.08-17.11.57:187][990]LogFbx: 	Total Deformer Count 1862706848.
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.03.08-17.11.57:187][990]LogFbx: Dumping Node END [default]
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: Dumping Node START [Body] 
+[2017.03.08-17.11.57:187][990]LogFbx: 	Total Deformer Count 757018208.
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.11.57:187][990]LogFbx: =================================================
+[2017.03.08-17.11.57:187][990]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.03.08-17.11.57:187][990]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.03.08-17.11.57:187][990]LogFbx: Dumping Node END [Body]
+[2017.03.08-17.11.57:215][990]LogFbx: Valid bind pose for Pose (UE4BindPose) - Eyes
+[2017.03.08-17.11.57:243][990]LogFbx: Triangulating skeletal mesh Eyes
+[2017.03.08-17.11.57:628][990]LogFbx: Triangulating skeletal mesh default
+[2017.03.08-17.11.57:665][990]LogFbx: Triangulating skeletal mesh Body
+[2017.03.08-17.12.04:471][990]LogFbx:Warning: Bones digested - 68  Depth of hierarchy - 12
+[2017.03.08-17.12.07:644][990]LogSkeletalMesh: Section 0: 16893 vertices, 52 active bones
+[2017.03.08-17.12.07:754][990]LogSkeletalMesh: Section 0: Material=0, 30558 triangles
+[2017.03.08-17.12.08:025][990]LogLinker: Can't find file '/Game/character/testMale/TestMaleModel_PhysicsAsset'
+[2017.03.08-17.12.08:025][990]LogLinker: Can't find file '/Game/character/testMale/TestMaleModel_PhysicsAsset'
+[2017.03.08-17.12.08:358][990]LogLinker: Can't find file '/Game/character/testMale/TestMaleModel_Skeleton'
+[2017.03.08-17.12.08:359][990]LogLinker: Can't find file '/Game/character/testMale/TestMaleModel_Skeleton'
+[2017.03.08-17.12.08:441][990]LogFbx: =================================================
+[2017.03.08-17.12.08:441][990]LogFbx: Dumping Node START [Eyes] 
+[2017.03.08-17.12.08:442][990]LogFbx: 	Total Deformer Count 757021568.
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.03.08-17.12.08:442][990]LogFbx: Dumping Node END [Eyes]
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: Dumping Node START [default] 
+[2017.03.08-17.12.08:442][990]LogFbx: 	Total Deformer Count 1862698280.
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.03.08-17.12.08:442][990]LogFbx: Dumping Node END [default]
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: Dumping Node START [Body] 
+[2017.03.08-17.12.08:442][990]LogFbx: 	Total Deformer Count 757020992.
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.12.08:442][990]LogFbx: =================================================
+[2017.03.08-17.12.08:442][990]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.03.08-17.12.08:442][990]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.03.08-17.12.08:442][990]LogFbx: Dumping Node END [Body]
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: Dumping Node START [Eyes] 
+[2017.03.08-17.12.08:443][990]LogFbx: 	Total Deformer Count 757021952.
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2017.03.08-17.12.08:443][990]LogFbx: Dumping Node END [Eyes]
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: Dumping Node START [default] 
+[2017.03.08-17.12.08:443][990]LogFbx: 	Total Deformer Count 1862698056.
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.03.08-17.12.08:443][990]LogFbx: Dumping Node END [default]
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: Dumping Node START [Body] 
+[2017.03.08-17.12.08:443][990]LogFbx: 	Total Deformer Count 757020416.
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node 1] Facial_Blends (Type BlendShape).
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node 2] UE4Skin_ (Type Skin).
+[2017.03.08-17.12.08:443][990]LogFbx: =================================================
+[2017.03.08-17.12.08:443][990]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2017.03.08-17.12.08:443][990]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.03.08-17.12.08:444][990]LogFbx: Dumping Node END [Body]
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(0) root
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(1) pelvis
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(2) spine_01
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(3) spine_02
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(4) spine_03
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(5) clavicle_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(6) upperarm_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(7) lowerarm_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(8) hand_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(9) index_01_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(10) index_02_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(11) index_03_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(12) middle_01_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(13) middle_02_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(14) middle_03_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(15) pinky_01_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(16) pinky_02_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(17) pinky_03_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(18) ring_01_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(19) ring_02_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(20) ring_03_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(21) thumb_01_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(22) thumb_02_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(23) thumb_03_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(26) clavicle_r
+[2017.03.08-17.12.08:460][990]LogFbx: SortedLinks :(27) upperarm_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(28) lowerarm_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(29) hand_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(30) index_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(31) index_02_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(32) index_03_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(33) middle_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(34) middle_02_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(35) middle_03_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(36) pinky_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(37) pinky_02_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(38) pinky_03_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(39) ring_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(40) ring_02_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(41) ring_03_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(42) thumb_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(43) thumb_02_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(44) thumb_03_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(47) neck_01
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(48) head
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(49) thigh_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(50) calf_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(52) foot_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(53) ball_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(55) thigh_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(56) calf_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(58) foot_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(59) ball_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(61) ik_foot_root
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(62) ik_foot_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(63) ik_foot_r
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(64) ik_hand_root
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(65) ik_hand_gun
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(66) ik_hand_l
+[2017.03.08-17.12.08:461][990]LogFbx: SortedLinks :(67) ik_hand_r
+[2017.03.08-17.12.08:580][990]LogFbx: Parsing AnimStack mixamo.com
+[2017.03.08-17.12.08:823][990]LogLinker: Can't find file '/Game/character/testMale/TestMaleModel_Anim'
+[2017.03.08-17.12.08:823][990]LogLinker: Can't find file '/Game/character/testMale/TestMaleModel_Anim'
+[2017.03.08-17.12.08:830][990]LogFbx:Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsIn_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(JawRotateZ_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:831][990]LogFbx:Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(BrowsIn_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:832][990]LogFbx:Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(JawRotateZ_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:833][990]LogFbx:Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:834][990]LogFbx:Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(BrowsIn_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(JawRotateZ_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:835][990]LogFbx:Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2017.03.08-17.12.08:836][990]LogFbx:Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2017.03.08-17.12.09:213][990]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/testMale/TestMaleModel_Anim.TestMaleModel_Anim
+[2017.03.08-17.12.09:828][990]FBXImport:Warning: Warning The following bones are missing from the bind pose:
+lowerarm_twist_01_l  
+upperarm_twist_01_l  
+lowerarm_twist_01_r  
+upperarm_twist_01_r  
+calf_twist_01_l  
+thigh_twist_01_l  
+calf_twist_01_r  
+thigh_twist_01_r  
+ik_foot_root  
+ik_foot_l  
+ik_foot_r  
+ik_hand_root  
+ik_hand_gun  
+ik_hand_l  
+ik_hand_r  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.03.08-17.12.19:127][217]LogSavePackage: Save=213.38ms
+[2017.03.08-17.12.19:128][217]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/TestMaleModel607DC81946684FF3698CF6B5570FE901.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/TestMaleModel.uasset'
