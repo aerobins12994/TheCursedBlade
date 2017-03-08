@@ -747,3 +747,16 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.03.08-17.26.04:575][632]LogHttp:Warning: 000001796EC2EE00: libcurl info message cache 15 (Closing connection 5)
 [2017.03.08-17.47.46:401][976]LogSavePackage: Save=8.54ms
 [2017.03.08-17.47.46:401][976]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/TestMaleModel_Skeleton5A3BA9594F7706903D9829857F79597E.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/TestMaleModel_Skeleton.uasset'
+[2017.03.08-17.47.46:407][976]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/TestMaleModel_Skeleton.uasset
+[2017.03.08-17.50.16:465][184]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.03.08-17.50.39:889][565]LogRenderer: Reallocating scene render targets to support 1052x616 NumSamples 1 (Frame:18103).
+[2017.03.08-17.50.39:889][565]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.08-17.53.29:400][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.101
+[2017.03.08-17.53.29:421][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/character/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.03.08-17.53.29:421][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/SK_Mannequin_Skeleton]
+[2017.03.08-17.53.29:554][768]LogSavePackage: Save=36.81ms
+[2017.03.08-17.53.29:554][768]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton_Auto1CFD39D614B10203C3079F7B05DBBD1B6.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/SK_Mannequin_Skeleton_Auto1.uasset'
+[2017.03.08-17.53.29:567][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/SK_Mannequin_Skeleton_Auto1.uasset
+[2017.03.08-17.53.29:567][768]LogFileHelpers: Auto-saving content packages took 0.166
+[2017.03.08-17.55.45:555][638]LogSavePackage: Save=15.44ms
+[2017.03.08-17.55.45:555][638]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton518784CF45A8DF18EB593995A4F65696.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset'
