@@ -1210,3 +1210,89 @@ LogInit: Object subsystem initialized
 [2017.03.10-12.11.39:967][264]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.064
 [2017.03.10-12.11.39:967][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
 [2017.03.10-12.11.45:299][375]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.11.45:398][375]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.16.46:154][622]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.17.12:862][804]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.17.25:059][917]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.18.02:332][227]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.18.23:528][430]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.19.03:975][736]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.19.30:486][836]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.041
+[2017.03.10-12.19.30:489][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/character_anim] ([1] browsable assets)...
+[2017.03.10-12.19.30:544][836]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/character/character_anim.character_anim]
+[2017.03.10-12.19.30:544][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/character_anim]
+[2017.03.10-12.19.30:633][836]LogSavePackage: Save=60.37ms
+[2017.03.10-12.19.30:633][836]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/character_anim_Auto9B55EB8844E458614C4C9D79B43CDA6F7.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/character_anim_Auto9.uasset'
+[2017.03.10-12.19.30:676][836]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/character_anim_Auto9.uasset
+[2017.03.10-12.19.30:676][836]LogFileHelpers: Auto-saving content packages took 0.189
+[2017.03.10-12.19.59:818][982]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.20.08:254][ 54]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.20.41:539][205]BlueprintLog: New page: Compile character_anim
+[2017.03.10-12.20.43:837][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/character_anim" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_anim.uasset" SILENT=true
+[2017.03.10-12.20.43:923][222]LogSavePackage: Save=66.66ms
+[2017.03.10-12.20.43:923][222]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/character_anim06F2273D4AA78ECA15AE2591D93A1579.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_anim.uasset'
+[2017.03.10-12.20.43:928][222]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_anim.uasset
+[2017.03.10-12.24.34:731][770]BlueprintLog: New page: Compile characterBP
+[2017.03.10-12.24.36:359][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.03.10-12.24.36:460][820]LogSavePackage: Save=75.94ms
+[2017.03.10-12.24.36:460][820]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/characterBP714E0E3D4533D91B044700AACAD5B4F2.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.03.10-12.24.36:466][820]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.03.10-12.24.47:725][163]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-12.24.47:758][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.24.47:759][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-12.24.47:759][163]PIE: New page: PIE session: Minimal_Default (Mar 10, 2017, 2:24:47 AM)
+[2017.03.10-12.24.47:759][163]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.03.10-12.24.47:768][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008516s)
+[2017.03.10-12.24.47:768][163]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.10-12.24.47:769][163]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2017.03.10-12.24.47:769][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009770s)
+[2017.03.10-12.24.47:828][163]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.10-12.24.47:842][163]LogInit: FAudioDevice initialized.
+[2017.03.10-12.24.47:876][163]LogLoad: Game class is 'myGame_C'
+[2017.03.10-12.24.47:878][163]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.03.10-07.24.47
+[2017.03.10-12.24.47:878][163]LogWorld: Bringing up level for play took: 0.001556
+[2017.03.10-12.24.47:881][163]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.149
+[2017.03.10-12.24.47:882][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.25.40:503][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.25.40:599][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.26.35:885][763]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-12.26.35:918][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.26.35:918][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-12.26.35:918][763]PIE: New page: PIE session: Minimal_Default (Mar 10, 2017, 2:26:35 AM)
+[2017.03.10-12.26.35:918][763]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.03.10-12.26.35:926][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007555s)
+[2017.03.10-12.26.35:926][763]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.10-12.26.35:927][763]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2017.03.10-12.26.35:927][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008688s)
+[2017.03.10-12.26.35:976][763]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.10-12.26.35:989][763]LogInit: FAudioDevice initialized.
+[2017.03.10-12.26.36:023][763]LogLoad: Game class is 'myGame_C'
+[2017.03.10-12.26.36:025][763]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.03.10-07.26.36
+[2017.03.10-12.26.36:025][763]LogWorld: Bringing up level for play took: 0.001760
+[2017.03.10-12.26.36:028][763]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.002
+[2017.03.10-12.26.36:028][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.26.51:953][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.26.52:048][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.27.42:685][969]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.10-12.27.49:500][ 73]BlueprintLog: New page: Compile character_anim
+[2017.03.10-12.27.51:604][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/character_anim" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_anim.uasset" SILENT=true
+[2017.03.10-12.27.51:702][ 96]LogSavePackage: Save=66.87ms
+[2017.03.10-12.27.51:702][ 96]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/character_anim9C827C7448534E5193C57AB22B1527A0.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_anim.uasset'
+[2017.03.10-12.27.51:709][ 96]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/character_anim.uasset
+[2017.03.10-12.28.00:478][434]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-12.28.00:509][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.28.00:509][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-12.28.00:509][434]PIE: New page: PIE session: Minimal_Default (Mar 10, 2017, 2:28:00 AM)
+[2017.03.10-12.28.00:509][434]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.03.10-12.28.00:517][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007971s)
+[2017.03.10-12.28.00:518][434]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.10-12.28.00:518][434]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2017.03.10-12.28.00:518][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009043s)
+[2017.03.10-12.28.00:568][434]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.10-12.28.00:582][434]LogInit: FAudioDevice initialized.
+[2017.03.10-12.28.00:617][434]LogLoad: Game class is 'myGame_C'
+[2017.03.10-12.28.00:619][434]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.03.10-07.28.00
+[2017.03.10-12.28.00:619][434]LogWorld: Bringing up level for play took: 0.001519
+[2017.03.10-12.28.00:622][434]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.592
+[2017.03.10-12.28.00:622][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-12.28.27:214][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
