@@ -511,3 +511,56 @@ LogInit: Object subsystem initialized
 [2017.03.10-11.11.18:231][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo2.uasset
 [2017.03.10-11.11.18:274][292]LogSavePackage: Save=26.93ms
 [2017.03.10-11.11.18:274][292]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/test_combo383FB3C5B40ECE2CBBA7366A86A2A4093.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo3.uasset'
+[2017.03.10-11.11.18:292][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo3.uasset
+[2017.03.10-11.18.35:470][906]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.19.26:910][532]LogSavePackage: Save=21.76ms
+[2017.03.10-11.19.26:910][532]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_combo1649BDBF14C4465440C408FAD6F7F10C6.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/_combo1.uasset'
+[2017.03.10-11.19.26:920][532]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/_combo1.uasset
+[2017.03.10-11.20.20:176][913]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.20.21:514][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.034
+[2017.03.10-11.20.21:516][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/animations/sword_animations_attacks/wide_forward_slash] ([1] browsable assets)...
+[2017.03.10-11.20.21:575][922]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/character/animations/sword_animations_attacks/wide_forward_slash.wide_forward_slash]
+[2017.03.10-11.20.21:575][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/animations/sword_animations_attacks/wide_forward_slash]
+[2017.03.10-11.20.21:622][922]LogSavePackage: Save=19.95ms
+[2017.03.10-11.20.21:622][922]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/wide_forward_slash_Auto42E38D9434AEF2845C5FA7EBA2574AECE.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/wide_forward_slash_Auto4.uasset'
+[2017.03.10-11.20.21:625][922]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/wide_forward_slash_Auto4.uasset
+[2017.03.10-11.20.21:664][922]LogSavePackage: Save=33.00ms
+[2017.03.10-11.20.21:664][922]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/combo1_Auto41484873B45400C288204D8A2C173266B.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/combo1_Auto4.uasset'
+[2017.03.10-11.20.21:666][922]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/combo1_Auto4.uasset
+[2017.03.10-11.20.21:666][922]LogFileHelpers: Auto-saving content packages took 0.152
+[2017.03.10-11.20.56:189][332]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.30.22:089][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.043
+[2017.03.10-11.30.22:092][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/animations/sword_animations_attacks/backhand_slash] ([1] browsable assets)...
+[2017.03.10-11.30.22:227][502]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/character/animations/sword_animations_attacks/backhand_slash.backhand_slash]
+[2017.03.10-11.30.22:227][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/animations/sword_animations_attacks/backhand_slash]
+[2017.03.10-11.30.22:380][502]LogSavePackage: Save=61.09ms
+[2017.03.10-11.30.22:380][502]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/backhand_slash_Auto57D84058C4CAFF585B1B8A9A5FBBBE31C.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/backhand_slash_Auto5.uasset'
+[2017.03.10-11.30.22:389][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/backhand_slash_Auto5.uasset
+[2017.03.10-11.30.22:395][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/animations/sword_animations_attacks/_combo2] ([1] browsable assets)...
+[2017.03.10-11.30.22:460][502]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/character/animations/sword_animations_attacks/_combo2._combo2]
+[2017.03.10-11.30.22:460][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/animations/sword_animations_attacks/_combo2]
+[2017.03.10-11.30.22:484][502]LogSavePackage: Save=20.21ms
+[2017.03.10-11.30.22:484][502]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_combo2_Auto585E93C364724957D7101438603FDE1B4.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/_combo2_Auto5.uasset'
+[2017.03.10-11.30.22:487][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/_combo2_Auto5.uasset
+[2017.03.10-11.30.22:489][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/animations/sword_animations_attacks/forward_spin_slash2] ([1] browsable assets)...
+[2017.03.10-11.30.22:558][502]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/character/animations/sword_animations_attacks/forward_spin_slash2.forward_spin_slash2]
+[2017.03.10-11.30.22:558][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/animations/sword_animations_attacks/forward_spin_slash2]
+[2017.03.10-11.30.22:614][502]LogSavePackage: Save=26.91ms
+[2017.03.10-11.30.22:614][502]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/forward_spin_slash2_Auto5E87BBEB34222375DDBD04781C4EF8C3B.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/forward_spin_slash2_Auto5.uasset'
+[2017.03.10-11.30.22:617][502]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/animations/sword_animations_attacks/forward_spin_slash2_Auto5.uasset
+[2017.03.10-11.30.22:617][502]LogFileHelpers: Auto-saving content packages took 0.527
+[2017.03.10-11.38.05:655][ 98]LogSavePackage: Save=18.79ms
+[2017.03.10-11.38.05:655][ 98]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_combo2282249B0444F0D619F1DB2B4D8807249.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/_combo2.uasset'
+[2017.03.10-11.38.05:668][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/_combo2.uasset
+[2017.03.10-11.38.05:750][ 98]LogSavePackage: Save=15.67ms
+[2017.03.10-11.38.05:750][ 98]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_combo3E43A931647C57B4B815C538BB2E25835.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/_combo3.uasset'
+[2017.03.10-11.38.05:756][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/_combo3.uasset
+[2017.03.10-11.38.05:791][ 98]LogSavePackage: Save=8.26ms
+[2017.03.10-11.38.05:791][ 98]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/backhand_slash90D34AE848B4A1678C8CBCA01DB23143.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/backhand_slash.uasset'
+[2017.03.10-11.38.05:802][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/backhand_slash.uasset
+[2017.03.10-11.38.05:814][ 98]LogSavePackage: Save=5.67ms
+[2017.03.10-11.38.05:815][ 98]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/combo1315B77AD4F73300BD4A2C19A6F284A36.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/combo1.uasset'
+[2017.03.10-11.38.05:827][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/combo1.uasset
+[2017.03.10-11.38.05:857][ 98]LogSavePackage: Save=7.85ms
+[2017.03.10-11.38.05:857][ 98]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/forward_spin_slash280E0EF6E45C4A8DFB8102880ADD73ADC.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_spin_slash2.uasset'
+[2017.03.10-11.38.05:866][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/animations/sword_animations_attacks/forward_spin_slash2.uasset
