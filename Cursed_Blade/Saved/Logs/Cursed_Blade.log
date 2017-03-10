@@ -455,3 +455,59 @@ LogInit: Object subsystem initialized
 [2017.03.10-11.00.55:753][403]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.278
 [2017.03.10-11.00.55:753][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
 [2017.03.10-11.00.59:377][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-11.00.59:468][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.03.10-11.02.51:340][367]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2017.03.10-11.02.54:483][413]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.04.14:268][266]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2017.03.10-11.04.30:618][558]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2017.03.10-11.04.31:705][568]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.04.45:515][692]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.05.18:140][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.070
+[2017.03.10-11.05.18:143][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/testMale/battle_anim/_wide_forward_slash] ([1] browsable assets)...
+[2017.03.10-11.05.18:151][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/character/testMale/battle_anim/_wide_forward_slash._wide_forward_slash]
+[2017.03.10-11.05.18:151][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/testMale/battle_anim/_wide_forward_slash]
+[2017.03.10-11.05.18:183][908]LogSavePackage: Save=11.14ms
+[2017.03.10-11.05.18:183][908]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_wide_forward_slash_Auto359FD5E714056C11109B2D8949387E767.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/testMale/battle_anim/_wide_forward_slash_Auto3.uasset'
+[2017.03.10-11.05.18:187][908]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/testMale/battle_anim/_wide_forward_slash_Auto3.uasset
+[2017.03.10-11.05.18:188][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/testMale/battle_anim/test_combo1] ([1] browsable assets)...
+[2017.03.10-11.05.18:195][908]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/character/testMale/battle_anim/test_combo1.test_combo1]
+[2017.03.10-11.05.18:195][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/testMale/battle_anim/test_combo1]
+[2017.03.10-11.05.18:207][908]LogSavePackage: Save=8.51ms
+[2017.03.10-11.05.18:208][908]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/test_combo1_Auto35992FE0241440686694815B1205A4739.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/testMale/battle_anim/test_combo1_Auto3.uasset'
+[2017.03.10-11.05.18:211][908]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/testMale/battle_anim/test_combo1_Auto3.uasset
+[2017.03.10-11.05.18:212][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/testMale/battle_anim/_backhand_slash] ([1] browsable assets)...
+[2017.03.10-11.05.18:219][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/character/testMale/battle_anim/_backhand_slash._backhand_slash]
+[2017.03.10-11.05.18:219][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/testMale/battle_anim/_backhand_slash]
+[2017.03.10-11.05.18:248][908]LogSavePackage: Save=10.42ms
+[2017.03.10-11.05.18:248][908]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_backhand_slash_Auto373E181B04D334E0AEF9B7AA15E00233D.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/testMale/battle_anim/_backhand_slash_Auto3.uasset'
+[2017.03.10-11.05.18:251][908]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/testMale/battle_anim/_backhand_slash_Auto3.uasset
+[2017.03.10-11.05.18:251][908]LogFileHelpers: Auto-saving content packages took 0.110
+[2017.03.10-11.05.59:903][488]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.03.10-11.06.01:767][516]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.08.02:271][469]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2017.03.10-11.08.07:957][569]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.08.17:638][671]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2017.03.10-11.08.19:022][690]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.08.33:945][845]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2017.03.10-11.08.48:489][115]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.08.59:035][230]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2017.03.10-11.09.00:516][251]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.09.34:578][785]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2017.03.10-11.09.35:973][804]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.10-11.11.18:063][292]LogSavePackage: Save=9.79ms
+[2017.03.10-11.11.18:063][292]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_backhand_slashFD5F072E40761A9E8A3B878E17877823.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_backhand_slash.uasset'
+[2017.03.10-11.11.18:073][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_backhand_slash.uasset
+[2017.03.10-11.11.18:119][292]LogSavePackage: Save=10.55ms
+[2017.03.10-11.11.18:119][292]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_forward_spin_slash240257068427F05E8DF2FBBBF0D55FF16.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_spin_slash2.uasset'
+[2017.03.10-11.11.18:126][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_forward_spin_slash2.uasset
+[2017.03.10-11.11.18:157][292]LogSavePackage: Save=7.89ms
+[2017.03.10-11.11.18:157][292]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/_wide_forward_slash01DC456440C99AF8B158F39BEC161925.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_wide_forward_slash.uasset'
+[2017.03.10-11.11.18:167][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/_wide_forward_slash.uasset
+[2017.03.10-11.11.18:193][292]LogSavePackage: Save=9.52ms
+[2017.03.10-11.11.18:193][292]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/test_combo12985F14A47B60B6D931F218AAD67878E.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo1.uasset'
+[2017.03.10-11.11.18:201][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo1.uasset
+[2017.03.10-11.11.18:223][292]LogSavePackage: Save=8.96ms
+[2017.03.10-11.11.18:223][292]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/test_combo283E3A9ED41E2702537283B9D2D91E2AB.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo2.uasset'
+[2017.03.10-11.11.18:231][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo2.uasset
+[2017.03.10-11.11.18:274][292]LogSavePackage: Save=26.93ms
+[2017.03.10-11.11.18:274][292]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/test_combo383FB3C5B40ECE2CBBA7366A86A2A4093.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/testMale/battle_anim/test_combo3.uasset'
