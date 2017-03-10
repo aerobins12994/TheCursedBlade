@@ -366,3 +366,67 @@ LogInit: Object subsystem initialized
 [2017.03.10-19.49.56:149][940]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.10-14.49.56
 [2017.03.10-19.49.56:154][940]LogWorld: Bringing up level for play took: 0.031229
 [2017.03.10-19.49.56:158][940]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.636
+[2017.03.10-20.15.29:334][773]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.03.10-20.15.29:459][776]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CursedBlade
+
+[2017.03.10-20.15.29:459][776]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.03.10-20.15.29:459][776]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.03.10-20.15.29:459][776]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.03.10-20.15.29:473][776]LogTemp:Display: BranchPath = STEVEN-DESKTOP/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = STEVEN-DESKTOP/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.03.10-20.15.29:546][785]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Steven\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.03.10-20.15.29:546][785]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.03.10-20.15.29:546][785]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.03.10-20.15.29:546][785]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.03.10-20.15.29:546][785]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.03.10-20.15.29:546][785]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.03.10-20.17.49:617][615]LogSavePackage: Save=770.90ms
+[2017.03.10-20.17.49:617][615]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevelF29B35B1447A96798CB6679F4DB873FC.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap'
+[2017.03.10-20.17.49:629][615]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap
+[2017.03.10-20.17.49:664][615]LogFileHelpers: Saving map 'TombLevel' took 1.202
+[2017.03.10-20.17.52:255][615]LogSavePackage: Save=2586.21ms
+[2017.03.10-20.17.52:255][615]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevel_BuiltData672DBA254D791B2D2EC31299BA60604A.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel_BuiltData.uasset'
+[2017.03.10-20.17.52:262][615]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel_BuiltData.uasset
+[2017.03.10-20.17.58:596][ 36]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-20.17.58:627][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-20.17.58:627][ 36]PIE: New page: PIE session: TombLevel (Mar 10, 2017, 10:17:58 AM)
+[2017.03.10-20.17.58:627][ 36]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.03.10-20.17.58:694][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066798s)
+[2017.03.10-20.17.58:695][ 36]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.10-20.17.58:696][ 36]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2017.03.10-20.17.58:696][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.068970s)
+[2017.03.10-20.17.58:733][ 36]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-20.17.58:745][ 36]LogInit: FAudioDevice initialized.
+[2017.03.10-20.17.58:778][ 36]LogLoad: Game class is 'myGame_C'
+[2017.03.10-20.17.58:819][ 36]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.10-15.17.58
+[2017.03.10-20.17.58:825][ 36]LogWorld: Bringing up level for play took: 0.045912
+[2017.03.10-20.17.58:830][ 36]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 0.037
+[2017.03.10-20.18.34:412][463]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 111 classes and 0 folders.
+[2017.03.10-20.19.17:505][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.03.10-20.19.17:616][298]LogSavePackage: Save=98.12ms
+[2017.03.10-20.19.17:616][298]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/characterBP2462FDBC4DF368D7696B3B837DC2D177.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.03.10-20.19.17:622][298]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.03.10-20.19.18:203][340]BlueprintLog: New page: Compile characterBP
+[2017.03.10-20.19.20:505][471]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-20.19.20:535][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-20.19.20:535][471]PIE: New page: PIE session: TombLevel (Mar 10, 2017, 10:19:20 AM)
+[2017.03.10-20.19.20:535][471]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.03.10-20.19.20:599][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063205s)
+[2017.03.10-20.19.20:599][471]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.10-20.19.20:599][471]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2017.03.10-20.19.20:600][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.064961s)
+[2017.03.10-20.19.20:649][471]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-20.19.20:660][471]LogInit: FAudioDevice initialized.
+[2017.03.10-20.19.20:693][471]LogLoad: Game class is 'myGame_C'
+[2017.03.10-20.19.20:721][471]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.10-15.19.20
+[2017.03.10-20.19.20:725][471]LogWorld: Bringing up level for play took: 0.030811
+[2017.03.10-20.19.20:729][471]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel -0.065
