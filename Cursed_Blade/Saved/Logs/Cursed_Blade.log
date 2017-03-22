@@ -1,9 +1,9 @@
-﻿Log file open, 03/22/17 13:59:37
+﻿Log file open, 03/22/17 14:35:15
 LogInit:Display: Running engine for game: Cursed_Blade
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-1393696596) SRandInit(-1393696596).
+LogInit:Display: RandInit(-21609600) SRandInit(-21609600).
 LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.064048
+LogStats: Stats thread started at 0.062563
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
@@ -143,370 +143,740 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.03.22-17.59.37:819][  0]LogInit: Selected Device Profile: [Windows]
-[2017.03.22-17.59.37:819][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.03.22-17.59.37:829][  0]LogInit: Computer: STEVEN-LAPTOP
-[2017.03.22-17.59.37:829][  0]LogInit: User: Steven
-[2017.03.22-17.59.37:829][  0]LogInit: CPU Page size=65536, Cores=2
-[2017.03.22-17.59.37:829][  0]LogInit: High frequency timer resolution =2.648437 MHz
-[2017.03.22-17.59.37:829][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.03.22-17.59.37:829][  0]LogMemory: Platform Memory Stats for Windows
-[2017.03.22-17.59.37:829][  0]LogMemory: Process Physical Memory: 263.86 MB used, 263.86 MB peak
-[2017.03.22-17.59.37:829][  0]LogMemory: Process Virtual Memory: 262.43 MB used, 262.43 MB peak
-[2017.03.22-17.59.37:829][  0]LogMemory: Physical Memory: 3694.88 MB used,  4365.25 MB free, 8060.13 MB total
-[2017.03.22-17.59.37:829][  0]LogMemory: Virtual Memory: 660.58 MB used,  4365.25 MB free, 134217728.00 MB total
-[2017.03.22-17.59.37:861][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
-[2017.03.22-17.59.38:662][  0]LogD3D11RHI: D3D11 adapters:
-[2017.03.22-17.59.38:693][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
-[2017.03.22-17.59.38:693][  0]LogD3D11RHI:       2019/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.03.22-17.59.38:700][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
-[2017.03.22-17.59.38:700][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.03.22-17.59.38:702][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.03.22-17.59.38:702][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.03.22-17.59.38:702][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.03.22-17.59.38:709][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.03.22-17.59.38:709][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
-[2017.03.22-17.59.38:709][  0]LogWindows: EnumDisplayDevices:
-[2017.03.22-17.59.38:709][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
-[2017.03.22-17.59.38:709][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2017.03.22-17.59.38:709][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2017.03.22-17.59.38:709][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2017.03.22-17.59.38:709][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
-[2017.03.22-17.59.38:709][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2017.03.22-17.59.38:709][  0]LogD3D11RHI:      Driver Date: Unknown
-[2017.03.22-17.59.38:709][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2017.03.22-17.59.38:726][  0]LogD3D11RHI: Async texture creation enabled
-[2017.03.22-17.59.38:745][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2017.03.22-17.59.38:746][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/7828/).
-[2017.03.22-17.59.38:746][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Steven/AppData/Local/Temp/UnrealShaderWorkingDir/18C0D6BC49191FC38FC6FC8D9CE7DF97/'.
-[2017.03.22-17.59.38:746][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2017.03.22-17.59.40:093][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2017.03.22-17.59.40:171][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2017.03.22-17.59.40:250][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2017.03.22-17.59.40:324][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2017.03.22-17.59.40:408][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2017.03.22-17.59.40:481][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2017.03.22-17.59.40:557][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.03.22-17.59.40:638][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2017.03.22-17.59.40:702][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2017.03.22-17.59.40:776][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2017.03.22-17.59.40:854][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2017.03.22-17.59.40:931][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2017.03.22-17.59.41:016][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2017.03.22-17.59.41:096][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2017.03.22-17.59.41:167][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2017.03.22-17.59.41:323][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2017.03.22-17.59.41:323][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.03.22-17.59.41:378][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2017.03.22-17.59.41:496][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2017.03.22-17.59.41:547][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2017.03.22-17.59.41:624][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2017.03.22-17.59.41:699][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.03.22-17.59.41:767][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2017.03.22-17.59.41:844][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2017.03.22-17.59.41:844][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2017.03.22-17.59.42:413][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2017.03.22-17.59.42:477][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.03.22-17.59.42:477][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
-[2017.03.22-17.59.42:477][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.03.22-17.59.42:477][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.03.22-17.59.42:477][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.03.22-17.59.42:477][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.03.22-17.59.42:501][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.03.22-17.59.42:513][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Steven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.03.22-17.59.42:784][  0]LogInit: Selected Device Profile: [Windows]
-[2017.03.22-17.59.42:788][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2017.03.22-17.59.43:064][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.03.22-17.59.43:127][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.03.22-17.59.43:195][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.03.22-17.59.43:195][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2017.03.22-17.59.43:195][  0]LogMeshUtilities: No automatic mesh merging module available
-[2017.03.22-17.59.43:854][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
-[2017.03.22-17.59.43:919][  0]LogAssetRegistry: FAssetRegistry took 0.0216 seconds to start up
-[2017.03.22-17.59.43:987][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.029318 seconds
-[2017.03.22-17.59.43:997][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
-[2017.03.22-17.59.43:997][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
-[2017.03.22-17.59.43:997][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.03.22-17.59.44:102][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.03.22-17.59.45:358][  0]LogSlate: Using Freetype 2.6.0
-[2017.03.22-17.59.45:359][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.03.22-17.59.45:359][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-17.59.46:401][  0]LogPackageName: SearchForPackageOnDisk took   0.151s, but failed to resolve Env_Ice_Rocky.
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-17.59.46:401][  0]LogPackageName: SearchForPackageOnDisk took   0.137s, but failed to resolve Env_Ice_Rocky.
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-17.59.46:401][  0]LogPackageName: SearchForPackageOnDisk took   0.125s, but failed to resolve Exo_Deco01.
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-17.59.46:401][  0]LogPackageName: SearchForPackageOnDisk took   0.144s, but failed to resolve Env_Ice_RuinedWalls001.
-[2017.03.22-17.59.46:401][  0]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
-[2017.03.22-17.59.46:624][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.03.22-17.59.46:669][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.03.22-17.59.47:083][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.03.22-17.59.47:614][  0]SourceControl: Info Source control is disabled
-[2017.03.22-17.59.47:615][  0]SourceControl: Info Source control is disabled
-[2017.03.22-17.59.47:682][  0]SourceControl: Info Source control is disabled
-[2017.03.22-17.59.47:748][  0]SourceControl: Info Source control is disabled
-[2017.03.22-17.59.49:416][  0]LogEngine: Initializing Engine...
-[2017.03.22-17.59.49:417][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.03.22-17.59.49:686][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.03.22-17.59.49:694][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.03.22-17.59.49:819][  0]LogInit: FAudioDevice initialized.
-[2017.03.22-17.59.49:858][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.03.22-17.59.49:864][  0]LogInit: Texture streaming: Enabled
-[2017.03.22-17.59.50:112][  0]LogInit: Transaction tracking system initialized
-[2017.03.22-17.59.50:578][  0]BlueprintLog: New page: Editor Load
-[2017.03.22-17.59.51:731][  0]LocalizationService: Info Localization service is disabled
-[2017.03.22-17.59.52:533][  0]LogConsoleResponse:Display: 
-[2017.03.22-17.59.52:700][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.03.22-17.59.52:700][  0]LogCook:Display: Mobile HDR setting 1
-[2017.03.22-17.59.53:077][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/' took 0.02s
-[2017.03.22-17.59.53:884][  0]SourceControl: Info Source control is disabled
-[2017.03.22-17.59.53:884][  0]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.03.22-17.59.53:884][  0]LightingResults: New page: Lighting Build
-[2017.03.22-17.59.53:937][  0]MapCheck: New page: Map Check
-[2017.03.22-17.59.53:937][  0]LightingResults: New page: Lighting Build
-[2017.03.22-17.59.54:579][  0]LogAIModule: Creating AISystem for world MainMenuLevel
-[2017.03.22-17.59.54:618][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.03.22-17.59.54:625][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.03.22-17.59.54:699][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 74.366ms to complete.
-[2017.03.22-17.59.54:699][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.816
-[2017.03.22-17.59.54:800][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.03.22-17.59.55:020][  0]LogCollectionManager: Loaded 0 collections in 0.002298 seconds
-[2017.03.22-17.59.55:162][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
-[2017.03.22-17.59.55:162][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Developers/Steven/Collections/' took 0.01s
-[2017.03.22-17.59.55:162][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
-[2017.03.22-17.59.55:162][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
-[2017.03.22-17.59.55:182][  0]LogContentBrowser: Native class hierarchy populated in 0.0153 seconds. Added 2190 classes and 428 folders.
-[2017.03.22-17.59.55:248][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.03.22-17.59.55:248][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.03.22-17.59.55:248][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
-[2017.03.22-17.59.55:342][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2017.03.22-17.59.55:474][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2017.03.22-17.59.55:552][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.03.22-17.59.55:681][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2017.03.22-17.59.55:696][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.03.22-17.59.55:795][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
-[2017.03.22-17.59.55:795][  0]LogLoad: (Engine Initialization) Total time: 21.51 seconds
-[2017.03.22-17.59.55:795][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.26 seconds
-[2017.03.22-17.59.55:795][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.03.22-17.59.55:795][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.03.22-17.59.55:805][  0]LogOcInput: OculusInput pre-init called
-[2017.03.22-17.59.55:830][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.03.22-17.59.56:018][  0]LogRenderer: Reallocating scene render targets to support 964x436 NumSamples 1 (Frame:2).
-[2017.03.22-17.59.56:372][  2]LogAssetRegistry: Asset discovery search completed in 12.4742 seconds
-[2017.03.22-17.59.56:372][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.03.22-17.59.56:372][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000020 seconds (updated 0 objects)
-[2017.03.22-18.00.37:516][ 78]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-18.00.37:654][ 78]LogPackageName: SearchForPackageOnDisk took   0.138s, but failed to resolve Env_Ice_Rocky.
-[2017.03.22-18.00.37:654][ 78]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2017.03.22-18.00.37:655][ 78]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-18.00.37:765][ 78]LogPackageName: SearchForPackageOnDisk took   0.110s, but failed to resolve Env_Ice_Rocky.
-[2017.03.22-18.00.37:765][ 78]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2017.03.22-18.00.37:806][ 78]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-18.00.37:961][ 78]LogPackageName: SearchForPackageOnDisk took   0.155s, but failed to resolve Exo_Deco01.
-[2017.03.22-18.00.37:961][ 78]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
-[2017.03.22-18.00.38:108][ 78]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.03.22-18.00.38:244][ 78]LogPackageName: SearchForPackageOnDisk took   0.136s, but failed to resolve Env_Ice_RuinedWalls001.
-[2017.03.22-18.00.38:244][ 78]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
-[2017.03.22-18.00.39:411][ 78]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.00.39:547][ 78]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.03.22-18.00.39:547][ 78]LightingResults: New page: Lighting Build
-[2017.03.22-18.00.39:548][ 78]LoadErrors: New page: Loading map: TombLevel.umap
-[2017.03.22-18.00.39:550][ 78]MapCheck: New page: Map Check
-[2017.03.22-18.00.39:550][ 78]LightingResults: New page: Lighting Build
-[2017.03.22-18.00.39:663][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.03.22-18.00.39:706][ 78]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.03.22-18.00.39:881][ 78]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 174.775ms to complete.
-[2017.03.22-18.00.39:881][ 78]LogFileHelpers: Loading map 'TombLevel' took 0.336
-[2017.03.22-18.00.49:622][557]LogTemp: Repeting last play command: Selected Viewport
-[2017.03.22-18.00.49:642][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.03.22-18.00.49:646][557]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:00:49 AM)
-[2017.03.22-18.00.49:647][557]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
-[2017.03.22-18.00.49:771][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124682s)
-[2017.03.22-18.00.49:772][557]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.00.49:773][557]LogPlayLevel: PIE: World Init took: (0.001383s)
-[2017.03.22-18.00.49:774][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.127826s)
-[2017.03.22-18.00.49:803][557]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.03.22-18.00.49:814][557]LogInit: FAudioDevice initialized.
-[2017.03.22-18.00.49:878][557]LogLoad: Game class is 'myGame_C'
-[2017.03.22-18.00.49:919][557]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.22-14.00.49
-[2017.03.22-18.00.49:939][557]LogWorld: Bringing up level for play took: 0.052879
-[2017.03.22-18.00.50:034][557]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
-[2017.03.22-18.00.50:055][557]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.514
-[2017.03.22-18.01.44:069][107]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 111 classes and 0 folders.
-[2017.03.22-18.03.17:453][974]BlueprintLog: New page: Compile Enemy_AI
-[2017.03.22-18.03.17:474][974]LogBlueprint:Error: [Compiler Enemy_AI] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
-[2017.03.22-18.03.17:474][974]LogBlueprint:Error: [Compiler Enemy_AI] Error The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
-[2017.03.22-18.03.17:683][974]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
-[2017.03.22-18.03.17:683][974]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
-[2017.03.22-18.03.17:684][974]LogBlueprint:Warning: [Compiler Enemy_AI] Warning [0223.40] Compile of Enemy_AI failed. 2 Fatal Issue(s) 0 Warning(s) [in 230 ms] (/Game/character/Enemy_AI.Enemy_AI)
-[2017.03.22-18.03.52:705][985]BlueprintLog: New page: Compile Enemy_AI
-[2017.03.22-18.04.26:125][692]BlueprintLog: New page: Compile Enemy_AI
-[2017.03.22-18.04.27:902][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
-[2017.03.22-18.04.27:971][780]LogSavePackage: Save=61.54ms
-[2017.03.22-18.04.27:972][780]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI8724CA804E87D908E07F81A4437AFE3C.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
-[2017.03.22-18.04.27:974][780]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
-[2017.03.22-18.04.32:997][151]LogTemp: Repeting last play command: Selected Viewport
-[2017.03.22-18.04.33:041][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.03.22-18.04.33:041][151]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:04:33 AM)
-[2017.03.22-18.04.33:041][151]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
-[2017.03.22-18.04.33:211][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169224s)
-[2017.03.22-18.04.33:211][151]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.04.33:211][151]LogPlayLevel: PIE: World Init took: (0.000790s)
-[2017.03.22-18.04.33:212][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.170791s)
-[2017.03.22-18.04.33:267][151]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.03.22-18.04.33:278][151]LogInit: FAudioDevice initialized.
-[2017.03.22-18.04.33:324][151]LogLoad: Game class is 'myGame_C'
-[2017.03.22-18.04.33:360][151]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.22-14.04.33
-[2017.03.22-18.04.33:367][151]LogWorld: Bringing up level for play took: 0.042877
-[2017.03.22-18.04.33:377][151]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.163
-[2017.03.22-18.04.33:412][151]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:5453).
-[2017.03.22-18.04.49:674][521]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
-[2017.03.22-18.04.49:674][521]LogBlueprintDebug: 
+[2017.03.22-18.35.15:770][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.22-18.35.15:770][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.22-18.35.15:831][  0]LogInit: Computer: STEVEN-LAPTOP
+[2017.03.22-18.35.15:831][  0]LogInit: User: Steven
+[2017.03.22-18.35.15:831][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.03.22-18.35.15:831][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2017.03.22-18.35.15:832][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.22-18.35.15:832][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.22-18.35.15:832][  0]LogMemory: Process Physical Memory: 263.93 MB used, 263.93 MB peak
+[2017.03.22-18.35.15:832][  0]LogMemory: Process Virtual Memory: 262.53 MB used, 262.53 MB peak
+[2017.03.22-18.35.15:832][  0]LogMemory: Physical Memory: 4377.75 MB used,  3682.38 MB free, 8060.13 MB total
+[2017.03.22-18.35.15:832][  0]LogMemory: Virtual Memory: 660.58 MB used,  3682.38 MB free, 134217728.00 MB total
+[2017.03.22-18.35.15:879][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.22-18.35.16:603][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.22-18.35.16:640][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2017.03.22-18.35.16:640][  0]LogD3D11RHI:       2019/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.22-18.35.16:648][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2017.03.22-18.35.16:648][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.22-18.35.16:651][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.22-18.35.16:651][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.22-18.35.16:651][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.22-18.35.16:657][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.22-18.35.16:657][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2017.03.22-18.35.16:657][  0]LogWindows: EnumDisplayDevices:
+[2017.03.22-18.35.16:657][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2017.03.22-18.35.16:657][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2017.03.22-18.35.16:658][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2017.03.22-18.35.16:658][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.03.22-18.35.16:658][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2017.03.22-18.35.16:658][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.03.22-18.35.16:658][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.03.22-18.35.16:658][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.22-18.35.16:676][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.22-18.35.16:694][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.03.22-18.35.16:695][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/8296/).
+[2017.03.22-18.35.16:695][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Steven/AppData/Local/Temp/UnrealShaderWorkingDir/8E8B79B64E6C425D2DB13F980CA40C28/'.
+[2017.03.22-18.35.16:695][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.22-18.35.18:043][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.22-18.35.18:122][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.22-18.35.18:195][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.22-18.35.18:273][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.22-18.35.18:349][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.22-18.35.18:435][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.22-18.35.18:510][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.22-18.35.18:585][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.22-18.35.18:644][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.22-18.35.18:711][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.22-18.35.18:776][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.22-18.35.18:846][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.22-18.35.18:914][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.22-18.35.18:993][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.22-18.35.19:059][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.22-18.35.19:199][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.22-18.35.19:199][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.22-18.35.19:249][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.22-18.35.19:364][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.22-18.35.19:407][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.22-18.35.19:473][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.22-18.35.19:540][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.22-18.35.19:618][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.22-18.35.19:693][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.22-18.35.19:693][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.22-18.35.20:212][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.22-18.35.20:274][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.22-18.35.20:274][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.03.22-18.35.20:274][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.22-18.35.20:274][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.22-18.35.20:274][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.22-18.35.20:274][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.22-18.35.20:301][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.22-18.35.20:313][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Steven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.22-18.35.20:562][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.22-18.35.20:565][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.22-18.35.20:831][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.22-18.35.20:891][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.22-18.35.20:952][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.22-18.35.20:952][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.22-18.35.20:952][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.22-18.35.21:577][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.03.22-18.35.21:641][  0]LogAssetRegistry: FAssetRegistry took 0.0218 seconds to start up
+[2017.03.22-18.35.21:705][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.029211 seconds
+[2017.03.22-18.35.21:714][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.03.22-18.35.21:714][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.03.22-18.35.21:714][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.22-18.35.21:802][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.22-18.35.22:797][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.22-18.35.22:798][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.22-18.35.22:798][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.22-18.35.23:862][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.22-18.35.23:913][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.22-18.35.24:314][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.22-18.35.24:834][  0]SourceControl: Info Source control is disabled
+[2017.03.22-18.35.24:835][  0]SourceControl: Info Source control is disabled
+[2017.03.22-18.35.24:899][  0]SourceControl: Info Source control is disabled
+[2017.03.22-18.35.24:970][  0]SourceControl: Info Source control is disabled
+[2017.03.22-18.35.26:772][  0]LogEngine: Initializing Engine...
+[2017.03.22-18.35.26:772][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.22-18.35.27:076][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.22-18.35.27:085][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.35.27:197][  0]LogInit: FAudioDevice initialized.
+[2017.03.22-18.35.27:227][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.22-18.35.27:235][  0]LogInit: Texture streaming: Enabled
+[2017.03.22-18.35.27:475][  0]LogInit: Transaction tracking system initialized
+[2017.03.22-18.35.27:989][  0]BlueprintLog: New page: Editor Load
+[2017.03.22-18.35.29:233][  0]LocalizationService: Info Localization service is disabled
+[2017.03.22-18.35.30:023][  0]LogConsoleResponse:Display: 
+[2017.03.22-18.35.30:189][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.22-18.35.30:189][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.22-18.35.30:363][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/' took 0.03s
+[2017.03.22-18.35.31:556][  0]SourceControl: Info Source control is disabled
+[2017.03.22-18.35.31:556][  0]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.22-18.35.31:571][  0]LightingResults: New page: Lighting Build
+[2017.03.22-18.35.31:650][  0]MapCheck: New page: Map Check
+[2017.03.22-18.35.31:650][  0]LightingResults: New page: Lighting Build
+[2017.03.22-18.35.32:277][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.03.22-18.35.32:287][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.22-18.35.32:288][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.22-18.35.32:364][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 76.117ms to complete.
+[2017.03.22-18.35.32:364][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.809
+[2017.03.22-18.35.32:423][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.22-18.35.32:530][  0]LogCollectionManager: Loaded 0 collections in 0.002033 seconds
+[2017.03.22-18.35.32:634][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.03.22-18.35.32:634][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Developers/Steven/Collections/' took 0.01s
+[2017.03.22-18.35.32:634][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.03.22-18.35.32:634][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.22-18.35.32:643][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2190 classes and 428 folders.
+[2017.03.22-18.35.32:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.22-18.35.32:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.22-18.35.32:694][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.03.22-18.35.32:765][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.03.22-18.35.32:893][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.22-18.35.32:944][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.03.22-18.35.32:982][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.22-18.35.32:988][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.22-18.35.33:063][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.03.22-18.35.33:063][  0]LogLoad: (Engine Initialization) Total time: 19.00 seconds
+[2017.03.22-18.35.33:063][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.24 seconds
+[2017.03.22-18.35.33:063][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.22-18.35.33:063][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.22-18.35.33:081][  0]LogOcInput: OculusInput pre-init called
+[2017.03.22-18.35.33:099][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.22-18.35.33:239][  0]LogRenderer: Reallocating scene render targets to support 964x436 NumSamples 1 (Frame:2).
+[2017.03.22-18.35.33:393][  2]LogAssetRegistry: Asset discovery search completed in 11.7745 seconds
+[2017.03.22-18.35.33:393][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.22-18.35.33:393][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2017.03.22-18.35.39:788][268]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 111 classes and 0 folders.
+[2017.03.22-18.36.01:756][468]BlueprintLog: New page: Compile characterBP
+[2017.03.22-18.36.43:800][941]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.22-18.36.45:817][ 32]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.36.45:836][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.03.22-18.36.45:836][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.36.45:836][ 32]PIE: New page: PIE session: MainMenuLevel (Mar 22, 2017, 10:36:45 AM)
+[2017.03.22-18.36.45:837][ 32]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2017.03.22-18.36.45:842][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005681s)
+[2017.03.22-18.36.45:843][ 32]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.03.22-18.36.45:843][ 32]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2017.03.22-18.36.45:843][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.006589s)
+[2017.03.22-18.36.45:873][ 32]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.36.45:883][ 32]LogInit: FAudioDevice initialized.
+[2017.03.22-18.36.45:957][ 32]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.36.45:958][ 32]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2017.03.22-14.36.45
+[2017.03.22-18.36.45:959][ 32]LogWorld: Bringing up level for play took: 0.001583
+[2017.03.22-18.36.46:017][ 32]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.03.22-18.36.46:027][ 32]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 0.487
+[2017.03.22-18.36.46:028][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.03.22-18.36.46:053][ 32]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:476).
+[2017.03.22-18.36.46:660][ 52]LogNet: Browse: /Game/TombLevel
+[2017.03.22-18.36.46:702][ 52]LogLoad: LoadMap: /Game/TombLevel
+[2017.03.22-18.36.46:735][ 52]Cmd: MEM
+[2017.03.22-18.36.46:764][ 52]LogMemory: Platform Memory Stats for Windows
+[2017.03.22-18.36.46:764][ 52]LogMemory: Process Physical Memory: 1297.00 MB used, 1299.28 MB peak
+[2017.03.22-18.36.46:764][ 52]LogMemory: Process Virtual Memory: 1961.21 MB used, 1963.41 MB peak
+[2017.03.22-18.36.46:764][ 52]LogMemory: Physical Memory: 4653.23 MB used,  3406.90 MB free, 8060.13 MB total
+[2017.03.22-18.36.46:764][ 52]LogMemory: Virtual Memory: 2741.48 MB used,  3406.90 MB free, 134217728.00 MB total
+[2017.03.22-18.36.46:764][ 52]LogMemory: 
+[2017.03.22-18.36.46:764][ 52]Allocator Stats for TBB: (not implemented)
+[2017.03.22-18.36.47:289][ 52]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.03.22-18.36.47:413][ 52]LogPackageName: SearchForPackageOnDisk took   0.124s, but failed to resolve Env_Ice_Rocky.
+[2017.03.22-18.36.47:413][ 52]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.03.22-18.36.47:413][ 52]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.03.22-18.36.47:517][ 52]LogPackageName: SearchForPackageOnDisk took   0.104s, but failed to resolve Env_Ice_Rocky.
+[2017.03.22-18.36.47:517][ 52]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.03.22-18.36.47:673][ 52]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.03.22-18.36.47:792][ 52]LogPackageName: SearchForPackageOnDisk took   0.119s, but failed to resolve Exo_Deco01.
+[2017.03.22-18.36.47:792][ 52]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2017.03.22-18.36.47:798][ 52]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.03.22-18.36.47:903][ 52]LogPackageName: SearchForPackageOnDisk took   0.105s, but failed to resolve Env_Ice_RuinedWalls001.
+[2017.03.22-18.36.47:903][ 52]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
+[2017.03.22-18.36.59:889][ 52]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.36.59:890][ 52]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.36.59:959][ 52]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.36.59
+[2017.03.22-18.36.59:963][ 52]LogWorld: Bringing up level for play took: 0.072352
+[2017.03.22-18.36.59:967][ 52]LogLoad: Took 13.265795 seconds to LoadMap(/Game/TombLevel)
+[2017.03.22-18.37.00:001][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.03.22-18.37.00:142][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.03.22-18.37.05:750][307]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.37.08:717][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.03.22-18.37.08:791][307]LogSavePackage: Save=69.95ms
+[2017.03.22-18.37.08:791][307]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/characterBP60EF17014926A32199AE768E64BA8270.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.03.22-18.37.08:794][307]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.03.22-18.37.08:849][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.22-18.37.08:896][307]LogSavePackage: Save=43.53ms
+[2017.03.22-18.37.08:896][307]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI19EE430841A7DFA92AB943AD4F76FAD7.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.22-18.37.08:899][307]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.22-18.37.09:228][307]LogSavePackage: Save=126.15ms
+[2017.03.22-18.37.09:228][307]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/MainMenuLevel0CDFB4144BCC0E2A1530F4A20A249567.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap'
+[2017.03.22-18.37.09:229][307]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap
+[2017.03.22-18.37.09:251][307]LogFileHelpers: Saving map 'MainMenuLevel' took 0.353
+[2017.03.22-18.37.09:252][307]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.22-18.37.09:253][307]LightingResults: New page: Lighting Build
+[2017.03.22-18.37.09:254][307]LoadErrors: New page: Loading map: TombLevel.umap
+[2017.03.22-18.37.09:254][307]MapCheck: New page: Map Check
+[2017.03.22-18.37.09:254][307]LightingResults: New page: Lighting Build
+[2017.03.22-18.37.09:346][307]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.22-18.37.09:375][307]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.22-18.37.09:520][307]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 144.634ms to complete.
+[2017.03.22-18.37.09:521][307]LogFileHelpers: Loading map 'TombLevel' took 0.269
+[2017.03.22-18.37.15:573][521]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.37.15:605][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.37.15:606][521]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:37:15 AM)
+[2017.03.22-18.37.15:606][521]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.37.15:730][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124594s)
+[2017.03.22-18.37.15:731][521]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.37.15:731][521]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2017.03.22-18.37.15:732][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.126223s)
+[2017.03.22-18.37.15:776][521]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.37.15:787][521]LogInit: FAudioDevice initialized.
+[2017.03.22-18.37.15:826][521]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.37.15:866][521]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.37.15
+[2017.03.22-18.37.15:871][521]LogWorld: Bringing up level for play took: 0.044449
+[2017.03.22-18.37.15:878][521]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.337
+[2017.03.22-18.38.51:820][552]LogNet: Browse: /Game/TombLevel
+[2017.03.22-18.38.51:820][552]LogLoad: LoadMap: /Game/TombLevel
+[2017.03.22-18.38.51:947][552]Cmd: MEM
+[2017.03.22-18.38.51:980][552]LogMemory: Platform Memory Stats for Windows
+[2017.03.22-18.38.51:980][552]LogMemory: Process Physical Memory: 2657.84 MB used, 2673.19 MB peak
+[2017.03.22-18.38.51:980][552]LogMemory: Process Virtual Memory: 3446.23 MB used, 3467.26 MB peak
+[2017.03.22-18.38.51:980][552]LogMemory: Physical Memory: 5835.59 MB used,  2224.54 MB free, 8060.13 MB total
+[2017.03.22-18.38.51:980][552]LogMemory: Virtual Memory: 4224.35 MB used,  2224.54 MB free, 134217728.00 MB total
+[2017.03.22-18.38.51:980][552]LogMemory: 
+[2017.03.22-18.38.51:980][552]Allocator Stats for TBB: (not implemented)
+[2017.03.22-18.38.51:980][552]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.38.52:088][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108444s)
+[2017.03.22-18.38.52:089][552]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.38.52:089][552]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.03.22-18.38.52:090][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.109960s)
+[2017.03.22-18.38.52:090][552]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.38.52:117][552]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.38.52
+[2017.03.22-18.38.52:121][552]LogWorld: Bringing up level for play took: 0.031001
+[2017.03.22-18.38.52:124][552]LogLoad: Took 0.304878 seconds to LoadMap(/Game/UEDPIE_0_TombLevel)
+[2017.03.22-18.39.14:493][108]LogNet: Browse: /Game/TombLevel
+[2017.03.22-18.39.14:493][108]LogLoad: LoadMap: /Game/TombLevel
+[2017.03.22-18.39.14:607][108]Cmd: MEM
+[2017.03.22-18.39.14:640][108]LogMemory: Platform Memory Stats for Windows
+[2017.03.22-18.39.14:640][108]LogMemory: Process Physical Memory: 2601.88 MB used, 2678.24 MB peak
+[2017.03.22-18.39.14:640][108]LogMemory: Process Virtual Memory: 3393.10 MB used, 3591.95 MB peak
+[2017.03.22-18.39.14:640][108]LogMemory: Physical Memory: 5778.39 MB used,  2281.73 MB free, 8060.13 MB total
+[2017.03.22-18.39.14:640][108]LogMemory: Virtual Memory: 4312.04 MB used,  2281.73 MB free, 134217728.00 MB total
+[2017.03.22-18.39.14:640][108]LogMemory: 
+[2017.03.22-18.39.14:640][108]Allocator Stats for TBB: (not implemented)
+[2017.03.22-18.39.14:640][108]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.39.14:736][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095913s)
+[2017.03.22-18.39.14:736][108]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.39.14:737][108]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2017.03.22-18.39.14:738][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.097770s)
+[2017.03.22-18.39.14:738][108]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.39.14:761][108]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.39.14
+[2017.03.22-18.39.14:764][108]LogWorld: Bringing up level for play took: 0.025893
+[2017.03.22-18.39.14:767][108]LogLoad: Took 0.274749 seconds to LoadMap(/Game/UEDPIE_0_TombLevel)
+[2017.03.22-18.39.52:932][593]BlueprintLog: New page: Compile characterBP
+[2017.03.22-18.39.55:788][732]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.39.55:818][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.39.55:818][732]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:39:55 AM)
+[2017.03.22-18.39.55:818][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.39.55:935][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117172s)
+[2017.03.22-18.39.55:936][732]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.39.55:936][732]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2017.03.22-18.39.55:937][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.118941s)
+[2017.03.22-18.39.55:987][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.39.55:998][732]LogInit: FAudioDevice initialized.
+[2017.03.22-18.39.56:038][732]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.39.56:073][732]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.39.56
+[2017.03.22-18.39.56:079][732]LogWorld: Bringing up level for play took: 0.040916
+[2017.03.22-18.39.56:085][732]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.544
+[2017.03.22-18.40.26:752][625]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.40.26:771][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.40.26:771][625]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:40:26 AM)
+[2017.03.22-18.40.26:771][625]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.40.26:867][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096539s)
+[2017.03.22-18.40.26:868][625]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.40.26:868][625]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2017.03.22-18.40.26:869][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.097944s)
+[2017.03.22-18.40.26:906][625]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.40.26:916][625]LogInit: FAudioDevice initialized.
+[2017.03.22-18.40.26:962][625]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.40.26:988][625]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.40.26
+[2017.03.22-18.40.26:994][625]LogWorld: Bringing up level for play took: 0.030974
+[2017.03.22-18.40.27:005][625]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.536
+[2017.03.22-18.41.07:580][251]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.41.07:599][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.41.07:599][251]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:41:07 AM)
+[2017.03.22-18.41.07:599][251]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.41.07:698][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098109s)
+[2017.03.22-18.41.07:698][251]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.41.07:698][251]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.03.22-18.41.07:699][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.099638s)
+[2017.03.22-18.41.07:733][251]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.41.07:743][251]LogInit: FAudioDevice initialized.
+[2017.03.22-18.41.07:781][251]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.41.07:807][251]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.41.07
+[2017.03.22-18.41.07:812][251]LogWorld: Bringing up level for play took: 0.030348
+[2017.03.22-18.41.07:820][251]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.28
+[2017.03.22-18.41.17:569][491]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
+[2017.03.22-18.41.17:569][491]LogBlueprintDebug: 
 Script call stack:
 	Function /Game/character/Enemy_AI.Enemy_AI_C:OnSuccess_11A656664B11163FB5B94BAD6F91F413
 	Function /Game/character/Enemy_AI.Enemy_AI_C:ExecuteUbergraph_Enemy_AI
 
-[2017.03.22-18.04.49:787][521]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameMode_C_1.WidgetTree.HealthBar.FloatBinding_1 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
-[2017.03.22-18.04.57:708][524]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
-[2017.03.22-18.04.57:708][524]LogBlueprintDebug: 
+[2017.03.22-18.41.17:657][491]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_4.GameMode_C_2.WidgetTree.HealthBar.FloatBinding_7 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2017.03.22-18.41.26:927][495]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
+[2017.03.22-18.41.26:927][495]LogBlueprintDebug: 
 Script call stack:
 	Function /Game/character/Enemy_AI.Enemy_AI_C:OnSuccess_11A656664B11163FB5B94BAD6F91F413
 	Function /Game/character/Enemy_AI.Enemy_AI_C:ExecuteUbergraph_Enemy_AI
 
-[2017.03.22-18.04.57:799][524]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameMode_C_1.WidgetTree.HealthBar.FloatBinding_1 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
-[2017.03.22-18.05.00:387][530]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
-[2017.03.22-18.05.00:387][530]LogBlueprintDebug: 
+[2017.03.22-18.41.27:025][495]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_4.GameMode_C_2.WidgetTree.HealthBar.FloatBinding_7 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2017.03.22-18.41.28:736][500]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
+[2017.03.22-18.41.28:736][500]LogBlueprintDebug: 
 Script call stack:
 	Function /Game/character/Enemy_AI.Enemy_AI_C:OnSuccess_11A656664B11163FB5B94BAD6F91F413
 	Function /Game/character/Enemy_AI.Enemy_AI_C:ExecuteUbergraph_Enemy_AI
 
-[2017.03.22-18.05.00:483][530]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameMode_C_1.WidgetTree.HealthBar.FloatBinding_1 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
-[2017.03.22-18.05.04:471][535]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
-[2017.03.22-18.05.04:471][535]LogBlueprintDebug: 
+[2017.03.22-18.41.28:833][500]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_4.GameMode_C_2.WidgetTree.HealthBar.FloatBinding_7 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2017.03.22-18.42.10:605][500]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_Event', from offset 439
+[2017.03.22-18.42.10:605][500]LogBlueprintDebug: 
 Script call stack:
-	Function /Game/character/Enemy_AI.Enemy_AI_C:OnSuccess_11A656664B11163FB5B94BAD6F91F413
+	Function /Game/character/characterBP.characterBP_C:ReceiveAnyDamage
+	Function /Game/character/characterBP.characterBP_C:ExecuteUbergraph_characterBP
+
+[2017.03.22-18.42.10:759][500]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_4.GameMode_C_2.WidgetTree.HealthBar.FloatBinding_7 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2017.03.22-18.42.45:859][288]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.42.45:876][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.42.45:876][288]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:42:45 AM)
+[2017.03.22-18.42.45:876][288]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.42.45:974][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098239s)
+[2017.03.22-18.42.45:975][288]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.42.45:976][288]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2017.03.22-18.42.45:976][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.100273s)
+[2017.03.22-18.42.46:014][288]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.42.46:023][288]LogInit: FAudioDevice initialized.
+[2017.03.22-18.42.46:062][288]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.42.46:090][288]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.42.46
+[2017.03.22-18.42.46:098][288]LogWorld: Bringing up level for play took: 0.035119
+[2017.03.22-18.42.46:104][288]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.563
+[2017.03.22-18.42.56:101][511]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 379
+[2017.03.22-18.42.56:101][511]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/character/characterBP.characterBP_C:BndEvt__RightHandCollision_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/character/characterBP.characterBP_C:ExecuteUbergraph_characterBP
+
+[2017.03.22-18.42.56:282][511]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_5.GameMode_C_3.WidgetTree.HealthBar.FloatBinding_8 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2017.03.22-18.42.56:282][511]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_5.GameMode_C_3.WidgetTree.HealthBar.FloatBinding_8 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2017.03.22-18.43.06:026][538]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_Event', from offset 617
+[2017.03.22-18.43.06:026][538]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/character/Enemy_AI.Enemy_AI_C:ReceiveAnyDamage
 	Function /Game/character/Enemy_AI.Enemy_AI_C:ExecuteUbergraph_Enemy_AI
 
-[2017.03.22-18.05.04:566][535]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameMode_C_1.WidgetTree.HealthBar.FloatBinding_1 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
-[2017.03.22-18.05.15:392][540]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
-[2017.03.22-18.05.15:392][540]LogBlueprintDebug: 
-Script call stack:
-	Function /Game/character/Enemy_AI.Enemy_AI_C:OnSuccess_11A656664B11163FB5B94BAD6F91F413
-	Function /Game/character/Enemy_AI.Enemy_AI_C:ExecuteUbergraph_Enemy_AI
-
-[2017.03.22-18.05.15:485][540]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameMode_C_1.WidgetTree.HealthBar.FloatBinding_1 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
-[2017.03.22-18.05.15:485][540]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameMode_C_1.WidgetTree.HealthBar.FloatBinding_1 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
-[2017.03.22-18.05.17:824][545]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 357
-[2017.03.22-18.05.17:824][545]LogBlueprintDebug: 
-Script call stack:
-	Function /Game/character/Enemy_AI.Enemy_AI_C:OnSuccess_11A656664B11163FB5B94BAD6F91F413
-	Function /Game/character/Enemy_AI.Enemy_AI_C:ExecuteUbergraph_Enemy_AI
-
-[2017.03.22-18.05.17:916][545]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameMode_C_1.WidgetTree.HealthBar.FloatBinding_1 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
-[2017.03.22-18.06.09:791][702]BlueprintLog: New page: Compile characterBP
-[2017.03.22-18.06.25:082][886]BlueprintLog: New page: Compile Enemy_AI
-[2017.03.22-18.06.32:398][488]LogTemp: Repeting last play command: Selected Viewport
-[2017.03.22-18.06.32:419][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.03.22-18.06.32:419][488]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:06:32 AM)
-[2017.03.22-18.06.32:419][488]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
-[2017.03.22-18.06.32:523][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103976s)
-[2017.03.22-18.06.32:524][488]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.06.32:524][488]LogPlayLevel: PIE: World Init took: (0.000721s)
-[2017.03.22-18.06.32:524][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.105403s)
-[2017.03.22-18.06.32:563][488]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.03.22-18.06.32:572][488]LogInit: FAudioDevice initialized.
-[2017.03.22-18.06.32:611][488]LogLoad: Game class is 'myGame_C'
-[2017.03.22-18.06.32:640][488]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.22-14.06.32
-[2017.03.22-18.06.32:646][488]LogWorld: Bringing up level for play took: 0.034486
-[2017.03.22-18.06.32:656][488]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 1.116
-[2017.03.22-18.09.37:403][540]BlueprintLog: New page: Compile characterBP
-[2017.03.22-18.09.57:316][ 48]LogTemp: Repeting last play command: Selected Viewport
-[2017.03.22-18.09.57:345][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.03.22-18.09.57:346][ 48]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:09:57 AM)
-[2017.03.22-18.09.57:346][ 48]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
-[2017.03.22-18.09.57:470][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124555s)
-[2017.03.22-18.09.57:471][ 48]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.09.57:471][ 48]LogPlayLevel: PIE: World Init took: (0.000939s)
-[2017.03.22-18.09.57:472][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.126353s)
-[2017.03.22-18.09.57:508][ 48]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.03.22-18.09.57:520][ 48]LogInit: FAudioDevice initialized.
-[2017.03.22-18.09.57:572][ 48]LogLoad: Game class is 'myGame_C'
-[2017.03.22-18.09.57:611][ 48]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.22-14.09.57
-[2017.03.22-18.09.57:618][ 48]LogWorld: Bringing up level for play took: 0.045318
-[2017.03.22-18.09.57:631][ 48]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.09
-[2017.03.22-18.10.10:641][329]LogNet: Browse: /Game/TombLevel
-[2017.03.22-18.10.10:641][329]LogLoad: LoadMap: /Game/TombLevel
-[2017.03.22-18.10.10:754][329]Cmd: MEM
-[2017.03.22-18.10.10:791][329]LogMemory: Platform Memory Stats for Windows
-[2017.03.22-18.10.10:791][329]LogMemory: Process Physical Memory: 1515.93 MB used, 1516.48 MB peak
-[2017.03.22-18.10.10:791][329]LogMemory: Process Virtual Memory: 2489.41 MB used, 2498.66 MB peak
-[2017.03.22-18.10.10:791][329]LogMemory: Physical Memory: 4760.62 MB used,  3299.51 MB free, 8060.13 MB total
-[2017.03.22-18.10.10:791][329]LogMemory: Virtual Memory: 3306.82 MB used,  3299.51 MB free, 134217728.00 MB total
-[2017.03.22-18.10.10:791][329]LogMemory: 
-[2017.03.22-18.10.10:791][329]Allocator Stats for TBB: (not implemented)
-[2017.03.22-18.10.10:793][329]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
-[2017.03.22-18.10.10:890][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096430s)
-[2017.03.22-18.10.10:890][329]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.10.10:890][329]LogPlayLevel: PIE: World Init took: (0.000708s)
-[2017.03.22-18.10.10:891][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.097803s)
-[2017.03.22-18.10.10:891][329]LogLoad: Game class is 'myGame_C'
-[2017.03.22-18.10.10:914][329]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.22-14.10.10
-[2017.03.22-18.10.10:919][329]LogWorld: Bringing up level for play took: 0.027470
-[2017.03.22-18.10.10:924][329]LogLoad: Took 0.282887 seconds to LoadMap(/Game/UEDPIE_0_TombLevel)
-[2017.03.22-18.10.21:390][ 58]BlueprintLog: New page: Compile characterBP
-[2017.03.22-18.10.22:921][130]LogTemp: Repeting last play command: Selected Viewport
-[2017.03.22-18.10.22:950][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.03.22-18.10.22:950][130]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:10:22 AM)
-[2017.03.22-18.10.22:950][130]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
-[2017.03.22-18.10.23:052][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101461s)
-[2017.03.22-18.10.23:052][130]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.10.23:053][130]LogPlayLevel: PIE: World Init took: (0.000763s)
-[2017.03.22-18.10.23:053][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.102732s)
-[2017.03.22-18.10.23:090][130]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.03.22-18.10.23:100][130]LogInit: FAudioDevice initialized.
-[2017.03.22-18.10.23:148][130]LogLoad: Game class is 'myGame_C'
-[2017.03.22-18.10.23:173][130]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.22-14.10.23
-[2017.03.22-18.10.23:177][130]LogWorld: Bringing up level for play took: 0.029597
-[2017.03.22-18.10.23:191][130]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.35
-[2017.03.22-18.10.38:039][504]LogNet: Browse: /Game/TombLevel
-[2017.03.22-18.10.38:039][504]LogLoad: LoadMap: /Game/TombLevel
-[2017.03.22-18.10.38:148][504]Cmd: MEM
-[2017.03.22-18.10.38:180][504]LogMemory: Platform Memory Stats for Windows
-[2017.03.22-18.10.38:180][504]LogMemory: Process Physical Memory: 1518.61 MB used, 1525.23 MB peak
-[2017.03.22-18.10.38:180][504]LogMemory: Process Virtual Memory: 2495.52 MB used, 2557.93 MB peak
-[2017.03.22-18.10.38:180][504]LogMemory: Physical Memory: 4758.92 MB used,  3301.21 MB free, 8060.13 MB total
-[2017.03.22-18.10.38:180][504]LogMemory: Virtual Memory: 3310.44 MB used,  3301.21 MB free, 134217728.00 MB total
-[2017.03.22-18.10.38:180][504]LogMemory: 
-[2017.03.22-18.10.38:180][504]Allocator Stats for TBB: (not implemented)
-[2017.03.22-18.10.38:180][504]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
-[2017.03.22-18.10.38:272][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092731s)
-[2017.03.22-18.10.38:273][504]LogAIModule: Creating AISystem for world TombLevel
-[2017.03.22-18.10.38:273][504]LogPlayLevel: PIE: World Init took: (0.000763s)
-[2017.03.22-18.10.38:273][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.094000s)
-[2017.03.22-18.10.38:274][504]LogLoad: Game class is 'myGame_C'
-[2017.03.22-18.10.38:303][504]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.03.22-14.10.38
-[2017.03.22-18.10.38:308][504]LogWorld: Bringing up level for play took: 0.033301
-[2017.03.22-18.10.38:311][504]LogLoad: Took 0.271386 seconds to LoadMap(/Game/UEDPIE_0_TombLevel)
-[2017.03.22-18.10.50:257][264]LogSavePackage: Save=513.43ms
-[2017.03.22-18.10.50:257][264]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevel70CE2F5A4A6EF0C633E1E087AB684A76.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap'
-[2017.03.22-18.10.50:259][264]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap
-[2017.03.22-18.10.50:298][264]LogFileHelpers: Saving map 'TombLevel' took 0.750
-[2017.03.22-18.10.50:355][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
-[2017.03.22-18.10.50:402][264]LogSavePackage: Save=43.04ms
-[2017.03.22-18.10.50:403][264]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI1A06E28046D60D701281CCB4EF7D95A2.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
-[2017.03.22-18.10.50:404][264]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
-[2017.03.22-18.10.50:461][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
-[2017.03.22-18.10.50:535][264]LogSavePackage: Save=67.32ms
-[2017.03.22-18.10.50:535][264]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/characterBP345159BE41D05CEFC222E7938B6CD33A.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
-[2017.03.22-18.10.50:536][264]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
-[2017.03.22-18.11.41:640][ 18]LogEditorTransaction: Undo Move Nodes
-[2017.03.22-18.11.41:833][ 19]LogEditorTransaction: Undo Move Nodes
-[2017.03.22-18.13.31:494][614]BlueprintLog: New page: Compile characterBP
-[2017.03.22-18.13.37:165][787]LogSavePackage: Save=584.18ms
-[2017.03.22-18.13.37:165][787]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevelE63323DE4FACD3AB00DE49A489F59DA5.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap'
-[2017.03.22-18.13.37:169][787]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap
+[2017.03.22-18.43.06:125][538]LogScriptCore:Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_5.GameMode_C_3.WidgetTree.HealthBar.FloatBinding_8 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2017.03.22-18.43.19:167][757]LogCharacterMovement: Enemy_AI3_926 is stuck and failed to move! Velocity: X=67.54 Y=74.20 Z=0.00 Location: X=316.58 Y=-5809.38 Z=905.68 Normal: X=-0.34 Y=-0.94 Z=0.00 PenetrationDepth:30.512 Actor:characterBP_C_0 Component:LeftHandCollision BoneName:None (0 other events since notify)
+[2017.03.22-18.43.23:874][876]LogCharacterMovement: Enemy_AI3_926 is stuck and failed to move! Velocity: X=41.14 Y=66.87 Z=0.00 Location: X=299.01 Y=-5816.76 Z=909.89 Normal: X=0.31 Y=-0.95 Z=0.00 PenetrationDepth:2.589 Actor:characterBP_C_0 Component:LeftHandCollision BoneName:None (0 other events since notify)
+[2017.03.22-18.43.23:988][879]LogNet: Browse: /Game/TombLevel
+[2017.03.22-18.43.23:988][879]LogLoad: LoadMap: /Game/TombLevel
+[2017.03.22-18.43.24:082][879]Cmd: MEM
+[2017.03.22-18.43.24:114][879]LogMemory: Platform Memory Stats for Windows
+[2017.03.22-18.43.24:114][879]LogMemory: Process Physical Memory: 2635.84 MB used, 2678.24 MB peak
+[2017.03.22-18.43.24:114][879]LogMemory: Process Virtual Memory: 3436.34 MB used, 3591.95 MB peak
+[2017.03.22-18.43.24:114][879]LogMemory: Physical Memory: 5785.19 MB used,  2274.94 MB free, 8060.13 MB total
+[2017.03.22-18.43.24:114][879]LogMemory: Virtual Memory: 4319.91 MB used,  2274.94 MB free, 134217728.00 MB total
+[2017.03.22-18.43.24:114][879]LogMemory: 
+[2017.03.22-18.43.24:114][879]Allocator Stats for TBB: (not implemented)
+[2017.03.22-18.43.24:115][879]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.43.24:213][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097781s)
+[2017.03.22-18.43.24:213][879]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.43.24:213][879]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2017.03.22-18.43.24:214][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.099134s)
+[2017.03.22-18.43.24:214][879]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.43.24:238][879]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.43.24
+[2017.03.22-18.43.24:244][879]LogWorld: Bringing up level for play took: 0.029420
+[2017.03.22-18.43.24:248][879]LogLoad: Took 0.259484 seconds to LoadMap(/Game/UEDPIE_0_TombLevel)
+[2017.03.22-18.44.40:874][337]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.22-18.45.31:813][352]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.22-18.45.33:132][422]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.45.33:159][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.45.33:159][422]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:45:33 AM)
+[2017.03.22-18.45.33:159][422]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.45.33:263][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103015s)
+[2017.03.22-18.45.33:263][422]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.45.33:263][422]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2017.03.22-18.45.33:264][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.104627s)
+[2017.03.22-18.45.33:300][422]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.45.33:310][422]LogInit: FAudioDevice initialized.
+[2017.03.22-18.45.33:345][422]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.45.33:375][422]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.45.33
+[2017.03.22-18.45.33:379][422]LogWorld: Bringing up level for play took: 0.033320
+[2017.03.22-18.45.33:383][422]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.158
+[2017.03.22-18.45.48:430][ 75]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.22-18.45.49:762][145]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.45.49:796][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.45.49:796][145]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:45:49 AM)
+[2017.03.22-18.45.49:796][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.45.49:919][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122459s)
+[2017.03.22-18.45.49:919][145]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.45.49:919][145]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2017.03.22-18.45.49:920][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.123814s)
+[2017.03.22-18.45.49:963][145]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.45.49:972][145]LogInit: FAudioDevice initialized.
+[2017.03.22-18.45.50:009][145]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.45.50:042][145]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.45.50
+[2017.03.22-18.45.50:049][145]LogWorld: Bringing up level for play took: 0.038870
+[2017.03.22-18.45.50:054][145]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.513
+[2017.03.22-18.47.39:123][164]LogSavePackage: Save=513.21ms
+[2017.03.22-18.47.39:123][164]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevel617104BE4FB331BC6CC44A9EDB2BB643.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap'
+[2017.03.22-18.47.39:126][164]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap
+[2017.03.22-18.47.39:147][164]LogFileHelpers: Saving map 'TombLevel' took 0.737
+[2017.03.22-18.47.39:212][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.22-18.47.39:253][164]LogSavePackage: Save=37.00ms
+[2017.03.22-18.47.39:253][164]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI2DB0314549C403DA1B28298B1253A83F.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.22-18.47.39:255][164]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.22-18.47.39:313][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.03.22-18.47.39:385][164]LogSavePackage: Save=66.12ms
+[2017.03.22-18.47.39:385][164]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/characterBP6348FB1A4C08BE94258310A6D433B96E.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.03.22-18.47.39:387][164]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.03.22-18.49.50:347][485]BlueprintLog: New page: Compile Enemy_AI
+[2017.03.22-18.49.53:937][690]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.49.53:954][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.49.53:955][690]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:49:53 AM)
+[2017.03.22-18.49.53:955][690]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.49.54:052][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097129s)
+[2017.03.22-18.49.54:053][690]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.49.54:053][690]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2017.03.22-18.49.54:053][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.098432s)
+[2017.03.22-18.49.54:090][690]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.49.54:099][690]LogInit: FAudioDevice initialized.
+[2017.03.22-18.49.54:138][690]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.49.54:160][690]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.49.54
+[2017.03.22-18.49.54:166][690]LogWorld: Bringing up level for play took: 0.026650
+[2017.03.22-18.49.54:174][690]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.633
+[2017.03.22-18.50.05:455][959]LogCharacterMovement: Enemy_AI2 is stuck and failed to move! Velocity: X=-70.49 Y=-19.75 Z=0.00 Location: X=295.25 Y=-2703.95 Z=350.73 Normal: X=0.53 Y=0.53 Z=-0.67 PenetrationDepth:17.644 Actor:characterBP_C_0 Component:RightHandCollision BoneName:None (0 other events since notify)
+[2017.03.22-18.50.44:914][635]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.22-18.50.44:942][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.22-18.50.44:942][635]PIE: New page: PIE session: TombLevel (Mar 22, 2017, 10:50:44 AM)
+[2017.03.22-18.50.44:942][635]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.22-18.50.45:045][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103227s)
+[2017.03.22-18.50.45:046][635]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.22-18.50.45:046][635]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2017.03.22-18.50.45:047][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.105227s)
+[2017.03.22-18.50.45:082][635]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.22-18.50.45:091][635]LogInit: FAudioDevice initialized.
+[2017.03.22-18.50.45:129][635]LogLoad: Game class is 'myGame_C'
+[2017.03.22-18.50.45:157][635]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.22-14.50.45
+[2017.03.22-18.50.45:162][635]LogWorld: Bringing up level for play took: 0.032004
+[2017.03.22-18.50.45:167][635]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.374
+[2017.03.22-18.50.57:949][916]LogCharacterMovement: Enemy_AI2 is stuck and failed to move! Velocity: X=-71.79 Y=-21.02 Z=0.00 Location: X=311.96 Y=-2683.01 Z=349.58 Normal: X=0.50 Y=0.83 Z=-0.25 PenetrationDepth:9.729 Actor:characterBP_C_0 Component:LeftHandCollision BoneName:None (0 other events since notify)
+[2017.03.22-18.51.40:403][288]LogSavePackage: Save=523.40ms
+[2017.03.22-18.51.40:403][288]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevel3D3DE613412405EB5F9B6E962F6F6DF6.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap'
+[2017.03.22-18.51.40:405][288]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap
+[2017.03.22-18.51.40:429][288]LogFileHelpers: Saving map 'TombLevel' took 0.740
+[2017.03.22-18.51.40:518][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.03.22-18.51.40:573][288]LogSavePackage: Save=50.77ms
+[2017.03.22-18.51.40:573][288]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AIDED808F54D78BC6E90C82AB121AB0E1F.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.03.22-18.51.40:574][288]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.03.22-18.53.20:933][671]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.22-18.53.21:181][672]Cmd: QUIT_EDITOR
+[2017.03.22-18.53.21:322][672]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.22-18.53.21:388][672]LogExit: Preparing to exit.
+[2017.03.22-18.53.22:549][672]LogExit: Editor shut down
+[2017.03.22-18.53.22:549][672]LogExit: Transaction tracking system shut down
+[2017.03.22-18.53.23:035][672]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.22-18.53.23:035][672]LogExit: Object subsystem successfully closed.
+[2017.03.22-18.53.23:069][672]LogD3D11RHI: Shutdown
+[2017.03.22-18.53.23:069][672]LogD3D11RHI: CleanupD3DDevice
+[2017.03.22-18.53.23:263][672]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.22-18.53.23:300][672]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.03.22-18.53.23:301][672]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5F80CB-4354-DB35-96DA-CDB170A41DF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=d99817614e5b2fe16afaa1bc970b6659%7C37affbd969a64a0b8ebede4037eb50b3%7C932eee32-0b96-4eec-b820-89b84ab9aabe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module BlueprintGraph (243)
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (242)
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.03.22-18.53.23:331][672]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.03.22-18.53.23:331][672]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.14/FeaturePacks/' was aborted.
+[2017.03.22-18.53.23:332][672]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.03.22-18.53.23:332][672]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.03.22-18.53.23:332][672]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.03.22-18.53.23:332][672]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Collections/' was aborted.
+[2017.03.22-18.53.23:332][672]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Developers/Steven/Collections/' was aborted.
+[2017.03.22-18.53.23:332][672]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Collections/' was aborted.
+[2017.03.22-18.53.23:332][672]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.03.22-18.53.23:332][672]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.03.22-18.53.23:332][672]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.03.22-18.53.23:333][672]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.03.22-18.53.24:004][672]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.03.22-18.53.24:005][672]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.03.22-18.53.24:006][672]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.03.22-18.53.24:006][672]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.03.22-18.53.24:006][672]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.03.22-18.53.24:006][672]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.03.22-18.53.24:006][672]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.03.22-18.53.24:049][672]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.03.22-18.53.24:064][672]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.03.22-18.53.24:064][672]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.03.22-18.53.24:067][672]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.03.22-18.53.24:069][672]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.03.22-18.53.24:069][672]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.03.22-18.53.24:069][672]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.03.22-18.53.24:141][672]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.03.22-18.53.24:142][672]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.03.22-18.53.24:144][672]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.03.22-18.53.24:144][672]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.03.22-18.53.24:146][672]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.03.22-18.53.24:147][672]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.03.22-18.53.24:148][672]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.03.22-18.53.24:248][672]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.03.22-18.53.24:349][672]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.03.22-18.53.24:350][672]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.03.22-18.53.24:350][672]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.03.22-18.53.24:356][672]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.03.22-18.53.24:356][672]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.03.22-18.53.24:356][672]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.03.22-18.53.24:356][672]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.03.22-18.53.24:356][672]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.03.22-18.53.24:356][672]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.03.22-18.53.24:356][672]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.22-18.53.24:356][672]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.03.22-18.53.24:356][672]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.22-18.53.24:357][672]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.03.22-18.53.24:531][672]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.03.22-18.53.24:546][672]LogDerivedDataCache: Shutdown
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.03.22-18.53.24:546][672]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.03.22-18.53.24:547][672]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.22-18.53.24:547][672]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.03.22-18.53.24:548][672]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.22-18.53.24:548][672]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.22-18.53.24:548][672]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.22-18.53.24:548][672]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.22-18.53.24:548][672]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.22-18.53.24:548][672]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.22-18.53.24:550][672]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.22-18.53.24:551][672]LogExit: Exiting.
+[2017.03.22-18.53.24:553][672]Log file closed, 03/22/17 14:53:24
