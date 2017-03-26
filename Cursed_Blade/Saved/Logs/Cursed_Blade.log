@@ -340,3 +340,213 @@ LogInit: Object subsystem initialized
 [2017.03.26-06.14.55:734][347]Cmd: MAP CHECKDEP NOCLEARLOG
 [2017.03.26-06.14.55:924][347]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 189.979ms to complete.
 [2017.03.26-06.14.55:925][347]LogFileHelpers: Loading map 'TombLevel' took 0.520
+[2017.03.26-06.15.47:431][773]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.15.47:465][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.15.47:465][773]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:15:47 PM)
+[2017.03.26-06.15.47:465][773]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.15.47:587][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121845s)
+[2017.03.26-06.15.47:588][773]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.15.47:588][773]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2017.03.26-06.15.47:589][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.123488s)
+[2017.03.26-06.15.47:627][773]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.15.47:640][773]LogInit: FAudioDevice initialized.
+[2017.03.26-06.15.47:720][773]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.15.47:753][773]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.15.47
+[2017.03.26-06.15.47:915][773]LogWorld: Bringing up level for play took: 0.194490
+[2017.03.26-06.15.47:995][773]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.03.26-06.15.48:017][773]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.015
+[2017.03.26-06.21.04:974][858]BlueprintLog: New page: Compile TombLevel
+[2017.03.26-06.21.17:645][  8]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.21.17:693][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.17:693][  8]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.26-06.21.17:749][  8]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_Blueprint_0 before play...
+[2017.03.26-06.21.17:883][  8]LogPlayLevel: PlayLevel: Blueprint regeneration took 190 ms (1 blueprints)
+[2017.03.26-06.21.17:883][  8]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:21:17 PM)
+[2017.03.26-06.21.17:884][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.21.18:007][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122869s)
+[2017.03.26-06.21.18:007][  8]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.21.18:008][  8]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2017.03.26-06.21.18:008][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.124251s)
+[2017.03.26-06.21.18:048][  8]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.21.18:060][  8]LogInit: FAudioDevice initialized.
+[2017.03.26-06.21.18:094][  8]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.21.18:130][  8]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.21.18
+[2017.03.26-06.21.18:135][  8]LogWorld: Bringing up level for play took: 0.041166
+[2017.03.26-06.21.18:181][  8]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.15
+[2017.03.26-06.21.18:182][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.25:638][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.25:815][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.41:074][324]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.21.41:119][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.41:119][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.21.41:120][324]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:21:41 PM)
+[2017.03.26-06.21.41:120][324]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.21.41:277][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157524s)
+[2017.03.26-06.21.41:278][324]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.21.41:278][324]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2017.03.26-06.21.41:279][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.159157s)
+[2017.03.26-06.21.41:319][324]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.21.41:330][324]LogInit: FAudioDevice initialized.
+[2017.03.26-06.21.41:362][324]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.21.41:392][324]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.21.41
+[2017.03.26-06.21.41:399][324]LogWorld: Bringing up level for play took: 0.036594
+[2017.03.26-06.21.41:403][324]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.628
+[2017.03.26-06.21.41:404][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.52:875][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.53:024][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.59:714][689]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.21.59:759][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.21.59:760][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.21.59:760][689]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:21:59 PM)
+[2017.03.26-06.21.59:760][689]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.21.59:906][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145540s)
+[2017.03.26-06.21.59:906][689]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.21.59:906][689]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2017.03.26-06.21.59:907][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.147052s)
+[2017.03.26-06.21.59:946][689]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.21.59:957][689]LogInit: FAudioDevice initialized.
+[2017.03.26-06.21.59:990][689]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.22.00:016][689]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.22.00
+[2017.03.26-06.22.00:021][689]LogWorld: Bringing up level for play took: 0.030650
+[2017.03.26-06.22.00:027][689]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.004
+[2017.03.26-06.22.00:028][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.22.16:071][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.22.16:205][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.22.18:772][ 87]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.22.18:865][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.22.18:866][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.22.18:866][ 87]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:22:18 PM)
+[2017.03.26-06.22.18:866][ 87]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.22.19:014][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147109s)
+[2017.03.26-06.22.19:014][ 87]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.22.19:014][ 87]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2017.03.26-06.22.19:015][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.148744s)
+[2017.03.26-06.22.19:055][ 87]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.22.19:069][ 87]LogInit: FAudioDevice initialized.
+[2017.03.26-06.22.19:103][ 87]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.22.19:127][ 87]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.22.19
+[2017.03.26-06.22.19:133][ 87]LogWorld: Bringing up level for play took: 0.029737
+[2017.03.26-06.22.19:137][ 87]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 1.105
+[2017.03.26-06.22.19:137][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.00:768][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.00:934][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.04:426][ 36]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.23.04:475][ 36]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.04:475][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.23.04:475][ 36]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:23:04 PM)
+[2017.03.26-06.23.04:475][ 36]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.23.04:643][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168066s)
+[2017.03.26-06.23.04:644][ 36]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.23.04:644][ 36]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2017.03.26-06.23.04:645][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.169583s)
+[2017.03.26-06.23.04:684][ 36]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.23.04:694][ 36]LogInit: FAudioDevice initialized.
+[2017.03.26-06.23.04:723][ 36]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.23.04:746][ 36]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.23.04
+[2017.03.26-06.23.04:752][ 36]LogWorld: Bringing up level for play took: 0.027916
+[2017.03.26-06.23.04:770][ 36]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.739
+[2017.03.26-06.23.04:771][ 36]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.09:245][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.09:410][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.15:763][217]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.23.15:803][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.15:803][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.23.15:803][217]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:23:15 PM)
+[2017.03.26-06.23.15:804][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.23.15:986][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.182812s)
+[2017.03.26-06.23.15:987][217]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.23.15:987][217]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2017.03.26-06.23.15:988][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.184386s)
+[2017.03.26-06.23.16:027][217]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.23.16:038][217]LogInit: FAudioDevice initialized.
+[2017.03.26-06.23.16:069][217]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.23.16:093][217]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.23.16
+[2017.03.26-06.23.16:098][217]LogWorld: Bringing up level for play took: 0.027816
+[2017.03.26-06.23.16:101][217]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 0.07
+[2017.03.26-06.23.16:102][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.22:442][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.22:582][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.24:945][397]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.23.25:018][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.25:018][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.23.25:018][397]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:23:25 PM)
+[2017.03.26-06.23.25:018][397]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.23.25:169][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151203s)
+[2017.03.26-06.23.25:170][397]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.23.25:170][397]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2017.03.26-06.23.25:171][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.152890s)
+[2017.03.26-06.23.25:212][397]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.23.25:223][397]LogInit: FAudioDevice initialized.
+[2017.03.26-06.23.25:255][397]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.23.25:289][397]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.23.25
+[2017.03.26-06.23.25:296][397]LogWorld: Bringing up level for play took: 0.040635
+[2017.03.26-06.23.25:301][397]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel 1.269
+[2017.03.26-06.23.25:302][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.27:982][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.28:159][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.29:684][486]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.23.29:709][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.29:709][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.23.29:709][486]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:23:29 PM)
+[2017.03.26-06.23.29:709][486]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.23.29:834][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124889s)
+[2017.03.26-06.23.29:835][486]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.23.29:835][486]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2017.03.26-06.23.29:836][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.126590s)
+[2017.03.26-06.23.29:875][486]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.23.29:887][486]LogInit: FAudioDevice initialized.
+[2017.03.26-06.23.29:917][486]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.23.29:941][486]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.23.29
+[2017.03.26-06.23.29:946][486]LogWorld: Bringing up level for play took: 0.028052
+[2017.03.26-06.23.29:949][486]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.082
+[2017.03.26-06.23.29:950][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.41:084][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.23.41:234][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.25.35:025][965]LogRenderer: Reallocating scene render targets to support 848x576 NumSamples 1 (Frame:16249).
+[2017.03.26-06.25.35:237][968]LogRenderer: Reallocating scene render targets to support 852x576 NumSamples 1 (Frame:16254).
+[2017.03.26-06.25.35:493][971]LogRenderer: Reallocating scene render targets to support 856x576 NumSamples 1 (Frame:16258).
+[2017.03.26-06.25.35:709][974]LogRenderer: Reallocating scene render targets to support 860x576 NumSamples 1 (Frame:16264).
+[2017.03.26-06.25.37:178][  8]LogRenderer: Reallocating scene render targets to support 864x576 NumSamples 1 (Frame:16300).
+[2017.03.26-06.25.37:275][  9]LogRenderer: Reallocating scene render targets to support 916x576 NumSamples 1 (Frame:16302).
+[2017.03.26-06.25.37:527][ 10]LogRenderer: Reallocating scene render targets to support 928x576 NumSamples 1 (Frame:16304).
+[2017.03.26-06.25.37:699][ 11]LogRenderer: Reallocating scene render targets to support 936x576 NumSamples 1 (Frame:16306).
+[2017.03.26-06.25.37:787][ 12]LogRenderer: Reallocating scene render targets to support 940x576 NumSamples 1 (Frame:16308).
+[2017.03.26-06.25.37:969][ 14]LogRenderer: Reallocating scene render targets to support 944x576 NumSamples 1 (Frame:16312).
+[2017.03.26-06.26.46:253][758]LogSavePackage: Save=928.03ms
+[2017.03.26-06.26.46:253][758]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/TombLevel_Auto1D7136DFE4AACF6AA9536819C6BD7CC63.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/TombLevel_Auto1.umap'
+[2017.03.26-06.26.46:262][758]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/TombLevel_Auto1.umap
+[2017.03.26-06.26.46:289][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TombLevel' took 1.042
+[2017.03.26-06.26.46:289][758]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.042
+[2017.03.26-06.26.46:297][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/character/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.03.26-06.26.46:297][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/SK_Mannequin_Skeleton]
+[2017.03.26-06.26.46:365][758]LogSavePackage: Save=34.75ms
+[2017.03.26-06.26.46:365][758]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton_Auto173616B9542BB3327BFDBF39663185739.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/SK_Mannequin_Skeleton_Auto1.uasset'
+[2017.03.26-06.26.46:369][758]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/SK_Mannequin_Skeleton_Auto1.uasset
+[2017.03.26-06.26.46:369][758]LogFileHelpers: Auto-saving content packages took 0.075
+[2017.03.26-06.28.36:691][970]LogSavePackage: Save=8.42ms
+[2017.03.26-06.28.36:691][970]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton737143BD45B4E6E5B02328A1F232BFEE.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset'
+[2017.03.26-06.28.36:702][970]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset
+[2017.03.26-06.28.45:353][140]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.26-06.28.45:399][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.28.45:399][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.26-06.28.45:400][140]PIE: New page: PIE session: TombLevel (Mar 25, 2017, 10:28:45 PM)
+[2017.03.26-06.28.45:400][140]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TombLevel
+[2017.03.26-06.28.45:584][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183799s)
+[2017.03.26-06.28.45:584][140]LogAIModule: Creating AISystem for world TombLevel
+[2017.03.26-06.28.45:585][140]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2017.03.26-06.28.45:585][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombLevel.TombLevel to /Game/UEDPIE_0_TombLevel.TombLevel (0.185553s)
+[2017.03.26-06.28.45:630][140]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.26-06.28.45:643][140]LogInit: FAudioDevice initialized.
+[2017.03.26-06.28.45:674][140]LogLoad: Game class is 'myGame_C'
+[2017.03.26-06.28.45:698][140]LogWorld: Bringing World /Game/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.03.26-02.28.45
+[2017.03.26-06.28.45:703][140]LogWorld: Bringing up level for play took: 0.028409
+[2017.03.26-06.28.45:707][140]PIE: Info Play in editor start time for /Game/UEDPIE_0_TombLevel -0.325
+[2017.03.26-06.28.45:707][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.29.43:831][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.29.43:969][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.03.26-06.30.35:869][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombLevel" FILE="../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.26-06.30.36:605][802]LogSavePackage: Save=677.09ms
+[2017.03.26-06.30.36:605][802]LogSavePackage: Moving '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Saved/TombLevel8DDEE6064B3E659CDC00E2B2C0789CC3.tmp' to '../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap'
+[2017.03.26-06.30.36:612][802]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Documents/GitHub/TheCursedBlade/Cursed_Blade/Content/TombLevel.umap
+[2017.03.26-06.30.36:650][802]LogFileHelpers: Saving map 'TombLevel' took 0.971
+[2017.03.26-06.31.22:836][857]LogRenderer: Reallocating scene render targets to support 944x588 NumSamples 1 (Frame:22331).
