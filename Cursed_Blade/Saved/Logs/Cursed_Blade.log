@@ -560,3 +560,266 @@ Please see Output Log for details.
 [2017.03.29-02.42.10:023][832]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
 [2017.03.29-02.42.21:133][202]LogSavePackage: Save=49.31ms
 [2017.03.29-02.42.21:133][202]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange6DB523C844C328676AB91483D5E95B4C.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange.uasset'
+[2017.03.29-02.42.21:147][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange.uasset
+[2017.03.29-02.42.21:176][202]LogSavePackage: Save=11.22ms
+[2017.03.29-02.42.21:176][202]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_Anim_mixamo_com2DDC30B047CEE81A500495932D760682.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_mixamo_com.uasset'
+[2017.03.29-02.42.21:183][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_mixamo_com.uasset
+[2017.03.29-02.42.21:213][202]LogSavePackage: Save=11.26ms
+[2017.03.29-02.42.21:213][202]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_Anim_Take_0018AECF2A64B541E4F768C3A85F803227A.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_Take_001.uasset'
+[2017.03.29-02.42.21:220][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_Take_001.uasset
+[2017.03.29-02.42.21:262][202]LogSavePackage: Save=31.08ms
+[2017.03.29-02.42.21:262][202]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_PhysicsAsset77FC1FF949D063A1C5CF27981368389F.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_PhysicsAsset.uasset'
+[2017.03.29-02.42.21:268][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_PhysicsAsset.uasset
+[2017.03.29-02.42.21:285][202]LogSavePackage: Save=7.07ms
+[2017.03.29-02.42.21:285][202]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_Skeleton698FA8974DA712EF3D15738CB2412872.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Skeleton.uasset'
+[2017.03.29-02.42.21:293][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Skeleton.uasset
+[2017.03.29-02.43.31:456][161]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.03.29-02.43.32:212][161]LogRenderer: Reallocating scene render targets to support 944x576 NumSamples 1 (Frame:7435).
+[2017.03.29-02.45.43:187][425]LogSavePackage: Save=22.76ms
+[2017.03.29-02.45.43:187][425]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_Skeleton8C398F6F415402BD2218BCB0ACE38D4B.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Skeleton.uasset'
+[2017.03.29-02.45.43:193][425]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Skeleton.uasset
+[2017.03.29-03.06.34:013][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange.fbx)
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: Model, ItemCount : 66
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: Texture, ItemCount : 5
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: Video, ItemCount : 5
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: Deformer, ItemCount : 66
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: Material, ItemCount : 1
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: AnimationCurveNode, ItemCount : 67
+[2017.03.29-03.06.34:102][876]LogFbx: ItemName: AnimationCurve, ItemCount : 354
+[2017.03.29-03.06.34:109][876]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange.fbx
+[2017.03.29-03.06.34:245][876]LogFbx: FBX Scene Loaded Succesfully
+[2017.03.29-03.06.43:673][876]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange.fbx
+[2017.03.29-03.06.43:798][876]LogFbx: FBX Scene Loaded Succesfully
+[2017.03.29-03.06.43:807][876]LogFbx: =================================================
+[2017.03.29-03.06.43:807][876]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.03.29-03.06.43:807][876]LogFbx: 	Total Deformer Count 1469496064.
+[2017.03.29-03.06.43:807][876]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.03.29-03.06.43:807][876]LogFbx: =================================================
+[2017.03.29-03.06.43:807][876]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.03.29-03.06.43:807][876]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.03.29-03.06.43:807][876]LogFbx: Dumping Node END [skeletonZombie]
+[2017.03.29-03.06.43:809][876]LogFbx: =================================================
+[2017.03.29-03.06.43:809][876]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.03.29-03.06.43:809][876]LogFbx: 	Total Deformer Count 1469496064.
+[2017.03.29-03.06.43:809][876]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.03.29-03.06.43:809][876]LogFbx: =================================================
+[2017.03.29-03.06.43:809][876]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.03.29-03.06.43:809][876]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.03.29-03.06.43:809][876]LogFbx: Dumping Node END [skeletonZombie]
+[2017.03.29-03.06.43:810][876]LogFbx:Warning: Not valid bind pose for Pose (skinCluster1) - Node skeletonZombie : The relative matrices do not match
+[2017.03.29-03.06.43:810][876]LogFbx:Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2017.03.29-03.06.43:811][876]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - skeletonZombie
+[2017.03.29-03.06.43:812][876]LogFbx:Warning: Recreating bind pose succeeded.
+[2017.03.29-03.06.43:839][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_Material'
+[2017.03.29-03.06.43:839][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_Material'
+[2017.03.29-03.06.43:875][876]LogMaterial:Warning: Material /Game/character/demon_enemy/skeletonZombie_Material.skeletonZombie_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2017.03.29-03.06.43:928][876]LogMaterial: Missing cached shader map for material skeletonZombie_Material, compiling. 
+[2017.03.29-03.06.44:298][876]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.29-03.06.44:315][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_diffuse'
+[2017.03.29-03.06.44:315][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_diffuse'
+[2017.03.29-03.06.44:962][876]LogTexture:Display: Building textures: skeletonZombie_diffuse (AutoDXT)
+[2017.03.29-03.06.51:300][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_glow'
+[2017.03.29-03.06.51:300][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_glow'
+[2017.03.29-03.06.51:648][876]LogTexture:Display: Building textures: skeletonZombie_glow (AutoDXT)
+[2017.03.29-03.06.52:324][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_specular'
+[2017.03.29-03.06.52:324][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_specular'
+[2017.03.29-03.06.52:763][876]LogTexture:Display: Building textures: skeletonZombie_specular (AutoDXT)
+[2017.03.29-03.06.57:835][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_normal'
+[2017.03.29-03.06.57:835][876]LogLinker: Can't find file '/Game/character/demon_enemy/skeletonZombie_normal'
+[2017.03.29-03.06.58:135][876]LogTexture:Display: Building textures: skeletonZombie_normal (BC5)
+[2017.03.29-03.06.59:146][876]LogTexture:Display: Building textures: skeletonZombie_diffuse (AutoDXT)
+[2017.03.29-03.07.03:142][876]LogMaterial: Missing cached shader map for material skeletonZombie_Material, compiling. 
+[2017.03.29-03.07.03:363][876]LogFbx:Warning: Bones digested - 65  Depth of hierarchy - 12
+[2017.03.29-03.07.03:907][876]LogSkeletalMesh: Section 0: 7445 vertices, 52 active bones
+[2017.03.29-03.07.03:934][876]LogSkeletalMesh: Section 0: Material=0, 12486 triangles
+[2017.03.29-03.07.03:946][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_PhysicsAsset'
+[2017.03.29-03.07.03:946][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_PhysicsAsset'
+[2017.03.29-03.07.03:949][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_Skeleton'
+[2017.03.29-03.07.03:950][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_Skeleton'
+[2017.03.29-03.07.03:951][876]LogFbx: =================================================
+[2017.03.29-03.07.03:951][876]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.03.29-03.07.03:951][876]LogFbx: 	Total Deformer Count 1396928528.
+[2017.03.29-03.07.03:951][876]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.03.29-03.07.03:951][876]LogFbx: =================================================
+[2017.03.29-03.07.03:951][876]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.03.29-03.07.03:951][876]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.03.29-03.07.03:951][876]LogFbx: Dumping Node END [skeletonZombie]
+[2017.03.29-03.07.03:953][876]LogFbx: =================================================
+[2017.03.29-03.07.03:953][876]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.03.29-03.07.03:953][876]LogFbx: 	Total Deformer Count 1396928528.
+[2017.03.29-03.07.03:953][876]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.03.29-03.07.03:953][876]LogFbx: =================================================
+[2017.03.29-03.07.03:953][876]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.03.29-03.07.03:953][876]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.03.29-03.07.03:953][876]LogFbx: Dumping Node END [skeletonZombie]
+[2017.03.29-03.07.03:953][876]LogFbx: SortedLinks :(0) Hips
+[2017.03.29-03.07.03:953][876]LogFbx: SortedLinks :(1) Spine
+[2017.03.29-03.07.03:953][876]LogFbx: SortedLinks :(2) Spine1
+[2017.03.29-03.07.03:953][876]LogFbx: SortedLinks :(3) Spine2
+[2017.03.29-03.07.03:953][876]LogFbx: SortedLinks :(4) LeftShoulder
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(5) LeftArm
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(6) LeftForeArm
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(7) LeftHand
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(8) LeftHandMiddle1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(9) LeftHandMiddle2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(10) LeftHandMiddle3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(11) LeftHandMiddle4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(12) LeftHandIndex1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(13) LeftHandIndex2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(14) LeftHandIndex3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(15) LeftHandIndex4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(16) LeftHandThumb1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(17) LeftHandThumb2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(18) LeftHandThumb3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(19) LeftHandThumb4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(20) LeftHandPinky1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(21) LeftHandPinky2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(22) LeftHandPinky3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(23) LeftHandPinky4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(24) LeftHandRing1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(25) LeftHandRing2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(26) LeftHandRing3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(27) LeftHandRing4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(28) Neck
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(29) Head
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(30) HeadTop_End
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(31) RightShoulder
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(32) RightArm
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(33) RightForeArm
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(34) RightHand
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(35) RightHandThumb1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(36) RightHandThumb2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(37) RightHandThumb3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(38) RightHandThumb4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(39) RightHandIndex1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(40) RightHandIndex2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(41) RightHandIndex3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(42) RightHandIndex4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(47) RightHandRing1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(48) RightHandRing2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(49) RightHandRing3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(50) RightHandRing4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(51) RightHandPinky1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(52) RightHandPinky2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(53) RightHandPinky3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(54) RightHandPinky4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(56) LeftLeg
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(57) LeftFoot
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(61) RightLeg
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(62) RightFoot
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(63) RightToeBase
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(64) RightToe_End
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(0) Hips
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(1) Spine
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(2) Spine1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(3) Spine2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(4) LeftShoulder
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(5) LeftArm
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(6) LeftForeArm
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(7) LeftHand
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(8) LeftHandMiddle1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(9) LeftHandMiddle2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(10) LeftHandMiddle3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(11) LeftHandMiddle4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(12) LeftHandIndex1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(13) LeftHandIndex2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(14) LeftHandIndex3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(15) LeftHandIndex4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(16) LeftHandThumb1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(17) LeftHandThumb2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(18) LeftHandThumb3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(19) LeftHandThumb4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(20) LeftHandPinky1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(21) LeftHandPinky2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(22) LeftHandPinky3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(23) LeftHandPinky4
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(24) LeftHandRing1
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(25) LeftHandRing2
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(26) LeftHandRing3
+[2017.03.29-03.07.03:954][876]LogFbx: SortedLinks :(27) LeftHandRing4
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(28) Neck
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(29) Head
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(30) HeadTop_End
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(31) RightShoulder
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(32) RightArm
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(33) RightForeArm
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(34) RightHand
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(35) RightHandThumb1
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(36) RightHandThumb2
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(37) RightHandThumb3
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(38) RightHandThumb4
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(39) RightHandIndex1
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(40) RightHandIndex2
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(41) RightHandIndex3
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(42) RightHandIndex4
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(47) RightHandRing1
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(48) RightHandRing2
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(49) RightHandRing3
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(50) RightHandRing4
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(51) RightHandPinky1
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(52) RightHandPinky2
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(53) RightHandPinky3
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(54) RightHandPinky4
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(56) LeftLeg
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(57) LeftFoot
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(61) RightLeg
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(62) RightFoot
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(63) RightToeBase
+[2017.03.29-03.07.03:955][876]LogFbx: SortedLinks :(64) RightToe_End
+[2017.03.29-03.07.03:956][876]LogFbx: Parsing AnimStack Take 001
+[2017.03.29-03.07.03:957][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_Take_001'
+[2017.03.29-03.07.03:957][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_Take_001'
+[2017.03.29-03.07.04:266][876]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_Take_001.Skeletonzombie_T_Avelange_Anim_Take_001
+[2017.03.29-03.07.04:270][876]LogFbx: Parsing AnimStack mixamo.com
+[2017.03.29-03.07.04:274][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_mixamo_com'
+[2017.03.29-03.07.04:274][876]LogLinker: Can't find file '/Game/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_mixamo_com'
+[2017.03.29-03.07.04:408][876]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_mixamo_com.Skeletonzombie_T_Avelange_Anim_mixamo_com
+[2017.03.29-03.07.04:418][876]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.03.29-03.07.17:676][ 41]LogSavePackage: Save=609.57ms
+[2017.03.29-03.07.17:676][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_diffuseC275452842B5703879C3CEA3769867CF.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_diffuse.uasset'
+[2017.03.29-03.07.17:682][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_diffuse.uasset
+[2017.03.29-03.07.17:884][ 41]LogSavePackage: Save=184.93ms
+[2017.03.29-03.07.17:884][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_glow90D4255B48EEAC38F2CE4092C3D57957.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_glow.uasset'
+[2017.03.29-03.07.17:891][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_glow.uasset
+[2017.03.29-03.07.18:068][ 41]LogSavePackage: Save=90.21ms
+[2017.03.29-03.07.18:068][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_Material59CC5A6B4129F5D5AEE89F9215817BA1.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_Material.uasset'
+[2017.03.29-03.07.18:075][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_Material.uasset
+[2017.03.29-03.07.18:894][ 41]LogSavePackage: Save=796.87ms
+[2017.03.29-03.07.18:894][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_normalEBD51C0643E1EC5C18B78DBBC2A5C3EA.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_normal.uasset'
+[2017.03.29-03.07.18:900][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_normal.uasset
+[2017.03.29-03.07.19:483][ 41]LogSavePackage: Save=540.42ms
+[2017.03.29-03.07.19:483][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_specular9A3CDC3C46954C71B4A1B7A951E0BB6C.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_specular.uasset'
+[2017.03.29-03.07.19:491][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/skeletonZombie_specular.uasset
+[2017.03.29-03.07.19:581][ 41]LogSavePackage: Save=36.95ms
+[2017.03.29-03.07.19:581][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_AvelangeCCB4DA9B476FC82957339AB103C5F05E.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange.uasset'
+[2017.03.29-03.07.19:587][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange.uasset
+[2017.03.29-03.07.19:614][ 41]LogSavePackage: Save=10.60ms
+[2017.03.29-03.07.19:614][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_Anim_mixamo_com418DC3CF4D7AE38797523A86666CCDAA.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_mixamo_com.uasset'
+[2017.03.29-03.07.19:619][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_mixamo_com.uasset
+[2017.03.29-03.07.19:646][ 41]LogSavePackage: Save=10.60ms
+[2017.03.29-03.07.19:646][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_Anim_Take_00139728F1B4B0610AB76347FAEA1147CC6.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_Take_001.uasset'
+[2017.03.29-03.07.19:653][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_Anim_Take_001.uasset
+[2017.03.29-03.07.19:689][ 41]LogSavePackage: Save=27.82ms
+[2017.03.29-03.07.19:689][ 41]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange_PhysicsAsset1BA013034B4A64DBC08D99B566F374DC.tmp' to '../../../../../../Users/aerob/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demon_enemy/Skeletonzombie_T_Avelange_PhysicsAsset.uasset'
