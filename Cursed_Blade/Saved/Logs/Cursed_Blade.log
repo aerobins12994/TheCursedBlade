@@ -554,3 +554,137 @@ LogInit: Object subsystem initialized
 [2017.03.29-20.22.55:084][937]LogSavePackage: Save=852.21ms
 [2017.03.29-20.22.55:084][937]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Nightshade_specularC1DAF1A14FDCC7CD0626CFAFFE4A6C7A.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_specular.uasset'
 [2017.03.29-20.22.55:091][937]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_specular.uasset
+[2017.03.29-20.28.22:973][207]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/In_Progress (2)/mutant_swiping.fbx)
+[2017.03.29-20.28.22:984][207]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.03.29-20.28.22:984][207]LogFbx: ItemName: Model, ItemCount : 65
+[2017.03.29-20.28.22:984][207]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2017.03.29-20.28.22:984][207]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.03.29-20.28.22:984][207]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.03.29-20.28.22:984][207]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2017.03.29-20.28.22:984][207]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2017.03.29-20.28.22:992][207]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/In_Progress (2)/mutant_swiping.fbx
+[2017.03.29-20.28.23:041][207]LogFbx: FBX Scene Loaded Succesfully
+[2017.03.29-20.28.34:095][207]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/In_Progress (2)/mutant_swiping.fbx
+[2017.03.29-20.28.34:143][207]LogFbx: FBX Scene Loaded Succesfully
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(0) Hips
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(1) Spine
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(2) Spine1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(3) Spine2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(4) Neck
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(5) Head
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(8) LeftArm
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(10) LeftHand
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(31) RightShoulder
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(32) RightArm
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(33) RightForeArm
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(34) RightHand
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(56) LeftLeg
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(57) LeftFoot
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(61) RightLeg
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(62) RightFoot
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(63) RightToeBase
+[2017.03.29-20.28.34:169][207]LogFbx: SortedLinks :(64) RightToe_End
+[2017.03.29-20.28.34:170][207]LogFbx: Parsing AnimStack mixamo.com
+[2017.03.29-20.28.34:188][207]LogLinker: Can't find file '/Game/demons/demon_anim/mutant_swiping'
+[2017.03.29-20.28.34:188][207]LogLinker: Can't find file '/Game/demons/demon_anim/mutant_swiping'
+[2017.03.29-20.28.34:936][207]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_anim/mutant_swiping.mutant_swiping
+[2017.03.29-20.28.39:537][305]LogSavePackage: Save=78.99ms
+[2017.03.29-20.28.39:537][305]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_swipingC4C1900E4F97A5B1C3B359BA194257B7.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_swiping.uasset'
+[2017.03.29-20.28.39:556][305]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_swiping.uasset
+[2017.03.29-20.28.51:442][371]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.03.29-20.28.53:335][371]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.29-20.30.26:357][266]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2017.03.29-20.30.26:719][266]LogRenderer: Reallocating scene render targets to support 856x576 NumSamples 1 (Frame:3411).
+[2017.03.29-20.30.48:552][702]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.03.29-20.32.55:657][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.156
+[2017.03.29-20.32.55:680][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/demons/Nightshade_J_Friedrich_Skeleton] ([1] browsable assets)...
+[2017.03.29-20.32.55:684][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/Nightshade_J_Friedrich_Skeleton]
+[2017.03.29-20.32.55:806][258]LogSavePackage: Save=15.86ms
+[2017.03.29-20.32.55:806][258]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_Skeleton_Auto1285AD63A4638E0263C38A38BB4118768.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/Nightshade_J_Friedrich_Skeleton_Auto1.uasset'
+[2017.03.29-20.32.55:809][258]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/Nightshade_J_Friedrich_Skeleton_Auto1.uasset
+[2017.03.29-20.32.55:809][258]LogFileHelpers: Auto-saving content packages took 0.150
+[2017.03.29-20.42.56:274][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.026
+[2017.03.29-20.42.56:278][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/demons/Nightshade_J_Friedrich_Skeleton] ([1] browsable assets)...
+[2017.03.29-20.42.56:278][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/Nightshade_J_Friedrich_Skeleton]
+[2017.03.29-20.42.56:310][ 22]LogSavePackage: Save=9.17ms
+[2017.03.29-20.42.56:310][ 22]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_Skeleton_Auto204F89976407FD015E875C5A8FAE9EBCF.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/Nightshade_J_Friedrich_Skeleton_Auto2.uasset'
+[2017.03.29-20.42.56:313][ 22]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/Nightshade_J_Friedrich_Skeleton_Auto2.uasset
+[2017.03.29-20.42.56:313][ 22]LogFileHelpers: Auto-saving content packages took 0.038
+[2017.03.29-20.47.43:623][507]LogSavePackage: Save=23.13ms
+[2017.03.29-20.47.43:623][507]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_SkeletonCBE591C3412BA6344B9D078327726B3A.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset'
+[2017.03.29-20.47.43:643][507]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset
+[2017.03.29-20.47.46:132][547]LogSavePackage: Save=12.78ms
+[2017.03.29-20.47.46:132][547]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_SkeletonC5896E7040737EACB146D0A787D93156.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset'
+[2017.03.29-20.47.46:135][547]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset
+[2017.03.29-20.48.16:535][875]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2017.03.29-20.48.18:542][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/Nightshade_J_Friedrich" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich.uasset" SILENT=true
+[2017.03.29-20.48.18:892][901]LogSavePackage: Save=81.90ms
+[2017.03.29-20.48.18:892][901]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_FriedrichB78BF16A44B68E0D559493957B069386.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich.uasset'
+[2017.03.29-20.48.18:901][901]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich.uasset
+[2017.03.29-20.48.31:975][235]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.03.29-20.52.43:046][997]LogAIModule: Creating AISystem for world AI_Test
+[2017.03.29-20.52.43:112][997]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.29-20.52.43:112][997]LightingResults: New page: Lighting Build
+[2017.03.29-20.52.43:113][997]LoadErrors: New page: Loading map: AI_Test.umap
+[2017.03.29-20.52.43:137][997]MapCheck: New page: Map Check
+[2017.03.29-20.52.43:137][997]LightingResults: New page: Lighting Build
+[2017.03.29-20.52.43:398][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.29-20.52.43:455][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.29-20.52.47:495][997]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 4,040.027ms to complete.
+[2017.03.29-20.52.47:497][997]LogFileHelpers: Loading map 'AI_Test' took 4.405
+[2017.03.29-20.53.13:599][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.29-20.53.14:278][877]LogSavePackage: Save=546.00ms
+[2017.03.29-20.53.14:278][877]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/AI_TestDEDF611342A7BC10ADA7869676AC3EAE.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.03.29-20.53.14:299][877]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.03.29-20.53.55:345][626]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_swiping.mutant_swiping
+[2017.03.29-20.53.55:364][626]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_swiping.mutant_swiping
+[2017.03.29-20.54.04:350][816]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.03.29-20.54.16:995][ 57]LogSavePackage: Save=10.29ms
+[2017.03.29-20.54.16:995][ 57]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton6BB47E794C9E69C84D2EFCBB0A8FB186.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset'
