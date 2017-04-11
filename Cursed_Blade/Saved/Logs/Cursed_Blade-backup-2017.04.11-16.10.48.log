@@ -1,0 +1,1535 @@
+﻿Log file open, 04/10/17 17:47:58
+LogInit:Display: Running engine for game: Cursed_Blade
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1710476124) SRandInit(1710476124).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.095326
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.10-21.48.00:518][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.10-21.48.00:518][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.10-21.48.00:556][  0]LogInit: Computer: GRIFFIN
+[2017.04.10-21.48.00:556][  0]LogInit: User: griff000
+[2017.04.10-21.48.00:556][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.04.10-21.48.00:556][  0]LogInit: High frequency timer resolution =2.143579 MHz
+[2017.04.10-21.48.00:557][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.04.10-21.48.00:557][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.10-21.48.00:557][  0]LogMemory: Process Physical Memory: 265.64 MB used, 265.64 MB peak
+[2017.04.10-21.48.00:557][  0]LogMemory: Process Virtual Memory: 262.74 MB used, 262.74 MB peak
+[2017.04.10-21.48.00:557][  0]LogMemory: Physical Memory: 6314.61 MB used,  1767.13 MB free, 8081.75 MB total
+[2017.04.10-21.48.00:557][  0]LogMemory: Virtual Memory: 676.64 MB used,  1767.13 MB free, 134217728.00 MB total
+[2017.04.10-21.48.00:585][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.10-21.48.01:494][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.10-21.48.01:508][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.04.10-21.48.01:508][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x8086
+[2017.04.10-21.48.01:510][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.10-21.48.01:510][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.10-21.48.01:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.10-21.48.01:517][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.10-21.48.01:517][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.10-21.48.01:518][  0]LogWindows: EnumDisplayDevices:
+[2017.04.10-21.48.01:518][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2017.04.10-21.48.01:518][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:1)
+[2017.04.10-21.48.01:518][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:1)
+[2017.04.10-21.48.01:519][  0]LogWindows:    3. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.04.10-21.48.01:519][  0]LogWindows:    4. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.04.10-21.48.01:519][  0]LogWindows:    5. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.04.10-21.48.01:519][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.04.10-21.48.01:520][  0]LogWindows:    7. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.04.10-21.48.01:520][  0]LogWindows:    8. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.04.10-21.48.01:520][  0]LogWindows: DebugString: FoundDriverCount:9 
+[2017.04.10-21.48.01:520][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2017.04.10-21.48.01:520][  0]LogD3D11RHI:   Driver Version: 10.18.10.4358 (internal:10.18.10.4358, unified:10.18.10.4358)
+[2017.04.10-21.48.01:520][  0]LogD3D11RHI:      Driver Date: 12-21-2015
+[2017.04.10-21.48.01:520][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2017.04.10-21.48.01:525][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.10-21.48.01:541][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.04.10-21.48.01:542][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/4200/).
+[2017.04.10-21.48.01:542][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/griff_000/AppData/Local/Temp/UnrealShaderWorkingDir/BA6BDACC418CD6E5DA4CD9A6859E0AB1/'.
+[2017.04.10-21.48.01:542][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.10-21.48.04:162][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.10-21.48.04:245][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.10-21.48.04:324][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.10-21.48.04:405][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.10-21.48.04:518][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.10-21.48.04:598][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.10-21.48.04:769][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.10-21.48.04:851][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.10-21.48.04:925][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.10-21.48.05:038][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.10-21.48.05:130][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.10-21.48.05:213][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.10-21.48.05:290][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.10-21.48.05:369][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.10-21.48.05:446][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.10-21.48.05:602][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.10-21.48.05:602][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.10-21.48.05:708][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.10-21.48.05:859][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.10-21.48.05:908][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.10-21.48.05:985][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.10-21.48.06:073][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.10-21.48.06:171][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.10-21.48.06:283][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.10-21.48.06:283][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.10-21.48.06:982][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.10-21.48.09:185][  0]LogDerivedDataCache: Loaded boot cache 2.20s 50MB C:/Users/griff_000/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.10-21.48.09:188][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/griff_000/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.10-21.48.09:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.10-21.48.09:188][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.10-21.48.09:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.10-21.48.09:188][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.10-21.48.09:208][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.10-21.48.09:221][  0]LogDerivedDataCache: Using Local data cache path C:/Users/griff_000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.10-21.48.09:637][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.10-21.48.09:642][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.10-21.48.09:930][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.10-21.48.09:994][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.10-21.48.10:066][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.10-21.48.10:066][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.10-21.48.10:066][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.10-21.48.10:899][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.04.10-21.48.10:974][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2017.04.10-21.48.11:331][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.318210 seconds
+[2017.04.10-21.48.11:337][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.10-21.48.11:337][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.10-21.48.11:337][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.10-21.48.11:443][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.10-21.48.13:409][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.10-21.48.13:409][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.10-21.48.13:409][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.10-21.48.30:315][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.10-21.48.30:377][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.10-21.48.31:171][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.10-21.48.31:842][  0]SourceControl: Info Source control is disabled
+[2017.04.10-21.48.31:922][  0]SourceControl: Info Source control is disabled
+[2017.04.10-21.48.32:005][  0]SourceControl: Info Source control is disabled
+[2017.04.10-21.48.32:080][  0]SourceControl: Info Source control is disabled
+[2017.04.10-21.48.34:438][  0]LogEngine: Initializing Engine...
+[2017.04.10-21.48.34:438][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.10-21.48.34:803][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.10-21.48.34:814][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-21.48.34:829][  0]LogInit: FAudioDevice initialized.
+[2017.04.10-21.48.34:859][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/griff_000/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.10-21.48.34:870][  0]LogInit: Texture streaming: Enabled
+[2017.04.10-21.48.35:684][  0]LogInit: Transaction tracking system initialized
+[2017.04.10-21.48.36:243][  0]BlueprintLog: New page: Editor Load
+[2017.04.10-21.48.37:703][  0]LocalizationService: Info Localization service is disabled
+[2017.04.10-21.48.39:213][  0]LogConsoleResponse:Display: 
+[2017.04.10-21.48.40:060][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.10-21.48.40:060][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.10-21.48.41:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/' took 0.05s
+[2017.04.10-21.48.41:893][  0]SourceControl: Info Source control is disabled
+[2017.04.10-21.48.41:893][  0]Cmd: MAP LOAD FILE="../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.10-21.48.41:939][  0]LightingResults: New page: Lighting Build
+[2017.04.10-21.48.42:007][  0]MapCheck: New page: Map Check
+[2017.04.10-21.48.42:007][  0]LightingResults: New page: Lighting Build
+[2017.04.10-21.48.52:244][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.10-21.48.53:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.10-21.48.53:306][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.10-21.48.53:377][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 69.963ms to complete.
+[2017.04.10-21.48.53:377][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 11.484
+[2017.04.10-21.48.55:606][  0]LogCollectionManager: Loaded 0 collections in 0.024124 seconds
+[2017.04.10-21.48.56:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.04.10-21.48.56:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Developers/griff000/Collections/' took 0.01s
+[2017.04.10-21.48.56:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.04.10-21.48.56:143][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.10-21.48.56:197][  0]LogContentBrowser: Native class hierarchy populated in 0.0343 seconds. Added 2190 classes and 428 folders.
+[2017.04.10-21.48.56:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.10-21.48.56:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.10-21.48.56:457][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2017.04.10-21.48.56:632][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.04.10-21.48.59:622][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.04.10-21.48.59:916][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.04.10-21.49.00:824][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.10-21.49.01:053][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.10-21.49.01:184][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.04.10-21.49.01:184][  0]LogLoad: (Engine Initialization) Total time: 65.21 seconds
+[2017.04.10-21.49.01:184][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.37 seconds
+[2017.04.10-21.49.01:184][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.10-21.49.01:184][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.10-21.49.01:523][  0]LogOcInput: OculusInput pre-init called
+[2017.04.10-21.49.02:330][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.04.10-21.49.04:901][  0]LogRenderer: Reallocating scene render targets to support 1116x564 NumSamples 1 (Frame:2).
+[2017.04.10-21.49.07:741][  4]LogAssetRegistry: Asset discovery search completed in 56.7890 seconds
+[2017.04.10-21.49.07:741][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.10-21.49.07:741][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2017.04.10-21.57.00:658][532]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.10-21.57.00:908][532]LogPackageName: SearchForPackageOnDisk took   0.151s, but failed to resolve Env_Ice_RuinedWalls001.
+[2017.04.10-21.57.00:908][532]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
+[2017.04.10-21.57.22:751][532]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-21.57.25:769][532]Cmd: MAP LOAD FILE="../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.10-21.57.25:770][532]LightingResults: New page: Lighting Build
+[2017.04.10-21.57.25:771][532]LoadErrors: New page: Loading map: HillsideLevel.umap
+[2017.04.10-21.57.25:931][532]MapCheck: New page: Map Check
+[2017.04.10-21.57.25:931][532]LightingResults: New page: Lighting Build
+[2017.04.10-21.57.28:495][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.10-21.57.28:598][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.10-21.57.31:755][532]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 3,156.223ms to complete.
+[2017.04.10-21.57.31:756][532]LogFileHelpers: Loading map 'HillsideLevel' took 6.022
+[2017.04.10-22.42.50:435][687]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-22.42.54:889][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_1)
+[2017.04.10-22.43.10:050][ 65]Cmd: EDIT COPY
+[2017.04.10-22.43.10:814][ 80]Cmd: EDIT PASTE
+[2017.04.10-22.43.53:734][ 42]Cmd: TRANSACTION UNDO
+[2017.04.10-22.43.53:734][ 42]LogEditorTransaction: Undo Rotate Actors
+[2017.04.10-22.43.53:788][ 42]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_35.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.53:791][ 42]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_43.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.53:992][ 43]Cmd: TRANSACTION UNDO
+[2017.04.10-22.43.53:992][ 43]LogEditorTransaction: Undo Move Actors
+[2017.04.10-22.43.53:995][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_35.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.53:998][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_43.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.54:914][ 88]Cmd: TRANSACTION UNDO
+[2017.04.10-22.43.54:914][ 88]LogEditorTransaction: Undo Rotate Actors
+[2017.04.10-22.43.54:959][ 88]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_35.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.54:961][ 88]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_43.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.55:511][101]Cmd: TRANSACTION UNDO
+[2017.04.10-22.43.55:511][101]LogEditorTransaction: Undo Move Actors
+[2017.04.10-22.43.55:547][101]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_35.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.55:549][101]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_43.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.43.56:796][127]Cmd: TRANSACTION UNDO
+[2017.04.10-22.43.56:796][127]LogEditorTransaction: Undo Paste
+[2017.04.10-22.44.02:551][255]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-22.44.03:158][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_15)
+[2017.04.10-22.44.04:213][290]Cmd: DELETE
+[2017.04.10-22.44.04:213][290]Cmd: ACTOR DELETE
+[2017.04.10-22.44.04:217][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.44.04:281][290]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2017.04.10-22.44.05:528][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_14)
+[2017.04.10-22.44.43:781][183]Cmd: TRANSACTION UNDO
+[2017.04.10-22.44.43:781][183]LogEditorTransaction: Undo Set actor scale
+[2017.04.10-22.44.43:825][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_10.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.43:827][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_6.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.44:136][191]Cmd: TRANSACTION UNDO
+[2017.04.10-22.44.44:136][191]LogEditorTransaction: Undo Move Actors
+[2017.04.10-22.44.44:146][191]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_10.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.44:148][191]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_6.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.45:891][252]Cmd: TRANSACTION UNDO
+[2017.04.10-22.44.45:891][252]LogEditorTransaction: Undo Move Actors
+[2017.04.10-22.44.45:942][252]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_10.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.45:944][252]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_6.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.46:722][271]Cmd: TRANSACTION UNDO
+[2017.04.10-22.44.46:722][271]LogEditorTransaction: Undo Scale Actors
+[2017.04.10-22.44.46:773][271]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_10.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.46:775][271]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_6.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.55:219][447]Cmd: TRANSACTION UNDO
+[2017.04.10-22.44.55:219][447]LogEditorTransaction: Undo Set actor scale
+[2017.04.10-22.44.55:275][447]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_10.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.55:277][447]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_6.StaticMeshComponent0) Component already registered.
+[2017.04.10-22.44.57:057][513]Cmd: TRANSACTION UNDO
+[2017.04.10-22.44.57:058][513]LogEditorTransaction: Undo Clicking on Actors
+[2017.04.10-22.45.15:554][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_14)
+[2017.04.10-22.46.21:487][764]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-22.46.29:278][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_14)
+[2017.04.10-22.46.42:738][214]Cmd: EDIT COPY
+[2017.04.10-22.46.42:941][219]Cmd: EDIT PASTE
+[2017.04.10-22.48.02:071][166]Cmd: EDIT COPY
+[2017.04.10-22.48.02:365][172]Cmd: EDIT PASTE
+[2017.04.10-22.49.04:491][551]Cmd: EDIT COPY
+[2017.04.10-22.49.04:919][558]Cmd: EDIT PASTE
+[2017.04.10-22.50.12:425][ 53]Cmd: EDIT COPY
+[2017.04.10-22.50.12:946][ 65]Cmd: EDIT PASTE
+[2017.04.10-22.50.27:471][395]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape3)
+[2017.04.10-22.50.28:914][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_69)
+[2017.04.10-22.50.46:028][878]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-22.50.46:669][890]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-22.50.48:492][922]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-22.50.49:040][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_70)
+[2017.04.10-22.51.40:217][127]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-22.51.40:251][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-22.51.40:330][127]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 2:51:40 PM)
+[2017.04.10-22.51.40:330][127]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-22.51.40:403][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072736s)
+[2017.04.10-22.51.40:404][127]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-22.51.40:405][127]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2017.04.10-22.51.40:405][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.075440s)
+[2017.04.10-22.51.40:423][127]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-22.51.40:437][127]LogInit: FAudioDevice initialized.
+[2017.04.10-22.51.40:677][127]LogLoad: Game class is 'myGame_C'
+[2017.04.10-22.51.40:711][127]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-18.51.40
+[2017.04.10-22.51.40:713][127]LogWorld: Bringing up level for play took: 0.034476
+[2017.04.10-22.51.45:733][127]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2017.04.10-22.51.45:755][127]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel 6.361
+[2017.04.10-22.52.56:256][570]Cmd: EDIT COPY
+[2017.04.10-22.52.56:794][584]Cmd: EDIT PASTE
+[2017.04.10-22.54.26:354][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:354][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:354][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:354][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:354][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:355][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:356][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:357][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:358][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:359][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:360][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:361][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:362][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:363][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:364][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:365][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:366][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:367][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:368][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[0] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[1] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[2] invalid
+[2017.04.10-22.54.26:369][441]LogPhysics:Warning: AddConvexElemsToRigidActor: [/Game/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/StaticMesh/SM_Ice_Fort_Stair_1.SM_Ice_Fort_Stair_1] ConvexElem[3] invalid
+[2017.04.10-22.54.42:347][762]Cmd: DELETE
+[2017.04.10-22.54.42:347][762]Cmd: ACTOR DELETE
+[2017.04.10-22.54.42:351][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:392][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:395][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:398][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:401][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:404][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:407][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:410][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:413][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:416][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:419][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:422][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:425][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:428][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:431][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:434][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:437][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:441][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:444][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:446][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:450][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:452][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:454][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:456][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:458][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:460][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:461][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:463][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:466][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:468][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:469][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:471][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:473][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:476][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:479][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:482][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:484][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:486][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:487][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:489][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:491][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:493][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:495][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:496][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:499][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:501][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:502][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:504][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:506][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:509][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:511][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:515][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:517][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:519][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:520][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:522][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:524][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:526][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:527][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:529][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:531][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:532][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:534][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:536][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:538][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:540][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:542][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:545][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:548][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:550][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-22.54.42:565][762]LogEditorActor: Deleted 70 Actors (0.218 secs)
+[2017.04.10-22.55.27:287][246]LogSavePackage: Save=488.60ms
+[2017.04.10-22.55.27:287][246]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevel_Auto12C6B563E4D7F6167AE36D7B6B5D2C7BA.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto1.umap'
+[2017.04.10-22.55.27:364][246]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto1.umap
+[2017.04.10-22.55.27:370][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HillsideLevel' took 0.722
+[2017.04.10-22.55.27:370][246]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.722
+[2017.04.10-23.27.37:374][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_57)
+[2017.04.10-23.27.56:452][683]Cmd: EDIT COPY
+[2017.04.10-23.27.56:678][687]Cmd: EDIT PASTE
+[2017.04.10-23.28.42:008][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_84)
+[2017.04.10-23.28.43:385][611]Cmd: DELETE
+[2017.04.10-23.28.43:385][611]Cmd: ACTOR DELETE
+[2017.04.10-23.28.43:388][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.28.43:445][611]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2017.04.10-23.28.44:152][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_83)
+[2017.04.10-23.28.44:267][629]Cmd: DELETE
+[2017.04.10-23.28.44:267][629]Cmd: ACTOR DELETE
+[2017.04.10-23.28.44:271][629]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.28.44:283][629]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.04.10-23.28.45:703][665]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-23.28.45:745][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-23.28.45:746][665]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 3:28:45 PM)
+[2017.04.10-23.28.45:746][665]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-23.28.45:837][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090281s)
+[2017.04.10-23.28.45:839][665]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-23.28.45:840][665]LogPlayLevel: PIE: World Init took: (0.003059s)
+[2017.04.10-23.28.45:840][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.094010s)
+[2017.04.10-23.28.45:859][665]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-23.28.45:875][665]LogInit: FAudioDevice initialized.
+[2017.04.10-23.28.45:912][665]LogLoad: Game class is 'myGame_C'
+[2017.04.10-23.28.45:947][665]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-19.28.45
+[2017.04.10-23.28.45:949][665]LogWorld: Bringing up level for play took: 0.035447
+[2017.04.10-23.28.45:957][665]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel 0.563
+[2017.04.10-23.29.50:657][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_82)
+[2017.04.10-23.29.59:890][ 96]Cmd: EDIT COPY
+[2017.04.10-23.30.00:110][100]Cmd: EDIT PASTE
+[2017.04.10-23.31.17:403][732]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-23.31.45:119][218]LogSavePackage: Save=526.71ms
+[2017.04.10-23.31.45:119][218]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevel_Auto2AE3759084C99B1897A0005AC0E961E7D.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto2.umap'
+[2017.04.10-23.31.45:166][218]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto2.umap
+[2017.04.10-23.31.45:169][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HillsideLevel' took 0.616
+[2017.04.10-23.31.45:169][218]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.616
+[2017.04.10-23.32.49:585][333]LogActorFactory: Actor Factory created SM_IceT3_Lift_01
+[2017.04.10-23.32.53:200][392]LogActorFactory: Actor Factory created SM_IceT3_BossWalls_03c
+[2017.04.10-23.33.03:785][582]LogActorFactory: Actor Factory created SM_IceT3_BossWalls_03c
+[2017.04.10-23.33.07:688][659]Cmd: DELETE
+[2017.04.10-23.33.07:688][659]Cmd: ACTOR DELETE
+[2017.04.10-23.33.07:691][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.33.07:764][659]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2017.04.10-23.33.37:059][211]LogActorFactory: Actor Factory created SM_IceT3_WoodSpikes_01
+[2017.04.10-23.33.39:686][268]LogActorFactory: Actor Factory created SM_IceT3_WoodSpikes_01
+[2017.04.10-23.33.42:637][330]Cmd: EDIT COPY
+[2017.04.10-23.33.42:811][334]Cmd: EDIT PASTE
+[2017.04.10-23.34.00:791][693]LogActorFactory: Actor Factory created SM_IceT3_RockPebbles
+[2017.04.10-23.34.02:578][730]LogActorFactory: Actor Factory created SM_IceT3_RockPebbles
+[2017.04.10-23.34.05:777][792]Cmd: EDIT CUT
+[2017.04.10-23.34.05:784][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.34.05:797][792]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.04.10-23.34.35:527][399]LogActorFactory: Actor Factory created Fire_Wood_Rack_1
+[2017.04.10-23.35.08:932][105]LogActorFactory: Actor Factory created SM_Skeletons
+[2017.04.10-23.35.09:690][121]LogActorFactory: Actor Factory created SM_Skeletons
+[2017.04.10-23.35.11:040][142]LogActorFactory: Actor Factory created SM_Skeleton3
+[2017.04.10-23.35.11:876][160]LogActorFactory: Actor Factory created SM_Skeleton3
+[2017.04.10-23.35.14:043][194]LogActorFactory: Actor Factory created SM_PotWtools3broken
+[2017.04.10-23.35.28:585][468]LogActorFactory: Actor Factory created SM_Fire_Rocky_TreasureChest2Open
+[2017.04.10-23.35.29:480][487]LogActorFactory: Actor Factory created SM_Fire_Rocky_TreasureChest2Open
+[2017.04.10-23.35.31:440][518]LogActorFactory: Actor Factory created SM_Fire_BrickArch002
+[2017.04.10-23.35.32:477][540]LogActorFactory: Actor Factory created SM_Fire_BrickArch002
+[2017.04.10-23.35.41:742][732]Cmd: TRANSACTION UNDO
+[2017.04.10-23.35.41:743][732]LogEditorTransaction: Undo Scale Actors
+[2017.04.10-23.37.01:701][211]Cmd: TRANSACTION UNDO
+[2017.04.10-23.37.01:701][211]LogEditorTransaction: Undo Scale Actors
+[2017.04.10-23.37.01:803][211]Cmd: TRANSACTION UNDO
+[2017.04.10-23.37.01:803][211]LogEditorTransaction: Undo Move Actors
+[2017.04.10-23.37.04:301][253]Cmd: EDIT COPY
+[2017.04.10-23.37.04:591][255]Cmd: EDIT PASTE
+[2017.04.10-23.37.12:779][382]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-23.37.12:809][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-23.37.12:809][382]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 3:37:12 PM)
+[2017.04.10-23.37.12:809][382]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-23.37.12:891][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081516s)
+[2017.04.10-23.37.12:892][382]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-23.37.12:892][382]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2017.04.10-23.37.12:892][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.082899s)
+[2017.04.10-23.37.12:917][382]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-23.37.12:930][382]LogInit: FAudioDevice initialized.
+[2017.04.10-23.37.12:965][382]LogLoad: Game class is 'myGame_C'
+[2017.04.10-23.37.12:998][382]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-19.37.12
+[2017.04.10-23.37.12:999][382]LogWorld: Bringing up level for play took: 0.032483
+[2017.04.10-23.37.13:004][382]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel -0.39
+[2017.04.10-23.37.58:639][ 59]LogSavePackage: Save=507.20ms
+[2017.04.10-23.37.58:639][ 59]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevelFB14B256475B503DDFE0B7B03651C4FD.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap'
+[2017.04.10-23.37.58:716][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap
+[2017.04.10-23.38.30:089][590]Cmd: EDIT COPY
+[2017.04.10-23.38.30:252][593]Cmd: EDIT PASTE
+[2017.04.10-23.38.34:399][663]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Fire_BrickArch3)
+[2017.04.10-23.38.34:641][663]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Fire_BrickArch3)
+[2017.04.10-23.38.35:580][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_BrickArch002)
+[2017.04.10-23.38.38:470][725]Cmd: EDIT COPY
+[2017.04.10-23.38.38:638][728]Cmd: EDIT PASTE
+[2017.04.10-23.38.48:100][887]Cmd: EDIT COPY
+[2017.04.10-23.38.48:346][891]Cmd: EDIT PASTE
+[2017.04.10-23.38.53:041][967]Cmd: MODE ROTGRID=1
+[2017.04.10-23.39.22:422][471]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-23.39.22:449][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-23.39.22:449][471]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 3:39:22 PM)
+[2017.04.10-23.39.22:449][471]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-23.39.22:533][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084171s)
+[2017.04.10-23.39.22:534][471]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-23.39.22:535][471]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2017.04.10-23.39.22:535][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.086243s)
+[2017.04.10-23.39.22:553][471]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-23.39.22:563][471]LogInit: FAudioDevice initialized.
+[2017.04.10-23.39.22:597][471]LogLoad: Game class is 'myGame_C'
+[2017.04.10-23.39.22:628][471]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-19.39.22
+[2017.04.10-23.39.22:630][471]LogWorld: Bringing up level for play took: 0.031337
+[2017.04.10-23.39.22:636][471]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel -0.758
+[2017.04.10-23.40.31:277][582]Cmd: EDIT COPY
+[2017.04.10-23.40.31:531][584]Cmd: EDIT PASTE
+[2017.04.10-23.40.45:632][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_BrickArch14)
+[2017.04.10-23.40.46:726][824]Cmd: DELETE
+[2017.04.10-23.40.46:726][824]Cmd: ACTOR DELETE
+[2017.04.10-23.40.46:730][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.40.46:813][824]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2017.04.10-23.40.52:922][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_BrickArch15)
+[2017.04.10-23.40.55:790][962]Cmd: DELETE
+[2017.04.10-23.40.55:790][962]Cmd: ACTOR DELETE
+[2017.04.10-23.40.55:793][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.40.55:869][962]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2017.04.10-23.41.23:509][514]LogActorFactory: Actor Factory created SM_Env_Fire_Cliffs_CliffWall_02b
+[2017.04.10-23.41.26:458][570]LogActorFactory: Actor Factory created SM_Env_Fire_Cliffs_CliffWall_02b
+[2017.04.10-23.41.32:855][693]Cmd: EDIT COPY
+[2017.04.10-23.41.33:969][715]Cmd: EDIT PASTE
+[2017.04.10-23.41.36:943][774]Cmd: EDIT COPY
+[2017.04.10-23.41.37:207][777]Cmd: EDIT PASTE
+[2017.04.10-23.41.40:302][839]Cmd: EDIT COPY
+[2017.04.10-23.41.40:506][843]Cmd: EDIT PASTE
+[2017.04.10-23.41.52:473][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b3)
+[2017.04.10-23.41.58:532][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b2)
+[2017.04.10-23.42.03:749][280]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-23.42.03:777][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-23.42.03:777][280]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 3:42:03 PM)
+[2017.04.10-23.42.03:777][280]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-23.42.03:857][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079890s)
+[2017.04.10-23.42.03:858][280]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-23.42.03:858][280]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2017.04.10-23.42.03:859][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.081463s)
+[2017.04.10-23.42.03:875][280]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-23.42.03:888][280]LogInit: FAudioDevice initialized.
+[2017.04.10-23.42.03:922][280]LogLoad: Game class is 'myGame_C'
+[2017.04.10-23.42.03:954][280]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-19.42.03
+[2017.04.10-23.42.03:956][280]LogWorld: Bringing up level for play took: 0.032274
+[2017.04.10-23.42.03:961][280]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel 0.567
+[2017.04.10-23.42.26:884][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b)
+[2017.04.10-23.42.27:998][208]Cmd: DELETE
+[2017.04.10-23.42.27:998][208]Cmd: ACTOR DELETE
+[2017.04.10-23.42.28:001][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.42.28:072][208]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2017.04.10-23.42.32:570][288]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire_Torch_24)
+[2017.04.10-23.42.33:013][292]Cmd: DELETE
+[2017.04.10-23.42.33:013][292]Cmd: ACTOR DELETE
+[2017.04.10-23.42.33:016][292]LogEditorActor: Deleted Actor: Emitter
+[2017.04.10-23.42.33:030][292]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.04.10-23.42.34:793][327]Cmd: TRANSACTION UNDO
+[2017.04.10-23.42.34:793][327]LogEditorTransaction: Undo Delete Actors
+[2017.04.10-23.42.38:557][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b2)
+[2017.04.10-23.42.39:443][404]Cmd: DELETE
+[2017.04.10-23.42.39:443][404]Cmd: ACTOR DELETE
+[2017.04.10-23.42.39:447][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.42.39:502][404]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2017.04.10-23.42.40:838][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b3)
+[2017.04.10-23.42.40:944][429]Cmd: DELETE
+[2017.04.10-23.42.40:944][429]Cmd: ACTOR DELETE
+[2017.04.10-23.42.40:947][429]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.42.40:962][429]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.04.10-23.42.42:547][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b4)
+[2017.04.10-23.42.43:117][471]Cmd: DELETE
+[2017.04.10-23.42.43:117][471]Cmd: ACTOR DELETE
+[2017.04.10-23.42.43:122][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.10-23.42.43:175][471]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2017.04.10-23.42.48:871][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_BrickArch002)
+[2017.04.10-23.42.49:879][595]Cmd: EDIT COPY
+[2017.04.10-23.42.50:107][599]Cmd: EDIT PASTE
+[2017.04.10-23.43.30:404][349]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-23.43.49:225][622]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-23.43.50:016][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeletons)
+[2017.04.10-23.43.57:395][809]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-23.43.57:425][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-23.43.57:425][809]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 3:43:57 PM)
+[2017.04.10-23.43.57:425][809]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-23.43.57:502][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077284s)
+[2017.04.10-23.43.57:503][809]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-23.43.57:503][809]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2017.04.10-23.43.57:504][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.078683s)
+[2017.04.10-23.43.57:520][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-23.43.57:530][809]LogInit: FAudioDevice initialized.
+[2017.04.10-23.43.57:561][809]LogLoad: Game class is 'myGame_C'
+[2017.04.10-23.43.57:593][809]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-19.43.57
+[2017.04.10-23.43.57:594][809]LogWorld: Bringing up level for play took: 0.031176
+[2017.04.10-23.43.57:641][809]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel 0.247
+[2017.04.10-23.44.31:510][121]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-23.44.31:538][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-23.44.31:538][121]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 3:44:31 PM)
+[2017.04.10-23.44.31:538][121]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-23.44.31:614][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075943s)
+[2017.04.10-23.44.31:615][121]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-23.44.31:615][121]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2017.04.10-23.44.31:616][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.077250s)
+[2017.04.10-23.44.31:631][121]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-23.44.31:643][121]LogInit: FAudioDevice initialized.
+[2017.04.10-23.44.31:674][121]LogLoad: Game class is 'myGame_C'
+[2017.04.10-23.44.31:705][121]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-19.44.31
+[2017.04.10-23.44.31:706][121]LogWorld: Bringing up level for play took: 0.031030
+[2017.04.10-23.44.31:711][121]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel 0.317
+[2017.04.10-23.45.10:455][742]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-23.45.15:022][805]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.10-23.45.15:821][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A5)
+[2017.04.10-23.45.45:116][330]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.04.10-23.45.47:805][383]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.45.52:026][457]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.01:304][611]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.03:891][652]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.12:167][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.14:887][846]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.16:994][885]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.20:266][946]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.23:024][998]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.25:782][ 49]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.27:832][ 87]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.28:596][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.31:008][145]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.04.10-23.46.33:921][199]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.10-23.46.33:949][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.10-23.46.33:949][199]PIE: New page: PIE session: HillsideLevel (Apr 10, 2017, 3:46:33 PM)
+[2017.04.10-23.46.33:949][199]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.10-23.46.34:030][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080609s)
+[2017.04.10-23.46.34:030][199]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.10-23.46.34:031][199]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2017.04.10-23.46.34:031][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.082227s)
+[2017.04.10-23.46.34:052][199]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.10-23.46.34:062][199]LogInit: FAudioDevice initialized.
+[2017.04.10-23.46.34:096][199]LogLoad: Game class is 'myGame_C'
+[2017.04.10-23.46.34:128][199]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.10-19.46.34
+[2017.04.10-23.46.34:129][199]LogWorld: Bringing up level for play took: 0.031225
+[2017.04.10-23.46.34:135][199]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel 0.741
+[2017.04.10-23.51.48:911][165]LogSavePackage: Save=505.40ms
+[2017.04.10-23.51.48:911][165]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevel_Auto395E66D834B8D5DC2BC8FC7B92E4AB973.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto3.umap'
+[2017.04.10-23.51.48:925][165]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto3.umap
+[2017.04.10-23.51.48:928][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HillsideLevel' took 0.721
+[2017.04.10-23.51.48:928][165]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.721
+[2017.04.11-16.09.35:882][517]LogRenderer: Reallocating scene render targets to support 1116x588 NumSamples 1 (Frame:51425).
+[2017.04.11-16.36.27:183][343]LogSavePackage: Save=609.90ms
+[2017.04.11-16.36.27:183][343]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevel8C622102490B4B9A8546008B4EBCE2D0.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap'
+[2017.04.11-16.36.27:188][343]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap
+[2017.04.11-17.21.34:623][576]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.11-17.21.42:843][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_71)
+[2017.04.11-17.21.53:787][ 24]Cmd: EDIT COPY
+[2017.04.11-17.21.54:001][ 30]Cmd: EDIT PASTE
+[2017.04.11-17.22.18:027][700]Cmd: MODE ROTGRID=0
+[2017.04.11-17.23.00:565][888]Cmd: EDIT COPY
+[2017.04.11-17.23.00:760][892]Cmd: EDIT PASTE
+[2017.04.11-17.23.33:562][810]Cmd: EDIT COPY
+[2017.04.11-17.23.33:746][814]Cmd: EDIT PASTE
+[2017.04.11-17.24.05:802][701]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.11-17.24.52:451][752]LogActorFactory: Actor Factory created SM_Ice_Fort_Brazier_1_Glow
+[2017.04.11-17.24.54:577][801]LogActorFactory: Actor Factory created SM_Ice_Fort_Brazier_1_Glow
+[2017.04.11-17.25.07:091][164]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.11-17.25.07:134][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.11-17.25.07:134][164]PIE: New page: PIE session: HillsideLevel (Apr 11, 2017, 9:25:07 AM)
+[2017.04.11-17.25.07:134][164]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.11-17.25.07:245][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111104s)
+[2017.04.11-17.25.07:247][164]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.11-17.25.07:247][164]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2017.04.11-17.25.07:248][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.114198s)
+[2017.04.11-17.25.07:278][164]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.11-17.25.07:291][164]LogInit: FAudioDevice initialized.
+[2017.04.11-17.25.07:324][164]LogLoad: Game class is 'myGame_C'
+[2017.04.11-17.25.07:364][164]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.11-13.25.07
+[2017.04.11-17.25.07:367][164]LogWorld: Bringing up level for play took: 0.041505
+[2017.04.11-17.25.07:375][164]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel 0.008
+[2017.04.11-17.26.59:511][531]Cmd: EDIT COPY
+[2017.04.11-17.26.59:722][537]Cmd: EDIT PASTE
+[2017.04.11-17.27.01:672][589]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire_Torch_27)
+[2017.04.11-17.27.03:544][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Brazier_1_Glow2)
+[2017.04.11-17.27.24:443][209]Cmd: EDIT COPY
+[2017.04.11-17.27.24:618][215]Cmd: EDIT PASTE
+[2017.04.11-17.27.38:663][597]Cmd: EDIT COPY
+[2017.04.11-17.27.38:766][599]Cmd: EDIT PASTE
+[2017.04.11-17.27.51:608][949]Cmd: EDIT COPY
+[2017.04.11-17.27.51:736][952]Cmd: EDIT PASTE
+[2017.04.11-17.28.02:609][259]Cmd: EDIT COPY
+[2017.04.11-17.28.02:780][263]Cmd: EDIT PASTE
+[2017.04.11-17.28.49:722][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Brazier_1_Glow6)
+[2017.04.11-17.28.52:878][605]Cmd: EDIT COPY
+[2017.04.11-17.28.53:027][608]Cmd: EDIT PASTE
+[2017.04.11-17.29.01:622][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Brazier_1_Glow7)
+[2017.04.11-17.29.05:477][946]Cmd: EDIT COPY
+[2017.04.11-17.29.05:651][950]Cmd: EDIT PASTE
+[2017.04.11-17.29.17:367][271]Cmd: EDIT COPY
+[2017.04.11-17.29.17:527][275]Cmd: EDIT PASTE
+[2017.04.11-17.29.51:447][184]LogSavePackage: Save=550.90ms
+[2017.04.11-17.29.51:447][184]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevelF8D45BD64DB2CCEBA7D1A497DD3F72A1.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap'
+[2017.04.11-17.29.51:451][184]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap
+[2017.04.11-19.46.45:978][475]Cmd: EDIT COPY
+[2017.04.11-19.46.46:168][480]Cmd: EDIT PASTE
+[2017.04.11-19.47.02:865][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_95)
+[2017.04.11-19.47.18:233][286]Cmd: EDIT COPY
+[2017.04.11-19.47.18:419][291]Cmd: EDIT PASTE
+[2017.04.11-19.47.57:721][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_131)
+[2017.04.11-19.47.58:741][335]Cmd: DELETE
+[2017.04.11-19.47.58:741][335]Cmd: ACTOR DELETE
+[2017.04.11-19.47.58:745][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.47.58:800][335]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2017.04.11-19.47.59:459][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_132)
+[2017.04.11-19.47.59:560][355]Cmd: DELETE
+[2017.04.11-19.47.59:560][355]Cmd: ACTOR DELETE
+[2017.04.11-19.47.59:563][355]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.47.59:578][355]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.04.11-19.48.00:610][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_142)
+[2017.04.11-19.48.01:330][403]Cmd: DELETE
+[2017.04.11-19.48.01:330][403]Cmd: ACTOR DELETE
+[2017.04.11-19.48.01:337][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.48.01:379][403]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2017.04.11-19.48.01:818][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_143)
+[2017.04.11-19.48.01:938][417]Cmd: DELETE
+[2017.04.11-19.48.01:938][417]Cmd: ACTOR DELETE
+[2017.04.11-19.48.01:941][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.48.01:958][417]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.04.11-19.48.04:048][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_133)
+[2017.04.11-19.48.18:074][857]Cmd: EDIT COPY
+[2017.04.11-19.48.18:255][862]Cmd: EDIT PASTE
+[2017.04.11-19.49.57:825][257]Cmd: EDIT COPY
+[2017.04.11-19.49.58:200][267]Cmd: EDIT PASTE
+[2017.04.11-19.50.02:773][388]Cmd: TRANSACTION UNDO
+[2017.04.11-19.50.02:773][388]LogEditorTransaction: Undo Move Actors
+[2017.04.11-19.50.02:814][388]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_155.StaticMeshComponent0) Component already registered.
+[2017.04.11-19.50.02:817][388]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/HillsideLevel.HillsideLevel:PersistentLevel.SM_Ice_Fort_Stair_160.StaticMeshComponent0) Component already registered.
+[2017.04.11-19.50.52:268][480]LogSavePackage: Save=899.63ms
+[2017.04.11-19.50.52:268][480]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevel_Auto42B945B884B5CA21CA84347A1C2B4C886.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto4.umap'
+[2017.04.11-19.50.52:296][480]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/HillsideLevel_Auto4.umap
+[2017.04.11-19.50.52:331][480]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HillsideLevel' took 1.284
+[2017.04.11-19.50.52:331][480]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.284
+[2017.04.11-19.51.22:115][258]Cmd: EDIT COPY
+[2017.04.11-19.51.22:311][263]Cmd: EDIT PASTE
+[2017.04.11-19.52.05:665][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Stair_96)
+[2017.04.11-19.52.09:162][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Brazier_1_Glow6)
+[2017.04.11-19.52.10:168][479]Cmd: EDIT COPY
+[2017.04.11-19.52.10:319][483]Cmd: EDIT PASTE
+[2017.04.11-19.52.30:123][990]Cmd: EDIT COPY
+[2017.04.11-19.52.30:349][996]Cmd: EDIT PASTE
+[2017.04.11-19.53.08:549][ 35]Cmd: EDIT COPY
+[2017.04.11-19.53.08:695][ 39]Cmd: EDIT PASTE
+[2017.04.11-19.53.23:695][430]Cmd: EDIT COPY
+[2017.04.11-19.53.23:840][434]Cmd: EDIT PASTE
+[2017.04.11-19.53.39:192][832]Cmd: EDIT COPY
+[2017.04.11-19.53.39:439][834]Cmd: EDIT PASTE
+[2017.04.11-19.53.54:176][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeletons)
+[2017.04.11-19.53.56:003][277]Cmd: DELETE
+[2017.04.11-19.53.56:003][277]Cmd: ACTOR DELETE
+[2017.04.11-19.53.56:009][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.53.56:055][277]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2017.04.11-19.53.56:663][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton3)
+[2017.04.11-19.53.57:181][308]Cmd: DELETE
+[2017.04.11-19.53.57:181][308]Cmd: ACTOR DELETE
+[2017.04.11-19.53.57:187][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.53.57:233][308]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2017.04.11-19.53.57:801][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire_Rocky_TreasureChest2Open)
+[2017.04.11-19.54.11:773][693]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire_Torch_26)
+[2017.04.11-19.54.13:230][727]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire_Torch_27)
+[2017.04.11-19.54.15:002][772]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.11-19.56.25:821][949]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.11-19.56.46:330][320]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire_Torch_2)
+[2017.04.11-19.56.50:089][424]Cmd: TRANSACTION UNDO
+[2017.04.11-19.56.50:089][424]LogEditorTransaction: Undo Move Actors
+[2017.04.11-19.56.53:028][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Brazier_3)
+[2017.04.11-19.57.00:911][722]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2017.04.11-19.57.13:889][898]LogTexture:Display: Building textures: Texture2D_2 (G8)
+[2017.04.11-19.57.25:639][ 87]Cmd: TRANSACTION UNDO
+[2017.04.11-19.57.25:639][ 87]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.04.11-19.57.25:874][ 87]LogTexture:Display: Building textures: Texture2D_22 (BGRA8)
+[2017.04.11-19.57.26:058][ 87]LogTexture:Display: Building textures: Texture2D_24 (BGRA8)
+[2017.04.11-19.57.26:175][ 87]LogMaterial: 0.03 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.57.26:253][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.57.26:674][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.57.26:675][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.57.26:694][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.57.26:857][ 87]Cmd: TRANSACTION UNDO
+[2017.04.11-19.57.26:857][ 87]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.04.11-19.57.26:896][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.57.26:896][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.57.34:598][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ice_Fort_Wall_73)
+[2017.04.11-19.58.47:963][158]Cmd: DELETE
+[2017.04.11-19.58.47:963][158]Cmd: ACTOR DELETE
+[2017.04.11-19.58.47:966][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:003][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:006][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:009][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:012][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:015][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:018][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:022][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:025][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:028][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:031][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:035][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:038][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:041][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:043][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:045][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:047][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:049][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:051][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:053][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:055][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:057][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:059][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:061][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:063][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:065][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:067][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:069][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:071][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:073][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:075][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:077][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:079][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:081][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:083][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:085][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:087][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:089][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:091][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:093][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:095][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:097][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:099][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:101][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:103][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:105][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:106][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:108][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:110][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:112][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:114][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:116][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:118][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:120][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:121][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:123][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:125][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:127][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:129][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:131][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:133][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:135][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:137][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:139][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:140][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:142][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:144][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:146][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:148][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:150][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:152][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:154][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:156][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:158][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:159][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:161][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:163][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:165][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:167][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:169][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:170][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:172][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:174][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:176][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:178][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:180][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:181][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:183][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:185][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:187][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.11-19.58.48:246][158]LogEditorActor: Deleted 90 Actors (0.283 secs)
+[2017.04.11-19.59.02:785][481]Cmd: TRANSACTION UNDO
+[2017.04.11-19.59.02:785][481]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.04.11-19.59.02:989][481]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.02:989][481]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.03:149][481]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.10:420][618]Cmd: TRANSACTION UNDO
+[2017.04.11-19.59.10:420][618]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.04.11-19.59.10:501][618]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.10:548][618]LogTexture:Display: Building textures: Texture2D_21 (BGRA8)
+[2017.04.11-19.59.10:767][618]LogTexture:Display: Building textures: Texture2D_23 (BGRA8)
+[2017.04.11-19.59.10:786][618]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.10:787][618]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.10:787][618]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.11:359][627]Cmd: TRANSACTION UNDO
+[2017.04.11-19.59.11:359][627]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.04.11-19.59.11:610][627]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.11:685][627]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.11:695][627]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.11:696][627]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.11-19.59.51:275][399]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape3)
+[2017.04.11-19.59.52:108][411]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape3)
+[2017.04.11-19.59.52:410][414]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape3)
+[2017.04.11-19.59.52:782][420]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape3)
+[2017.04.11-19.59.55:994][481]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape3)
+[2017.04.11-20.00.14:384][801]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.11-20.00.14:445][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.11-20.00.14:445][801]PIE: New page: PIE session: HillsideLevel (Apr 11, 2017, 12:00:14 PM)
+[2017.04.11-20.00.14:446][801]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HillsideLevel
+[2017.04.11-20.00.14:559][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113755s)
+[2017.04.11-20.00.14:561][801]LogAIModule: Creating AISystem for world HillsideLevel
+[2017.04.11-20.00.14:561][801]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2017.04.11-20.00.14:561][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HillsideLevel.HillsideLevel to /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel (0.115953s)
+[2017.04.11-20.00.14:597][801]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.11-20.00.14:608][801]LogInit: FAudioDevice initialized.
+[2017.04.11-20.00.14:641][801]LogLoad: Game class is 'myGame_C'
+[2017.04.11-20.00.14:676][801]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HillsideLevel.HillsideLevel up for play (max tick rate 60) at 2017.04.11-16.00.14
+[2017.04.11-20.00.14:678][801]LogWorld: Bringing up level for play took: 0.035907
+[2017.04.11-20.00.14:685][801]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_HillsideLevel -0.682
+[2017.04.11-20.02.26:148][537]LogTexture:Display: Building textures: Texture2D_21 (BGRA8)
+[2017.04.11-20.02.26:245][537]LogTexture:Display: Building textures: Texture2D_22 (BGRA8)
+[2017.04.11-20.02.26:321][537]LogTexture:Display: Building textures: Texture2D_23 (BGRA8)
+[2017.04.11-20.02.26:419][537]LogTexture:Display: Building textures: Texture2D_24 (BGRA8)
+[2017.04.11-20.02.27:160][537]LogSavePackage: Save=1230.53ms
+[2017.04.11-20.02.27:160][537]LogSavePackage: Moving '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/HillsideLevel084D72D94C2537719A49778E17A59F51.tmp' to '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap'
+[2017.04.11-20.02.27:164][537]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Levels/HillsideLevel.umap
+[2017.04.11-20.02.30:594][589]Cmd: QUIT_EDITOR
+[2017.04.11-20.02.31:974][589]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.11-20.02.32:076][589]LogExit: Preparing to exit.
+[2017.04.11-20.02.33:079][589]LogDirectoryWatcher: A directory notification for 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.04.11-20.02.33:396][589]LogExit: Editor shut down
+[2017.04.11-20.02.33:398][589]LogExit: Transaction tracking system shut down
+[2017.04.11-20.02.37:696][589]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.11-20.02.37:696][589]LogExit: Object subsystem successfully closed.
+[2017.04.11-20.02.38:214][589]LogD3D11RHI: Shutdown
+[2017.04.11-20.02.38:228][589]LogD3D11RHI: CleanupD3DDevice
+[2017.04.11-20.02.38:622][589]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.11-20.02.41:370][589]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.11-20.02.41:370][589]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D084262-4AC7-37FD-7AB8-B290F99E86EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=5f49459a47f76da10e8ab5aa9e7f9837%7C36b375b256c147639c70d0f5965ef205%7C272cb7dc-4ab8-419f-b370-3232e6789067&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.11-20.02.41:553][589]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (242)
+[2017.04.11-20.02.41:568][589]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.11-20.02.41:589][589]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.11-20.02.41:597][589]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.11-20.02.41:598][589]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.11-20.02.41:598][589]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.11-20.02.41:639][589]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.14/FeaturePacks/' was aborted.
+[2017.04.11-20.02.41:646][589]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.11-20.02.41:646][589]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.11-20.02.41:646][589]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.11-20.02.42:573][589]LogDirectoryWatcher: A directory notification for 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Collections/' was aborted.
+[2017.04.11-20.02.42:573][589]LogDirectoryWatcher: A directory notification for 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/Developers/griff000/Collections/' was aborted.
+[2017.04.11-20.02.42:573][589]LogDirectoryWatcher: A directory notification for 'C:/Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Saved/Collections/' was aborted.
+[2017.04.11-20.02.42:573][589]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.11-20.02.42:592][589]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.11-20.02.42:616][589]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.11-20.02.42:824][589]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.11-20.02.42:824][589]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.11-20.02.42:824][589]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.11-20.02.42:824][589]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.11-20.02.42:824][589]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.11-20.02.42:856][589]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.11-20.02.42:884][589]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.11-20.02.42:927][589]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.11-20.02.42:969][589]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.11-20.02.43:006][589]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.11-20.02.43:050][589]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.11-20.02.43:195][589]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.11-20.02.43:339][589]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.11-20.02.43:339][589]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.11-20.02.43:339][589]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.11-20.02.43:339][589]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.11-20.02.43:339][589]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.11-20.02.43:339][589]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.11-20.02.43:387][589]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.11-20.02.43:468][589]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.11-20.02.43:520][589]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.11-20.02.43:520][589]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.11-20.02.43:562][589]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.11-20.02.43:562][589]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.11-20.02.44:182][589]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.11-20.02.44:197][589]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.11-20.02.44:197][589]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.11-20.02.44:197][589]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.11-20.02.44:225][589]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.11-20.02.44:373][589]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.11-20.02.44:404][589]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.11-20.02.44:423][589]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.11-20.02.44:457][589]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.11-20.02.44:457][589]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.11-20.02.44:480][589]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.11-20.02.44:517][589]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.11-20.02.44:548][589]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.11-20.02.44:572][589]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.11-20.02.44:606][589]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.11-20.02.44:606][589]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.11-20.02.44:638][589]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.11-20.02.44:656][589]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.11-20.02.44:657][589]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.11-20.02.44:657][589]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.11-20.02.44:657][589]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.11-20.02.44:739][589]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.11-20.02.44:797][589]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.11-20.02.44:852][589]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.11-20.02.44:884][589]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.11-20.02.44:884][589]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.11-20.02.44:968][589]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.11-20.02.45:039][589]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.11-20.02.45:061][589]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.11-20.02.45:140][589]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.11-20.02.45:140][589]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.11-20.02.45:164][589]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.11-20.02.45:171][589]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.11-20.02.45:171][589]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.11-20.02.45:217][589]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.11-20.02.45:266][589]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.11-20.02.45:354][589]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.11-20.02.45:367][589]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.11-20.02.45:372][589]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.11-20.02.45:387][589]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.11-20.02.45:435][589]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.11-20.02.45:454][589]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.11-20.02.45:476][589]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.11-20.02.45:492][589]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.11-20.02.45:492][589]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.11-20.02.45:719][589]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.11-20.02.45:751][589]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.11-20.02.45:751][589]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.11-20.02.45:751][589]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.11-20.02.45:751][589]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.11-20.02.45:771][589]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.11-20.02.45:797][589]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.11-20.02.45:797][589]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.11-20.02.45:797][589]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.11-20.02.45:797][589]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.11-20.02.45:797][589]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.11-20.02.45:805][589]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.11-20.02.45:805][589]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.11-20.02.45:861][589]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.11-20.02.45:861][589]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.11-20.02.45:861][589]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.11-20.02.45:861][589]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.11-20.02.45:906][589]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.11-20.02.45:914][589]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.11-20.02.45:914][589]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.11-20.02.45:914][589]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.11-20.02.45:914][589]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.11-20.02.45:979][589]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.11-20.02.46:001][589]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.11-20.02.46:045][589]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.11-20.02.46:045][589]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.11-20.02.46:105][589]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.11-20.02.46:105][589]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.11-20.02.46:130][589]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.11-20.02.46:165][589]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.11-20.02.46:181][589]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.11-20.02.46:201][589]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.11-20.02.46:202][589]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.11-20.02.46:212][589]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.11-20.02.46:212][589]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.11-20.02.46:213][589]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.11-20.02.46:233][589]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.11-20.02.46:329][589]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.11-20.02.46:329][589]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.11-20.02.46:380][589]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.11-20.02.46:382][589]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.11-20.02.46:419][589]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.11-20.02.46:519][589]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.11-20.02.46:643][589]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.11-20.02.46:643][589]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.11-20.02.46:664][589]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.11-20.02.46:685][589]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.11-20.02.46:695][589]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.11-20.02.46:695][589]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.11-20.02.46:709][589]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.11-20.02.46:709][589]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.11-20.02.46:709][589]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.11-20.02.46:709][589]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.11-20.02.46:808][589]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.11-20.02.46:819][589]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.11-20.02.46:855][589]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.11-20.02.46:897][589]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.11-20.02.46:897][589]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.11-20.02.46:897][589]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.11-20.02.46:941][589]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.11-20.02.47:002][589]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.11-20.02.47:002][589]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.11-20.02.47:065][589]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.11-20.02.47:065][589]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.11-20.02.47:069][589]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.11-20.02.47:069][589]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.11-20.02.47:070][589]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.11-20.02.47:070][589]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.11-20.02.47:070][589]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.11-20.02.47:070][589]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.11-20.02.47:070][589]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.11-20.02.47:070][589]LogDirectoryWatcher: A directory notification for '../../../../../../Users/griff_000/Documents/School/CIS 488/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.04.11-20.02.47:071][589]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.11-20.02.47:075][589]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.11-20.02.47:340][589]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.11-20.02.47:340][589]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.11-20.02.47:340][589]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.11-20.02.47:384][589]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.11-20.02.47:402][589]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.11-20.02.47:424][589]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.11-20.02.47:424][589]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.11-20.02.47:446][589]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.11-20.02.47:483][589]LogDerivedDataCache: Shutdown
+[2017.04.11-20.02.47:483][589]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.11-20.02.47:491][589]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.11-20.02.47:530][589]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.11-20.02.47:537][589]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.11-20.02.47:561][589]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.11-20.02.47:561][589]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.11-20.02.47:569][589]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.11-20.02.47:589][589]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.11-20.02.47:607][589]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.11-20.02.47:607][589]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.11-20.02.47:607][589]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.11-20.02.47:607][589]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.11-20.02.47:649][589]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.11-20.02.47:667][589]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.11-20.02.47:667][589]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.11-20.02.47:668][589]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.11-20.02.47:689][589]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.11-20.02.47:696][589]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.11-20.02.47:702][589]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.11-20.02.47:708][589]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.11-20.02.47:732][589]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.11-20.02.47:740][589]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.11-20.02.47:749][589]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.11-20.02.47:749][589]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.11-20.02.47:749][589]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.11-20.02.47:749][589]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.11-20.02.47:814][589]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.11-20.02.47:821][589]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.11-20.02.47:821][589]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.11-20.02.47:831][589]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.11-20.02.47:831][589]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.11-20.02.47:831][589]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.11-20.02.47:831][589]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.11-20.02.47:868][589]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.11-20.02.47:882][589]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.11-20.02.47:882][589]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.11-20.02.47:888][589]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.11-20.02.47:896][589]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.11-20.02.47:896][589]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.11-20.02.47:896][589]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.11-20.02.47:903][589]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.11-20.02.47:927][589]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.11-20.02.47:943][589]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.11-20.02.47:973][589]LogExit: Exiting.
+[2017.04.11-20.02.48:026][589]Log file closed, 04/11/17 16:02:48
