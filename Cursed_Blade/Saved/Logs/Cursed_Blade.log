@@ -1945,3 +1945,207 @@ Import failed.
 [2017.04.12-10.04.43:129][319]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demon_movement/demonMovementBlendSpace_Auto1.uasset
 [2017.04.12-10.04.43:129][319]LogFileHelpers: Auto-saving content packages took 0.045
 [2017.04.12-10.29.14:705][265]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.152
+[2017.04.12-10.29.14:708][265]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/demons/demon_movement/demonMovementBlendSpace] ([1] browsable assets)...
+[2017.04.12-10.29.14:708][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/demon_movement/demonMovementBlendSpace]
+[2017.04.12-10.29.14:764][265]LogSavePackage: Save=8.36ms
+[2017.04.12-10.29.14:764][265]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonMovementBlendSpace_Auto2B06C338A405AC2AF8D9682A88C5160EF.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demon_movement/demonMovementBlendSpace_Auto2.uasset'
+[2017.04.12-10.29.14:767][265]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demon_movement/demonMovementBlendSpace_Auto2.uasset
+[2017.04.12-10.29.14:767][265]LogFileHelpers: Auto-saving content packages took 0.061
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27cd1579c60 [can pipeline])
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 1 (Re-using existing connection! (#109) with host datarouter.ol.epicgames.com)
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.192.111.22) port 443 (#109))
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 3 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 5 (Closing connection 109)
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE5A5DC7D-444D-125D-8257-029FD168F0EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=387b70224916b372f018038901396989%7Ccd786ad7a4df419daec99cc9d0720e3a%7C81e74947-e005-436d-b267-0a7a8cd5b3bd&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.04.12-16.05.08:536][789]LogHttp:Warning: 0000027CD21D7D00: libcurl info message cache 8 (Closing connection 110)
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: request failed, libcurl error: 35 (SSL connect error)
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 0 (  Trying 52.44.156.214...)
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (52.44.156.214) port 443 (#111))
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 4 (SSL re-using session ID)
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 6 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.04.12-16.05.51:334][915]LogHttp:Warning: 0000027D438D2080: libcurl info message cache 7 (Closing connection 111)
+[2017.04.12-16.11.44:982][ 33]LogSavePackage: Save=7.56ms
+[2017.04.12-16.11.44:982][ 33]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonMovementBlendSpace70A80146488BE6C48BE89489858141F8.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonMovementBlendSpace.uasset'
+[2017.04.12-16.11.45:016][ 33]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonMovementBlendSpace.uasset
+[2017.04.12-16.13.09:257][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonAnimBP" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset" SILENT=true
+[2017.04.12-16.13.09:539][199]LogSavePackage: Save=278.77ms
+[2017.04.12-16.13.09:539][199]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBP0549025547ECEE6EC9F0618ED926C047.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset'
+[2017.04.12-16.13.09:546][199]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset
+[2017.04.12-16.17.37:979][266]BlueprintLog: New page: Compile demonAnimBP
+[2017.04.12-16.17.38:182][266]LogBlueprint:Warning: [Compiler demonAnimBP] Warning Entry node  AnimStateEntryNode_0  is not connected to state
+[2017.04.12-16.17.38:182][266]LogBlueprint:Warning: [Compiler demonAnimBP] Warning There was no entry state connection in  AnimGraphNode_StateMachine_0
+[2017.04.12-16.17.39:466][266]BlueprintEditorCompileResults:Warning: Warning Entry node  AnimStateEntryNode_0  is not connected to state
+[2017.04.12-16.17.39:466][266]BlueprintEditorCompileResults:Warning: Warning There was no entry state connection in  AnimGraphNode_StateMachine_0
+[2017.04.12-16.17.39:501][266]LogBlueprint:Warning: [Compiler demonAnimBP] Warning [0730.12] Compile of demonAnimBP successful, but with 2 Warning(s) [in 1,487 ms] (/Game/demons/demonAnimBP.demonAnimBP)
+[2017.04.12-16.17.45:514][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonAnimBP" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset" SILENT=true
+[2017.04.12-16.17.45:636][520]LogSavePackage: Save=87.93ms
+[2017.04.12-16.17.45:636][520]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBPFB065B7647A1EFA6DFCC12B34A8D7946.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset'
+[2017.04.12-16.17.45:647][520]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset
+[2017.04.12-16.18.55:633][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.038
+[2017.04.12-16.18.55:635][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/demons/demonAnimBP] ([1] browsable assets)...
+[2017.04.12-16.18.55:673][231]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/demons/demonAnimBP.demonAnimBP]
+[2017.04.12-16.18.55:673][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/demonAnimBP]
+[2017.04.12-16.18.55:750][231]LogSavePackage: Save=67.00ms
+[2017.04.12-16.18.55:750][231]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBP_Auto3E9D2651B4FA4F1B7BB0FE6905D110C29.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demonAnimBP_Auto3.uasset'
+[2017.04.12-16.18.55:754][231]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demonAnimBP_Auto3.uasset
+[2017.04.12-16.18.55:754][231]LogFileHelpers: Auto-saving content packages took 0.120
+[2017.04.12-16.20.10:065][  0]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'SkeletalMeshComponent0' or package '/Engine/Transient'.
+[2017.04.12-16.20.10:065][  0]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_demonAnimBP_C_17' or package '/Engine/Transient'.
+[2017.04.12-16.20.10:065][  0]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_demonAnimBP_C_2' or package '/Engine/Transient'.
+[2017.04.12-16.20.10:065][  0]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_demonAnimBP_C_3' or package '/Engine/Transient'.
+[2017.04.12-16.20.10:065][  0]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_demonAnimBP_C_16' or package '/Engine/Transient'.
+[2017.04.12-16.21.00:186][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonAnimBP" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset" SILENT=true
+[2017.04.12-16.21.00:267][846]LogSavePackage: Save=78.42ms
+[2017.04.12-16.21.00:268][846]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBP260343044A87CCC90538F1A91401428C.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset'
+[2017.04.12-16.21.00:275][846]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset
+[2017.04.12-16.22.35:381][220]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.12-16.29.39:203][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.084
+[2017.04.12-16.29.39:209][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/demons/demonAnimBP] ([1] browsable assets)...
+[2017.04.12-16.29.39:272][503]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/demons/demonAnimBP.demonAnimBP]
+[2017.04.12-16.29.39:272][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/demonAnimBP]
+[2017.04.12-16.29.39:447][503]LogSavePackage: Save=123.98ms
+[2017.04.12-16.29.39:447][503]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBP_Auto4FBF339D545CEC9EF4CFB8E8F06794F6F.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demonAnimBP_Auto4.uasset'
+[2017.04.12-16.29.39:452][503]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demonAnimBP_Auto4.uasset
+[2017.04.12-16.29.39:452][503]LogFileHelpers: Auto-saving content packages took 0.248
+[2017.04.12-16.30.09:715][955]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_40) - call TermArticulated first.
+[2017.04.12-16.30.10:595][955]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.12-16.30.18:615][102]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_43) - call TermArticulated first.
+[2017.04.12-16.30.19:013][102]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.12-16.30.43:331][687]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_46) - call TermArticulated first.
+[2017.04.12-16.30.43:833][687]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.12-16.39.40:069][ 97]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.091
+[2017.04.12-16.39.40:073][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/demons/demonAnimBP] ([1] browsable assets)...
+[2017.04.12-16.39.40:120][ 97]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/demons/demonAnimBP.demonAnimBP]
+[2017.04.12-16.39.40:120][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/demonAnimBP]
+[2017.04.12-16.39.40:197][ 97]LogSavePackage: Save=46.32ms
+[2017.04.12-16.39.40:197][ 97]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBP_Auto520BD2FE04B63B90CA52D71B5074B3A27.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demonAnimBP_Auto5.uasset'
+[2017.04.12-16.39.40:201][ 97]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demonAnimBP_Auto5.uasset
+[2017.04.12-16.39.40:202][ 97]LogFileHelpers: Auto-saving content packages took 0.131
+[2017.04.12-16.41.44:271][522]BlueprintLog: New page: Compile demonAnimBP
+[2017.04.12-16.41.46:730][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonAnimBP" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset" SILENT=true
+[2017.04.12-16.41.46:889][618]LogSavePackage: Save=131.17ms
+[2017.04.12-16.41.46:889][618]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBPEBCEA73C495F55D08CCE7C9E3943211C.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset'
+[2017.04.12-16.41.46:900][618]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset
+[2017.04.12-16.42.30:070][381]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.12-16.42.41:075][935]BlueprintLog: New page: Compile demonAi
+[2017.04.12-16.42.43:071][935]BlueprintLog: New page: Compile demonAi
+[2017.04.12-16.42.44:901][939]BlueprintLog: New page: Compile demonAi
+[2017.04.12-16.42.48:734][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/demonAi" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset" SILENT=true
+[2017.04.12-16.42.48:970][ 89]LogSavePackage: Save=157.65ms
+[2017.04.12-16.42.48:970][ 89]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAi91629A8741DC2DD5811663B6FD8846ED.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset'
+[2017.04.12-16.42.48:977][ 89]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset
+[2017.04.12-16.43.58:262][ 96]BlueprintLog: New page: Compile demonAi
+[2017.04.12-16.44.10:196][559]LogAnimation:Warning: AnimBP demonAnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2017.04.12-16.44.10:197][559]LogAnimation:Warning: AnimBP demonAnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2017.04.12-16.44.10:198][559]LogAnimation:Warning: AnimBP demonAnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2017.04.12-16.44.10:199][559]LogAnimation:Warning: AnimBP demonAnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2017.04.12-16.44.10:200][559]LogAnimation:Warning: AnimBP demonAnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2017.04.12-16.44.10:200][559]LogAnimation:Warning: AnimBP demonAnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2017.04.12-16.44.12:339][626]BlueprintLog: New page: Compile demonAi
+[2017.04.12-16.44.14:969][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/demonAi" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset" SILENT=true
+[2017.04.12-16.44.15:061][691]LogSavePackage: Save=75.19ms
+[2017.04.12-16.44.15:061][691]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAi55A7F5B2425364A9D0262E8C98885AF0.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset'
+[2017.04.12-16.44.15:073][691]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset
+[2017.04.12-16.44.19:763][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.12-16.44.20:486][861]LogSavePackage: Save=493.55ms
+[2017.04.12-16.44.20:486][861]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/AI_Test64903EAD4AD2F27DAA3ED0AE1CC5D3F8.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.04.12-16.44.20:495][861]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.04.12-16.44.24:489][  0]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.12-16.44.24:590][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.44.24:627][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.12-16.44.24:680][  0]PIE: New page: PIE session: AI_Test (Apr 12, 2017, 8:44:24 AM)
+[2017.04.12-16.44.24:705][  0]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.12-16.44.25:436][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.732169s)
+[2017.04.12-16.44.25:484][  0]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.12-16.44.25:564][  0]LogPlayLevel: PIE: World Init took: (0.120639s)
+[2017.04.12-16.44.25:584][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.893907s)
+[2017.04.12-16.44.25:867][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.12-16.44.27:068][  0]LogInit: FAudioDevice initialized.
+[2017.04.12-16.44.27:514][  0]LogLoad: Game class is 'myGame_C'
+[2017.04.12-16.44.27:613][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 60) at 2017.04.12-12.44.27
+[2017.04.12-16.44.27:928][  0]LogWorld: Bringing up level for play took: 0.413046
+[2017.04.12-16.44.28:557][  0]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 4.193
+[2017.04.12-16.44.28:558][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.44.31:410][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.44.31:911][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.45.54:182][968]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.12-16.46.11:134][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/demon_anim" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demon_anim.uasset" SILENT=true
+[2017.04.12-16.46.11:239][356]LogSavePackage: Save=97.73ms
+[2017.04.12-16.46.11:239][356]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demon_anim267627BC42ED4A8E6376DBA6E5FA2639.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demon_anim.uasset'
+[2017.04.12-16.46.11:246][356]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/demon_anim.uasset
+[2017.04.12-16.49.16:459][920]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'SkeletalMeshComponent0' or package '/Engine/Transient'.
+[2017.04.12-16.49.16:459][920]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Demon_C_4' or package '/Engine/Transient'.
+[2017.04.12-16.49.16:459][920]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_Demon_C_5' or package '/Engine/Transient'.
+[2017.04.12-16.49.16:459][920]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_Demon_C_51' or package '/Engine/Transient'.
+[2017.04.12-16.49.16:459][920]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_Demon_C_50' or package '/Engine/Transient'.
+[2017.04.12-16.50.10:784][464]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.12-16.50.22:332][ 69]BlueprintLog: New page: Compile Enemy_AI
+[2017.04.12-16.50.22:415][ 69]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.CollisionCylinder is already used by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:415][ 69]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.Arrow is already used by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:415][ 69]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:416][ 69]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:419][ 69]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI3.CollisionCylinder is already used by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_5.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:419][ 69]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI3.Arrow is already used by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_5.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:419][ 69]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI3.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_5.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:419][ 69]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI3.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_5.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:422][ 69]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.CollisionCylinder is already used by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_10.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:422][ 69]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.Arrow is already used by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_10.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:422][ 69]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_10.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.22:422][ 69]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI_375.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_10.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.50.30:193][370]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.04.12-16.50.31:320][405]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.04.12-16.50.31:415][407]LogEditorViewport: Clicking on Actor (double click): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.04.12-16.50.33:218][477]LogEditorViewport: Clicking on Actor (LMB): demonAi_C (demonAi)
+[2017.04.12-16.50.34:211][511]LogEditorViewport: Clicking on Actor (context menu): demonAi_C (demonAi)
+[2017.04.12-16.50.38:361][726]Cmd: EDIT CUT
+[2017.04.12-16.50.38:694][726]LogEditorActor: Deleted Actor: demonAi_C
+[2017.04.12-16.50.38:772][726]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2017.04.12-16.50.41:529][802]LogEditorViewport: Clicking on Actor (LMB): Enemy_AI_C (Enemy_AI2)
+[2017.04.12-16.50.57:038][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.04.12-16.50.57:118][252]LogSavePackage: Save=60.68ms
+[2017.04.12-16.50.57:118][252]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI3A2B88C34694DEA52F8B3AB279ECFC82.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.04.12-16.50.57:126][252]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.04.12-16.51.10:052][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.12-16.51.10:265][252]LogSavePackage: Save=137.49ms
+[2017.04.12-16.51.10:265][252]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/AI_TestF26C124A4D0B35AD80858B94EDCD86D0.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.04.12-16.51.10:272][252]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.04.12-16.51.10:316][252]LogFileHelpers: Saving map 'AI_Test' took 13.186
+[2017.04.12-16.51.11:849][312]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.12-16.51.11:896][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.51.11:896][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.12-16.51.11:897][312]PIE: New page: PIE session: AI_Test (Apr 12, 2017, 8:51:11 AM)
+[2017.04.12-16.51.11:897][312]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.12-16.51.11:907][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010485s)
+[2017.04.12-16.51.11:908][312]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.12-16.51.11:908][312]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2017.04.12-16.51.11:908][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.011793s)
+[2017.04.12-16.51.11:972][312]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.12-16.51.13:134][312]LogInit: FAudioDevice initialized.
+[2017.04.12-16.51.13:164][312]LogLoad: Game class is 'myGame_C'
+[2017.04.12-16.51.13:168][312]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 60) at 2017.04.12-12.51.13
+[2017.04.12-16.51.13:169][312]LogWorld: Bringing up level for play took: 0.004027
+[2017.04.12-16.51.13:171][312]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.807
+[2017.04.12-16.51.13:172][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.51.21:675][697]Cmd: SELECT NONE
+[2017.04.12-16.51.24:408][820]Cmd: SELECT NONE
+[2017.04.12-16.51.26:088][895]Cmd: SELECT NONE
+[2017.04.12-16.51.26:261][902]Cmd: SELECT NONE
+[2017.04.12-16.51.36:905][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.51.37:018][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.12-16.51.50:796][893]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.12-16.51.55:156][105]BlueprintLog: New page: Compile Enemy_AI
+[2017.04.12-16.51.55:227][105]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.CollisionCylinder is already used by CapsuleComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.51.55:227][105]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.Arrow is already used by ArrowComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.51.55:227][105]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.51.55:227][105]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.Enemy_AI2.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/AI_Test.AI_Test:PersistentLevel.REINST_Enemy_AI_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.12-16.51.58:036][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.04.12-16.51.58:110][186]LogSavePackage: Save=62.28ms
+[2017.04.12-16.51.58:110][186]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Enemy_AIEC93A2EE40969709AED6DE8098E0503B.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.04.12-16.51.58:118][186]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.04.12-16.52.13:680][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
