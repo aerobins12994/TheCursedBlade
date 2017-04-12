@@ -959,3 +959,955 @@ Please see Output Log for details.
 [2017.04.12-05.37.06:522][767]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_roaring023860844F39004A99E08BB08F4902FC.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_roaring.uasset'
 [2017.04.12-05.37.06:530][767]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_roaring.uasset
 [2017.04.12-05.37.10:495][803]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.12-08.23.41:419][  7]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.12-08.24.41:879][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonSlash" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonSlash.uasset" SILENT=true
+[2017.04.12-08.24.42:096][435]LogSavePackage: Save=197.25ms
+[2017.04.12-08.24.42:097][435]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonSlashCA87B5C14642538724BC9D85AC96F668.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonSlash.uasset'
+[2017.04.12-08.24.42:139][435]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonSlash.uasset
+[2017.04.12-08.25.12:482][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/jump_attack" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/jump_attack.uasset" SILENT=true
+[2017.04.12-08.25.12:562][154]LogSavePackage: Save=73.57ms
+[2017.04.12-08.25.12:562][154]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/jump_attack6A81AE4C4B00408AFC509F9E8B90D771.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/jump_attack.uasset'
+[2017.04.12-08.25.12:586][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/jump_attack.uasset
+[2017.04.12-08.25.12:643][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/mutant_dying" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_dying.uasset" SILENT=true
+[2017.04.12-08.25.12:749][154]LogSavePackage: Save=100.97ms
+[2017.04.12-08.25.12:749][154]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_dying2D6377B54AE8368861BDADB598AC270A.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_dying.uasset'
+[2017.04.12-08.25.12:757][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_dying.uasset
+[2017.04.12-08.25.12:826][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/mutant_jump_attack" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_jump_attack.uasset" SILENT=true
+[2017.04.12-08.25.12:894][154]LogSavePackage: Save=64.59ms
+[2017.04.12-08.25.12:894][154]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_jump_attackDFE2B0334F1DE5C3E7FC0E8218D33B4D.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_jump_attack.uasset'
+[2017.04.12-08.25.12:901][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_jump_attack.uasset
+[2017.04.12-08.25.12:946][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/mutant_punch" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_punch.uasset" SILENT=true
+[2017.04.12-08.25.12:974][154]LogSavePackage: Save=25.15ms
+[2017.04.12-08.25.12:974][154]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_punch7474CBDE4653B3C5355B418A2999822C.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_punch.uasset'
+[2017.04.12-08.25.12:982][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_punch.uasset
+[2017.04.12-08.25.13:031][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/mutant_roaring" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_roaring.uasset" SILENT=true
+[2017.04.12-08.25.13:083][154]LogSavePackage: Save=46.65ms
+[2017.04.12-08.25.13:083][154]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_roaring32F6F14643B04849F02C5BBCC179F33C.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_roaring.uasset'
+[2017.04.12-08.25.13:091][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/mutant_roaring.uasset
+[2017.04.12-08.25.36:823][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demon_anim/demonSlash" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/demonSlash.uasset" SILENT=true
+[2017.04.12-08.25.36:865][982]LogSavePackage: Save=37.23ms
+[2017.04.12-08.25.36:865][982]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonSlash35F4987A47B22B5656070F8CDB84ED0E.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/demonSlash.uasset'
+[2017.04.12-08.25.36:877][982]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/demonSlash.uasset
+[2017.04.12-08.27.12:258][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonAnimBP" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset" SILENT=true
+[2017.04.12-08.27.12:547][468]LogSavePackage: Save=283.66ms
+[2017.04.12-08.27.12:547][468]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBPE139F2FA413799E4A0B2D59068EBA9CC.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset'
+[2017.04.12-08.27.12:571][468]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demonAnimBP.uasset
+[2017.04.12-08.27.50:728][103]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.12-08.27.53:146][103]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.12-08.28.10:743][103]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'SkeletalMeshComponent0' or package '/Engine/Transient'.
+[2017.04.12-08.28.10:743][103]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_demonAnimBP_C_0' or package '/Engine/Transient'.
+[2017.04.12-08.28.10:743][103]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_demonAnimBP_C_1' or package '/Engine/Transient'.
+[2017.04.12-08.28.10:743][103]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_demonAnimBP_C_3' or package '/Engine/Transient'.
+[2017.04.12-08.28.10:743][103]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_demonAnimBP_C_2' or package '/Engine/Transient'.
+[2017.04.12-08.29.28:077][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/Demon" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Demon.uasset" SILENT=true
+[2017.04.12-08.29.28:200][778]LogSavePackage: Save=118.45ms
+[2017.04.12-08.29.28:200][778]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/DemonA1B4319D4157B35B71D9A3974C99C056.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Demon.uasset'
+[2017.04.12-08.29.28:208][778]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Demon.uasset
+[2017.04.12-09.42.55:630][435]BlueprintLog: New page: Compile Demon
+[2017.04.12-09.42.55:915][435]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.04.12-09.43.00:947][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/Demon" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Demon.uasset" SILENT=true
+[2017.04.12-09.43.01:051][709]LogSavePackage: Save=31.84ms
+[2017.04.12-09.43.01:051][709]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Demon3AC8989D4E4F95C98A41ED9E9E39EF6E.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Demon.uasset'
+[2017.04.12-09.43.01:056][709]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Demon.uasset
+[2017.04.12-09.44.08:555][241]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/left_turn_45.fbx)
+[2017.04.12-09.44.08:564][241]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.12-09.44.08:564][241]LogFbx: ItemName: Model, ItemCount : 65
+[2017.04.12-09.44.08:564][241]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2017.04.12-09.44.08:564][241]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.04.12-09.44.08:564][241]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.04.12-09.44.08:564][241]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2017.04.12-09.44.08:564][241]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2017.04.12-09.44.08:573][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/left_turn_45.fbx
+[2017.04.12-09.44.08:609][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.27:898][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/left_turn_45.fbx
+[2017.04.12-09.44.27:955][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.27:960][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.27:961][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.27:961][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.27:964][241]LogLinker: Can't find file '/Game/demons/demon_movement/left_turn_45'
+[2017.04.12-09.44.27:964][241]LogLinker: Can't find file '/Game/demons/demon_movement/left_turn_45'
+[2017.04.12-09.44.28:284][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/left_turn_45.left_turn_45
+[2017.04.12-09.44.28:483][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_idle.fbx)
+[2017.04.12-09.44.28:498][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_idle.fbx
+[2017.04.12-09.44.28:551][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.28:556][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.28:557][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.28:557][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.28:568][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_idle'
+[2017.04.12-09.44.28:568][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_idle'
+[2017.04.12-09.44.30:722][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_idle.mutant_idle
+[2017.04.12-09.44.30:833][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_idle_1.fbx)
+[2017.04.12-09.44.30:848][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_idle_1.fbx
+[2017.04.12-09.44.30:885][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.30:890][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.30:910][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.30:911][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.30:915][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_idle_1'
+[2017.04.12-09.44.30:915][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_idle_1'
+[2017.04.12-09.44.31:915][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_idle_1.mutant_idle_1
+[2017.04.12-09.44.31:983][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_jumping.fbx)
+[2017.04.12-09.44.31:998][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_jumping.fbx
+[2017.04.12-09.44.32:032][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.32:038][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.32:039][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.32:039][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.32:043][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_jumping'
+[2017.04.12-09.44.32:044][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_jumping'
+[2017.04.12-09.44.32:656][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_jumping.mutant_jumping
+[2017.04.12-09.44.32:721][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_jumping_1.fbx)
+[2017.04.12-09.44.32:733][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_jumping_1.fbx
+[2017.04.12-09.44.32:767][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.32:774][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.32:775][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.32:777][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_jumping_1'
+[2017.04.12-09.44.32:777][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_jumping_1'
+[2017.04.12-09.44.32:968][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_jumping_1.mutant_jumping_1
+[2017.04.12-09.44.33:004][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_left_turn_45.fbx)
+[2017.04.12-09.44.33:018][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_left_turn_45.fbx
+[2017.04.12-09.44.33:058][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.33:064][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.33:065][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.33:065][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.33:069][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_left_turn_45'
+[2017.04.12-09.44.33:069][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_left_turn_45'
+[2017.04.12-09.44.33:500][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_left_turn_45.mutant_left_turn_45
+[2017.04.12-09.44.33:559][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_right_turn_45.fbx)
+[2017.04.12-09.44.33:579][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_right_turn_45.fbx
+[2017.04.12-09.44.33:611][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.33:616][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.33:617][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.33:620][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_right_turn_45'
+[2017.04.12-09.44.33:620][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_right_turn_45'
+[2017.04.12-09.44.33:996][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_right_turn_45.mutant_right_turn_45
+[2017.04.12-09.44.34:040][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_right_turn_45_1.fbx)
+[2017.04.12-09.44.34:055][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_right_turn_45_1.fbx
+[2017.04.12-09.44.34:089][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.34:095][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.34:095][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.34:098][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_right_turn_45_1'
+[2017.04.12-09.44.34:098][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_right_turn_45_1'
+[2017.04.12-09.44.34:426][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_right_turn_45_1.mutant_right_turn_45_1
+[2017.04.12-09.44.34:490][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_right_turn_90.fbx)
+[2017.04.12-09.44.34:521][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_right_turn_90.fbx
+[2017.04.12-09.44.34:551][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.34:556][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.34:557][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.34:558][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.34:561][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_right_turn_90'
+[2017.04.12-09.44.34:561][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_right_turn_90'
+[2017.04.12-09.44.35:041][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_right_turn_90.mutant_right_turn_90
+[2017.04.12-09.44.35:074][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_run_inPlace.fbx)
+[2017.04.12-09.44.35:086][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_run_inPlace.fbx
+[2017.04.12-09.44.35:115][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.35:120][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.35:120][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.35:123][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_run_inPlace'
+[2017.04.12-09.44.35:123][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_run_inPlace'
+[2017.04.12-09.44.35:367][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_run_inPlace.mutant_run_inPlace
+[2017.04.12-09.44.35:401][241]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/demonAI/mutant_walking_inPlace.fbx)
+[2017.04.12-09.44.35:413][241]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/demonAI/mutant_walking_inPlace.fbx
+[2017.04.12-09.44.35:444][241]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(0) Hips
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(1) Spine
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(2) Spine1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(3) Spine2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(4) Neck
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(5) Head
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(8) LeftArm
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(10) LeftHand
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(32) RightArm
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(34) RightHand
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(35) RightHandPinky1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(36) RightHandPinky2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(37) RightHandPinky3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(38) RightHandPinky4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(39) RightHandRing1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(40) RightHandRing2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(41) RightHandRing3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(42) RightHandRing4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(47) RightHandIndex1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(48) RightHandIndex2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(49) RightHandIndex3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(50) RightHandIndex4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(51) RightHandThumb1
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(52) RightHandThumb2
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(53) RightHandThumb3
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(54) RightHandThumb4
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.12-09.44.35:451][241]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.12-09.44.35:452][241]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.12-09.44.35:454][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_walking_inPlace'
+[2017.04.12-09.44.35:454][241]LogLinker: Can't find file '/Game/demons/demon_movement/mutant_walking_inPlace'
+[2017.04.12-09.44.35:810][241]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_movement/mutant_walking_inPlace.mutant_walking_inPlace
+[2017.04.12-09.44.40:645][286]LogSavePackage: Save=20.54ms
+[2017.04.12-09.44.40:645][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/left_turn_457C4DA26E415544F256F124A66198F551.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/left_turn_45.uasset'
+[2017.04.12-09.44.40:665][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/left_turn_45.uasset
+[2017.04.12-09.44.40:728][286]LogSavePackage: Save=22.33ms
+[2017.04.12-09.44.40:728][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_idleCE8996DD4D90014F93DA879AB57D6D52.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle.uasset'
+[2017.04.12-09.44.40:736][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle.uasset
+[2017.04.12-09.44.40:803][286]LogSavePackage: Save=27.24ms
+[2017.04.12-09.44.40:803][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_idle_1A38B395446B91F0CF3DF91AD0C63BF21.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle_1.uasset'
+[2017.04.12-09.44.40:810][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle_1.uasset
+[2017.04.12-09.44.40:899][286]LogSavePackage: Save=32.26ms
+[2017.04.12-09.44.40:899][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_jumpingC7AEFA7F4C3C3B1C20370B87CB94F2EA.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping.uasset'
+[2017.04.12-09.44.40:906][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping.uasset
+[2017.04.12-09.44.40:965][286]LogSavePackage: Save=19.80ms
+[2017.04.12-09.44.40:965][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping_1882ECB534CE4408E464714B0C7B0CF60.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping_1.uasset'
+[2017.04.12-09.44.40:973][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping_1.uasset
+[2017.04.12-09.44.41:034][286]LogSavePackage: Save=17.84ms
+[2017.04.12-09.44.41:034][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_left_turn_459384467B4F9FEDD238AE09B15AA9D242.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_left_turn_45.uasset'
+[2017.04.12-09.44.41:041][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_left_turn_45.uasset
+[2017.04.12-09.44.41:101][286]LogSavePackage: Save=18.24ms
+[2017.04.12-09.44.41:101][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_454DE0010D47129E24CBE3668A624C4FE7.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45.uasset'
+[2017.04.12-09.44.41:108][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45.uasset
+[2017.04.12-09.44.41:166][286]LogSavePackage: Save=19.75ms
+[2017.04.12-09.44.41:166][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_45_1BDF7514140B01E4C06C094882CDE44C6.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45_1.uasset'
+[2017.04.12-09.44.41:174][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45_1.uasset
+[2017.04.12-09.44.41:239][286]LogSavePackage: Save=22.75ms
+[2017.04.12-09.44.41:240][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_90134C82A94BF5F585F84F00A8BA611C29.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_90.uasset'
+[2017.04.12-09.44.41:247][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_90.uasset
+[2017.04.12-09.44.41:310][286]LogSavePackage: Save=22.25ms
+[2017.04.12-09.44.41:310][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_run_inPlace11107FE84F426312A798B3994375AFBB.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_run_inPlace.uasset'
+[2017.04.12-09.44.41:316][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_run_inPlace.uasset
+[2017.04.12-09.44.41:385][286]LogSavePackage: Save=19.40ms
+[2017.04.12-09.44.41:385][286]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_walking_inPlace9823AF6E414040D96BC469A12786D112.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_walking_inPlace.uasset'
+[2017.04.12-09.44.41:392][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_walking_inPlace.uasset
+[2017.04.12-09.45.13:864][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/left_turn_45.left_turn_45
+[2017.04.12-09.45.13:900][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/left_turn_45.left_turn_45
+[2017.04.12-09.45.13:965][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle.mutant_idle
+[2017.04.12-09.45.14:048][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle.mutant_idle
+[2017.04.12-09.45.14:202][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle_1.mutant_idle_1
+[2017.04.12-09.45.14:276][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle_1.mutant_idle_1
+[2017.04.12-09.45.14:335][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping.mutant_jumping
+[2017.04.12-09.45.14:358][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping.mutant_jumping
+[2017.04.12-09.45.14:446][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping_1.mutant_jumping_1
+[2017.04.12-09.45.14:467][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping_1.mutant_jumping_1
+[2017.04.12-09.45.14:507][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_left_turn_45.mutant_left_turn_45
+[2017.04.12-09.45.14:538][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_left_turn_45.mutant_left_turn_45
+[2017.04.12-09.45.14:593][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45.mutant_right_turn_45
+[2017.04.12-09.45.14:624][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45.mutant_right_turn_45
+[2017.04.12-09.45.14:660][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_90.mutant_right_turn_90
+[2017.04.12-09.45.14:707][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_90.mutant_right_turn_90
+[2017.04.12-09.45.14:802][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45_1.mutant_right_turn_45_1
+[2017.04.12-09.45.14:857][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45_1.mutant_right_turn_45_1
+[2017.04.12-09.45.14:898][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_run_inPlace.mutant_run_inPlace
+[2017.04.12-09.45.14:940][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_run_inPlace.mutant_run_inPlace
+[2017.04.12-09.45.15:016][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_walking_inPlace.mutant_walking_inPlace
+[2017.04.12-09.45.15:083][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_walking_inPlace.mutant_walking_inPlace
+[2017.04.12-09.45.26:640][ 59]LogSavePackage: Save=11.37ms
+[2017.04.12-09.45.26:640][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton870E301149641F6D2D0FF49FC075A319.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset'
+[2017.04.12-09.45.26:647][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/character/SK_Mannequin_Skeleton.uasset
+[2017.04.12-09.45.26:708][ 59]LogSavePackage: Save=7.38ms
+[2017.04.12-09.45.26:708][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_Skeleton7FFD5A02409BCA18E210C6A8F4133963.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset'
+[2017.04.12-09.45.26:713][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset
+[2017.04.12-09.45.26:749][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/left_turn_45" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/left_turn_45.uasset" SILENT=true
+[2017.04.12-09.45.26:772][ 59]LogSavePackage: Save=19.86ms
+[2017.04.12-09.45.26:772][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/left_turn_45D346A00D4C8CB172C8294F92FD5556DA.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/left_turn_45.uasset'
+[2017.04.12-09.45.26:777][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/left_turn_45.uasset
+[2017.04.12-09.45.26:812][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_idle" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_idle.uasset" SILENT=true
+[2017.04.12-09.45.26:837][ 59]LogSavePackage: Save=22.28ms
+[2017.04.12-09.45.26:837][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_idle740BBCA44BAFD965B43B9DACD14133C3.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_idle.uasset'
+[2017.04.12-09.45.26:842][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_idle.uasset
+[2017.04.12-09.45.26:877][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_idle_1" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_idle_1.uasset" SILENT=true
+[2017.04.12-09.45.26:900][ 59]LogSavePackage: Save=19.81ms
+[2017.04.12-09.45.26:900][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_idle_1DC4268C64414BF173B8EA195A324C072.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_idle_1.uasset'
+[2017.04.12-09.45.26:905][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_idle_1.uasset
+[2017.04.12-09.45.26:941][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_jumping" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_jumping.uasset" SILENT=true
+[2017.04.12-09.45.26:976][ 59]LogSavePackage: Save=18.26ms
+[2017.04.12-09.45.26:976][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping86904A42400C8B89EACA9CA7C3F07602.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_jumping.uasset'
+[2017.04.12-09.45.26:981][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_jumping.uasset
+[2017.04.12-09.45.27:019][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_jumping_1" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_jumping_1.uasset" SILENT=true
+[2017.04.12-09.45.27:058][ 59]LogSavePackage: Save=36.64ms
+[2017.04.12-09.45.27:059][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping_1F871410345FEA359DA2F34B3402039AC.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_jumping_1.uasset'
+[2017.04.12-09.45.27:066][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_jumping_1.uasset
+[2017.04.12-09.45.27:100][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_left_turn_45" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_left_turn_45.uasset" SILENT=true
+[2017.04.12-09.45.27:157][ 59]LogSavePackage: Save=19.12ms
+[2017.04.12-09.45.27:157][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_left_turn_45A003189C4D8FDB4F17E1C4A628E95D1F.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_left_turn_45.uasset'
+[2017.04.12-09.45.27:163][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_left_turn_45.uasset
+[2017.04.12-09.45.27:200][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_right_turn_45" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_45.uasset" SILENT=true
+[2017.04.12-09.45.27:236][ 59]LogSavePackage: Save=19.21ms
+[2017.04.12-09.45.27:236][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_45FEB55AAA4705A0DBE281DFACF3EC1D73.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_45.uasset'
+[2017.04.12-09.45.27:243][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_45.uasset
+[2017.04.12-09.45.27:283][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_right_turn_45_1" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_45_1.uasset" SILENT=true
+[2017.04.12-09.45.27:323][ 59]LogSavePackage: Save=17.96ms
+[2017.04.12-09.45.27:323][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_45_11373B18B47C94743D1A5A998463F41C0.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_45_1.uasset'
+[2017.04.12-09.45.27:330][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_45_1.uasset
+[2017.04.12-09.45.27:367][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_right_turn_90" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_90.uasset" SILENT=true
+[2017.04.12-09.45.27:392][ 59]LogSavePackage: Save=21.28ms
+[2017.04.12-09.45.27:392][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_90943E9C2A44DADBBE8180BBB8F6690433.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_90.uasset'
+[2017.04.12-09.45.27:400][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_right_turn_90.uasset
+[2017.04.12-09.45.27:438][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_run_inPlace" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_run_inPlace.uasset" SILENT=true
+[2017.04.12-09.45.27:487][ 59]LogSavePackage: Save=23.71ms
+[2017.04.12-09.45.27:487][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_run_inPlaceAD7BD8534B847EA8281621914D5FBF7D.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_run_inPlace.uasset'
+[2017.04.12-09.45.27:494][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_run_inPlace.uasset
