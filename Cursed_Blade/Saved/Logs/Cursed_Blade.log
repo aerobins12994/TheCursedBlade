@@ -1911,3 +1911,37 @@ Please see Output Log for details.
 [2017.04.12-09.45.27:487][ 59]LogSavePackage: Save=23.71ms
 [2017.04.12-09.45.27:487][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_run_inPlaceAD7BD8534B847EA8281621914D5FBF7D.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_run_inPlace.uasset'
 [2017.04.12-09.45.27:494][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_run_inPlace.uasset
+[2017.04.12-09.45.27:528][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mutant_walking_inPlace" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_walking_inPlace.uasset" SILENT=true
+[2017.04.12-09.45.27:549][ 59]LogSavePackage: Save=18.68ms
+[2017.04.12-09.45.27:550][ 59]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/mutant_walking_inPlace912DB1E24E6F148A04DA73AC5143F3A5.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_walking_inPlace.uasset'
+[2017.04.12-09.45.27:558][ 59]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/mutant_walking_inPlace.uasset
+[2017.04.12-09.56.54:668][750]LogEditorFactories: Performing atomic reimport of [C:/Users/aerob/Downloads/demonAI/left_turn_45.fbx]
+[2017.04.12-09.56.54:762][750]LogFbx: Loading FBX Scene from C:/Users/aerob/Downloads/demonAI/left_turn_45.fbx
+[2017.04.12-09.56.54:793][750]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.12-09.56.54:822][750]FBXImport:Error: Error Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2017.04.12-09.56.54:853][750]LogEditorFactories:Warning: -- import failed
+[2017.04.12-09.57.10:976][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/left_turn_45" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/left_turn_45.uasset" SILENT=true
+[2017.04.12-09.57.11:015][ 83]LogSavePackage: Save=19.63ms
+[2017.04.12-09.57.11:015][ 83]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/left_turn_450029481F4E2BA6762DEC048F8292DC98.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/left_turn_45.uasset'
+[2017.04.12-09.57.11:021][ 83]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/left_turn_45.uasset
+[2017.04.12-09.58.26:108][160]LogSavePackage: Save=58.27ms
+[2017.04.12-09.58.26:108][160]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonAnimBPC529000941C4B2C9972DA6A8B40ACB24.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonAnimBP.uasset'
+[2017.04.12-09.58.26:129][160]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonAnimBP.uasset
+[2017.04.12-09.58.33:166][243]LogContentBrowser:Verbose: The majority of assets in the view are of type: BlendSpace1D
+[2017.04.12-09.59.20:404][725]LogSavePackage: Save=21.64ms
+[2017.04.12-09.59.20:404][725]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonMovementBlendSpace7D35FF16459898347E90FA80E993E53F.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonMovementBlendSpace.uasset'
+[2017.04.12-09.59.20:410][725]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonMovementBlendSpace.uasset
+[2017.04.12-09.59.26:133][910]LogContentBrowser:Verbose: The majority of assets in the view are of type: BlendSpace1D
+[2017.04.12-10.04.10:668][881]LogSavePackage: Save=16.55ms
+[2017.04.12-10.04.10:668][881]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonMovementBlendSpace7EF0FEA9411B88B8948812B4D81728A6.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonMovementBlendSpace.uasset'
+[2017.04.12-10.04.10:675][881]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/demonMovementBlendSpace.uasset
+[2017.04.12-10.04.13:276][917]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.12-10.04.43:083][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.103
+[2017.04.12-10.04.43:101][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/demons/demon_movement/demonMovementBlendSpace] ([1] browsable assets)...
+[2017.04.12-10.04.43:101][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/demon_movement/demonMovementBlendSpace]
+[2017.04.12-10.04.43:126][319]LogSavePackage: Save=7.99ms
+[2017.04.12-10.04.43:126][319]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/demonMovementBlendSpace_Auto187ED703D4C36EA12CE472881A6DB676F.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demon_movement/demonMovementBlendSpace_Auto1.uasset'
+[2017.04.12-10.04.43:129][319]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demon_movement/demonMovementBlendSpace_Auto1.uasset
+[2017.04.12-10.04.43:129][319]LogFileHelpers: Auto-saving content packages took 0.045
+[2017.04.12-10.29.14:705][265]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.152
