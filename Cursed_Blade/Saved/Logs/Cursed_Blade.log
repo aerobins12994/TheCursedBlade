@@ -585,3 +585,117 @@ LogInit: Object subsystem initialized
 [2017.04.15-21.57.20:971][ 74]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2017.04.15-21.57.40:626][786]LogSavePackage: Save=5265.18ms
 [2017.04.15-21.57.40:626][786]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevel05ACC7574D8CC11D7F4508A15D1501C0.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap'
+[2017.04.15-21.57.40:634][786]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap
+[2017.04.15-21.57.40:662][786]LogFileHelpers: Saving map 'TombLevel' took 5.502
+[2017.04.15-22.04.59:054][217]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Steven/Downloads/Arrow.fbx)
+[2017.04.15-22.04.59:065][217]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.15-22.04.59:065][217]LogFbx: ItemName: Model, ItemCount : 2
+[2017.04.15-22.04.59:065][217]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.04.15-22.04.59:065][217]LogFbx: ItemName: Material, ItemCount : 2
+[2017.04.15-22.04.59:065][217]LogFbx: ItemName: Texture, ItemCount : 4
+[2017.04.15-22.04.59:065][217]LogFbx: ItemName: Video, ItemCount : 4
+[2017.04.15-22.04.59:070][217]LogFbx: Loading FBX Scene from D:/Steven/Downloads/Arrow.fbx
+[2017.04.15-22.04.59:083][217]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.15-22.05.01:706][217]LogFbx: Loading FBX Scene from D:/Steven/Downloads/Arrow.fbx
+[2017.04.15-22.05.01:717][217]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.15-22.05.01:723][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/Material_5861709'
+[2017.04.15-22.05.01:723][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/Material_5861709'
+[2017.04.15-22.05.01:726][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/946'
+[2017.04.15-22.05.01:727][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/946'
+[2017.04.15-22.05.01:941][217]LogTexture:Display: Building textures: 946_2 (AutoDXT)
+[2017.04.15-22.05.02:572][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/948'
+[2017.04.15-22.05.02:572][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/948'
+[2017.04.15-22.05.02:800][217]LogTexture:Display: Building textures: 948_2 (AutoDXT)
+[2017.04.15-22.05.03:578][217]LogMaterial: Missing cached shader map for material Material_5861709, compiling. 
+[2017.04.15-22.05.03:614][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/Material_5861711'
+[2017.04.15-22.05.03:614][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/Material_5861711'
+[2017.04.15-22.05.03:616][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/954'
+[2017.04.15-22.05.03:616][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/954'
+[2017.04.15-22.05.03:861][217]LogTexture:Display: Building textures: 954_2 (AutoDXT)
+[2017.04.15-22.05.04:706][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/956'
+[2017.04.15-22.05.04:707][217]LogLinker: Can't find file '/Game/character/Bow_and_Arrow/956'
+[2017.04.15-22.05.05:050][217]LogTexture:Display: Building textures: 956_2 (AutoDXT)
+[2017.04.15-22.05.06:073][217]LogMaterial: Missing cached shader map for material Material_5861711, compiling. 
+[2017.04.15-22.05.06:161][217]LogStaticMesh: Building static mesh Arrow...
+[2017.04.15-22.05.06:189][217]LogStaticMesh: Built static mesh [0.03s] /Game/character/Bow_and_Arrow/Arrow.Arrow
+[2017.04.15-22.05.06:200][217]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.15-22.05.42:689][162]LogSavePackage: Save=10.92ms
+[2017.04.15-22.05.42:689][162]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Arrow22F22331435C32C4DD8E139C043A9FC3.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/Arrow.uasset'
+[2017.04.15-22.05.42:691][162]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/Arrow.uasset
+[2017.04.15-22.05.42:791][162]LogSavePackage: Save=12.75ms
+[2017.04.15-22.05.42:791][162]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Material_58617096B1882684DD249E82CF64C8A83007403.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/Material_5861709.uasset'
+[2017.04.15-22.05.42:793][162]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/Material_5861709.uasset
+[2017.04.15-22.05.42:971][162]LogSavePackage: Save=162.37ms
+[2017.04.15-22.05.42:971][162]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/946_27B3A72024D9C8F604C5B92927DB7A451.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/946_2.uasset'
+[2017.04.15-22.05.42:973][162]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/946_2.uasset
+[2017.04.15-22.05.43:151][162]LogSavePackage: Save=163.28ms
+[2017.04.15-22.05.43:151][162]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/948_27ED061C2425041BFCCA053A8B4CD8175.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/948_2.uasset'
+[2017.04.15-22.05.43:153][162]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/948_2.uasset
+[2017.04.15-22.05.43:221][162]LogSavePackage: Save=10.73ms
+[2017.04.15-22.05.43:221][162]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Material_5861711FDC18EA14CE35F61CCE2DD9ED4DFEE1F.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/Material_5861711.uasset'
+[2017.04.15-22.05.43:223][162]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/Material_5861711.uasset
+[2017.04.15-22.05.43:407][162]LogSavePackage: Save=166.83ms
+[2017.04.15-22.05.43:407][162]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/954_288F36CD04F78F646A735E08E76BB5DB6.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/954_2.uasset'
+[2017.04.15-22.05.43:408][162]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/954_2.uasset
+[2017.04.15-22.05.43:578][162]LogSavePackage: Save=154.91ms
+[2017.04.15-22.05.43:578][162]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/956_246A01A1D45B710BC20000E9A213900AF.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/956_2.uasset'
+[2017.04.15-22.05.43:580][162]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Bow_and_Arrow/956_2.uasset
+[2017.04.15-22.06.51:721][687]BlueprintLog: New page: Compile Projectile
+[2017.04.15-22.07.30:850][444]BlueprintLog: New page: Compile Projectile
+[2017.04.15-22.07.32:051][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Projectile" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Projectile.uasset" SILENT=true
+[2017.04.15-22.07.32:068][502]LogSavePackage: Save=16.73ms
+[2017.04.15-22.07.32:069][502]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/ProjectileB40E96914DB086315C9694A5C95C01C4.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Projectile.uasset'
+[2017.04.15-22.07.32:070][502]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Projectile.uasset
+[2017.04.15-22.08.15:299][699]BlueprintLog: New page: Compile Projectile
+[2017.04.15-22.08.33:866][784]LogEditorTransaction: Undo Move Nodes
+[2017.04.15-22.08.34:711][823]LogEditorTransaction: Undo Break Pin Link
+[2017.04.15-22.09.33:395][644]LogSavePackage: Save=6159.79ms
+[2017.04.15-22.09.33:395][644]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevel_Auto29E4C1A3241A72D18A518CFAA6C15684A.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/TombLevel_Auto2.umap'
+[2017.04.15-22.09.33:398][644]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/TombLevel_Auto2.umap
+[2017.04.15-22.09.33:400][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 7.622
+[2017.04.15-22.09.33:400][644]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.622
+[2017.04.15-22.09.33:403][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/RangedEnemy_AI] ([1] browsable assets)...
+[2017.04.15-22.09.33:459][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/RangedEnemy_AI.RangedEnemy_AI]
+[2017.04.15-22.09.33:459][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/RangedEnemy_AI]
+[2017.04.15-22.09.33:588][644]LogSavePackage: Save=45.69ms
+[2017.04.15-22.09.33:588][644]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/RangedEnemy_AI_Auto2367DA36B49BAD8842BCFB8A205B01A35.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/RangedEnemy_AI_Auto2.uasset'
+[2017.04.15-22.09.33:589][644]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/RangedEnemy_AI_Auto2.uasset
+[2017.04.15-22.09.33:590][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/Projectile] ([1] browsable assets)...
+[2017.04.15-22.09.33:645][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/Projectile.Projectile]
+[2017.04.15-22.09.33:645][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/Projectile]
+[2017.04.15-22.09.33:667][644]LogSavePackage: Save=15.18ms
+[2017.04.15-22.09.33:667][644]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Projectile_Auto2C9FCF06740EDC2D6AD696C990CC963EE.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/Projectile_Auto2.uasset'
+[2017.04.15-22.09.33:668][644]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/Projectile_Auto2.uasset
+[2017.04.15-22.09.33:668][644]LogFileHelpers: Auto-saving content packages took 0.266
+[2017.04.15-22.10.03:598][784]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.15-22.11.08:128][613]BlueprintLog: New page: Compile RangedEnemy_AI
+[2017.04.15-22.11.08:150][613]LogBlueprint:Error: [Compiler RangedEnemy_AI] Error The current value of the ' SpawnTransform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.04.15-22.11.08:150][613]LogBlueprint:Error: [Compiler RangedEnemy_AI] Error The current value of the ' SpawnTransform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.04.15-22.11.08:408][613]BlueprintEditorCompileResults:Error: Error The current value of the ' SpawnTransform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.04.15-22.11.08:408][613]BlueprintEditorCompileResults:Error: Error The current value of the ' SpawnTransform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.04.15-22.11.08:410][613]LogBlueprint:Warning: [Compiler RangedEnemy_AI] Warning [3876.00] Compile of RangedEnemy_AI failed. 2 Fatal Issue(s) 0 Warning(s) [in 279 ms] (/Game/character/RangedEnemy_AI.RangedEnemy_AI)
+[2017.04.15-22.11.43:675][687]BlueprintLog: New page: Compile RangedEnemy_AI
+[2017.04.15-22.11.43:696][687]LogBlueprint:Error: [Compiler RangedEnemy_AI] Error The current value of the ' T ' pin is invalid: 'T' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.04.15-22.11.43:948][687]BlueprintEditorCompileResults:Error: Error The current value of the ' T ' pin is invalid: 'T' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.04.15-22.11.43:948][687]LogBlueprint:Warning: [Compiler RangedEnemy_AI] Warning [3911.54] Compile of RangedEnemy_AI failed. 1 Fatal Issue(s) 0 Warning(s) [in 273 ms] (/Game/character/RangedEnemy_AI.RangedEnemy_AI)
+[2017.04.15-22.13.59:001][799]BlueprintLog: New page: Compile RangedEnemy_AI
+[2017.04.15-22.14.26:996][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/demonAi" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset" SILENT=true
+[2017.04.15-22.14.27:132][190]LogSavePackage: Save=34.13ms
+[2017.04.15-22.14.27:132][190]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/demonAi5BEBE2D241FD93FC2BA2C9B74FB9BCF9.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset'
+[2017.04.15-22.14.27:134][190]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset
+[2017.04.15-22.15.05:371][ 12]LogSavePackage: Save=5456.20ms
+[2017.04.15-22.15.05:372][ 12]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/TombLevelE73BD6A747425C0737A1768746CB23AC.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap'
+[2017.04.15-22.15.05:378][ 12]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap
+[2017.04.15-22.15.05:403][ 12]LogFileHelpers: Saving map 'TombLevel' took 6.161
+[2017.04.15-22.15.05:460][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Enemy_AI" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset" SILENT=true
+[2017.04.15-22.15.05:533][ 12]LogSavePackage: Save=47.00ms
+[2017.04.15-22.15.05:533][ 12]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Enemy_AI5FB9F52A459E6FC4FBBD2BBF2E4FD02D.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset'
+[2017.04.15-22.15.05:535][ 12]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Enemy_AI.uasset
+[2017.04.15-22.15.05:653][ 12]LogSavePackage: Save=54.83ms
+[2017.04.15-22.15.05:653][ 12]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/RangedEnemy_AI5C5660DB4C2267CB01C0AFA660205C16.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/RangedEnemy_AI.uasset'
+[2017.04.15-22.15.05:656][ 12]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/RangedEnemy_AI.uasset
+[2017.04.15-22.15.05:659][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/Projectile" FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Projectile.uasset" SILENT=true
+[2017.04.15-22.15.05:674][ 12]LogSavePackage: Save=10.79ms
+[2017.04.15-22.15.05:674][ 12]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/ProjectileF0586F5C4CD33B1633E4028E76561F1F.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Projectile.uasset'
+[2017.04.15-22.15.05:676][ 12]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/character/Projectile.uasset
+[2017.04.15-22.15.19:434][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
