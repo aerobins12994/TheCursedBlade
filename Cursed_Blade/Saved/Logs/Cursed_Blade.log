@@ -1,9 +1,9 @@
-﻿Log file open, 04/13/17 20:10:50
+﻿Log file open, 04/15/17 00:38:43
 LogInit:Display: Running engine for game: Cursed_Blade
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-56898919) SRandInit(-56898919).
+LogInit:Display: RandInit(-1785892297) SRandInit(-1785892296).
 LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 1.037950
+LogStats: Stats thread started at 0.214019
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
@@ -143,222 +143,388 @@ LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.04.14-00.10.54:698][  0]LogInit: Selected Device Profile: [Windows]
-[2017.04.14-00.10.54:698][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.04.14-00.10.54:932][  0]LogInit: Computer: LAPTOP-CP3ESMCT
-[2017.04.14-00.10.54:932][  0]LogInit: User: aerob
-[2017.04.14-00.10.54:932][  0]LogInit: CPU Page size=65536, Cores=2
-[2017.04.14-00.10.54:932][  0]LogInit: High frequency timer resolution =2.343754 MHz
-[2017.04.14-00.10.54:933][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.04.14-00.10.54:993][  0]LogMemory: Platform Memory Stats for Windows
-[2017.04.14-00.10.54:993][  0]LogMemory: Process Physical Memory: 264.70 MB used, 264.70 MB peak
-[2017.04.14-00.10.54:993][  0]LogMemory: Process Virtual Memory: 262.58 MB used, 262.58 MB peak
-[2017.04.14-00.10.54:993][  0]LogMemory: Physical Memory: 5644.49 MB used,  2437.42 MB free, 8081.91 MB total
-[2017.04.14-00.10.54:993][  0]LogMemory: Virtual Memory: 674.75 MB used,  2437.42 MB free, 134217728.00 MB total
-[2017.04.14-00.11.02:829][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
-[2017.04.14-00.11.21:269][  0]LogD3D11RHI: D3D11 adapters:
-[2017.04.14-00.11.21:336][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
-[2017.04.14-00.11.21:336][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2017.04.14-00.11.21:338][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.04.14-00.11.21:338][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.04.14-00.11.21:338][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.04.14-00.11.21:414][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.04.14-00.11.21:414][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
-[2017.04.14-00.11.21:414][  0]LogWindows: EnumDisplayDevices:
-[2017.04.14-00.11.21:415][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
-[2017.04.14-00.11.21:415][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2017.04.14-00.11.21:415][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2017.04.14-00.11.21:415][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2017.04.14-00.11.21:416][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
-[2017.04.14-00.11.21:416][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
-[2017.04.14-00.11.21:416][  0]LogD3D11RHI:      Driver Date: 10-24-2016
-[2017.04.14-00.11.21:416][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2017.04.14-00.11.21:471][  0]LogD3D11RHI: Async texture creation enabled
-[2017.04.14-00.11.22:644][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
-[2017.04.14-00.11.23:178][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/15800/).
-[2017.04.14-00.11.23:178][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aerob/AppData/Local/Temp/UnrealShaderWorkingDir/7E1267524CFF66A06E0BEE8732476D32/'.
-[2017.04.14-00.11.23:178][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2017.04.14-00.11.39:740][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2017.04.14-00.11.39:866][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2017.04.14-00.11.40:053][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2017.04.14-00.11.40:169][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2017.04.14-00.11.40:359][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2017.04.14-00.11.40:481][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2017.04.14-00.11.40:598][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.04.14-00.11.40:702][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2017.04.14-00.11.40:792][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2017.04.14-00.11.40:915][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2017.04.14-00.11.41:058][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2017.04.14-00.11.41:276][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2017.04.14-00.11.41:454][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2017.04.14-00.11.41:739][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2017.04.14-00.11.41:858][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2017.04.14-00.11.42:058][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2017.04.14-00.11.42:058][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.04.14-00.11.42:206][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2017.04.14-00.11.42:522][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2017.04.14-00.11.42:578][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2017.04.14-00.11.42:680][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2017.04.14-00.11.42:791][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.04.14-00.11.42:903][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2017.04.14-00.11.43:030][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2017.04.14-00.11.43:030][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2017.04.14-00.11.48:369][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2017.04.14-00.11.49:743][  0]LogDerivedDataCache: Loaded boot cache 1.37s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.04.14-00.11.49:743][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
-[2017.04.14-00.11.49:744][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.04.14-00.11.49:744][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.04.14-00.11.49:744][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.04.14-00.11.49:744][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.04.14-00.11.50:289][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.04.14-00.11.50:345][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aerob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.04.14-00.12.14:316][  0]LogInit: Selected Device Profile: [Windows]
-[2017.04.14-00.12.14:491][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2017.04.14-00.12.15:504][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.04.14-00.12.15:679][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.04.14-00.12.15:845][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.04.14-00.12.15:845][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2017.04.14-00.12.15:845][  0]LogMeshUtilities: No automatic mesh merging module available
-[2017.04.14-00.12.32:119][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
-[2017.04.14-00.12.32:616][  0]LogAssetRegistry: FAssetRegistry took 0.0226 seconds to start up
-[2017.04.14-00.12.32:898][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.112272 seconds
-[2017.04.14-00.12.32:931][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
-[2017.04.14-00.12.32:931][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
-[2017.04.14-00.12.32:931][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.04.14-00.12.33:093][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.04.14-00.12.40:886][  0]LogSlate: Using Freetype 2.6.0
-[2017.04.14-00.12.41:097][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.04.14-00.12.41:097][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.04.14-00.13.39:341][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.04.14-00.13.40:155][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.04.14-00.13.43:901][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.04.14-00.13.49:055][  0]SourceControl: Info Source control is disabled
-[2017.04.14-00.13.50:608][  0]SourceControl: Info Source control is disabled
-[2017.04.14-00.13.50:961][  0]SourceControl: Info Source control is disabled
-[2017.04.14-00.13.51:455][  0]SourceControl: Info Source control is disabled
-[2017.04.14-00.14.01:259][  0]LogEngine: Initializing Engine...
-[2017.04.14-00.14.01:312][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.04.14-00.14.02:947][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.04.14-00.14.03:013][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.04.14-00.14.04:171][  0]LogInit: FAudioDevice initialized.
-[2017.04.14-00.14.04:229][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.04.14-00.14.04:285][  0]LogInit: Texture streaming: Enabled
-[2017.04.14-00.14.10:405][  0]LogInit: Transaction tracking system initialized
-[2017.04.14-00.14.12:234][  0]BlueprintLog: New page: Editor Load
-[2017.04.14-00.14.19:693][  0]LocalizationService: Info Localization service is disabled
-[2017.04.14-00.14.23:136][  0]LogConsoleResponse:Display: 
-[2017.04.14-00.14.30:676][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.04.14-00.14.30:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/' took 0.07s
-[2017.04.14-00.14.30:782][  0]LogCook:Display: Mobile HDR setting 1
-[2017.04.14-00.14.38:710][  0]SourceControl: Info Source control is disabled
-[2017.04.14-00.14.38:730][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.04.14-00.14.38:775][  0]LightingResults: New page: Lighting Build
-[2017.04.14-00.14.39:186][  0]MapCheck: New page: Map Check
-[2017.04.14-00.14.39:186][  0]LightingResults: New page: Lighting Build
-[2017.04.14-00.14.52:728][  0]LogAIModule: Creating AISystem for world MainMenuLevel
-[2017.04.14-00.14.53:269][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.04.14-00.14.53:282][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.04.14-00.14.53:446][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 164.399ms to complete.
-[2017.04.14-00.14.53:446][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 14.725
-[2017.04.14-00.14.56:307][  0]LogCollectionManager: Loaded 0 collections in 0.003662 seconds
-[2017.04.14-00.14.56:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
-[2017.04.14-00.14.56:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' took 0.01s
-[2017.04.14-00.14.56:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
-[2017.04.14-00.14.56:533][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
-[2017.04.14-00.14.56:578][  0]LogContentBrowser: Native class hierarchy populated in 0.0325 seconds. Added 2190 classes and 428 folders.
-[2017.04.14-00.14.56:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.04.14-00.14.56:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.04.14-00.14.56:931][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0283 seconds. Added 13 classes and 0 folders.
-[2017.04.14-00.14.57:048][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
-[2017.04.14-00.15.01:364][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2017.04.14-00.15.01:747][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
-[2017.04.14-00.15.02:547][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2017.04.14-00.15.02:735][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.04.14-00.15.03:096][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
-[2017.04.14-00.15.03:096][  0]LogLoad: (Engine Initialization) Total time: 284.39 seconds
-[2017.04.14-00.15.03:096][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.30 seconds
-[2017.04.14-00.15.03:131][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.04.14-00.15.03:131][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.04.14-00.15.03:542][  0]LogOcInput: OculusInput pre-init called
-[2017.04.14-00.15.03:832][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.04.14-00.15.05:057][  0]LogRenderer: Reallocating scene render targets to support 756x256 NumSamples 1 (Frame:2).
-[2017.04.14-00.15.10:487][  6]LogAssetRegistry: Asset discovery search completed in 157.8929 seconds
-[2017.04.14-00.15.10:525][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.04.14-00.15.10:525][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.002611 seconds (updated 0 objects)
-[2017.04.14-00.16.08:093][304]LogTemp: Repeting last play command: Selected Viewport
-[2017.04.14-00.16.08:242][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
-[2017.04.14-00.16.08:278][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.04.14-00.16.08:486][304]PIE: New page: PIE session: MainMenuLevel (Apr 13, 2017, 4:16:08 PM)
-[2017.04.14-00.16.08:496][304]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
-[2017.04.14-00.16.08:670][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173514s)
-[2017.04.14-00.16.08:671][304]LogAIModule: Creating AISystem for world MainMenuLevel
-[2017.04.14-00.16.08:685][304]LogPlayLevel: PIE: World Init took: (0.015389s)
-[2017.04.14-00.16.08:713][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.216332s)
-[2017.04.14-00.16.09:995][304]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.04.14-00.16.10:020][304]LogInit: FAudioDevice initialized.
-[2017.04.14-00.16.12:277][304]LogLoad: Game class is 'myGame_C'
-[2017.04.14-00.16.12:623][304]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2017.04.13-20.16.12
-[2017.04.14-00.16.13:196][304]LogWorld: Bringing up level for play took: 0.609392
-[2017.04.14-00.16.13:841][304]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
-[2017.04.14-00.16.14:328][304]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 5.999
-[2017.04.14-00.16.14:329][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
-[2017.04.14-00.16.18:248][409]LogNet: Browse: /Game/Levels/TombLevel
-[2017.04.14-00.16.18:249][409]LogLoad: LoadMap: /Game/Levels/TombLevel
-[2017.04.14-00.16.18:644][409]Cmd: MEM
-[2017.04.14-00.16.18:951][409]LogMemory: Platform Memory Stats for Windows
-[2017.04.14-00.16.18:951][409]LogMemory: Process Physical Memory: 1456.66 MB used, 1456.95 MB peak
-[2017.04.14-00.16.18:951][409]LogMemory: Process Virtual Memory: 1437.19 MB used, 1438.09 MB peak
-[2017.04.14-00.16.18:951][409]LogMemory: Physical Memory: 6728.17 MB used,  1353.73 MB free, 8081.91 MB total
-[2017.04.14-00.16.18:951][409]LogMemory: Virtual Memory: 2264.83 MB used,  1353.73 MB free, 134217728.00 MB total
-[2017.04.14-00.16.18:951][409]LogMemory: 
-[2017.04.14-00.16.18:951][409]Allocator Stats for TBB: (not implemented)
-[2017.04.14-00.16.37:233][409]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.14-00.16.37:469][409]LogPackageName: SearchForPackageOnDisk took   0.218s, but failed to resolve Env_Ice_Rocky.
-[2017.04.14-00.16.37:469][409]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2017.04.14-00.16.38:318][409]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.14-00.16.38:529][409]LogPackageName: SearchForPackageOnDisk took   0.211s, but failed to resolve Env_Ice_Rocky.
-[2017.04.14-00.16.38:529][409]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2017.04.14-00.16.40:921][409]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.14-00.16.41:153][409]LogPackageName: SearchForPackageOnDisk took   0.232s, but failed to resolve Exo_Deco01.
-[2017.04.14-00.16.41:153][409]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
-[2017.04.14-00.16.44:023][409]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.14-00.16.44:235][409]LogPackageName: SearchForPackageOnDisk took   0.213s, but failed to resolve Env_Ice_RuinedWalls001.
-[2017.04.14-00.16.44:235][409]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
-[2017.04.14-00.18.14:033][409]LogAIModule: Creating AISystem for world TombLevel
-[2017.04.14-00.18.14:034][409]LogLoad: Game class is 'myGame_C'
-[2017.04.14-00.18.14:518][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.04.13-20.18.14
-[2017.04.14-00.18.14:630][409]LogWorld: Bringing up level for play took: 0.582580
-[2017.04.14-00.18.14:776][409]LogLoad: Took 116.527009 seconds to LoadMap(/Game/Levels/TombLevel)
-[2017.04.14-00.18.31:511][627]LogRenderer: Reallocating scene render targets to support 756x260 NumSamples 1 (Frame:1562).
-[2017.04.14-00.18.44:945][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
-[2017.04.14-00.18.45:782][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
-[2017.04.14-00.19.05:756][315]LogAIModule: Creating AISystem for world TombLevel
-[2017.04.14-00.19.06:229][315]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.04.14-00.19.06:233][315]LightingResults: New page: Lighting Build
-[2017.04.14-00.19.06:236][315]LoadErrors: New page: Loading map: TombLevel.umap
-[2017.04.14-00.19.06:262][315]MapCheck: New page: Map Check
-[2017.04.14-00.19.06:262][315]LightingResults: New page: Lighting Build
-[2017.04.14-00.19.06:916][315]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.04.14-00.19.07:084][315]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.04.14-00.19.07:323][315]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 239.162ms to complete.
-[2017.04.14-00.19.07:324][315]LogFileHelpers: Loading map 'TombLevel' took 1.283
-[2017.04.14-00.19.14:553][451]LogRenderer: Reallocating scene render targets to support 756x264 NumSamples 1 (Frame:2436).
-[2017.04.14-00.19.15:893][484]LogTemp: Repeting last play command: Selected Viewport
-[2017.04.14-00.19.15:929][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.14-00.19.15:930][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.04.14-00.19.15:930][484]PIE: New page: PIE session: TombLevel (Apr 13, 2017, 4:19:15 PM)
-[2017.04.14-00.19.15:930][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
-[2017.04.14-00.19.16:085][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155551s)
-[2017.04.14-00.19.16:086][484]LogAIModule: Creating AISystem for world TombLevel
-[2017.04.14-00.19.16:086][484]LogPlayLevel: PIE: World Init took: (0.001104s)
-[2017.04.14-00.19.16:087][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.157406s)
-[2017.04.14-00.19.16:117][484]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.04.14-00.19.16:129][484]LogInit: FAudioDevice initialized.
-[2017.04.14-00.19.17:431][484]LogLoad: Game class is 'myGame_C'
-[2017.04.14-00.19.17:461][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.04.13-20.19.17
-[2017.04.14-00.19.17:466][484]LogWorld: Bringing up level for play took: 0.034428
-[2017.04.14-00.19.17:472][484]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.143
-[2017.04.14-00.19.17:473][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.14-00.19.42:610][990]LogCharacterMovement: Enemy_AI2 is stuck and failed to move! Velocity: X=-161.20 Y=121.94 Z=0.00 Location: X=714.20 Y=-1186.40 Z=332.20 Normal: X=0.68 Y=-0.27 Z=-0.68 PenetrationDepth:5.352 Actor:characterBP_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
-[2017.04.14-00.20.43:157][158]LogCharacterMovement: Enemy_AI4_1453 is stuck and failed to move! Velocity: X=-56.75 Y=597.31 Z=0.00 Location: X=-681.44 Y=-9407.26 Z=1536.64 Normal: X=-0.18 Y=-0.78 Z=-0.60 PenetrationDepth:15.897 Actor:characterBP_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
-[2017.04.14-00.21.51:832][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.15-04.38.47:169][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.15-04.38.47:169][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.15-04.38.47:643][  0]LogInit: Computer: LAPTOP-CP3ESMCT
+[2017.04.15-04.38.47:643][  0]LogInit: User: aerob
+[2017.04.15-04.38.47:643][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.15-04.38.47:643][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2017.04.15-04.38.47:653][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.04.15-04.38.47:662][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.15-04.38.47:662][  0]LogMemory: Process Physical Memory: 264.57 MB used, 264.57 MB peak
+[2017.04.15-04.38.47:662][  0]LogMemory: Process Virtual Memory: 262.36 MB used, 262.36 MB peak
+[2017.04.15-04.38.47:662][  0]LogMemory: Physical Memory: 3846.58 MB used,  4235.33 MB free, 8081.91 MB total
+[2017.04.15-04.38.47:662][  0]LogMemory: Virtual Memory: 674.75 MB used,  4235.33 MB free, 134217728.00 MB total
+[2017.04.15-04.38.52:758][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.15-04.39.12:661][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.15-04.39.12:757][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.04.15-04.39.12:757][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.04.15-04.39.12:764][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.15-04.39.12:764][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.15-04.39.12:764][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.15-04.39.12:950][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.15-04.39.12:950][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.15-04.39.12:950][  0]LogWindows: EnumDisplayDevices:
+[2017.04.15-04.39.12:951][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.04.15-04.39.12:952][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.15-04.39.12:952][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.15-04.39.12:953][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.04.15-04.39.12:953][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.04.15-04.39.12:953][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
+[2017.04.15-04.39.12:953][  0]LogD3D11RHI:      Driver Date: 10-24-2016
+[2017.04.15-04.39.12:953][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.15-04.39.12:996][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.15-04.39.14:357][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.04.15-04.39.14:637][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/1184/).
+[2017.04.15-04.39.14:638][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aerob/AppData/Local/Temp/UnrealShaderWorkingDir/EF6ED42E41881AF14E1B3FB5BD49920E/'.
+[2017.04.15-04.39.14:659][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.15-04.39.31:275][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.15-04.39.31:374][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.15-04.39.31:446][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.15-04.39.31:518][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.15-04.39.31:613][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.15-04.39.31:685][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.15-04.39.31:816][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.15-04.39.31:889][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.15-04.39.31:950][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.15-04.39.32:113][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.15-04.39.32:200][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.15-04.39.32:298][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.15-04.39.32:381][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.15-04.39.32:467][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.15-04.39.32:557][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.15-04.39.32:771][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.15-04.39.32:771][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.15-04.39.32:826][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.15-04.39.33:048][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.15-04.39.33:089][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.15-04.39.33:159][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.15-04.39.33:226][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.15-04.39.33:291][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.15-04.39.33:427][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.15-04.39.33:427][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.15-04.39.36:619][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: Loaded boot cache 3.50s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.15-04.39.40:486][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.15-04.39.40:526][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aerob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.15-04.40.08:496][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.15-04.40.09:084][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.15-04.40.11:338][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.15-04.40.11:603][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.15-04.40.11:791][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.15-04.40.11:791][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.15-04.40.11:791][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.15-04.40.31:329][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.04.15-04.40.32:832][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2017.04.15-04.40.34:680][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 1.298280 seconds
+[2017.04.15-04.40.34:739][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.15-04.40.34:739][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.04.15-04.40.34:739][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.15-04.40.34:927][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.15-04.40.43:005][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.15-04.40.43:356][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.15-04.40.43:356][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.15-04.41.34:732][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.15-04.41.34:810][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.15-04.41.38:521][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.15-04.41.41:019][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.41:966][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.42:188][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.42:401][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.47:380][  0]LogEngine: Initializing Engine...
+[2017.04.15-04.41.47:415][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.15-04.41.49:235][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.15-04.41.49:494][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.15-04.41.50:642][  0]LogInit: FAudioDevice initialized.
+[2017.04.15-04.41.50:674][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.15-04.41.50:701][  0]LogInit: Texture streaming: Enabled
+[2017.04.15-04.41.57:606][  0]LogInit: Transaction tracking system initialized
+[2017.04.15-04.42.02:576][  0]BlueprintLog: New page: Editor Load
+[2017.04.15-04.42.08:515][  0]LocalizationService: Info Localization service is disabled
+[2017.04.15-04.42.12:427][  0]LogConsoleResponse:Display: 
+[2017.04.15-04.42.20:326][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.15-04.42.20:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/' took 0.08s
+[2017.04.15-04.42.20:375][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.15-04.42.28:142][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.42.28:186][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.15-04.42.28:268][  0]LightingResults: New page: Lighting Build
+[2017.04.15-04.42.28:741][  0]MapCheck: New page: Map Check
+[2017.04.15-04.42.28:741][  0]LightingResults: New page: Lighting Build
+[2017.04.15-04.42.42:735][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.15-04.42.45:052][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.15-04.42.45:158][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.15-04.42.45:320][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 161.832ms to complete.
+[2017.04.15-04.42.45:320][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 17.142
+[2017.04.15-04.42.49:553][  0]LogCollectionManager: Loaded 0 collections in 0.004419 seconds
+[2017.04.15-04.42.50:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.04.15-04.42.50:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' took 0.01s
+[2017.04.15-04.42.50:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.04.15-04.42.50:160][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.15-04.42.50:321][  0]LogContentBrowser: Native class hierarchy populated in 0.0362 seconds. Added 2190 classes and 428 folders.
+[2017.04.15-04.42.50:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.15-04.42.50:629][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.15-04.42.50:630][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 13 classes and 0 folders.
+[2017.04.15-04.42.50:888][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.04.15-04.43.00:240][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0027 seconds. Added 0 classes and 0 folders.
+[2017.04.15-04.43.00:610][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0024 seconds. Added 1 classes and 2 folders.
+[2017.04.15-04.43.08:759][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.15-04.43.09:118][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.15-04.43.09:533][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0029 seconds. Added 1 classes and 2 folders.
+[2017.04.15-04.43.09:534][  0]LogLoad: (Engine Initialization) Total time: 286.14 seconds
+[2017.04.15-04.43.09:534][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 2.75 seconds
+[2017.04.15-04.43.09:636][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.15-04.43.09:637][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.15-04.43.09:748][  0]LogOcInput: OculusInput pre-init called
+[2017.04.15-04.43.10:587][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.15-04.43.14:381][  0]LogRenderer: Reallocating scene render targets to support 756x264 NumSamples 1 (Frame:2).
+[2017.04.15-04.43.22:290][  8]LogAssetRegistry: Asset discovery search completed in 169.4817 seconds
+[2017.04.15-04.43.23:195][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.15-04.43.23:195][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.867202 seconds (updated 0 objects)
+[2017.04.15-05.12.47:926][882]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange (3).fbx)
+[2017.04.15-05.12.48:356][882]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Model, ItemCount : 66
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Texture, ItemCount : 5
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Video, ItemCount : 5
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Deformer, ItemCount : 66
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Material, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationCurveNode, ItemCount : 67
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationCurve, ItemCount : 354
+[2017.04.15-05.12.48:401][882]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange (3).fbx
+[2017.04.15-05.12.48:575][882]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.15-05.13.15:727][882]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange (3).fbx
+[2017.04.15-05.13.15:832][882]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.15-05.13.15:890][882]LogFbx: =================================================
+[2017.04.15-05.13.15:890][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.15:890][882]LogFbx: 	Total Deformer Count -535988736.
+[2017.04.15-05.13.15:890][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.15:890][882]LogFbx: =================================================
+[2017.04.15-05.13.15:890][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.15:890][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.15:890][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.15:895][882]LogFbx: =================================================
+[2017.04.15-05.13.15:895][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.15:895][882]LogFbx: 	Total Deformer Count -535988736.
+[2017.04.15-05.13.15:895][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.15:895][882]LogFbx: =================================================
+[2017.04.15-05.13.15:895][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.15:895][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.15:895][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.15:930][882]LogFbx:Warning: Not valid bind pose for Pose (skinCluster1) - Node skeletonZombie : The relative matrices do not match
+[2017.04.15-05.13.15:930][882]LogFbx:Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2017.04.15-05.13.15:933][882]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - skeletonZombie
+[2017.04.15-05.13.15:933][882]LogFbx:Warning: Recreating bind pose succeeded.
+[2017.04.15-05.13.15:947][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_Material'
+[2017.04.15-05.13.15:948][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_Material'
+[2017.04.15-05.13.15:963][882]LogMaterial:Warning: Material /Game/demons/skeletonZombie_Material.skeletonZombie_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.15-05.13.15:993][882]LogMaterial: Missing cached shader map for material skeletonZombie_Material, compiling. 
+[2017.04.15-05.13.16:324][882]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.15-05.13.16:350][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_diffuse'
+[2017.04.15-05.13.16:350][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_diffuse'
+[2017.04.15-05.13.17:266][882]LogTexture:Display: Building textures: skeletonZombie_diffuse (AutoDXT)
+[2017.04.15-05.13.23:410][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_glow'
+[2017.04.15-05.13.23:410][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_glow'
+[2017.04.15-05.13.23:731][882]LogTexture:Display: Building textures: skeletonZombie_glow (AutoDXT)
+[2017.04.15-05.13.24:363][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_specular'
+[2017.04.15-05.13.24:364][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_specular'
+[2017.04.15-05.13.25:577][882]LogTexture:Display: Building textures: skeletonZombie_specular (AutoDXT)
+[2017.04.15-05.13.29:782][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_normal'
+[2017.04.15-05.13.29:782][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_normal'
+[2017.04.15-05.13.30:678][882]LogTexture:Display: Building textures: skeletonZombie_normal (BC5)
+[2017.04.15-05.13.31:929][882]LogTexture:Display: Building textures: skeletonZombie_diffuse (AutoDXT)
+[2017.04.15-05.13.36:028][882]LogMaterial: Missing cached shader map for material skeletonZombie_Material, compiling. 
+[2017.04.15-05.13.36:514][882]LogFbx:Warning: Bones digested - 65  Depth of hierarchy - 12
+[2017.04.15-05.13.37:375][882]LogSkeletalMesh: Section 0: 7445 vertices, 52 active bones
+[2017.04.15-05.13.37:418][882]LogSkeletalMesh: Section 0: Material=0, 12486 triangles
+[2017.04.15-05.13.37:486][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__PhysicsAsset'
+[2017.04.15-05.13.37:486][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__PhysicsAsset'
+[2017.04.15-05.13.37:529][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Skeleton'
+[2017.04.15-05.13.37:530][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Skeleton'
+[2017.04.15-05.13.37:580][882]LogFbx: =================================================
+[2017.04.15-05.13.37:580][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.37:580][882]LogFbx: 	Total Deformer Count -333043728.
+[2017.04.15-05.13.37:580][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.37:580][882]LogFbx: =================================================
+[2017.04.15-05.13.37:580][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.37:580][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.37:580][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.37:583][882]LogFbx: =================================================
+[2017.04.15-05.13.37:583][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.37:583][882]LogFbx: 	Total Deformer Count -333043728.
+[2017.04.15-05.13.37:583][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.37:583][882]LogFbx: =================================================
+[2017.04.15-05.13.37:583][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.37:583][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.37:583][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(0) Hips
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(1) Spine
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(2) Spine1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(3) Spine2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(4) LeftShoulder
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(5) LeftArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(6) LeftForeArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(7) LeftHand
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(8) LeftHandMiddle1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(9) LeftHandMiddle2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(10) LeftHandMiddle3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(11) LeftHandMiddle4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(12) LeftHandIndex1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(13) LeftHandIndex2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(14) LeftHandIndex3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(15) LeftHandIndex4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(16) LeftHandThumb1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(17) LeftHandThumb2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(18) LeftHandThumb3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(19) LeftHandThumb4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(20) LeftHandPinky1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(21) LeftHandPinky2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(22) LeftHandPinky3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(23) LeftHandPinky4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(24) LeftHandRing1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(25) LeftHandRing2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(26) LeftHandRing3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(27) LeftHandRing4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(28) Neck
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(29) Head
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(30) HeadTop_End
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(32) RightArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(34) RightHand
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(35) RightHandThumb1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(36) RightHandThumb2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(37) RightHandThumb3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(38) RightHandThumb4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(39) RightHandIndex1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(40) RightHandIndex2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(41) RightHandIndex3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(42) RightHandIndex4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(47) RightHandRing1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(48) RightHandRing2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(49) RightHandRing3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(50) RightHandRing4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(51) RightHandPinky1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(52) RightHandPinky2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(53) RightHandPinky3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(54) RightHandPinky4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(0) Hips
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(1) Spine
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(2) Spine1
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(3) Spine2
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(4) LeftShoulder
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(5) LeftArm
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(6) LeftForeArm
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(7) LeftHand
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(8) LeftHandMiddle1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(9) LeftHandMiddle2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(10) LeftHandMiddle3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(11) LeftHandMiddle4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(12) LeftHandIndex1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(13) LeftHandIndex2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(14) LeftHandIndex3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(15) LeftHandIndex4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(16) LeftHandThumb1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(17) LeftHandThumb2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(18) LeftHandThumb3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(19) LeftHandThumb4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(20) LeftHandPinky1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(21) LeftHandPinky2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(22) LeftHandPinky3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(23) LeftHandPinky4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(24) LeftHandRing1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(25) LeftHandRing2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(26) LeftHandRing3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(27) LeftHandRing4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(28) Neck
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(29) Head
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(30) HeadTop_End
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(32) RightArm
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(34) RightHand
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(35) RightHandThumb1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(36) RightHandThumb2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(37) RightHandThumb3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(38) RightHandThumb4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(39) RightHandIndex1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(40) RightHandIndex2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(41) RightHandIndex3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(42) RightHandIndex4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(47) RightHandRing1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(48) RightHandRing2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(49) RightHandRing3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(50) RightHandRing4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(51) RightHandPinky1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(52) RightHandPinky2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(53) RightHandPinky3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(54) RightHandPinky4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.15-05.13.37:628][882]LogFbx: Parsing AnimStack Take 001
+[2017.04.15-05.13.37:656][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_Take_001'
+[2017.04.15-05.13.37:656][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_Take_001'
+[2017.04.15-05.13.38:075][882]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/Skeletonzombie_T_Avelange__3__Anim_Take_001.Skeletonzombie_T_Avelange__3__Anim_Take_001
+[2017.04.15-05.13.38:131][882]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.15-05.13.38:166][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com'
+[2017.04.15-05.13.38:166][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com'
+[2017.04.15-05.13.38:272][882]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com.Skeletonzombie_T_Avelange__3__Anim_mixamo_com
+[2017.04.15-05.13.38:320][882]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.15-05.13.51:939][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/skeletonZombie_diffuse" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_diffuse.uasset" SILENT=true
+[2017.04.15-05.13.53:066][300]LogSavePackage: Save=1104.13ms
+[2017.04.15-05.13.53:066][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_diffuseC1899A114288B6AB507359B55C6AEFFA.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_diffuse.uasset'
+[2017.04.15-05.13.53:119][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_diffuse.uasset
+[2017.04.15-05.13.53:137][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/skeletonZombie_glow" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_glow.uasset" SILENT=true
+[2017.04.15-05.13.53:451][300]LogSavePackage: Save=310.49ms
+[2017.04.15-05.13.53:452][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_glow6B798A4F4C55B6A7A8DDF2B8F8DF6A1E.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_glow.uasset'
+[2017.04.15-05.13.53:459][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_glow.uasset
+[2017.04.15-05.13.58:245][300]LogSavePackage: Save=53.39ms
+[2017.04.15-05.13.58:245][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_MaterialC2DE8D5A42D1B5DB9DE0419011473CD3.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_Material.uasset'
+[2017.04.15-05.13.58:265][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_Material.uasset
+[2017.04.15-05.13.58:279][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/skeletonZombie_normal" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_normal.uasset" SILENT=true
+[2017.04.15-05.13.58:871][300]LogSavePackage: Save=589.42ms
+[2017.04.15-05.13.58:872][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_normal04C6B49E4D1DA23086B97480CBB9F877.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_normal.uasset'
+[2017.04.15-05.13.58:879][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_normal.uasset
+[2017.04.15-05.13.59:530][300]LogSavePackage: Save=631.15ms
+[2017.04.15-05.13.59:530][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_specularA85AC9274CEC77486746A79B941EB314.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_specular.uasset'
+[2017.04.15-05.13.59:538][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_specular.uasset
+[2017.04.15-05.13.59:650][300]LogSavePackage: Save=70.14ms
+[2017.04.15-05.13.59:650][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange__3_221CCC1547E4A709AF2DF1ACF8E2DBDD.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3_.uasset'
+[2017.04.15-05.13.59:658][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3_.uasset
+[2017.04.15-05.13.59:721][300]LogSavePackage: Save=25.57ms
+[2017.04.15-05.13.59:721][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange__3__Anim_mixamo_comBCF939EC4E96DACD3BEC07A1BFBDAA47.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com.uasset'
+[2017.04.15-05.13.59:729][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com.uasset
