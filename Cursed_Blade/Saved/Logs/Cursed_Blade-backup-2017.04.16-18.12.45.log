@@ -1,0 +1,530 @@
+﻿Log file open, 04/15/17 00:38:43
+LogInit:Display: Running engine for game: Cursed_Blade
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1785892297) SRandInit(-1785892296).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.214019
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.15-04.38.47:169][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.15-04.38.47:169][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.15-04.38.47:643][  0]LogInit: Computer: LAPTOP-CP3ESMCT
+[2017.04.15-04.38.47:643][  0]LogInit: User: aerob
+[2017.04.15-04.38.47:643][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.15-04.38.47:643][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2017.04.15-04.38.47:653][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.04.15-04.38.47:662][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.15-04.38.47:662][  0]LogMemory: Process Physical Memory: 264.57 MB used, 264.57 MB peak
+[2017.04.15-04.38.47:662][  0]LogMemory: Process Virtual Memory: 262.36 MB used, 262.36 MB peak
+[2017.04.15-04.38.47:662][  0]LogMemory: Physical Memory: 3846.58 MB used,  4235.33 MB free, 8081.91 MB total
+[2017.04.15-04.38.47:662][  0]LogMemory: Virtual Memory: 674.75 MB used,  4235.33 MB free, 134217728.00 MB total
+[2017.04.15-04.38.52:758][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.15-04.39.12:661][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.15-04.39.12:757][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.04.15-04.39.12:757][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.04.15-04.39.12:764][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.15-04.39.12:764][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.15-04.39.12:764][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.15-04.39.12:950][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.15-04.39.12:950][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.15-04.39.12:950][  0]LogWindows: EnumDisplayDevices:
+[2017.04.15-04.39.12:951][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.04.15-04.39.12:952][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.15-04.39.12:952][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.15-04.39.12:953][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.04.15-04.39.12:953][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.04.15-04.39.12:953][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
+[2017.04.15-04.39.12:953][  0]LogD3D11RHI:      Driver Date: 10-24-2016
+[2017.04.15-04.39.12:953][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.15-04.39.12:996][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.15-04.39.14:357][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.04.15-04.39.14:637][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/1184/).
+[2017.04.15-04.39.14:638][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aerob/AppData/Local/Temp/UnrealShaderWorkingDir/EF6ED42E41881AF14E1B3FB5BD49920E/'.
+[2017.04.15-04.39.14:659][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.15-04.39.31:275][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.15-04.39.31:374][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.15-04.39.31:446][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.15-04.39.31:518][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.15-04.39.31:613][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.15-04.39.31:685][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.15-04.39.31:816][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.15-04.39.31:889][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.15-04.39.31:950][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.15-04.39.32:113][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.15-04.39.32:200][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.15-04.39.32:298][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.15-04.39.32:381][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.15-04.39.32:467][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.15-04.39.32:557][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.15-04.39.32:771][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.15-04.39.32:771][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.15-04.39.32:826][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.15-04.39.33:048][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.15-04.39.33:089][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.15-04.39.33:159][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.15-04.39.33:226][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.15-04.39.33:291][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.15-04.39.33:427][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.15-04.39.33:427][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.15-04.39.36:619][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: Loaded boot cache 3.50s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.15-04.39.40:175][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.15-04.39.40:486][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.15-04.39.40:526][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aerob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.15-04.40.08:496][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.15-04.40.09:084][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.15-04.40.11:338][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.15-04.40.11:603][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.15-04.40.11:791][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.15-04.40.11:791][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.15-04.40.11:791][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.15-04.40.31:329][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.04.15-04.40.32:832][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2017.04.15-04.40.34:680][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 1.298280 seconds
+[2017.04.15-04.40.34:739][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.15-04.40.34:739][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.04.15-04.40.34:739][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.15-04.40.34:927][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.15-04.40.43:005][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.15-04.40.43:356][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.15-04.40.43:356][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.15-04.41.34:732][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.15-04.41.34:810][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.15-04.41.38:521][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.15-04.41.41:019][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.41:966][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.42:188][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.42:401][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.41.47:380][  0]LogEngine: Initializing Engine...
+[2017.04.15-04.41.47:415][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.15-04.41.49:235][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.15-04.41.49:494][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.15-04.41.50:642][  0]LogInit: FAudioDevice initialized.
+[2017.04.15-04.41.50:674][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.15-04.41.50:701][  0]LogInit: Texture streaming: Enabled
+[2017.04.15-04.41.57:606][  0]LogInit: Transaction tracking system initialized
+[2017.04.15-04.42.02:576][  0]BlueprintLog: New page: Editor Load
+[2017.04.15-04.42.08:515][  0]LocalizationService: Info Localization service is disabled
+[2017.04.15-04.42.12:427][  0]LogConsoleResponse:Display: 
+[2017.04.15-04.42.20:326][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.15-04.42.20:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/' took 0.08s
+[2017.04.15-04.42.20:375][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.15-04.42.28:142][  0]SourceControl: Info Source control is disabled
+[2017.04.15-04.42.28:186][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.15-04.42.28:268][  0]LightingResults: New page: Lighting Build
+[2017.04.15-04.42.28:741][  0]MapCheck: New page: Map Check
+[2017.04.15-04.42.28:741][  0]LightingResults: New page: Lighting Build
+[2017.04.15-04.42.42:735][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.15-04.42.45:052][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.15-04.42.45:158][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.15-04.42.45:320][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 161.832ms to complete.
+[2017.04.15-04.42.45:320][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 17.142
+[2017.04.15-04.42.49:553][  0]LogCollectionManager: Loaded 0 collections in 0.004419 seconds
+[2017.04.15-04.42.50:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.04.15-04.42.50:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' took 0.01s
+[2017.04.15-04.42.50:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.04.15-04.42.50:160][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.15-04.42.50:321][  0]LogContentBrowser: Native class hierarchy populated in 0.0362 seconds. Added 2190 classes and 428 folders.
+[2017.04.15-04.42.50:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.15-04.42.50:629][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.15-04.42.50:630][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 13 classes and 0 folders.
+[2017.04.15-04.42.50:888][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.04.15-04.43.00:240][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0027 seconds. Added 0 classes and 0 folders.
+[2017.04.15-04.43.00:610][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0024 seconds. Added 1 classes and 2 folders.
+[2017.04.15-04.43.08:759][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.15-04.43.09:118][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.15-04.43.09:533][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0029 seconds. Added 1 classes and 2 folders.
+[2017.04.15-04.43.09:534][  0]LogLoad: (Engine Initialization) Total time: 286.14 seconds
+[2017.04.15-04.43.09:534][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 2.75 seconds
+[2017.04.15-04.43.09:636][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.15-04.43.09:637][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.15-04.43.09:748][  0]LogOcInput: OculusInput pre-init called
+[2017.04.15-04.43.10:587][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.15-04.43.14:381][  0]LogRenderer: Reallocating scene render targets to support 756x264 NumSamples 1 (Frame:2).
+[2017.04.15-04.43.22:290][  8]LogAssetRegistry: Asset discovery search completed in 169.4817 seconds
+[2017.04.15-04.43.23:195][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.15-04.43.23:195][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.867202 seconds (updated 0 objects)
+[2017.04.15-05.12.47:926][882]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange (3).fbx)
+[2017.04.15-05.12.48:356][882]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Model, ItemCount : 66
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Texture, ItemCount : 5
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Video, ItemCount : 5
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Deformer, ItemCount : 66
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: Material, ItemCount : 1
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationCurveNode, ItemCount : 67
+[2017.04.15-05.12.48:357][882]LogFbx: ItemName: AnimationCurve, ItemCount : 354
+[2017.04.15-05.12.48:401][882]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange (3).fbx
+[2017.04.15-05.12.48:575][882]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.15-05.13.15:727][882]LogFbx: Loading FBX Scene from ../../../../../../Users/aerob/Downloads/Skeletonzombie_T_Avelange (3).fbx
+[2017.04.15-05.13.15:832][882]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.15-05.13.15:890][882]LogFbx: =================================================
+[2017.04.15-05.13.15:890][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.15:890][882]LogFbx: 	Total Deformer Count -535988736.
+[2017.04.15-05.13.15:890][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.15:890][882]LogFbx: =================================================
+[2017.04.15-05.13.15:890][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.15:890][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.15:890][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.15:895][882]LogFbx: =================================================
+[2017.04.15-05.13.15:895][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.15:895][882]LogFbx: 	Total Deformer Count -535988736.
+[2017.04.15-05.13.15:895][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.15:895][882]LogFbx: =================================================
+[2017.04.15-05.13.15:895][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.15:895][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.15:895][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.15:930][882]LogFbx:Warning: Not valid bind pose for Pose (skinCluster1) - Node skeletonZombie : The relative matrices do not match
+[2017.04.15-05.13.15:930][882]LogFbx:Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2017.04.15-05.13.15:933][882]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - skeletonZombie
+[2017.04.15-05.13.15:933][882]LogFbx:Warning: Recreating bind pose succeeded.
+[2017.04.15-05.13.15:947][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_Material'
+[2017.04.15-05.13.15:948][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_Material'
+[2017.04.15-05.13.15:963][882]LogMaterial:Warning: Material /Game/demons/skeletonZombie_Material.skeletonZombie_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.15-05.13.15:993][882]LogMaterial: Missing cached shader map for material skeletonZombie_Material, compiling. 
+[2017.04.15-05.13.16:324][882]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.15-05.13.16:350][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_diffuse'
+[2017.04.15-05.13.16:350][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_diffuse'
+[2017.04.15-05.13.17:266][882]LogTexture:Display: Building textures: skeletonZombie_diffuse (AutoDXT)
+[2017.04.15-05.13.23:410][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_glow'
+[2017.04.15-05.13.23:410][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_glow'
+[2017.04.15-05.13.23:731][882]LogTexture:Display: Building textures: skeletonZombie_glow (AutoDXT)
+[2017.04.15-05.13.24:363][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_specular'
+[2017.04.15-05.13.24:364][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_specular'
+[2017.04.15-05.13.25:577][882]LogTexture:Display: Building textures: skeletonZombie_specular (AutoDXT)
+[2017.04.15-05.13.29:782][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_normal'
+[2017.04.15-05.13.29:782][882]LogLinker: Can't find file '/Game/demons/skeletonZombie_normal'
+[2017.04.15-05.13.30:678][882]LogTexture:Display: Building textures: skeletonZombie_normal (BC5)
+[2017.04.15-05.13.31:929][882]LogTexture:Display: Building textures: skeletonZombie_diffuse (AutoDXT)
+[2017.04.15-05.13.36:028][882]LogMaterial: Missing cached shader map for material skeletonZombie_Material, compiling. 
+[2017.04.15-05.13.36:514][882]LogFbx:Warning: Bones digested - 65  Depth of hierarchy - 12
+[2017.04.15-05.13.37:375][882]LogSkeletalMesh: Section 0: 7445 vertices, 52 active bones
+[2017.04.15-05.13.37:418][882]LogSkeletalMesh: Section 0: Material=0, 12486 triangles
+[2017.04.15-05.13.37:486][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__PhysicsAsset'
+[2017.04.15-05.13.37:486][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__PhysicsAsset'
+[2017.04.15-05.13.37:529][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Skeleton'
+[2017.04.15-05.13.37:530][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Skeleton'
+[2017.04.15-05.13.37:580][882]LogFbx: =================================================
+[2017.04.15-05.13.37:580][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.37:580][882]LogFbx: 	Total Deformer Count -333043728.
+[2017.04.15-05.13.37:580][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.37:580][882]LogFbx: =================================================
+[2017.04.15-05.13.37:580][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.37:580][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.37:580][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.37:583][882]LogFbx: =================================================
+[2017.04.15-05.13.37:583][882]LogFbx: Dumping Node START [skeletonZombie] 
+[2017.04.15-05.13.37:583][882]LogFbx: 	Total Deformer Count -333043728.
+[2017.04.15-05.13.37:583][882]LogFbx: 		[Node 1] Skin skeletonZombie (Type Skin).
+[2017.04.15-05.13.37:583][882]LogFbx: =================================================
+[2017.04.15-05.13.37:583][882]LogFbx: 	Attribute (skeletonZombie) Type (4).
+[2017.04.15-05.13.37:583][882]LogFbx: 		[Node Attribute Child 1] skeletonZombie (Type Mesh).
+[2017.04.15-05.13.37:583][882]LogFbx: Dumping Node END [skeletonZombie]
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(0) Hips
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(1) Spine
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(2) Spine1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(3) Spine2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(4) LeftShoulder
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(5) LeftArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(6) LeftForeArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(7) LeftHand
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(8) LeftHandMiddle1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(9) LeftHandMiddle2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(10) LeftHandMiddle3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(11) LeftHandMiddle4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(12) LeftHandIndex1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(13) LeftHandIndex2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(14) LeftHandIndex3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(15) LeftHandIndex4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(16) LeftHandThumb1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(17) LeftHandThumb2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(18) LeftHandThumb3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(19) LeftHandThumb4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(20) LeftHandPinky1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(21) LeftHandPinky2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(22) LeftHandPinky3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(23) LeftHandPinky4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(24) LeftHandRing1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(25) LeftHandRing2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(26) LeftHandRing3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(27) LeftHandRing4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(28) Neck
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(29) Head
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(30) HeadTop_End
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(32) RightArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(34) RightHand
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(35) RightHandThumb1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(36) RightHandThumb2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(37) RightHandThumb3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(38) RightHandThumb4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(39) RightHandIndex1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(40) RightHandIndex2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(41) RightHandIndex3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(42) RightHandIndex4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(47) RightHandRing1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(48) RightHandRing2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(49) RightHandRing3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(50) RightHandRing4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(51) RightHandPinky1
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(52) RightHandPinky2
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(53) RightHandPinky3
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(54) RightHandPinky4
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.15-05.13.37:592][882]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.15-05.13.37:593][882]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(0) Hips
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(1) Spine
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(2) Spine1
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(3) Spine2
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(4) LeftShoulder
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(5) LeftArm
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(6) LeftForeArm
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(7) LeftHand
+[2017.04.15-05.13.37:607][882]LogFbx: SortedLinks :(8) LeftHandMiddle1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(9) LeftHandMiddle2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(10) LeftHandMiddle3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(11) LeftHandMiddle4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(12) LeftHandIndex1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(13) LeftHandIndex2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(14) LeftHandIndex3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(15) LeftHandIndex4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(16) LeftHandThumb1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(17) LeftHandThumb2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(18) LeftHandThumb3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(19) LeftHandThumb4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(20) LeftHandPinky1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(21) LeftHandPinky2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(22) LeftHandPinky3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(23) LeftHandPinky4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(24) LeftHandRing1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(25) LeftHandRing2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(26) LeftHandRing3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(27) LeftHandRing4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(28) Neck
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(29) Head
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(30) HeadTop_End
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(31) RightShoulder
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(32) RightArm
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(33) RightForeArm
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(34) RightHand
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(35) RightHandThumb1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(36) RightHandThumb2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(37) RightHandThumb3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(38) RightHandThumb4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(39) RightHandIndex1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(40) RightHandIndex2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(41) RightHandIndex3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(42) RightHandIndex4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(47) RightHandRing1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(48) RightHandRing2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(49) RightHandRing3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(50) RightHandRing4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(51) RightHandPinky1
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(52) RightHandPinky2
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(53) RightHandPinky3
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(54) RightHandPinky4
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(55) LeftUpLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(56) LeftLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(57) LeftFoot
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(58) LeftToeBase
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(59) LeftToe_End
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(60) RightUpLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(61) RightLeg
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(62) RightFoot
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(63) RightToeBase
+[2017.04.15-05.13.37:608][882]LogFbx: SortedLinks :(64) RightToe_End
+[2017.04.15-05.13.37:628][882]LogFbx: Parsing AnimStack Take 001
+[2017.04.15-05.13.37:656][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_Take_001'
+[2017.04.15-05.13.37:656][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_Take_001'
+[2017.04.15-05.13.38:075][882]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/Skeletonzombie_T_Avelange__3__Anim_Take_001.Skeletonzombie_T_Avelange__3__Anim_Take_001
+[2017.04.15-05.13.38:131][882]LogFbx: Parsing AnimStack mixamo.com
+[2017.04.15-05.13.38:166][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com'
+[2017.04.15-05.13.38:166][882]LogLinker: Can't find file '/Game/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com'
+[2017.04.15-05.13.38:272][882]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com.Skeletonzombie_T_Avelange__3__Anim_mixamo_com
+[2017.04.15-05.13.38:320][882]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.15-05.13.51:939][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/skeletonZombie_diffuse" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_diffuse.uasset" SILENT=true
+[2017.04.15-05.13.53:066][300]LogSavePackage: Save=1104.13ms
+[2017.04.15-05.13.53:066][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_diffuseC1899A114288B6AB507359B55C6AEFFA.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_diffuse.uasset'
+[2017.04.15-05.13.53:119][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_diffuse.uasset
+[2017.04.15-05.13.53:137][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/skeletonZombie_glow" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_glow.uasset" SILENT=true
+[2017.04.15-05.13.53:451][300]LogSavePackage: Save=310.49ms
+[2017.04.15-05.13.53:452][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_glow6B798A4F4C55B6A7A8DDF2B8F8DF6A1E.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_glow.uasset'
+[2017.04.15-05.13.53:459][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_glow.uasset
+[2017.04.15-05.13.58:245][300]LogSavePackage: Save=53.39ms
+[2017.04.15-05.13.58:245][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_MaterialC2DE8D5A42D1B5DB9DE0419011473CD3.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_Material.uasset'
+[2017.04.15-05.13.58:265][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_Material.uasset
+[2017.04.15-05.13.58:279][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/skeletonZombie_normal" FILE="../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_normal.uasset" SILENT=true
+[2017.04.15-05.13.58:871][300]LogSavePackage: Save=589.42ms
+[2017.04.15-05.13.58:872][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_normal04C6B49E4D1DA23086B97480CBB9F877.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_normal.uasset'
+[2017.04.15-05.13.58:879][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_normal.uasset
+[2017.04.15-05.13.59:530][300]LogSavePackage: Save=631.15ms
+[2017.04.15-05.13.59:530][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/skeletonZombie_specularA85AC9274CEC77486746A79B941EB314.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_specular.uasset'
+[2017.04.15-05.13.59:538][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/skeletonZombie_specular.uasset
+[2017.04.15-05.13.59:650][300]LogSavePackage: Save=70.14ms
+[2017.04.15-05.13.59:650][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange__3_221CCC1547E4A709AF2DF1ACF8E2DBDD.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3_.uasset'
+[2017.04.15-05.13.59:658][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3_.uasset
+[2017.04.15-05.13.59:721][300]LogSavePackage: Save=25.57ms
+[2017.04.15-05.13.59:721][300]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Saved/Skeletonzombie_T_Avelange__3__Anim_mixamo_comBCF939EC4E96DACD3BEC07A1BFBDAA47.tmp' to '../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com.uasset'
+[2017.04.15-05.13.59:729][300]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/curse2/TheCursedBlade/Cursed_Blade/Content/demons/Skeletonzombie_T_Avelange__3__Anim_mixamo_com.uasset
