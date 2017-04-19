@@ -486,3 +486,87 @@ LogInit: Object subsystem initialized
 [2017.04.19-06.19.50:688][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_baseinteractable_C (BP_baseinteractable)
 [2017.04.19-06.23.51:024][171]LogAssetTools:Warning: Failed to import '../../../../../../Users/aerob/Desktop/M_InteractHighlight.uasset'. Unknown extension 'uasset'.
 [2017.04.19-06.24.36:678][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/highlight" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/highlight.uasset" SILENT=true
+[2017.04.19-06.24.36:706][453]LogSavePackage: Save=23.75ms
+[2017.04.19-06.24.36:706][453]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/highlightE75C947E4BB6CFB9434E5BA6D47A2965.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/highlight.uasset'
+[2017.04.19-06.24.36:714][453]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/highlight.uasset
+[2017.04.19-06.43.33:688][186]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.44.37:693][234]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_death.DEMON_LORD_death
+[2017.04.19-06.44.38:565][234]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2017.04.19-06.44.39:060][234]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.44.45:957][349]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_fly.DEMON_LORD_fly
+[2017.04.19-06.44.46:116][349]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.04.19-06.44.46:553][349]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.44.54:206][484]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_flyBackwards.DEMON_LORD_flyBackwards
+[2017.04.19-06.44.54:434][484]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_16) - call TermArticulated first.
+[2017.04.19-06.44.54:858][484]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.45.01:487][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_flyGetHit.DEMON_LORD_flyGetHit
+[2017.04.19-06.45.01:618][605]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2017.04.19-06.45.02:093][605]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.45.10:397][762]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_flyLeft.DEMON_LORD_flyLeft
+[2017.04.19-06.45.10:643][762]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2017.04.19-06.45.11:022][762]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.45.16:624][870]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_flyRight.DEMON_LORD_flyRight
+[2017.04.19-06.45.16:834][870]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2017.04.19-06.45.17:210][870]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.45.34:680][383]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_idle.DEMON_LORD_idle
+[2017.04.19-06.45.34:824][383]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2017.04.19-06.45.35:246][383]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.45.46:214][545]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_roar.DEMON_LORD_roar
+[2017.04.19-06.45.46:501][545]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_31) - call TermArticulated first.
+[2017.04.19-06.45.46:933][545]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.45.53:675][664]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_strafeLeft.DEMON_LORD_strafeLeft
+[2017.04.19-06.45.53:923][664]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_34) - call TermArticulated first.
+[2017.04.19-06.45.54:404][664]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.46.06:738][870]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_whipAttack.DEMON_LORD_whipAttack
+[2017.04.19-06.46.06:932][870]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_37) - call TermArticulated first.
+[2017.04.19-06.46.07:426][870]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.46.21:981][135]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_whipAttackForward.DEMON_LORD_whipAttackForward
+[2017.04.19-06.46.22:171][135]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_40) - call TermArticulated first.
+[2017.04.19-06.46.22:642][135]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.46.28:429][232]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_whipAttackForward_RM.DEMON_LORD_whipAttackForward_RM
+[2017.04.19-06.46.28:616][232]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_43) - call TermArticulated first.
+[2017.04.19-06.46.29:038][232]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.46.38:171][378]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_3HitComboForward_RM.DEMON_LORD_3HitComboForward_RM
+[2017.04.19-06.46.38:422][378]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_46) - call TermArticulated first.
+[2017.04.19-06.46.38:923][378]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.46.51:215][563]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_summonSword_Whip.DEMON_LORD_summonSword_Whip
+[2017.04.19-06.46.51:435][563]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_49) - call TermArticulated first.
+[2017.04.19-06.46.51:899][563]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.46.59:644][687]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_swordAttack1Forward.DEMON_LORD_swordAttack1Forward
+[2017.04.19-06.46.59:849][687]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_52) - call TermArticulated first.
+[2017.04.19-06.47.00:343][687]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.48.01:616][610]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_55) - call TermArticulated first.
+[2017.04.19-06.48.02:094][610]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.48.07:764][702]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_57) - call TermArticulated first.
+[2017.04.19-06.48.08:154][702]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-06.48.40:879][273]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_getHit2.DEMON_LORD_getHit2
+[2017.04.19-06.48.51:874][306]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_strafeLeft_RM.DEMON_LORD_strafeLeft_RM
+[2017.04.19-06.48.52:870][309]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_strafeRight.DEMON_LORD_strafeRight
+[2017.04.19-06.48.56:550][320]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_strafeRight_RM.DEMON_LORD_strafeRight_RM
+[2017.04.19-06.48.59:884][330]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_swordAttack1.DEMON_LORD_swordAttack1
+[2017.04.19-06.49.03:021][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.394
+[2017.04.19-06.49.03:032][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/Animations/demonlordBlendSpace] ([1] browsable assets)...
+[2017.04.19-06.49.03:170][338]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/DemonLord/Animations/demonlordBlendSpace.demonlordBlendSpace]
+[2017.04.19-06.49.03:170][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/Animations/demonlordBlendSpace]
+[2017.04.19-06.49.03:196][338]LogSavePackage: Save=20.85ms
+[2017.04.19-06.49.03:196][338]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonlordBlendSpace_Auto14F7622964CD014C6277B05B931E42339.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/Animations/demonlordBlendSpace_Auto1.uasset'
+[2017.04.19-06.49.03:199][338]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/Animations/demonlordBlendSpace_Auto1.uasset
+[2017.04.19-06.49.03:199][338]LogFileHelpers: Auto-saving content packages took 0.176
+[2017.04.19-06.49.03:310][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_swordAttack1Forward_RM.DEMON_LORD_swordAttack1Forward_RM
+[2017.04.19-06.49.04:669][341]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_swordAttack2.DEMON_LORD_swordAttack2
+[2017.04.19-06.51.13:879][766]LogSavePackage: Save=24.54ms
+[2017.04.19-06.51.13:879][766]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonlordBlendSpace3F8BD5584110C3236C039E85A785F595.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/demonlordBlendSpace.uasset'
+[2017.04.19-06.51.13:885][766]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/demonlordBlendSpace.uasset
+[2017.04.19-06.51.35:678][216]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_swordAttack2Forward_RM.DEMON_LORD_swordAttack2Forward_RM
+[2017.04.19-06.52.35:756][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_2HitComboForward.DEMON_LORD_2HitComboForward
+[2017.04.19-06.52.35:850][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_2HitComboForward_RM.DEMON_LORD_2HitComboForward_RM
+[2017.04.19-06.52.36:823][939]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_3HitComboForward.DEMON_LORD_3HitComboForward
+[2017.04.19-06.52.37:803][952]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_2HitCombo.DEMON_LORD_2HitCombo
+[2017.04.19-06.52.57:935][576]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.19-06.53.24:589][947]LogSavePackage: Save=11.96ms
+[2017.04.19-06.53.24:589][947]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonlordBlendSpace392BC05C4163B3184369229E00327C89.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/demonlordBlendSpace.uasset'
+[2017.04.19-06.53.24:597][947]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/demonlordBlendSpace.uasset
+[2017.04.19-06.54.44:423][106]LogBlendSpaceBase:Warning: Parameter invalid
+[2017.04.19-06.54.52:766][347]LogBlendSpaceBase:Warning: Parameter invalid
+[2017.04.19-06.55.02:401][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_getHit1.DEMON_LORD_getHit1
+[2017.04.19-06.59.03:967][673]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.069
