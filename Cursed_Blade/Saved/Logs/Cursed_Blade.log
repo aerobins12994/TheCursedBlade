@@ -310,3 +310,43 @@ LogInit: Object subsystem initialized
 [2017.04.19-03.08.53:695][780]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
 [2017.04.19-03.11.07:023][920]BlueprintLog: New page: Compile characterBP
 [2017.04.19-03.11.08:923][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.19-03.11.09:046][993]LogSavePackage: Save=113.99ms
+[2017.04.19-03.11.09:046][993]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/characterBP4E347BA248711FE2F1D1748D257C4DD8.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.19-03.11.09:054][993]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.19-03.17.29:861][114]LogSavePackage: Save=40.26ms
+[2017.04.19-03.17.29:861][114]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/interactableVariabes17B1805A408837168B218E9B7C5D7633.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/interactable/interactableVariabes.uasset'
+[2017.04.19-03.17.29:870][114]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/interactable/interactableVariabes.uasset
+[2017.04.19-03.18.11:956][689]LogSavePackage: Save=9.26ms
+[2017.04.19-03.18.11:956][689]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/interactableVariabes87CA27774E1A3ACA4DB236B09F0ECCCE.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/interactable/interactableVariabes.uasset'
+[2017.04.19-03.18.11:969][689]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/interactable/interactableVariabes.uasset
+[2017.04.19-03.19.17:526][220]BlueprintLog: New page: Compile characterBP
+[2017.04.19-03.19.18:995][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.19-03.19.19:178][313]LogSavePackage: Save=159.42ms
+[2017.04.19-03.19.19:178][313]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/characterBPC18A858A4DE6486F64641C94427A6716.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.19-03.19.19:190][313]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.19-03.21.13:612][801]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.067
+[2017.04.19-03.21.13:616][801]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/characterBP] ([1] browsable assets)...
+[2017.04.19-03.21.13:661][801]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/characterBP.characterBP]
+[2017.04.19-03.21.13:661][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/characterBP]
+[2017.04.19-03.21.13:785][801]LogSavePackage: Save=113.85ms
+[2017.04.19-03.21.13:785][801]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/characterBP_Auto1B9F7CA3943958ADFB4498F8180A7C2FC.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto1.uasset'
+[2017.04.19-03.21.13:789][801]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto1.uasset
+[2017.04.19-03.21.13:789][801]LogFileHelpers: Auto-saving content packages took 0.176
+[2017.04.19-03.21.32:986][864]BlueprintLog: New page: Compile characterBP
+[2017.04.19-03.21.34:569][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.19-03.21.34:734][977]LogSavePackage: Save=155.27ms
+[2017.04.19-03.21.34:734][977]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/characterBPEF6CDE114001B0A4AE95A19B68EFA9ED.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.19-03.21.34:742][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.19-03.31.40:003][277]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.074
+[2017.04.19-03.31.40:007][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/characterBP] ([1] browsable assets)...
+[2017.04.19-03.31.40:107][277]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/characterBP.characterBP]
+[2017.04.19-03.31.40:107][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/characterBP]
+[2017.04.19-03.31.40:341][277]LogSavePackage: Save=171.41ms
+[2017.04.19-03.31.40:341][277]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/characterBP_Auto25F53A56A44E6666A7B0013835E05A006.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto2.uasset'
+[2017.04.19-03.31.40:347][277]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto2.uasset
+[2017.04.19-03.31.40:347][277]LogFileHelpers: Auto-saving content packages took 0.343
+[2017.04.19-03.39.20:375][ 48]BlueprintLog: New page: Compile characterBP
+[2017.04.19-03.39.21:910][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.19-03.39.22:100][147]LogSavePackage: Save=164.65ms
+[2017.04.19-03.39.22:100][147]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/characterBP5828E9FD445581F5BC62E5AEC58C2E17.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.19-03.39.22:113][147]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
