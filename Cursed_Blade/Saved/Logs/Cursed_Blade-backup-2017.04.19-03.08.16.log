@@ -1,0 +1,1094 @@
+﻿Log file open, 04/18/17 16:46:07
+LogInit:Display: Running engine for game: Cursed_Blade
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-68526458) SRandInit(-68526458).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.317994
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.18-20.46.09:932][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.18-20.46.09:932][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.18-20.46.10:065][  0]LogInit: Computer: BADTZ-MARU
+[2017.04.18-20.46.10:065][  0]LogInit: User: Luis
+[2017.04.18-20.46.10:065][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.18-20.46.10:065][  0]LogInit: High frequency timer resolution =2.240909 MHz
+[2017.04.18-20.46.10:065][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.04.18-20.46.10:065][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.18-20.46.10:065][  0]LogMemory: Process Physical Memory: 264.77 MB used, 264.77 MB peak
+[2017.04.18-20.46.10:065][  0]LogMemory: Process Virtual Memory: 263.06 MB used, 263.06 MB peak
+[2017.04.18-20.46.10:065][  0]LogMemory: Physical Memory: 4340.05 MB used,  3783.79 MB free, 8123.84 MB total
+[2017.04.18-20.46.10:065][  0]LogMemory: Virtual Memory: 675.40 MB used,  3783.79 MB free, 134217728.00 MB total
+[2017.04.18-20.46.10:573][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.18-20.46.27:382][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.18-20.46.27:479][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.04.18-20.46.27:479][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.04.18-20.46.27:507][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.18-20.46.27:507][  0]LogD3D11RHI:       0/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.18-20.46.27:507][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.18-20.46.27:517][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.18-20.46.27:517][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.18-20.46.27:517][  0]LogWindows: EnumDisplayDevices:
+[2017.04.18-20.46.27:518][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.04.18-20.46.27:520][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.04.18-20.46.27:522][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.04.18-20.46.27:523][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.04.18-20.46.27:523][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2017.04.18-20.46.27:523][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2017.04.18-20.46.27:523][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2017.04.18-20.46.27:523][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2017.04.18-20.46.27:619][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.18-20.46.27:626][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.04.18-20.46.27:627][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/3912/).
+[2017.04.18-20.46.27:628][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luis/AppData/Local/Temp/UnrealShaderWorkingDir/B228C06E464B1735D4DBB9A7AAD11997/'.
+[2017.04.18-20.46.27:628][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.18-20.46.37:749][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.18-20.46.38:058][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.18-20.46.38:357][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.18-20.46.38:655][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.18-20.46.38:962][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.18-20.46.39:291][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.18-20.46.39:603][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.18-20.46.39:898][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.18-20.46.40:179][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.18-20.46.40:495][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.18-20.46.40:790][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.18-20.46.41:092][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.18-20.46.41:393][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.18-20.46.41:711][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.18-20.46.42:016][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.18-20.46.42:616][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.18-20.46.42:616][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.18-20.46.42:888][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.18-20.46.43:367][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.18-20.46.43:561][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.18-20.46.43:919][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.18-20.46.44:242][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.18-20.46.44:566][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.18-20.46.44:927][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.18-20.46.44:927][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.18-20.46.48:072][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.18-20.46.48:873][  0]LogDerivedDataCache: Loaded boot cache 0.80s 52MB C:/Users/Luis/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.18-20.46.48:873][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Luis/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.18-20.46.48:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.18-20.46.48:873][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.18-20.46.48:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.18-20.46.48:873][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.18-20.46.48:901][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.18-20.46.48:914][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.18-20.46.52:178][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.18-20.46.52:182][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.18-20.46.53:085][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.18-20.46.53:405][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.18-20.46.53:693][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.18-20.46.53:693][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.18-20.46.53:693][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.18-20.46.55:072][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.04.18-20.46.55:289][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2017.04.18-20.46.55:548][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.073714 seconds
+[2017.04.18-20.46.55:557][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.18-20.46.55:557][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.18-20.46.55:557][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.18-20.46.56:370][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.18-20.47.02:288][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.18-20.47.02:352][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.18-20.47.02:352][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.18-20.47.44:013][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.18-20.47.44:712][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.18-20.47.50:412][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.18-20.47.53:793][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-20.47.53:793][  0]LogPackageName: SearchForPackageOnDisk took   0.573s, but failed to resolve Env_Ice_Rocky.
+[2017.04.18-20.47.53:793][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.04.18-20.47.53:793][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-20.47.53:793][  0]LogPackageName: SearchForPackageOnDisk took   0.325s, but failed to resolve Env_Ice_Rocky.
+[2017.04.18-20.47.53:793][  0]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.04.18-20.47.56:864][  0]SourceControl: Info Source control is disabled
+[2017.04.18-20.47.56:880][  0]SourceControl: Info Source control is disabled
+[2017.04.18-20.47.57:934][  0]SourceControl: Info Source control is disabled
+[2017.04.18-20.47.58:922][  0]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-20.47.58:922][  0]SourceControl: Info Source control is disabled
+[2017.04.18-20.47.59:524][  0]LogPackageName: SearchForPackageOnDisk took   0.873s, but failed to resolve Exo_Deco01.
+[2017.04.18-20.47.59:524][  0]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2017.04.18-20.47.59:524][  0]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-20.48.00:566][  0]LogPackageName: SearchForPackageOnDisk took   0.737s, but failed to resolve Env_Ice_RuinedWalls001.
+[2017.04.18-20.48.00:566][  0]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
+[2017.04.18-20.48.13:978][  0]LogEngine: Initializing Engine...
+[2017.04.18-20.48.13:980][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.18-20.48.15:048][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.18-20.48.15:070][  0]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-20.48.15:122][  0]LogInit: FAudioDevice initialized.
+[2017.04.18-20.48.15:161][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/Luis/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.18-20.48.15:172][  0]LogInit: Texture streaming: Enabled
+[2017.04.18-20.48.16:467][  0]LogInit: Transaction tracking system initialized
+[2017.04.18-20.48.18:909][  0]BlueprintLog: New page: Editor Load
+[2017.04.18-20.48.25:683][  0]LocalizationService: Info Localization service is disabled
+[2017.04.18-20.48.31:234][  0]LogConsoleResponse:Display: 
+[2017.04.18-20.48.32:039][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.18-20.48.32:039][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.18-20.48.33:048][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/' took 0.06s
+[2017.04.18-20.48.39:127][  0]SourceControl: Info Source control is disabled
+[2017.04.18-20.48.39:127][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.18-20.48.39:128][  0]LightingResults: New page: Lighting Build
+[2017.04.18-20.48.39:388][  0]MapCheck: New page: Map Check
+[2017.04.18-20.48.39:388][  0]LightingResults: New page: Lighting Build
+[2017.04.18-20.48.41:451][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.18-20.48.41:840][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.18-20.48.41:841][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.18-20.48.42:134][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 292.864ms to complete.
+[2017.04.18-20.48.42:134][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 3.007
+[2017.04.18-20.48.42:547][  0]LogCollectionManager: Loaded 0 collections in 0.002718 seconds
+[2017.04.18-20.48.42:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.04.18-20.48.42:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Developers/Luis/Collections/' took 0.01s
+[2017.04.18-20.48.42:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.04.18-20.48.42:892][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.18-20.48.42:904][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2190 classes and 428 folders.
+[2017.04.18-20.48.43:189][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.18-20.48.43:189][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.18-20.48.43:191][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0011 seconds. Added 13 classes and 0 folders.
+[2017.04.18-20.48.43:637][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.04.18-20.48.44:997][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0035 seconds. Added 0 classes and 0 folders.
+[2017.04.18-20.48.45:300][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.04.18-20.48.45:663][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.18-20.48.45:674][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.18-20.48.46:021][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.04.18-20.48.46:022][  0]LogLoad: (Engine Initialization) Total time: 166.54 seconds
+[2017.04.18-20.48.46:022][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.81 seconds
+[2017.04.18-20.48.46:022][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.18-20.48.46:022][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.18-20.48.46:363][  0]LogOcInput: OculusInput pre-init called
+[2017.04.18-20.48.46:388][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2017.04.18-20.48.46:826][  0]LogRenderer: Reallocating scene render targets to support 964x436 NumSamples 1 (Frame:2).
+[2017.04.18-20.48.48:593][  4]LogAssetRegistry: Asset discovery search completed in 113.3255 seconds
+[2017.04.18-20.48.48:593][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.18-20.48.48:593][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000027 seconds (updated 0 objects)
+[2017.04.18-20.49.22:911][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupOrb" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset" SILENT=true
+[2017.04.18-20.49.22:945][283]LogSavePackage: Save=27.68ms
+[2017.04.18-20.49.22:945][283]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupOrb5551647749BC51D907FE1CBF36E1EC8B.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset'
+[2017.04.18-20.49.22:958][283]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset
+[2017.04.18-20.49.29:808][409]LogRenderer: Reallocating scene render targets to support 1144x708 NumSamples 1 (Frame:608).
+[2017.04.18-20.50.32:404][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupOrb" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset" SILENT=true
+[2017.04.18-20.50.32:459][ 90]LogSavePackage: Save=27.98ms
+[2017.04.18-20.50.32:459][ 90]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupOrb39BFA72A49861FCDFFE80BAAE70CCC24.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset'
+[2017.04.18-20.50.32:472][ 90]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset
+[2017.04.18-20.51.22:576][628]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 111 classes and 0 folders.
+[2017.04.18-20.54.30:930][569]BlueprintLog: New page: Compile InventoryInterface
+[2017.04.18-20.54.33:030][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/InventoryInterface" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/InventoryInterface.uasset" SILENT=true
+[2017.04.18-20.54.33:086][586]LogSavePackage: Save=34.08ms
+[2017.04.18-20.54.33:086][586]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/InventoryInterface49B3A3684D59862337E7C2BDCE7832B9.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/InventoryInterface.uasset'
+[2017.04.18-20.54.33:100][586]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/InventoryInterface.uasset
+[2017.04.18-20.56.05:593][658]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-20.56.08:942][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupBox" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset" SILENT=true
+[2017.04.18-20.56.09:086][679]LogSavePackage: Save=131.54ms
+[2017.04.18-20.56.09:086][679]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox074C9BBD40B882D88609D5B6216A10A3.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset'
+[2017.04.18-20.56.09:119][679]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset
+[2017.04.18-20.57.39:758][488]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.18-20.58.30:294][510]BlueprintLog: New page: Compile characterBP
+[2017.04.18-21.00.03:221][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.051
+[2017.04.18-21.00.03:226][444]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/characterBP] ([1] browsable assets)...
+[2017.04.18-21.00.03:313][444]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/characterBP.characterBP]
+[2017.04.18-21.00.03:313][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/characterBP]
+[2017.04.18-21.00.03:456][444]LogSavePackage: Save=122.00ms
+[2017.04.18-21.00.03:456][444]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP_Auto1FDD591794FD94D5C2120E789E0E22D11.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto1.uasset'
+[2017.04.18-21.00.03:474][444]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto1.uasset
+[2017.04.18-21.00.03:490][444]LogSavePackage: Save=7.59ms
+[2017.04.18-21.00.03:490][444]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Sphere_Auto187110B6C49EFE0878E028BB9413B8475.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/Sphere_Auto1.uasset'
+[2017.04.18-21.00.03:495][444]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/Sphere_Auto1.uasset
+[2017.04.18-21.00.03:495][444]LogFileHelpers: Auto-saving content packages took 0.273
+[2017.04.18-21.00.16:541][645]BlueprintLog: New page: Compile characterBP
+[2017.04.18-21.00.19:891][648]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.05.25:433][768]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.06.11:301][ 20]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-21.06.12:107][ 20]LogPackageName: SearchForPackageOnDisk took   0.806s, but failed to resolve Env_Ice_Rocky.
+[2017.04.18-21.06.12:107][ 20]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.04.18-21.06.12:712][ 20]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-21.06.13:544][ 20]LogPackageName: SearchForPackageOnDisk took   0.831s, but failed to resolve Env_Ice_Rocky.
+[2017.04.18-21.06.13:544][ 20]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.04.18-21.06.15:941][ 20]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-21.06.16:871][ 20]LogPackageName: SearchForPackageOnDisk took   0.930s, but failed to resolve Exo_Deco01.
+[2017.04.18-21.06.16:872][ 20]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2017.04.18-21.06.16:883][ 20]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.18-21.06.17:668][ 20]LogPackageName: SearchForPackageOnDisk took   0.785s, but failed to resolve Env_Ice_RuinedWalls001.
+[2017.04.18-21.06.17:668][ 20]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
+[2017.04.18-21.06.36:334][ 20]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.07.01:818][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.18-21.07.02:288][ 20]LogSavePackage: Save=329.72ms
+[2017.04.18-21.07.02:288][ 20]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP090E2DB844EAC420B82FD2AB029DF627.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.18-21.07.02:388][ 20]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.18-21.07.02:513][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupBox" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset" SILENT=true
+[2017.04.18-21.07.02:696][ 20]LogSavePackage: Save=121.29ms
+[2017.04.18-21.07.02:696][ 20]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBoxAB214695497B46A80D5AAA9BC1F914B7.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset'
+[2017.04.18-21.07.02:737][ 20]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset
+[2017.04.18-21.07.02:739][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/Sphere" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/Sphere.uasset" SILENT=true
+[2017.04.18-21.07.02:776][ 20]LogSavePackage: Save=20.64ms
+[2017.04.18-21.07.02:776][ 20]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/SphereAEBA5FB444695D313117BB8A69FE57AE.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/Sphere.uasset'
+[2017.04.18-21.07.02:820][ 20]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/Sphere.uasset
+[2017.04.18-21.07.02:839][ 20]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.18-21.07.02:839][ 20]LightingResults: New page: Lighting Build
+[2017.04.18-21.07.02:843][ 20]LoadErrors: New page: Loading map: TombLevel.umap
+[2017.04.18-21.07.02:856][ 20]MapCheck: New page: Map Check
+[2017.04.18-21.07.02:856][ 20]LightingResults: New page: Lighting Build
+[2017.04.18-21.07.03:616][ 20]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.18-21.07.03:769][ 20]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.18-21.07.04:375][ 20]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 606.304ms to complete.
+[2017.04.18-21.07.04:376][ 20]LogFileHelpers: Loading map 'TombLevel' took 1.556
+[2017.04.18-21.09.32:581][778]BlueprintLog: New page: Compile TombLevel
+[2017.04.18-21.09.34:535][778]LogBlueprint:Error: [Compiler PersistentLevel.TombLevel] Error Message node  K2Node_Message_0  must have a valid target or reference to self.
+[2017.04.18-21.09.35:579][778]BlueprintEditorCompileResults:Error: Error Message node  K2Node_Message_0  must have a valid target or reference to self.
+[2017.04.18-21.09.35:606][778]LogBlueprint:Warning: [Compiler PersistentLevel.TombLevel] Warning [1416.11] Compile of PersistentLevel.TombLevel failed. 1 Fatal Issue(s) 0 Warning(s) [in 3,008 ms] (/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel)
+[2017.04.18-21.10.09:562][215]BlueprintLog: New page: Compile TombLevel
+[2017.04.18-21.10.12:959][232]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.11.20:328][503]LogActorFactory: Actor Factory created PickupOrb
+[2017.04.18-21.11.23:867][542]LogActorFactory: Actor Factory created PickupOrb
+[2017.04.18-21.11.29:324][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_OddsnEnds_FloorPath2a)
+[2017.04.18-21.11.29:465][574]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.04.18-21.11.29:520][574]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.04.18-21.11.29:623][574]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Env_Fire_OddsnEnds_FloorPath2a)
+[2017.04.18-21.11.40:936][791]Cmd: TRANSACTION UNDO
+[2017.04.18-21.11.40:950][791]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2017.04.18-21.11.47:896][929]Cmd: TRANSACTION UNDO
+[2017.04.18-21.11.47:896][929]LogEditorTransaction: Undo Clicking on Components
+[2017.04.18-21.11.52:859][ 58]Cmd: TRANSACTION UNDO
+[2017.04.18-21.11.52:859][ 58]LogEditorTransaction: Undo Clicking on Components
+[2017.04.18-21.11.57:338][168]Cmd: TRANSACTION UNDO
+[2017.04.18-21.11.57:338][168]LogEditorTransaction: Undo Clicking on Actors
+[2017.04.18-21.12.02:436][288]Cmd: TRANSACTION UNDO
+[2017.04.18-21.12.02:436][288]LogEditorTransaction: Undo Move Actors
+[2017.04.18-21.12.06:731][461]Cmd: TRANSACTION UNDO
+[2017.04.18-21.12.06:731][461]LogEditorTransaction: Undo Create Actors
+[2017.04.18-21.13.18:645][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupOrb" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset" SILENT=true
+[2017.04.18-21.13.18:825][140]LogSavePackage: Save=76.19ms
+[2017.04.18-21.13.18:825][140]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupOrbF653CE01438895BBC69FABA27A05F212.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset'
+[2017.04.18-21.13.18:862][140]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupOrb.uasset
+[2017.04.18-21.13.24:450][174]LogActorFactory: Actor Factory created PickupOrb
+[2017.04.18-21.13.26:319][189]LogActorFactory: Actor Factory created PickupOrb
+[2017.04.18-21.14.59:787][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.14.59:803][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.14.59:951][675]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:14:59 PM)
+[2017.04.18-21.14.59:967][675]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.15.00:220][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.252929s)
+[2017.04.18-21.15.00:221][675]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.15.00:241][675]LogPlayLevel: PIE: World Init took: (0.021008s)
+[2017.04.18-21.15.00:252][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.285458s)
+[2017.04.18-21.15.00:359][675]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.15.00:402][675]LogInit: FAudioDevice initialized.
+[2017.04.18-21.15.00:655][675]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.15.00:871][675]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.15.00
+[2017.04.18-21.15.01:145][675]LogWorld: Bringing up level for play took: 0.363976
+[2017.04.18-21.15.02:225][675]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0047 seconds. Added 11 classes and 0 folders.
+[2017.04.18-21.15.02:430][675]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 3.26
+[2017.04.18-21.15.02:434][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.15.32:403][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.15.32:795][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.17.05:861][733]LogSavePackage: Save=6878.08ms
+[2017.04.18-21.17.05:862][733]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/TombLevel_Auto243AA6F8340DE885C2A28C88D2313C1B1.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/TombLevel_Auto2.umap'
+[2017.04.18-21.17.05:879][733]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/TombLevel_Auto2.umap
+[2017.04.18-21.17.06:055][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 7.323
+[2017.04.18-21.17.06:056][733]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.323
+[2017.04.18-21.17.06:066][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemPickup/PickupBox] ([1] browsable assets)...
+[2017.04.18-21.17.06:202][733]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemPickup/PickupBox.PickupBox]
+[2017.04.18-21.17.06:202][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemPickup/PickupBox]
+[2017.04.18-21.17.06:262][733]LogSavePackage: Save=32.48ms
+[2017.04.18-21.17.06:263][733]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox_Auto20012D73449321A5ED4BB6BB96BDE7C50.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto2.uasset'
+[2017.04.18-21.17.06:269][733]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto2.uasset
+[2017.04.18-21.17.06:269][733]LogFileHelpers: Auto-saving content packages took 0.211
+[2017.04.18-21.18.38:569][217]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.PickupBox_C_0.PickupBox) Not currently registered. Aborting.
+[2017.04.18-21.18.38:569][217]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_9:PersistentLevel.PickupBox_C_7.PickupBox) Not currently registered. Aborting.
+[2017.04.18-21.18.42:478][246]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.PickupBox_C_0.PickupBox) Not currently registered. Aborting.
+[2017.04.18-21.18.42:478][246]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_9:PersistentLevel.PickupBox_C_7.PickupBox) Not currently registered. Aborting.
+[2017.04.18-21.18.58:433][326]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.19.03:561][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupBox" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset" SILENT=true
+[2017.04.18-21.19.03:700][375]LogSavePackage: Save=98.57ms
+[2017.04.18-21.19.03:700][375]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBoxF26C07694F7C923F89AA59BC7443C0C6.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset'
+[2017.04.18-21.19.03:742][375]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset
+[2017.04.18-21.19.57:736][588]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.19.57:793][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.19.57:793][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.19.57:794][588]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:19:57 PM)
+[2017.04.18-21.19.57:794][588]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.19.57:972][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178226s)
+[2017.04.18-21.19.57:973][588]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.19.57:973][588]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2017.04.18-21.19.57:974][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.180193s)
+[2017.04.18-21.19.58:032][588]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.19.58:074][588]LogInit: FAudioDevice initialized.
+[2017.04.18-21.19.58:120][588]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.19.58:155][588]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.19.58
+[2017.04.18-21.19.58:164][588]LogWorld: Bringing up level for play took: 0.042850
+[2017.04.18-21.19.58:211][588]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.043
+[2017.04.18-21.19.58:212][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.20.47:181][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.20.47:490][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.23.51:888][140]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.23.53:080][148]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.23.53:183][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.23.53:183][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.23.53:183][148]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:23:53 PM)
+[2017.04.18-21.23.53:184][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.23.53:470][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.286272s)
+[2017.04.18-21.23.53:471][148]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.23.53:471][148]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2017.04.18-21.23.53:472][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.288088s)
+[2017.04.18-21.23.53:541][148]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.23.53:591][148]LogInit: FAudioDevice initialized.
+[2017.04.18-21.23.53:640][148]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.23.53:680][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.23.53
+[2017.04.18-21.23.53:688][148]LogWorld: Bringing up level for play took: 0.047226
+[2017.04.18-21.23.53:704][148]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 0.535
+[2017.04.18-21.23.53:705][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.26.58:044][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.26.58:388][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.27.31:069][859]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.31.47:119][881]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.32.29:328][625]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.32.48:703][121]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.33.22:487][150]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.PickupBox_C_0.PickupBox) Not currently registered. Aborting.
+[2017.04.18-21.33.24:759][174]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.PickupBox_C_0.PickupBox) Not currently registered. Aborting.
+[2017.04.18-21.33.28:229][209]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.33.34:755][255]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.33.34:912][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.33.34:913][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.33.34:913][255]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:33:34 PM)
+[2017.04.18-21.33.34:914][255]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.33.35:286][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.371454s)
+[2017.04.18-21.33.35:287][255]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.33.35:288][255]LogPlayLevel: PIE: World Init took: (0.002411s)
+[2017.04.18-21.33.35:289][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.375558s)
+[2017.04.18-21.33.35:444][255]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.33.35:587][255]LogInit: FAudioDevice initialized.
+[2017.04.18-21.33.35:680][255]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.33.35:784][255]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.33.35
+[2017.04.18-21.33.35:804][255]LogWorld: Bringing up level for play took: 0.122823
+[2017.04.18-21.33.35:837][255]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 0.669
+[2017.04.18-21.33.35:842][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.34.11:633][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.34.11:929][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.34.46:087][  9]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 0.073
+[2017.04.18-21.34.46:096][  9]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemPickup/PickupBox] ([1] browsable assets)...
+[2017.04.18-21.34.46:224][  9]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemPickup/PickupBox.PickupBox]
+[2017.04.18-21.34.46:224][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemPickup/PickupBox]
+[2017.04.18-21.34.46:395][  9]LogSavePackage: Save=107.97ms
+[2017.04.18-21.34.46:395][  9]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox_Auto394A52F364A34BEDA018B729999DC5F14.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto3.uasset'
+[2017.04.18-21.34.46:432][  9]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto3.uasset
+[2017.04.18-21.34.46:432][  9]LogFileHelpers: Auto-saving content packages took 0.342
+[2017.04.18-21.35.26:925][377]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.36.01:026][ 58]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.36.06:870][106]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.36.07:000][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.36.07:000][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.36.07:001][106]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:36:07 PM)
+[2017.04.18-21.36.07:001][106]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.36.07:205][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203946s)
+[2017.04.18-21.36.07:206][106]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.36.07:206][106]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2017.04.18-21.36.07:206][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.205698s)
+[2017.04.18-21.36.07:264][106]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.36.07:314][106]LogInit: FAudioDevice initialized.
+[2017.04.18-21.36.07:365][106]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.36.07:401][106]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.36.07
+[2017.04.18-21.36.07:410][106]LogWorld: Bringing up level for play took: 0.044590
+[2017.04.18-21.36.07:423][106]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 0.254
+[2017.04.18-21.36.07:425][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.36.48:384][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.36.48:733][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.37.42:738][664]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.37.58:065][ 66]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.38.03:282][ 93]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.38.03:470][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.38.03:471][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.38.03:471][ 93]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:38:03 PM)
+[2017.04.18-21.38.03:471][ 93]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.38.03:957][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.485627s)
+[2017.04.18-21.38.03:959][ 93]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.38.03:960][ 93]LogPlayLevel: PIE: World Init took: (0.002690s)
+[2017.04.18-21.38.03:961][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.489842s)
+[2017.04.18-21.38.04:127][ 93]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.38.04:273][ 93]LogInit: FAudioDevice initialized.
+[2017.04.18-21.38.04:369][ 93]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.38.04:474][ 93]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.38.04
+[2017.04.18-21.38.04:486][ 93]LogWorld: Bringing up level for play took: 0.114312
+[2017.04.18-21.38.04:526][ 93]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.358
+[2017.04.18-21.38.04:528][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.38.29:161][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.38.29:473][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.41.05:767][357]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.41.11:301][390]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.41.11:374][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.41.11:375][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.41.11:375][390]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:41:11 PM)
+[2017.04.18-21.41.11:375][390]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.41.11:807][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.431535s)
+[2017.04.18-21.41.11:808][390]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.41.11:809][390]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2017.04.18-21.41.11:809][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.433985s)
+[2017.04.18-21.41.11:875][390]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.41.11:922][390]LogInit: FAudioDevice initialized.
+[2017.04.18-21.41.11:976][390]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.41.12:015][390]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.41.12
+[2017.04.18-21.41.12:021][390]LogWorld: Bringing up level for play took: 0.043822
+[2017.04.18-21.41.12:034][390]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 0.866
+[2017.04.18-21.41.12:035][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.41.58:691][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.41.59:009][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.42.33:047][504]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.42.54:850][121]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.42.59:725][152]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.43.05:675][199]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.43.05:825][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.43.05:825][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.43.05:826][199]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:43:05 PM)
+[2017.04.18-21.43.05:826][199]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.43.06:289][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.462976s)
+[2017.04.18-21.43.06:291][199]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.43.06:292][199]LogPlayLevel: PIE: World Init took: (0.002560s)
+[2017.04.18-21.43.06:293][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.467310s)
+[2017.04.18-21.43.06:454][199]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.43.06:592][199]LogInit: FAudioDevice initialized.
+[2017.04.18-21.43.06:683][199]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.43.06:797][199]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.43.06
+[2017.04.18-21.43.06:818][199]LogWorld: Bringing up level for play took: 0.134166
+[2017.04.18-21.43.06:841][199]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.673
+[2017.04.18-21.43.06:843][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.43.36:862][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.43.37:194][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.44.13:318][336]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.44.17:406][352]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.44.17:538][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.44.17:539][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.44.17:539][352]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:44:17 PM)
+[2017.04.18-21.44.17:539][352]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.44.17:979][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.439602s)
+[2017.04.18-21.44.17:981][352]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.44.17:982][352]LogPlayLevel: PIE: World Init took: (0.002472s)
+[2017.04.18-21.44.17:983][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.443509s)
+[2017.04.18-21.44.18:140][352]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.44.18:274][352]LogInit: FAudioDevice initialized.
+[2017.04.18-21.44.18:365][352]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.44.18:472][352]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.44.18
+[2017.04.18-21.44.18:496][352]LogWorld: Bringing up level for play took: 0.129784
+[2017.04.18-21.44.18:544][352]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.375
+[2017.04.18-21.44.18:551][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.44.38:981][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.44.39:320][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.44.48:440][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PickupOrb)
+[2017.04.18-21.44.54:811][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FlameDungeon_largeRocks3)
+[2017.04.18-21.44.54:983][652]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.04.18-21.44.55:003][652]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.04.18-21.44.55:172][653]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_FlameDungeon_largeRocks3)
+[2017.04.18-21.44.55:488][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FlameDungeon_largeRocks3)
+[2017.04.18-21.45.02:888][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PickupOrb)
+[2017.04.18-21.45.09:194][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TombLevel" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.18-21.45.28:325][753]LogSavePackage: Save=18848.42ms
+[2017.04.18-21.45.28:325][753]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/TombLevelA040A64548318EC773450F9847475213.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap'
+[2017.04.18-21.45.28:390][753]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap
+[2017.04.18-21.46.40:799][ 53]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.54.22:660][106]BlueprintLog: New page: Compile characterBP
+[2017.04.18-21.54.26:543][108]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.54.32:244][143]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.54.32:422][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.54.32:423][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.18-21.54.32:423][143]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:54:32 PM)
+[2017.04.18-21.54.32:424][143]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.54.32:842][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.418440s)
+[2017.04.18-21.54.32:846][143]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.54.32:847][143]LogPlayLevel: PIE: World Init took: (0.004683s)
+[2017.04.18-21.54.32:848][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.425112s)
+[2017.04.18-21.54.33:027][143]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.54.33:169][143]LogInit: FAudioDevice initialized.
+[2017.04.18-21.54.33:274][143]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.54.33:369][143]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.54.33
+[2017.04.18-21.54.33:379][143]LogWorld: Bringing up level for play took: 0.103544
+[2017.04.18-21.54.33:395][143]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 0.226
+[2017.04.18-21.54.33:396][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.54.49:836][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.54.50:207][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.55.33:314][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 0.201
+[2017.04.18-21.55.33:330][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/characterBP] ([1] browsable assets)...
+[2017.04.18-21.55.33:488][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/characterBP.characterBP]
+[2017.04.18-21.55.33:488][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/characterBP]
+[2017.04.18-21.55.33:969][583]LogSavePackage: Save=414.76ms
+[2017.04.18-21.55.33:972][583]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP_Auto4B59C67AA4A12C558AA1C1B8DFDD3BBC8.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto4.uasset'
+[2017.04.18-21.55.34:002][583]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto4.uasset
+[2017.04.18-21.55.34:012][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemPickup/PickupBox] ([1] browsable assets)...
+[2017.04.18-21.55.34:185][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemPickup/PickupBox.PickupBox]
+[2017.04.18-21.55.34:185][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemPickup/PickupBox]
+[2017.04.18-21.55.34:481][583]LogSavePackage: Save=221.88ms
+[2017.04.18-21.55.34:483][583]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox_Auto43F7D8B2F45239815DF477ABBDF2185CD.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto4.uasset'
+[2017.04.18-21.55.34:536][583]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto4.uasset
+[2017.04.18-21.55.34:537][583]LogFileHelpers: Auto-saving content packages took 1.220
+[2017.04.18-21.58.14:978][683]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.PickupBox_C_0.Sphere) Not currently registered. Aborting.
+[2017.04.18-21.58.14:978][683]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_9:PersistentLevel.PickupBox_C_2.Sphere) Not currently registered. Aborting.
+[2017.04.18-21.58.20:065][721]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.PickupBox_C_0.Sphere) Not currently registered. Aborting.
+[2017.04.18-21.58.20:065][721]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_9:PersistentLevel.PickupBox_C_2.Sphere) Not currently registered. Aborting.
+[2017.04.18-21.58.23:900][748]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-21.58.29:775][777]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.18-21.58.29:917][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.58.29:917][777]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.18-21.58.29:960][777]LogPlayLevel: [PlayLevel] Compiling characterBP before play...
+[2017.04.18-21.58.30:586][777]LogPlayLevel: [PlayLevel]   Compiling character_anim as a dependent...
+[2017.04.18-21.58.33:073][777]LogPlayLevel: PlayLevel: Blueprint regeneration took 3156 ms (2 blueprints)
+[2017.04.18-21.58.33:074][777]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 1:58:33 PM)
+[2017.04.18-21.58.33:074][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.18-21.58.33:459][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.384281s)
+[2017.04.18-21.58.33:461][777]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.18-21.58.33:461][777]LogPlayLevel: PIE: World Init took: (0.002222s)
+[2017.04.18-21.58.33:462][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.387896s)
+[2017.04.18-21.58.33:624][777]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.18-21.58.33:770][777]LogInit: FAudioDevice initialized.
+[2017.04.18-21.58.33:864][777]LogLoad: Game class is 'myGame_C'
+[2017.04.18-21.58.33:968][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-17.58.33
+[2017.04.18-21.58.33:989][777]LogWorld: Bringing up level for play took: 0.124190
+[2017.04.18-21.58.34:023][777]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 4.855
+[2017.04.18-21.58.34:026][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.58.36:945][781]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.18-21.58.59:322][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.58.59:629][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.18-21.59.29:378][731]BlueprintLog: New page: Compile PickupBox
+[2017.04.18-22.06.05:250][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 0.160
+[2017.04.18-22.06.05:256][950]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/characterBP] ([1] browsable assets)...
+[2017.04.18-22.06.05:437][950]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/characterBP.characterBP]
+[2017.04.18-22.06.05:437][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/characterBP]
+[2017.04.18-22.06.05:722][950]LogSavePackage: Save=248.51ms
+[2017.04.18-22.06.05:722][950]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP_Auto56316060A4306D143E9EA77AB776EB741.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto5.uasset'
+[2017.04.18-22.06.05:753][950]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto5.uasset
+[2017.04.18-22.06.05:762][950]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemPickup/PickupBox] ([1] browsable assets)...
+[2017.04.18-22.06.05:878][950]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemPickup/PickupBox.PickupBox]
+[2017.04.18-22.06.05:878][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemPickup/PickupBox]
+[2017.04.18-22.06.05:950][950]LogSavePackage: Save=41.85ms
+[2017.04.18-22.06.05:950][950]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox_Auto57E2D3C0246F2B311F67E2A80021729DD.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto5.uasset'
+[2017.04.18-22.06.05:958][950]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto5.uasset
+[2017.04.18-22.06.05:958][950]LogFileHelpers: Auto-saving content packages took 0.707
+[2017.04.18-22.23.10:787][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.18-22.23.11:145][ 12]LogSavePackage: Save=275.25ms
+[2017.04.18-22.23.11:145][ 12]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP69F0854E4C00F01B55BF10AA708C7C06.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.18-22.23.11:193][ 12]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.18-22.23.11:203][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupBox" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset" SILENT=true
+[2017.04.18-22.23.11:326][ 12]LogSavePackage: Save=57.39ms
+[2017.04.18-22.23.11:327][ 12]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox5A8FCC6247DF0277884C009AE7D3B4BE.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset'
+[2017.04.18-22.23.11:372][ 12]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset
+[2017.04.18-22.25.05:674][379]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.19-03.14.00:757][417]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.04.19-03.14.10:014][417]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.19-03.14.10:051][418]LogHttp:Warning: 000002203434A680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.04.19-03.14.10:051][418]LogHttp:Warning: 000002203434A680: libcurl info message cache 0 (Connection 34 seems to be dead!)
+[2017.04.19-03.14.10:051][418]LogHttp:Warning: 000002203434A680: libcurl info message cache 1 (Closing connection 34)
+[2017.04.19-03.14.10:051][418]LogHttp:Warning: 000002203434A680: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.04.19-03.14.10:051][418]LogHttp:Warning: 000002203434A680: libcurl info message cache 3 (Closing connection 35)
+[2017.04.19-03.14.54:279][610]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-03.14.57:783][635]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-03.27.25:228][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-03.27.35:667][296]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 0.193
+[2017.04.19-03.27.35:672][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemPickup/PickupBox] ([1] browsable assets)...
+[2017.04.19-03.27.35:784][296]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemPickup/PickupBox.PickupBox]
+[2017.04.19-03.27.35:784][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemPickup/PickupBox]
+[2017.04.19-03.27.36:107][296]LogSavePackage: Save=159.83ms
+[2017.04.19-03.27.36:107][296]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox_Auto6DCDC532949115FD666D4CD93BB8CB2B7.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto6.uasset'
+[2017.04.19-03.27.36:127][296]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto6.uasset
+[2017.04.19-03.27.36:127][296]LogFileHelpers: Auto-saving content packages took 0.459
+[2017.04.19-03.27.46:499][380]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-03.31.07:898][251]BlueprintLog: New page: Compile PickupBox
+[2017.04.19-03.31.17:270][308]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.19-03.31.17:406][308]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.31.17:407][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.19-03.31.17:408][308]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 7:31:17 PM)
+[2017.04.19-03.31.17:409][308]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.19-03.31.18:172][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.763571s)
+[2017.04.19-03.31.18:176][308]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.19-03.31.18:177][308]LogPlayLevel: PIE: World Init took: (0.004790s)
+[2017.04.19-03.31.18:179][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.770855s)
+[2017.04.19-03.31.18:403][308]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.19-03.31.20:858][308]LogInit: FAudioDevice initialized.
+[2017.04.19-03.31.20:982][308]LogLoad: Game class is 'myGame_C'
+[2017.04.19-03.31.21:087][308]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-23.31.21
+[2017.04.19-03.31.21:100][308]LogWorld: Bringing up level for play took: 0.116423
+[2017.04.19-03.31.21:132][308]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 3.973
+[2017.04.19-03.31.21:133][308]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.31.39:394][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.31.39:756][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.32.22:096][294]BlueprintLog: New page: Compile PickupBox
+[2017.04.19-03.32.22:115][294]LogBlueprint:Error: [Compiler PickupBox] Error Message node  K2Node_Message_32  must have a valid target or reference to self.
+[2017.04.19-03.32.22:416][294]BlueprintEditorCompileResults:Error: Error Message node  K2Node_Message_32  must have a valid target or reference to self.
+[2017.04.19-03.32.22:416][294]LogBlueprint:Warning: [Compiler PickupBox] Warning [4382.95] Compile of PickupBox failed. 1 Fatal Issue(s) 0 Warning(s) [in 319 ms] (/Game/ItemPickup/PickupBox.PickupBox)
+[2017.04.19-03.32.29:225][388]BlueprintLog: New page: Compile PickupBox
+[2017.04.19-03.32.33:711][416]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.19-03.32.33:882][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.32.33:883][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.19-03.32.33:883][416]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 7:32:33 PM)
+[2017.04.19-03.32.33:883][416]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.19-03.32.34:188][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.303953s)
+[2017.04.19-03.32.34:189][416]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.19-03.32.34:189][416]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2017.04.19-03.32.34:189][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.305747s)
+[2017.04.19-03.32.34:255][416]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.19-03.32.34:348][416]LogInit: FAudioDevice initialized.
+[2017.04.19-03.32.34:402][416]LogLoad: Game class is 'myGame_C'
+[2017.04.19-03.32.34:446][416]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-23.32.34
+[2017.04.19-03.32.34:457][416]LogWorld: Bringing up level for play took: 0.053442
+[2017.04.19-03.32.34:470][416]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.31
+[2017.04.19-03.32.34:471][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.33.17:333][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.33.17:683][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.37.48:419][741]BlueprintLog: New page: Compile PickupBox
+[2017.04.19-03.38.11:807][955]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.19-03.38.11:905][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.38.11:905][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.19-03.38.11:906][955]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 7:38:11 PM)
+[2017.04.19-03.38.11:906][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.19-03.38.12:070][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164576s)
+[2017.04.19-03.38.12:089][955]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.19-03.38.12:089][955]LogPlayLevel: PIE: World Init took: (0.018693s)
+[2017.04.19-03.38.12:090][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.183949s)
+[2017.04.19-03.38.12:150][955]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.19-03.38.12:243][955]LogInit: FAudioDevice initialized.
+[2017.04.19-03.38.12:305][955]LogLoad: Game class is 'myGame_C'
+[2017.04.19-03.38.12:435][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-23.38.12
+[2017.04.19-03.38.12:454][955]LogWorld: Bringing up level for play took: 0.147349
+[2017.04.19-03.38.12:481][955]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.321
+[2017.04.19-03.38.12:483][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.38.35:748][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.38.36:083][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.39.06:934][569]BlueprintLog: New page: Compile PickupBox
+[2017.04.19-03.39.09:627][591]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.19-03.39.09:790][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.39.09:790][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.19-03.39.09:791][591]PIE: New page: PIE session: TombLevel (Apr 18, 2017, 7:39:09 PM)
+[2017.04.19-03.39.09:791][591]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.19-03.39.10:187][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.395685s)
+[2017.04.19-03.39.10:189][591]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.19-03.39.10:190][591]LogPlayLevel: PIE: World Init took: (0.002345s)
+[2017.04.19-03.39.10:191][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.399537s)
+[2017.04.19-03.39.10:353][591]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.19-03.39.10:552][591]LogInit: FAudioDevice initialized.
+[2017.04.19-03.39.10:641][591]LogLoad: Game class is 'myGame_C'
+[2017.04.19-03.39.10:746][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.18-23.39.10
+[2017.04.19-03.39.10:763][591]LogWorld: Bringing up level for play took: 0.120731
+[2017.04.19-03.39.10:782][591]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.623
+[2017.04.19-03.39.10:783][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.39.31:105][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.39.31:470][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.19-03.39.56:916][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 0.116
+[2017.04.19-03.39.56:926][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemPickup/PickupBox] ([1] browsable assets)...
+[2017.04.19-03.39.57:295][141]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ItemPickup/PickupBox.PickupBox]
+[2017.04.19-03.39.57:295][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemPickup/PickupBox]
+[2017.04.19-03.39.57:539][141]LogSavePackage: Save=121.02ms
+[2017.04.19-03.39.57:539][141]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox_Auto71A2F039E4FD539B858EAC1B01769368C.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto7.uasset'
+[2017.04.19-03.39.57:556][141]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/ItemPickup/PickupBox_Auto7.uasset
+[2017.04.19-03.39.57:556][141]LogFileHelpers: Auto-saving content packages took 0.638
+[2017.04.19-03.41.12:888][769]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-03.53.33:091][524]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-03.57.12:961][345]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-04.04.04:009][794]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-04.07.47:573][640]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-04.19.09:704][308]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-04.29.50:707][624]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-04.45.14:542][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-04.56.41:815][911]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-05.02.54:913][975]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.19-05.56.58:915][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/PickupBox" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset" SILENT=true
+[2017.04.19-05.56.59:005][  3]LogSavePackage: Save=39.76ms
+[2017.04.19-05.56.59:005][  3]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBox1A9F6A3C4FDE0FAAE9EE1BA126B5A9A1.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset'
+[2017.04.19-05.56.59:046][  3]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/PickupBox.uasset
+[2017.04.19-05.57.01:774][  3]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.19-05.57.03:541][  4]Cmd: QUIT_EDITOR
+[2017.04.19-05.57.04:252][  4]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.19-05.57.04:257][  4]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.19-05.57.04:455][  4]LogExit: Preparing to exit.
+[2017.04.19-05.57.08:770][  4]LogDirectoryWatcher: A directory notification for 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.04.19-05.57.10:424][  4]LogExit: Editor shut down
+[2017.04.19-05.57.10:440][  4]LogExit: Transaction tracking system shut down
+[2017.04.19-05.57.14:764][  4]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.19-05.57.14:775][  4]LogExit: Object subsystem successfully closed.
+[2017.04.19-05.57.15:084][  4]LogD3D11RHI: Shutdown
+[2017.04.19-05.57.15:100][  4]LogD3D11RHI: CleanupD3DDevice
+[2017.04.19-05.57.15:815][  4]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.19-05.57.23:039][  4]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.19-05.57.23:039][  4]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0D15D0B8-45E9-FA46-4484-39A7C2E3F9A8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=c015a48f4b558142650ab2bb17433098%7C2d47c99f286846cab5c19eff540cfc73%7Cbf3490e8-18ed-4984-9a5b-dcfd0cca6dfc&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.19-05.57.23:285][  4]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (246)
+[2017.04.19-05.57.23:309][  4]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (245)
+[2017.04.19-05.57.23:344][  4]LogModuleManager: Shutting down and abandoning module BlueprintGraph (244)
+[2017.04.19-05.57.23:344][  4]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (243)
+[2017.04.19-05.57.23:387][  4]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (242)
+[2017.04.19-05.57.23:387][  4]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.19-05.57.23:404][  4]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.19-05.57.23:414][  4]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.19-05.57.23:415][  4]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.19-05.57.23:415][  4]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.19-05.57.23:478][  4]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.14/FeaturePacks/' was aborted.
+[2017.04.19-05.57.24:522][  4]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.19-05.57.24:569][  4]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.19-05.57.24:569][  4]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.19-05.57.24:589][  4]LogDirectoryWatcher: A directory notification for 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Collections/' was aborted.
+[2017.04.19-05.57.24:589][  4]LogDirectoryWatcher: A directory notification for 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Developers/Luis/Collections/' was aborted.
+[2017.04.19-05.57.24:589][  4]LogDirectoryWatcher: A directory notification for 'C:/Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Collections/' was aborted.
+[2017.04.19-05.57.24:589][  4]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.19-05.57.24:679][  4]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.19-05.57.24:795][  4]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.19-05.57.24:852][  4]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.19-05.57.24:852][  4]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.19-05.57.24:852][  4]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.19-05.57.24:852][  4]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.19-05.57.24:852][  4]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.19-05.57.24:921][  4]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.19-05.57.24:941][  4]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.19-05.57.25:005][  4]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.19-05.57.25:045][  4]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.19-05.57.25:119][  4]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.19-05.57.25:156][  4]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.19-05.57.25:309][  4]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.19-05.57.25:647][  4]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.19-05.57.25:647][  4]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.19-05.57.25:647][  4]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.19-05.57.25:647][  4]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.19-05.57.25:647][  4]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.19-05.57.25:647][  4]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.19-05.57.25:752][  4]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.19-05.57.25:802][  4]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.19-05.57.25:902][  4]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.19-05.57.25:902][  4]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.19-05.57.25:917][  4]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.19-05.57.25:917][  4]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.19-05.57.26:224][  4]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.19-05.57.26:290][  4]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.19-05.57.26:290][  4]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.19-05.57.26:290][  4]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.19-05.57.26:313][  4]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.19-05.57.26:354][  4]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.19-05.57.26:402][  4]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.19-05.57.26:419][  4]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.19-05.57.26:494][  4]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.19-05.57.26:494][  4]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.19-05.57.26:532][  4]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.19-05.57.26:577][  4]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.19-05.57.26:603][  4]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.19-05.57.26:620][  4]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.19-05.57.26:651][  4]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.19-05.57.26:651][  4]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.19-05.57.26:673][  4]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.19-05.57.26:698][  4]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.19-05.57.26:699][  4]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.19-05.57.26:699][  4]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.19-05.57.26:699][  4]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.19-05.57.26:746][  4]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.19-05.57.26:789][  4]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.19-05.57.26:806][  4]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.19-05.57.26:837][  4]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.19-05.57.26:838][  4]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.19-05.57.27:045][  4]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.19-05.57.27:075][  4]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.19-05.57.27:110][  4]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.19-05.57.27:226][  4]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.19-05.57.27:226][  4]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.19-05.57.27:273][  4]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.19-05.57.27:273][  4]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.19-05.57.27:274][  4]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.19-05.57.27:372][  4]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.19-05.57.27:403][  4]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.19-05.57.27:403][  4]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.19-05.57.27:407][  4]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.19-05.57.27:423][  4]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.19-05.57.27:472][  4]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.19-05.57.27:549][  4]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.19-05.57.27:569][  4]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.19-05.57.27:579][  4]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.19-05.57.27:581][  4]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.19-05.57.27:592][  4]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.19-05.57.27:592][  4]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.19-05.57.27:677][  4]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.19-05.57.27:745][  4]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.19-05.57.27:761][  4]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.19-05.57.27:761][  4]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.19-05.57.27:770][  4]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.19-05.57.27:817][  4]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.19-05.57.27:862][  4]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.19-05.57.27:862][  4]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.19-05.57.27:862][  4]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.19-05.57.27:872][  4]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.19-05.57.27:878][  4]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.19-05.57.27:889][  4]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.19-05.57.27:906][  4]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.19-05.57.27:970][  4]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.19-05.57.27:970][  4]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.19-05.57.27:970][  4]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.19-05.57.27:970][  4]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.19-05.57.27:984][  4]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.19-05.57.27:995][  4]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.19-05.57.27:995][  4]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.19-05.57.27:995][  4]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.19-05.57.27:995][  4]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.19-05.57.28:028][  4]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.19-05.57.28:041][  4]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.19-05.57.28:061][  4]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.19-05.57.28:078][  4]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.19-05.57.28:087][  4]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.19-05.57.28:087][  4]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.19-05.57.28:108][  4]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.19-05.57.28:132][  4]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.19-05.57.28:150][  4]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.19-05.57.28:182][  4]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.19-05.57.28:202][  4]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.19-05.57.28:218][  4]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.19-05.57.28:229][  4]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.19-05.57.28:246][  4]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.19-05.57.28:270][  4]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.19-05.57.28:298][  4]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.19-05.57.28:298][  4]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.19-05.57.28:421][  4]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.19-05.57.28:461][  4]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.19-05.57.28:488][  4]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.19-05.57.28:589][  4]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.19-05.57.28:709][  4]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.19-05.57.28:709][  4]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.19-05.57.28:733][  4]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.19-05.57.28:762][  4]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.19-05.57.28:783][  4]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.19-05.57.28:783][  4]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.19-05.57.28:792][  4]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.19-05.57.28:792][  4]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.19-05.57.28:792][  4]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.19-05.57.28:792][  4]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.19-05.57.28:817][  4]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.19-05.57.28:836][  4]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.19-05.57.28:858][  4]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.19-05.57.28:902][  4]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.19-05.57.28:902][  4]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.19-05.57.28:902][  4]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.19-05.57.28:929][  4]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.19-05.57.28:947][  4]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.19-05.57.28:947][  4]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.19-05.57.28:986][  4]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.19-05.57.28:986][  4]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.19-05.57.29:041][  4]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.19-05.57.29:077][  4]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.19-05.57.29:077][  4]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.19-05.57.29:077][  4]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.19-05.57.29:090][  4]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.19-05.57.29:091][  4]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.19-05.57.29:091][  4]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.19-05.57.29:093][  4]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.04.19-05.57.29:095][  4]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.19-05.57.29:110][  4]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.19-05.57.29:636][  4]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.19-05.57.29:636][  4]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.19-05.57.29:636][  4]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.19-05.57.29:648][  4]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.19-05.57.29:663][  4]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.19-05.57.29:676][  4]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.19-05.57.29:691][  4]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.19-05.57.29:711][  4]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.19-05.57.29:803][  4]LogDerivedDataCache: Shutdown
+[2017.04.19-05.57.29:803][  4]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.19-05.57.29:824][  4]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.19-05.57.29:869][  4]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.19-05.57.29:889][  4]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.19-05.57.29:929][  4]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.19-05.57.29:957][  4]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.19-05.57.29:958][  4]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.19-05.57.29:958][  4]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.19-05.57.30:083][  4]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.19-05.57.30:083][  4]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.19-05.57.30:098][  4]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.19-05.57.30:098][  4]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.19-05.57.30:098][  4]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.19-05.57.30:098][  4]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.19-05.57.30:111][  4]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.19-05.57.30:111][  4]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.19-05.57.30:137][  4]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.19-05.57.30:157][  4]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.19-05.57.30:188][  4]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.19-05.57.30:193][  4]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.19-05.57.30:193][  4]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.19-05.57.30:227][  4]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.19-05.57.30:233][  4]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.19-05.57.30:243][  4]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.19-05.57.30:268][  4]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.19-05.57.30:297][  4]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.19-05.57.30:297][  4]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.19-05.57.30:304][  4]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.19-05.57.30:304][  4]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.19-05.57.30:332][  4]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.19-05.57.30:337][  4]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.19-05.57.30:337][  4]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.19-05.57.30:365][  4]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.19-05.57.30:394][  4]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.19-05.57.30:412][  4]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.19-05.57.30:469][  4]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.19-05.57.30:483][  4]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.19-05.57.30:483][  4]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.19-05.57.30:483][  4]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.19-05.57.30:483][  4]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.19-05.57.30:521][  4]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.19-05.57.30:521][  4]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.19-05.57.30:522][  4]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.19-05.57.30:552][  4]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.19-05.57.30:552][  4]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.19-05.57.30:552][  4]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.19-05.57.30:552][  4]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.19-05.57.30:638][  4]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.19-05.57.30:725][  4]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.19-05.57.30:725][  4]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.19-05.57.30:754][  4]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.19-05.57.30:785][  4]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.19-05.57.30:785][  4]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.19-05.57.30:785][  4]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.19-05.57.30:889][  4]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.19-05.57.30:895][  4]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.19-05.57.30:895][  4]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.19-05.57.30:926][  4]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.19-05.57.30:942][  4]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.19-05.57.30:942][  4]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.19-05.57.30:942][  4]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.19-05.57.30:962][  4]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.19-05.57.30:962][  4]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.19-05.57.30:962][  4]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.19-05.57.31:015][  4]LogExit: Exiting.
+[2017.04.19-05.57.31:130][  4]Log file closed, 04/19/17 01:57:31
