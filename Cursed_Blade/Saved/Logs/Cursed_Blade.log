@@ -1,9 +1,9 @@
-﻿Log file open, 04/19/17 16:10:03
+﻿Log file open, 04/19/17 17:04:57
 LogInit:Display: Running engine for game: Cursed_Blade
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-1315770484) SRandInit(-1315770484).
+LogInit:Display: RandInit(2101640517) SRandInit(2101640517).
 LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.074894
+LogStats: Stats thread started at 0.071745
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
@@ -143,329 +143,184 @@ LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.04.19-20.10.04:102][  0]LogInit: Selected Device Profile: [Windows]
-[2017.04.19-20.10.04:102][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.04.19-20.10.04:118][  0]LogInit: Computer: LAPTOP-CP3ESMCT
-[2017.04.19-20.10.04:118][  0]LogInit: User: aerob
-[2017.04.19-20.10.04:118][  0]LogInit: CPU Page size=65536, Cores=2
-[2017.04.19-20.10.04:118][  0]LogInit: High frequency timer resolution =2.343752 MHz
-[2017.04.19-20.10.04:118][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.04.19-20.10.04:118][  0]LogMemory: Platform Memory Stats for Windows
-[2017.04.19-20.10.04:118][  0]LogMemory: Process Physical Memory: 264.17 MB used, 264.17 MB peak
-[2017.04.19-20.10.04:118][  0]LogMemory: Process Virtual Memory: 262.52 MB used, 262.52 MB peak
-[2017.04.19-20.10.04:118][  0]LogMemory: Physical Memory: 4911.06 MB used,  3170.84 MB free, 8081.91 MB total
-[2017.04.19-20.10.04:118][  0]LogMemory: Virtual Memory: 674.75 MB used,  3170.84 MB free, 134217728.00 MB total
-[2017.04.19-20.10.04:147][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
-[2017.04.19-20.10.04:883][  0]LogD3D11RHI: D3D11 adapters:
-[2017.04.19-20.10.04:894][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
-[2017.04.19-20.10.04:894][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2017.04.19-20.10.04:896][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.04.19-20.10.04:896][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.04.19-20.10.04:896][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.04.19-20.10.04:902][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.04.19-20.10.04:902][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
-[2017.04.19-20.10.04:902][  0]LogWindows: EnumDisplayDevices:
-[2017.04.19-20.10.04:902][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
-[2017.04.19-20.10.04:902][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2017.04.19-20.10.04:903][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2017.04.19-20.10.04:903][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2017.04.19-20.10.04:903][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
-[2017.04.19-20.10.04:903][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
-[2017.04.19-20.10.04:903][  0]LogD3D11RHI:      Driver Date: 10-24-2016
-[2017.04.19-20.10.04:903][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2017.04.19-20.10.04:910][  0]LogD3D11RHI: Async texture creation enabled
-[2017.04.19-20.10.04:916][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
-[2017.04.19-20.10.04:917][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/13544/).
-[2017.04.19-20.10.04:917][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aerob/AppData/Local/Temp/UnrealShaderWorkingDir/87E720784A6DCFE0BE5B6DA592838634/'.
-[2017.04.19-20.10.04:917][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2017.04.19-20.10.06:304][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2017.04.19-20.10.06:375][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2017.04.19-20.10.06:443][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2017.04.19-20.10.06:513][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2017.04.19-20.10.06:583][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2017.04.19-20.10.06:654][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2017.04.19-20.10.06:723][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.04.19-20.10.06:797][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2017.04.19-20.10.06:857][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2017.04.19-20.10.06:926][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2017.04.19-20.10.06:998][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2017.04.19-20.10.07:067][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2017.04.19-20.10.07:134][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2017.04.19-20.10.07:208][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2017.04.19-20.10.07:277][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2017.04.19-20.10.07:415][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2017.04.19-20.10.07:415][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.04.19-20.10.07:467][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2017.04.19-20.10.07:572][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2017.04.19-20.10.07:620][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2017.04.19-20.10.07:691][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2017.04.19-20.10.07:766][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.04.19-20.10.07:834][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2017.04.19-20.10.07:903][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2017.04.19-20.10.07:903][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2017.04.19-20.10.08:429][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2017.04.19-20.10.08:484][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.04.19-20.10.08:484][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
-[2017.04.19-20.10.08:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.04.19-20.10.08:484][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.04.19-20.10.08:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.04.19-20.10.08:484][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.04.19-20.10.08:503][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.04.19-20.10.08:516][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aerob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.04.19-20.10.08:758][  0]LogInit: Selected Device Profile: [Windows]
-[2017.04.19-20.10.08:761][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2017.04.19-20.10.09:028][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.04.19-20.10.09:087][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.04.19-20.10.09:156][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.04.19-20.10.09:156][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2017.04.19-20.10.09:156][  0]LogMeshUtilities: No automatic mesh merging module available
-[2017.04.19-20.10.09:785][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
-[2017.04.19-20.10.09:853][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
-[2017.04.19-20.10.09:935][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.047659 seconds
-[2017.04.19-20.10.09:941][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
-[2017.04.19-20.10.09:941][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
-[2017.04.19-20.10.09:941][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.04.19-20.10.10:033][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.04.19-20.10.11:408][  0]LogSlate: Using Freetype 2.6.0
-[2017.04.19-20.10.11:408][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.04.19-20.10.11:408][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.04.19-20.10.12:489][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.04.19-20.10.12:542][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.04.19-20.10.13:000][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.04.19-20.10.13:572][  0]SourceControl: Info Source control is disabled
-[2017.04.19-20.10.13:692][  0]SourceControl: Info Source control is disabled
-[2017.04.19-20.10.13:765][  0]SourceControl: Info Source control is disabled
-[2017.04.19-20.10.13:850][  0]SourceControl: Info Source control is disabled
-[2017.04.19-20.10.15:805][  0]LogEngine: Initializing Engine...
-[2017.04.19-20.10.15:807][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.04.19-20.10.16:159][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.04.19-20.10.16:174][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.04.19-20.10.17:251][  0]LogInit: FAudioDevice initialized.
-[2017.04.19-20.10.17:281][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.04.19-20.10.17:290][  0]LogInit: Texture streaming: Enabled
-[2017.04.19-20.10.17:527][  0]LogInit: Transaction tracking system initialized
-[2017.04.19-20.10.18:005][  0]BlueprintLog: New page: Editor Load
-[2017.04.19-20.10.19:213][  0]LocalizationService: Info Localization service is disabled
-[2017.04.19-20.10.20:094][  0]LogConsoleResponse:Display: 
-[2017.04.19-20.10.20:278][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.04.19-20.10.20:278][  0]LogCook:Display: Mobile HDR setting 1
-[2017.04.19-20.10.21:112][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/' took 0.08s
-[2017.04.19-20.10.21:863][  0]SourceControl: Info Source control is disabled
-[2017.04.19-20.10.21:863][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.04.19-20.10.21:863][  0]LightingResults: New page: Lighting Build
-[2017.04.19-20.10.21:921][  0]MapCheck: New page: Map Check
-[2017.04.19-20.10.21:921][  0]LightingResults: New page: Lighting Build
-[2017.04.19-20.10.22:756][  0]LogAIModule: Creating AISystem for world MainMenuLevel
-[2017.04.19-20.10.22:764][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.04.19-20.10.22:765][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.04.19-20.10.22:857][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 92.452ms to complete.
-[2017.04.19-20.10.22:857][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.994
-[2017.04.19-20.10.22:912][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.04.19-20.10.23:006][  0]LogCollectionManager: Loaded 0 collections in 0.003296 seconds
-[2017.04.19-20.10.23:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
-[2017.04.19-20.10.23:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' took 0.01s
-[2017.04.19-20.10.23:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
-[2017.04.19-20.10.23:104][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
-[2017.04.19-20.10.23:115][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2190 classes and 428 folders.
-[2017.04.19-20.10.23:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.04.19-20.10.23:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.04.19-20.10.23:174][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
-[2017.04.19-20.10.23:257][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2017.04.19-20.10.23:321][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2017.04.19-20.10.23:377][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.04.19-20.10.23:465][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2017.04.19-20.10.23:473][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.04.19-20.10.23:557][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.04.19-20.10.23:558][  0]LogLoad: (Engine Initialization) Total time: 21.48 seconds
-[2017.04.19-20.10.23:558][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.34 seconds
-[2017.04.19-20.10.23:558][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.04.19-20.10.23:558][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.04.19-20.10.23:567][  0]LogOcInput: OculusInput pre-init called
-[2017.04.19-20.10.23:587][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.04.19-20.10.23:728][  0]LogRenderer: Reallocating scene render targets to support 856x264 NumSamples 1 (Frame:2).
-[2017.04.19-20.10.24:978][  4]LogAssetRegistry: Asset discovery search completed in 15.1466 seconds
-[2017.04.19-20.10.24:978][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2017.04.19-20.10.24:978][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
-[2017.04.19-20.12.31:757][283]LogRenderer: Reallocating scene render targets to support 856x576 NumSamples 1 (Frame:4004).
-[2017.04.19-20.15.21:032][636]LogContentBrowser:Verbose: The majority of assets in the view are of type: Skeleton
-[2017.04.19-20.15.26:858][675]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
-[2017.04.19-20.16.21:041][667]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_3) - call TermArticulated first.
-[2017.04.19-20.16.21:625][667]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2017.04.19-20.16.36:232][965]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
-[2017.04.19-20.16.46:081][222]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
-[2017.04.19-20.17.01:296][504]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_6) - call TermArticulated first.
-[2017.04.19-20.18.49:203][575]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_7) - call TermArticulated first.
-[2017.04.19-20.18.49:470][575]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2017.04.19-20.19.03:357][836]LogRenderer: Reallocating scene render targets to support 880x576 NumSamples 1 (Frame:11453).
-[2017.04.19-20.19.03:509][838]LogRenderer: Reallocating scene render targets to support 884x576 NumSamples 1 (Frame:11455).
-[2017.04.19-20.19.19:872][ 77]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_9) - call TermArticulated first.
-[2017.04.19-20.19.20:073][ 77]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2017.04.19-20.21.51:749][478]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_11) - call TermArticulated first.
-[2017.04.19-20.21.52:119][478]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2017.04.19-20.22.42:249][689]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
-[2017.04.19-20.22.42:475][689]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2017.04.19-20.23.25:930][647]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.030
-[2017.04.19-20.23.25:944][647]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/demons/demon_movement/NightShadeBS] ([1] browsable assets)...
-[2017.04.19-20.23.26:000][647]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/demons/demon_movement/NightShadeBS.NightShadeBS]
-[2017.04.19-20.23.26:000][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/demons/demon_movement/NightShadeBS]
-[2017.04.19-20.23.26:111][647]LogSavePackage: Save=85.07ms
-[2017.04.19-20.23.26:111][647]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/NightShadeBS_Auto1627A6C2B48B63E6BC1AE2892C6838582.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demon_movement/NightShadeBS_Auto1.uasset'
-[2017.04.19-20.23.26:123][647]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/demons/demon_movement/NightShadeBS_Auto1.uasset
-[2017.04.19-20.23.26:123][647]LogFileHelpers: Auto-saving content packages took 0.192
-[2017.04.19-20.23.48:376][149]LogSavePackage: Save=37.23ms
-[2017.04.19-20.23.48:376][149]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/NightShadeBS6AA5B93E43EBD0B0833AF6B92746485D.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/NightShadeBS.uasset'
-[2017.04.19-20.23.48:382][149]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/NightShadeBS.uasset
-[2017.04.19-20.24.10:418][447]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.19-20.24.10:663][447]LogPackageName: SearchForPackageOnDisk took   0.229s, but failed to resolve Env_Ice_Rocky.
-[2017.04.19-20.24.10:663][447]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2017.04.19-20.24.14:506][447]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.19-20.24.14:760][447]LogPackageName: SearchForPackageOnDisk took   0.254s, but failed to resolve Exo_Deco01.
-[2017.04.19-20.24.14:760][447]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
-[2017.04.19-20.24.15:858][447]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.19-20.24.16:096][447]LogPackageName: SearchForPackageOnDisk took   0.238s, but failed to resolve Env_Ice_Rocky.
-[2017.04.19-20.24.16:096][447]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2017.04.19-20.24.17:146][447]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
-[2017.04.19-20.24.17:393][447]LogPackageName: SearchForPackageOnDisk took   0.247s, but failed to resolve Env_Ice_RuinedWalls001.
-[2017.04.19-20.24.17:393][447]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
-[2017.04.19-20.24.30:082][447]LogAIModule: Creating AISystem for world TombLevel
-[2017.04.19-20.24.30:531][447]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.04.19-20.24.30:532][447]LightingResults: New page: Lighting Build
-[2017.04.19-20.24.30:532][447]LoadErrors: New page: Loading map: TombLevel.umap
-[2017.04.19-20.24.30:557][447]MapCheck: New page: Map Check
-[2017.04.19-20.24.30:557][447]LightingResults: New page: Lighting Build
-[2017.04.19-20.24.31:173][447]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.04.19-20.24.31:297][447]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.04.19-20.24.31:496][447]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 198.558ms to complete.
-[2017.04.19-20.24.31:497][447]LogFileHelpers: Loading map 'TombLevel' took 0.992
-[2017.04.19-20.24.35:045][557]LogTemp: Repeting last play command: Selected Viewport
-[2017.04.19-20.24.35:145][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.24.35:165][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.04.19-20.24.35:338][557]PIE: New page: PIE session: TombLevel (Apr 19, 2017, 12:24:35 PM)
-[2017.04.19-20.24.35:349][557]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
-[2017.04.19-20.24.35:559][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210354s)
-[2017.04.19-20.24.35:560][557]LogAIModule: Creating AISystem for world TombLevel
-[2017.04.19-20.24.35:604][557]LogPlayLevel: PIE: World Init took: (0.044747s)
-[2017.04.19-20.24.35:632][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.283350s)
-[2017.04.19-20.24.35:759][557]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.04.19-20.24.35:789][557]LogInit: FAudioDevice initialized.
-[2017.04.19-20.24.36:545][557]LogLoad: Game class is 'myGame_C'
-[2017.04.19-20.24.36:590][557]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.04.19-16.24.36
-[2017.04.19-20.24.36:793][557]LogWorld: Bringing up level for play took: 0.244528
-[2017.04.19-20.24.37:126][557]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
-[2017.04.19-20.24.37:349][557]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 1.742
-[2017.04.19-20.24.37:350][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.28.29:721][958]LogNet: Browse: /Game/Levels/BattlegroundsLevel
-[2017.04.19-20.28.29:722][958]LogLoad: LoadMap: /Game/Levels/BattlegroundsLevel
-[2017.04.19-20.28.29:838][958]Cmd: MEM
-[2017.04.19-20.28.30:080][958]LogMemory: Platform Memory Stats for Windows
-[2017.04.19-20.28.30:080][958]LogMemory: Process Physical Memory: 1502.50 MB used, 1951.42 MB peak
-[2017.04.19-20.28.30:080][958]LogMemory: Process Virtual Memory: 2757.81 MB used, 3052.25 MB peak
-[2017.04.19-20.28.30:080][958]LogMemory: Physical Memory: 6382.05 MB used,  1699.86 MB free, 8081.91 MB total
-[2017.04.19-20.28.30:080][958]LogMemory: Virtual Memory: 3630.31 MB used,  1699.86 MB free, 134217728.00 MB total
-[2017.04.19-20.28.30:080][958]LogMemory: 
-[2017.04.19-20.28.30:080][958]Allocator Stats for TBB: (not implemented)
-[2017.04.19-20.28.49:715][958]LogAIModule: Creating AISystem for world BattlegroundsLevel
-[2017.04.19-20.28.49:715][958]LogLoad: Game class is 'myGame_C'
-[2017.04.19-20.28.49:759][958]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 0) at 2017.04.19-16.28.49
-[2017.04.19-20.28.49:762][958]LogWorld: Bringing up level for play took: 0.012387
-[2017.04.19-20.28.49:800][958]LogLoad: Took 20.077950 seconds to LoadMap(/Game/Levels/BattlegroundsLevel)
-[2017.04.19-20.29.11:869][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.29.12:140][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.29.22:610][289]LogTemp: Repeting last play command: Selected Viewport
-[2017.04.19-20.29.22:663][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.29.22:663][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.04.19-20.29.22:664][289]PIE: New page: PIE session: TombLevel (Apr 19, 2017, 12:29:22 PM)
-[2017.04.19-20.29.22:664][289]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
-[2017.04.19-20.29.22:955][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.290482s)
-[2017.04.19-20.29.22:955][289]LogAIModule: Creating AISystem for world TombLevel
-[2017.04.19-20.29.22:955][289]LogPlayLevel: PIE: World Init took: (0.000775s)
-[2017.04.19-20.29.22:956][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.291995s)
-[2017.04.19-20.29.22:987][289]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.04.19-20.29.23:000][289]LogInit: FAudioDevice initialized.
-[2017.04.19-20.29.23:034][289]LogLoad: Game class is 'myGame_C'
-[2017.04.19-20.29.23:063][289]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 0) at 2017.04.19-16.29.23
-[2017.04.19-20.29.23:073][289]LogWorld: Bringing up level for play took: 0.038062
-[2017.04.19-20.29.23:078][289]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel -0.528
-[2017.04.19-20.29.23:079][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.31.54:766][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.31.54:931][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
-[2017.04.19-20.31.55:070][513]Cmd: SELECT NONE
-[2017.04.19-20.32.14:303][644]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2017.04.19-20.32.30:775][751]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CursedBlade
-
-[2017.04.19-20.32.30:775][751]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.04.19-20.32.30:775][751]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
-
-[2017.04.19-20.32.30:775][751]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.04.19-20.32.30:887][751]LogTemp:Display: BranchPath = LAPTOP-CP3ESMCT/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = LAPTOP-CP3ESMCT/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
-
-[2017.04.19-20.32.47:609][909]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\aerob\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
-
-[2017.04.19-20.32.47:609][909]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-
-[2017.04.19-20.32.47:609][909]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
-
-[2017.04.19-20.32.47:609][909]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
-
-[2017.04.19-20.32.47:609][909]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
-
-[2017.04.19-20.32.47:609][909]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
-
-[2017.04.19-20.34.44:698][730]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_15) - call TermArticulated first.
-[2017.04.19-20.34.44:969][730]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2017.04.19-20.34.54:837][848]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_17) - call TermArticulated first.
-[2017.04.19-20.34.55:015][848]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2017.04.19-20.35.51:334][555]LogAIModule: Creating AISystem for world AI_Test
-[2017.04.19-20.35.51:385][555]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.04.19-20.35.51:385][555]LightingResults: New page: Lighting Build
-[2017.04.19-20.35.51:386][555]LoadErrors: New page: Loading map: AI_Test.umap
-[2017.04.19-20.35.51:422][555]MapCheck: New page: Map Check
-[2017.04.19-20.35.51:422][555]LightingResults: New page: Lighting Build
-[2017.04.19-20.35.51:874][555]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.04.19-20.35.51:922][555]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.04.19-20.36.08:008][555]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 16,085.919ms to complete.
-[2017.04.19-20.36.08:009][555]LogFileHelpers: Loading map 'AI_Test' took 16.624
-[2017.04.19-20.38.11:354][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2017.04.19-20.38.14:219][ 81]LogTemp: Repeting last play command: Selected Viewport
-[2017.04.19-20.38.14:256][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.04.19-20.38.14:256][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.04.19-20.38.14:256][ 81]PIE: New page: PIE session: AI_Test (Apr 19, 2017, 12:38:14 PM)
-[2017.04.19-20.38.14:257][ 81]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
-[2017.04.19-20.38.14:266][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009403s)
-[2017.04.19-20.38.14:267][ 81]LogAIModule: Creating AISystem for world AI_Test
-[2017.04.19-20.38.14:267][ 81]LogPlayLevel: PIE: World Init took: (0.000803s)
-[2017.04.19-20.38.14:267][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.010458s)
-[2017.04.19-20.38.14:325][ 81]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.04.19-20.38.14:340][ 81]LogInit: FAudioDevice initialized.
-[2017.04.19-20.38.14:375][ 81]LogLoad: Game class is 'myGame_C'
-[2017.04.19-20.38.14:379][ 81]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 60) at 2017.04.19-16.38.14
-[2017.04.19-20.38.14:380][ 81]LogWorld: Bringing up level for play took: 0.005027
-[2017.04.19-20.38.14:383][ 81]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.777
-[2017.04.19-20.38.14:384][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.04.19-20.38.20:843][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.04.19-20.38.20:921][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
-[2017.04.19-20.38.38:911][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/sword_and_shield_casting_2.sword_and_shield_casting_2
-[2017.04.19-20.38.38:981][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/sword_and_shield_casting_2.sword_and_shield_casting_2
-[2017.04.19-20.38.49:297][312]LogSavePackage: Save=79.73ms
-[2017.04.19-20.38.49:297][312]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/sword_and_shield_casting_2F5918EF1476023BE2EAF4FB66F04B416.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/sword_and_shield_casting_2.uasset'
-[2017.04.19-20.38.49:313][312]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/sword_and_shield_casting_2.uasset
-[2017.04.19-20.38.55:592][483]LogSavePackage: Save=20.14ms
-[2017.04.19-20.38.55:592][483]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/sword_and_shield_casting_2FC777E77486715B3A3AC4883D2627911.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/sword_and_shield_casting_2.uasset'
-[2017.04.19-20.38.55:599][483]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/sword_and_shield_casting_2.uasset
-[2017.04.19-20.39.08:865][793]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TestMaleModel)
-[2017.04.19-20.39.17:691][203]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (TestMaleModel)
-[2017.04.19-20.39.20:997][326]Cmd: EDIT CUT
-[2017.04.19-20.39.21:178][326]LogEditorActor: Deleted Actor: SkeletalMeshActor
-[2017.04.19-20.39.21:216][326]LogEditorActor: Deleted 1 Actors (0.054 secs)
-[2017.04.19-20.39.23:818][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.04.19-20.39.24:874][417]LogSavePackage: Save=806.12ms
-[2017.04.19-20.39.24:874][417]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_TestB78050CD448C7F09C8630D8005868F1A.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
-[2017.04.19-20.39.24:880][417]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
-[2017.04.19-20.39.40:567][761]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_25) - call TermArticulated first.
-[2017.04.19-20.39.48:798][907]LogSavePackage: Save=10.50ms
-[2017.04.19-20.39.48:798][907]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_SkeletonDA1EC59142C06219EE469183CF799A67.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset'
-[2017.04.19-20.39.48:805][907]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset
-[2017.04.19-20.40.33:993][802]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_26) - call TermArticulated first.
-[2017.04.19-20.40.34:215][802]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.19-21.04.58:848][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.19-21.04.58:848][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.19-21.04.58:994][  0]LogInit: Computer: LAPTOP-CP3ESMCT
+[2017.04.19-21.04.58:994][  0]LogInit: User: aerob
+[2017.04.19-21.04.58:994][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.19-21.04.58:994][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2017.04.19-21.04.58:994][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.04.19-21.04.58:994][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.19-21.04.58:994][  0]LogMemory: Process Physical Memory: 264.06 MB used, 264.06 MB peak
+[2017.04.19-21.04.58:994][  0]LogMemory: Process Virtual Memory: 262.43 MB used, 262.43 MB peak
+[2017.04.19-21.04.58:994][  0]LogMemory: Physical Memory: 5084.09 MB used,  2997.82 MB free, 8081.91 MB total
+[2017.04.19-21.04.58:994][  0]LogMemory: Virtual Memory: 674.75 MB used,  2997.82 MB free, 134217728.00 MB total
+[2017.04.19-21.05.00:092][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.19-21.05.06:986][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.19-21.05.07:016][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.04.19-21.05.07:016][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.04.19-21.05.07:021][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.19-21.05.07:021][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.19-21.05.07:021][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.19-21.05.07:031][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.19-21.05.07:031][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.19-21.05.07:031][  0]LogWindows: EnumDisplayDevices:
+[2017.04.19-21.05.07:032][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.04.19-21.05.07:032][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.19-21.05.07:032][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.19-21.05.07:032][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.04.19-21.05.07:032][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.04.19-21.05.07:032][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
+[2017.04.19-21.05.07:032][  0]LogD3D11RHI:      Driver Date: 10-24-2016
+[2017.04.19-21.05.07:032][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.19-21.05.07:041][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.19-21.05.07:175][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.04.19-21.05.07:248][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/232/).
+[2017.04.19-21.05.07:249][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aerob/AppData/Local/Temp/UnrealShaderWorkingDir/0D39892C46A6BFB3E255A5829F94917A/'.
+[2017.04.19-21.05.07:249][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.19-21.05.15:072][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.19-21.05.15:163][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.19-21.05.15:237][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.19-21.05.15:318][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.19-21.05.15:414][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.19-21.05.15:499][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.19-21.05.15:577][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.19-21.05.15:650][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.19-21.05.15:714][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.19-21.05.15:825][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.19-21.05.15:903][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.19-21.05.15:983][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.19-21.05.16:059][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.19-21.05.16:141][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.19-21.05.16:222][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.19-21.05.16:377][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.19-21.05.16:377][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.19-21.05.16:442][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.19-21.05.16:612][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.19-21.05.16:654][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.19-21.05.16:743][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.19-21.05.16:817][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.19-21.05.16:894][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.19-21.05.17:000][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.19-21.05.17:000][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.19-21.05.18:623][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.19-21.05.19:649][  0]LogDerivedDataCache: Loaded boot cache 1.03s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.19-21.05.19:650][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.19-21.05.19:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.19-21.05.19:650][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.19-21.05.19:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.19-21.05.19:650][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.19-21.05.19:695][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.19-21.05.19:709][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aerob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.19-21.05.30:326][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.19-21.05.30:362][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.19-21.05.30:849][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.19-21.05.30:995][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.19-21.05.31:146][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.19-21.05.31:146][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.19-21.05.31:146][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.19-21.05.33:691][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.04.19-21.05.33:808][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2017.04.19-21.05.33:946][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.057086 seconds
+[2017.04.19-21.05.33:979][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.19-21.05.33:979][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.19-21.05.33:979][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.19-21.05.34:112][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.19-21.05.37:780][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.19-21.05.37:818][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.19-21.05.37:818][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.19-21.06.08:589][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.19-21.06.08:645][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.19-21.06.09:881][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.19-21.06.10:739][  0]SourceControl: Info Source control is disabled
+[2017.04.19-21.06.11:320][  0]SourceControl: Info Source control is disabled
+[2017.04.19-21.06.11:469][  0]SourceControl: Info Source control is disabled
+[2017.04.19-21.06.11:605][  0]SourceControl: Info Source control is disabled
+[2017.04.19-21.06.15:281][  0]LogEngine: Initializing Engine...
+[2017.04.19-21.06.15:293][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.19-21.06.15:781][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.19-21.06.15:847][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.19-21.06.16:926][  0]LogInit: FAudioDevice initialized.
+[2017.04.19-21.06.16:957][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.19-21.06.16:998][  0]LogInit: Texture streaming: Enabled
+[2017.04.19-21.06.17:562][  0]LogInit: Transaction tracking system initialized
+[2017.04.19-21.06.18:360][  0]BlueprintLog: New page: Editor Load
+[2017.04.19-21.06.20:585][  0]LocalizationService: Info Localization service is disabled
+[2017.04.19-21.06.22:312][  0]LogConsoleResponse:Display: 
+[2017.04.19-21.06.23:410][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.19-21.06.23:427][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.19-21.06.25:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/' took 0.09s
+[2017.04.19-21.06.27:428][  0]SourceControl: Info Source control is disabled
+[2017.04.19-21.06.27:428][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.19-21.06.27:429][  0]LightingResults: New page: Lighting Build
+[2017.04.19-21.06.27:552][  0]MapCheck: New page: Map Check
+[2017.04.19-21.06.27:552][  0]LightingResults: New page: Lighting Build
+[2017.04.19-21.06.30:479][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.19-21.06.30:703][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.19-21.06.30:704][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.19-21.06.30:794][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 90.104ms to complete.
+[2017.04.19-21.06.30:794][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 3.366
+[2017.04.19-21.06.31:301][  0]LogCollectionManager: Loaded 0 collections in 0.003098 seconds
+[2017.04.19-21.06.31:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.04.19-21.06.31:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' took 0.01s
+[2017.04.19-21.06.31:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.04.19-21.06.31:423][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000355 seconds
+[2017.04.19-21.06.31:445][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2190 classes and 428 folders.
+[2017.04.19-21.06.31:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.19-21.06.31:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.19-21.06.31:513][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 13 classes and 0 folders.
+[2017.04.19-21.06.31:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.04.19-21.06.34:254][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2017.04.19-21.06.34:383][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.04.19-21.06.34:747][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.19-21.06.34:790][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.19-21.06.34:946][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.04.19-21.06.34:947][  0]LogLoad: (Engine Initialization) Total time: 102.26 seconds
+[2017.04.19-21.06.34:947][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.87 seconds
+[2017.04.19-21.06.34:953][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.19-21.06.34:953][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.19-21.06.34:975][  0]LogOcInput: OculusInput pre-init called
+[2017.04.19-21.06.35:026][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.19-21.06.35:403][  0]LogRenderer: Reallocating scene render targets to support 856x264 NumSamples 1 (Frame:2).
+[2017.04.19-21.06.37:697][  9]LogAssetRegistry: Asset discovery search completed in 63.9107 seconds
+[2017.04.19-21.06.37:697][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.19-21.06.37:697][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2017.04.19-21.07.25:494][250]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.04.19-21.07.28:664][251]LogRenderer: Reallocating scene render targets to support 856x464 NumSamples 1 (Frame:2051).
+[2017.04.19-21.08.02:288][694]BlueprintLog: New page: Compile RangedEnemy_AI
+[2017.04.19-21.08.04:009][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/RangedEnemy_AI" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/RangedEnemy_AI.uasset" SILENT=true
+[2017.04.19-21.08.04:114][747]LogSavePackage: Save=83.96ms
+[2017.04.19-21.08.04:114][747]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/RangedEnemy_AIFE236F3C4D05E87233DFAC8B6B9D10FF.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/RangedEnemy_AI.uasset'
+[2017.04.19-21.08.04:121][747]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/character/RangedEnemy_AI.uasset
+[2017.04.19-21.08.19:455][339]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.19-21.08.19:519][339]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.19-21.08.19:519][339]LightingResults: New page: Lighting Build
+[2017.04.19-21.08.19:520][339]LoadErrors: New page: Loading map: AI_Test.umap
+[2017.04.19-21.08.19:521][339]MapCheck: New page: Map Check
+[2017.04.19-21.08.19:521][339]LightingResults: New page: Lighting Build
+[2017.04.19-21.08.19:631][339]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.19-21.08.19:679][339]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.19-21.08.19:794][339]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 114.111ms to complete.
+[2017.04.19-21.08.19:795][339]LogFileHelpers: Loading map 'AI_Test' took 0.276
+[2017.04.19-21.08.44:673][190]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.19-21.08.44:733][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.19-21.08.44:734][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.19-21.08.44:734][190]PIE: New page: PIE session: AI_Test (Apr 19, 2017, 1:08:44 PM)
+[2017.04.19-21.08.44:734][190]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.19-21.08.44:744][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009797s)
+[2017.04.19-21.08.44:745][190]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.19-21.08.44:745][190]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.04.19-21.08.44:745][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.011067s)
+[2017.04.19-21.08.44:785][190]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.19-21.08.44:798][190]LogInit: FAudioDevice initialized.
+[2017.04.19-21.08.44:872][190]LogLoad: Game class is 'myGame_C'
+[2017.04.19-21.08.44:883][190]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.19-17.08.44
+[2017.04.19-21.08.44:889][190]LogWorld: Bringing up level for play took: 0.014403
+[2017.04.19-21.08.45:033][190]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.04.19-21.08.45:035][190]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.567
+[2017.04.19-21.08.45:035][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.19-21.09.10:780][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.19-21.09.11:001][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.19-21.09.14:155][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.19-21.09.14:430][519]LogSavePackage: Save=187.76ms
+[2017.04.19-21.09.14:430][519]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test70F179B747CB951EE45B6FAA5B6EE71B.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
