@@ -1787,3 +1787,565 @@ Make sure 'characterBP_C' has been compiled for  K2Node_VariableSet_0
 [2017.04.23-22.16.08:465][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/GreenLightObjective" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/GreenLightObjective.uasset" SILENT=true
 [2017.04.23-22.16.08:595][986]LogSavePackage: Save=96.07ms
 [2017.04.23-22.16.08:595][986]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/GreenLightObjective96D86B014902FAA2E95AFC92FBFA7343.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/GreenLightObjective.uasset'
+[2017.04.23-22.16.08:675][986]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/GreenLightObjective.uasset
+[2017.04.23-22.43.44:691][678]LogStreaming:Warning: Took 480.20ms to ProcessLoadedPackages
+[2017.04.23-22.48.29:923][442]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Luis/Downloads/Epic_Cinematic_Music_No_Copyright_Free_Music.wav)
+[2017.04.23-22.48.30:425][442]LogAudioDerivedData:Display: Building compressed audio format OGG wave Epic_Cinematic_Music_No_Copyright_Free_Music...
+[2017.04.23-22.48.37:596][442]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music.Epic_Cinematic_Music_No_Copyright_Free_Music.
+[2017.04.23-22.48.38:409][443]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BattlegroundsLevel' took 0.185
+[2017.04.23-22.48.38:421][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music] ([1] browsable assets)...
+[2017.04.23-22.48.38:549][443]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music.Epic_Cinematic_Music_No_Copyright_Free_Music]
+[2017.04.23-22.48.38:549][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music]
+[2017.04.23-22.48.38:686][443]LogSavePackage: Save=98.02ms
+[2017.04.23-22.48.38:686][443]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Epic_Cinematic_Music_No_Copyright_Free_Music_Auto74FD9B86848F0ECBDD14EFC92A4F61449.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music_Auto7.uasset'
+[2017.04.23-22.48.38:702][443]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music_Auto7.uasset
+[2017.04.23-22.48.38:702][443]LogFileHelpers: Auto-saving content packages took 0.291
+[2017.04.23-22.49.02:332][735]LogSavePackage: Save=62.85ms
+[2017.04.23-22.49.02:333][735]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Epic_Cinematic_Music_No_Copyright_Free_MusicC75E6D0C4EBA97DCCFA01C872163D875.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music.uasset'
+[2017.04.23-22.49.02:382][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music.uasset
+[2017.04.23-22.50.04:023][473]LogSavePackage: Save=100.77ms
+[2017.04.23-22.50.04:024][473]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Epic_Cinematic_Music_No_Copyright_Free_Music_Cue508A82C548910A4ACBB862B33B3A8FE6.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music_Cue.uasset'
+[2017.04.23-22.50.04:236][473]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music_Cue.uasset
+[2017.04.23-22.53.18:360][175]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.23-22.53.21:376][175]LogSavePackage: Save=69.69ms
+[2017.04.23-22.53.21:376][175]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Epic_Cinematic_Music_No_Copyright_Free_Music_Cue6729B274477BD28CAAA83C95A90DD91F.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music_Cue.uasset'
+[2017.04.23-22.53.21:467][175]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/StarterContent/Audio/Epic_Cinematic_Music_No_Copyright_Free_Music_Cue.uasset
+[2017.04.23-22.53.21:496][175]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.23-22.53.21:497][175]LightingResults: New page: Lighting Build
+[2017.04.23-22.53.21:500][175]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2017.04.23-22.53.21:508][175]MapCheck: New page: Map Check
+[2017.04.23-22.53.21:508][175]LightingResults: New page: Lighting Build
+[2017.04.23-22.53.22:170][175]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.23-22.53.22:453][175]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.23-22.53.41:162][175]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 18,708.943ms to complete.
+[2017.04.23-22.53.41:163][175]LogFileHelpers: Loading map 'MainMenuLevel' took 19.696
+[2017.04.23-22.55.37:984][468]BlueprintLog: New page: Compile MainMenuLevel
+[2017.04.23-22.55.41:854][603]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-22.55.41:961][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-22.55.41:974][603]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.23-22.55.41:995][603]LogPlayLevel: [PlayLevel] Compiling RedLightObjective before play...
+[2017.04.23-22.55.42:393][603]LogPlayLevel: PlayLevel: Blueprint regeneration took 432 ms (1 blueprints)
+[2017.04.23-22.55.42:394][603]PIE: New page: PIE session: MainMenuLevel (Apr 23, 2017, 2:55:42 PM)
+[2017.04.23-22.55.42:396][603]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2017.04.23-22.55.42:424][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028023s)
+[2017.04.23-22.55.42:426][603]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.23-22.55.42:427][603]LogPlayLevel: PIE: World Init took: (0.002800s)
+[2017.04.23-22.55.42:428][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.031829s)
+[2017.04.23-22.55.42:569][603]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-22.55.43:030][603]LogInit: FAudioDevice initialized.
+[2017.04.23-22.55.43:186][603]LogLoad: Game class is 'myGame_C'
+[2017.04.23-22.55.43:192][603]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2017.04.23-18.55.43
+[2017.04.23-22.55.43:195][603]LogWorld: Bringing up level for play took: 0.007396
+[2017.04.23-22.55.43:241][603]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 1.28
+[2017.04.23-22.55.43:242][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-22.55.43:246][603]LogAudio:Warning: Detected orphaned looping sound 'Epic_Cinematic_Music_No_Copyright_Free_Music_Cue'.
+[2017.04.23-22.58.38:183][956]LogNet: Browse: /Game/Levels/TombLevel
+[2017.04.23-22.58.38:227][956]LogLoad: LoadMap: /Game/Levels/TombLevel
+[2017.04.23-22.58.38:415][956]Cmd: MEM
+[2017.04.23-22.58.38:552][956]LogMemory: Platform Memory Stats for Windows
+[2017.04.23-22.58.38:552][956]LogMemory: Process Physical Memory: 2117.22 MB used, 3697.51 MB peak
+[2017.04.23-22.58.38:552][956]LogMemory: Process Virtual Memory: 6987.37 MB used, 7469.15 MB peak
+[2017.04.23-22.58.38:552][956]LogMemory: Physical Memory: 6126.28 MB used,  1997.56 MB free, 8123.84 MB total
+[2017.04.23-22.58.38:552][956]LogMemory: Virtual Memory: 8780.79 MB used,  1997.56 MB free, 134217728.00 MB total
+[2017.04.23-22.58.38:553][956]LogMemory: 
+[2017.04.23-22.58.38:553][956]Allocator Stats for TBB: (not implemented)
+[2017.04.23-22.58.39:723][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.39:739][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-22.58.39:750][956]LoadErrors:Error: Error /Game/Levels/TombLevel : Can't find file for asset. /Game/ItemPickup/NewBlueprint
+[2017.04.23-22.58.55:713][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.55:714][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-22.58.55:855][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.55:855][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-22.58.55:877][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.55:877][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.55:878][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.55:878][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.55:879][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.55:879][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.56:011][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.56:012][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.56:012][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.56:013][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.56:096][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.56:097][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.56:098][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.56:098][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.56:140][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.56:140][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.56:141][956]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-22.58.56:141][956]LoadErrors: Info Failed to load /Game/ItemPickup/NewBlueprint.NewBlueprint_C Referenced by PersistentLevel
+[2017.04.23-22.58.56:141][956]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-22.58.59:047][956]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.411 s
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: === Handled ensure: ===
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: 
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1263]
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: 
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: Stack: 
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-BlueprintGraph.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-BlueprintGraph.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor.exe
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor.exe
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor.exe
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor.exe
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: UE4Editor.exe
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: KERNEL32.DLL
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: ntdll.dll
+[2017.04.23-22.58.59:047][956]LogOutputDevice:Error: 
+[2017.04.23-22.58.59:096][956]LogStats:                SubmitErrorReport -  0.020 s
+[2017.04.23-22.59.23:174][956]LogStats:                    SendNewReport - 24.078 s
+[2017.04.23-22.59.23:174][956]LogStats:             FDebug::EnsureFailed - 24.551 s
+[2017.04.23-22.59.26:842][956]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.23-22.59.26:843][956]LogLoad: Game class is 'myGame_C'
+[2017.04.23-22.59.26:966][956]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.23-18.59.26
+[2017.04.23-22.59.26:979][956]LogWorld: Bringing up level for play took: 0.134075
+[2017.04.23-22.59.26:997][956]LogLoad: Took 48.769779 seconds to LoadMap(/Game/Levels/TombLevel)
+[2017.04.23-22.59.27:177][957]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'StaticMesh': NewBlueprint_C /Game/Levels/TombLevel.TombLevel:PersistentLevel.NewBlueprint_102
+[2017.04.23-23.00.01:656][454]LogBlueprintUserMessages: [RedPickupItem2_42] Picked Up Orb
+[2017.04.23-23.00.08:644][516]LogBlueprintUserMessages: [PickupBox_16] Picked Up Orb
+[2017.04.23-23.00.29:327][709]LogCharacterMovement: Enemy_AI2 is stuck and failed to move! Velocity: X=-323.79 Y=-165.59 Z=0.00 Location: X=268.92 Y=-5876.13 Z=928.05 Normal: X=0.07 Y=1.00 Z=-0.00 PenetrationDepth:7.140 Actor:characterBP_C_0 Component:SwordCollision BoneName:None (0 other events since notify)
+[2017.04.23-23.01.33:130][461]LogNet: Browse: /Game/Levels/BattlegroundsLevel
+[2017.04.23-23.01.33:134][461]LogLoad: LoadMap: /Game/Levels/BattlegroundsLevel
+[2017.04.23-23.01.33:457][461]Cmd: MEM
+[2017.04.23-23.01.33:571][461]LogMemory: Platform Memory Stats for Windows
+[2017.04.23-23.01.33:571][461]LogMemory: Process Physical Memory: 2462.95 MB used, 3697.51 MB peak
+[2017.04.23-23.01.33:571][461]LogMemory: Process Virtual Memory: 6849.23 MB used, 7469.15 MB peak
+[2017.04.23-23.01.33:571][461]LogMemory: Physical Memory: 6230.60 MB used,  1893.23 MB free, 8123.84 MB total
+[2017.04.23-23.01.33:571][461]LogMemory: Virtual Memory: 8419.06 MB used,  1893.23 MB free, 134217728.00 MB total
+[2017.04.23-23.01.33:571][461]LogMemory: 
+[2017.04.23-23.01.33:571][461]Allocator Stats for TBB: (not implemented)
+[2017.04.23-23.01.35:293][461]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.01.35:294][461]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.01.35:306][461]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.01.35
+[2017.04.23-23.01.35:307][461]LogWorld: Bringing up level for play took: 0.011604
+[2017.04.23-23.01.35:323][461]LogLoad: Took 2.188981 seconds to LoadMap(/Game/Levels/BattlegroundsLevel)
+[2017.04.23-23.02.25:395][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.02.25:665][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.03.10:637][483]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.03.18:895][483]LogSavePackage: Save=595.75ms
+[2017.04.23-23.03.18:895][483]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/MainMenuLevel2868D59244395F0FE995A1AC02129853.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap'
+[2017.04.23-23.03.18:982][483]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap
+[2017.04.23-23.03.19:154][483]LogFileHelpers: Saving map 'MainMenuLevel' took 5.633
+[2017.04.23-23.03.19:156][483]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.23-23.03.19:156][483]LightingResults: New page: Lighting Build
+[2017.04.23-23.03.19:158][483]LoadErrors: New page: Loading map: BattlegroundsLevel.umap
+[2017.04.23-23.03.19:322][483]MapCheck: New page: Map Check
+[2017.04.23-23.03.19:322][483]LightingResults: New page: Lighting Build
+[2017.04.23-23.03.19:711][483]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.23-23.03.19:855][483]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.23-23.03.20:697][483]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 842.348ms to complete.
+[2017.04.23-23.03.20:699][483]LogFileHelpers: Loading map 'BattlegroundsLevel' took 1.545
+[2017.04.23-23.03.58:795][150]BlueprintLog: New page: Compile BattlegroundsLevel
+[2017.04.23-23.03.58:815][150]LogBlueprint:Error: [Compiler PersistentLevel.BattlegroundsLevel] Error This blueprint (self) is not a PlayerController, therefore ' self ' must have a connection.
+[2017.04.23-23.03.58:834][150]LogBlueprint:Error: [Compiler PersistentLevel.BattlegroundsLevel] Error Variable node  K2Node_VariableSet_0  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.04.23-23.03.59:157][150]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PlayerController, therefore ' self ' must have a connection.
+[2017.04.23-23.03.59:157][150]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_0  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.04.23-23.03.59:158][150]LogBlueprint:Warning: [Compiler PersistentLevel.BattlegroundsLevel] Warning [3227.25] Compile of PersistentLevel.BattlegroundsLevel failed. 2 Fatal Issue(s) 0 Warning(s) [in 362 ms] (/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel)
+[2017.04.23-23.04.33:481][997]BlueprintLog: New page: Compile BattlegroundsLevel
+[2017.04.23-23.04.43:290][335]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.23-23.04.47:524][335]LogSavePackage: Save=551.76ms
+[2017.04.23-23.04.47:524][335]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/BattlegroundsLevel3114C68345DC608EAB1EF3B95E39842F.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap'
+[2017.04.23-23.04.47:607][335]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap
+[2017.04.23-23.04.47:887][335]LogFileHelpers: Saving map 'BattlegroundsLevel' took 2.621
+[2017.04.23-23.04.47:891][335]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.23-23.04.47:891][335]LightingResults: New page: Lighting Build
+[2017.04.23-23.04.47:895][335]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2017.04.23-23.04.48:123][335]MapCheck: New page: Map Check
+[2017.04.23-23.04.48:123][335]LightingResults: New page: Lighting Build
+[2017.04.23-23.04.48:424][335]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.23-23.04.48:596][335]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.23-23.04.49:761][335]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 1,164.919ms to complete.
+[2017.04.23-23.04.49:764][335]LogFileHelpers: Loading map 'MainMenuLevel' took 1.876
+[2017.04.23-23.04.54:644][460]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.04.54:707][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.04.54:707][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.04.54:707][460]PIE: New page: PIE session: MainMenuLevel (Apr 23, 2017, 3:04:54 PM)
+[2017.04.23-23.04.54:708][460]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2017.04.23-23.04.54:760][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051933s)
+[2017.04.23-23.04.54:761][460]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.23-23.04.54:761][460]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2017.04.23-23.04.54:762][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.053609s)
+[2017.04.23-23.04.54:832][460]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.04.55:090][460]LogInit: FAudioDevice initialized.
+[2017.04.23-23.04.55:178][460]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.04.55:181][460]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2017.04.23-19.04.55
+[2017.04.23-23.04.55:182][460]LogWorld: Bringing up level for play took: 0.002855
+[2017.04.23-23.04.55:195][460]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 1.235
+[2017.04.23-23.04.55:196][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.04.55:198][460]LogAudio:Warning: Detected orphaned looping sound 'Epic_Cinematic_Music_No_Copyright_Free_Music_Cue'.
+[2017.04.23-23.05.01:263][629]LogNet: Browse: /Game/Levels/TombLevel
+[2017.04.23-23.05.01:263][629]LogLoad: LoadMap: /Game/Levels/TombLevel
+[2017.04.23-23.05.01:358][629]Cmd: MEM
+[2017.04.23-23.05.01:478][629]LogMemory: Platform Memory Stats for Windows
+[2017.04.23-23.05.01:478][629]LogMemory: Process Physical Memory: 1963.93 MB used, 3697.51 MB peak
+[2017.04.23-23.05.01:479][629]LogMemory: Process Virtual Memory: 6343.95 MB used, 7469.15 MB peak
+[2017.04.23-23.05.01:479][629]LogMemory: Physical Memory: 5726.07 MB used,  2397.77 MB free, 8123.84 MB total
+[2017.04.23-23.05.01:479][629]LogMemory: Virtual Memory: 8183.10 MB used,  2397.77 MB free, 134217728.00 MB total
+[2017.04.23-23.05.01:479][629]LogMemory: 
+[2017.04.23-23.05.01:479][629]Allocator Stats for TBB: (not implemented)
+[2017.04.23-23.05.01:919][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.01:920][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.05.01:921][629]LoadErrors:Error: Error /Game/Levels/TombLevel : Can't find file for asset. /Game/ItemPickup/NewBlueprint
+[2017.04.23-23.05.04:125][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:126][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.05.04:252][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:254][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.05.04:260][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:262][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:263][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:265][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:266][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:267][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:455][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:456][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:457][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:458][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:626][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:628][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:628][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:629][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:731][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:732][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.04:733][629]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.05.04:734][629]LoadErrors: Info Failed to load /Game/ItemPickup/NewBlueprint.NewBlueprint_C Referenced by PersistentLevel
+[2017.04.23-23.05.04:735][629]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.05.07:201][629]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.23-23.05.07:202][629]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.05.07:379][629]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.23-19.05.07
+[2017.04.23-23.05.07:405][629]LogWorld: Bringing up level for play took: 0.201431
+[2017.04.23-23.05.07:426][629]LogLoad: Took 6.162921 seconds to LoadMap(/Game/Levels/TombLevel)
+[2017.04.23-23.05.07:545][630]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'StaticMesh': NewBlueprint_C /Game/Levels/TombLevel.TombLevel:PersistentLevel.NewBlueprint_102
+[2017.04.23-23.05.22:100][787]LogBlueprintUserMessages: [PickupBox_16] Picked Up Orb
+[2017.04.23-23.06.43:936][692]LogNet: Browse: /Game/Levels/BattlegroundsLevel
+[2017.04.23-23.06.43:936][692]LogLoad: LoadMap: /Game/Levels/BattlegroundsLevel
+[2017.04.23-23.06.44:241][692]Cmd: MEM
+[2017.04.23-23.06.44:348][692]LogMemory: Platform Memory Stats for Windows
+[2017.04.23-23.06.44:348][692]LogMemory: Process Physical Memory: 2451.18 MB used, 3697.51 MB peak
+[2017.04.23-23.06.44:348][692]LogMemory: Process Virtual Memory: 6799.25 MB used, 7469.15 MB peak
+[2017.04.23-23.06.44:348][692]LogMemory: Physical Memory: 6193.79 MB used,  1930.05 MB free, 8123.84 MB total
+[2017.04.23-23.06.44:348][692]LogMemory: Virtual Memory: 8396.90 MB used,  1930.05 MB free, 134217728.00 MB total
+[2017.04.23-23.06.44:348][692]LogMemory: 
+[2017.04.23-23.06.44:348][692]Allocator Stats for TBB: (not implemented)
+[2017.04.23-23.06.45:946][692]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.06.45:947][692]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.06.45:957][692]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.06.45
+[2017.04.23-23.06.45:957][692]LogWorld: Bringing up level for play took: 0.008654
+[2017.04.23-23.06.45:970][692]LogLoad: Took 2.033952 seconds to LoadMap(/Game/Levels/BattlegroundsLevel)
+[2017.04.23-23.07.13:329][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.07.13:547][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.11.48:451][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.48:451][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.11.50:232][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:233][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.11.50:318][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:319][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.11.50:322][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:322][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:323][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:323][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:324][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:324][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:404][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:404][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:405][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:405][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:479][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:479][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:480][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:480][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:531][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:532][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.50:532][450]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.11.50:533][450]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.11.51:016][450]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.23-23.11.51:212][450]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.23-23.11.51:213][450]LightingResults: New page: Lighting Build
+[2017.04.23-23.11.51:214][450]LoadErrors: New page: Loading map: TombLevel.umap
+[2017.04.23-23.11.51:215][450]MapCheck: New page: Map Check
+[2017.04.23-23.11.51:215][450]LightingResults: New page: Lighting Build
+[2017.04.23-23.11.51:642][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.23-23.11.52:207][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.23-23.12.01:291][450]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 9,084.189ms to complete.
+[2017.04.23-23.12.01:294][450]LogFileHelpers: Loading map 'TombLevel' took 10.084
+[2017.04.23-23.12.01:369][450]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'StaticMesh': NewBlueprint_C /Game/Levels/TombLevel.TombLevel:PersistentLevel.NewBlueprint_102
+[2017.04.23-23.13.15:089][470]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.13.15:259][470]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.23-23.13.15:259][470]LightingResults: New page: Lighting Build
+[2017.04.23-23.13.15:262][470]LoadErrors: New page: Loading map: BattlegroundsLevel.umap
+[2017.04.23-23.13.15:499][470]MapCheck: New page: Map Check
+[2017.04.23-23.13.15:499][470]LightingResults: New page: Lighting Build
+[2017.04.23-23.13.15:917][470]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2017.04.23-23.13.16:135][470]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.23-23.13.17:043][470]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 907.641ms to complete.
+[2017.04.23-23.13.17:044][470]LogFileHelpers: Loading map 'BattlegroundsLevel' took 1.788
+[2017.04.23-23.15.14:760][121]BlueprintLog: New page: Compile TestObjective
+[2017.04.23-23.15.25:260][215]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.15.25:397][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.15.25:397][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.15.25:398][215]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 3:15:25 PM)
+[2017.04.23-23.15.25:398][215]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.23-23.15.25:425][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026974s)
+[2017.04.23-23.15.25:427][215]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.15.25:428][215]LogPlayLevel: PIE: World Init took: (0.002811s)
+[2017.04.23-23.15.25:430][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.031207s)
+[2017.04.23-23.15.25:595][215]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.15.26:027][215]LogInit: FAudioDevice initialized.
+[2017.04.23-23.15.26:127][215]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.15.26:132][215]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.15.26
+[2017.04.23-23.15.26:133][215]LogWorld: Bringing up level for play took: 0.005086
+[2017.04.23-23.15.26:147][215]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 0.187
+[2017.04.23-23.15.26:148][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.15.36:159][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.15.36:409][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.16.03:701][672]BlueprintLog: New page: Compile BattlegroundsLevel
+[2017.04.23-23.16.07:100][794]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.16.07:177][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.16.07:177][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.16.07:177][794]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 3:16:07 PM)
+[2017.04.23-23.16.07:178][794]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.23-23.16.07:188][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010286s)
+[2017.04.23-23.16.07:189][794]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.16.07:189][794]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2017.04.23-23.16.07:190][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.011912s)
+[2017.04.23-23.16.07:274][794]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.16.07:541][794]LogInit: FAudioDevice initialized.
+[2017.04.23-23.16.07:642][794]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.16.07:648][794]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.16.07
+[2017.04.23-23.16.07:648][794]LogWorld: Bringing up level for play took: 0.005152
+[2017.04.23-23.16.07:664][794]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel -0.296
+[2017.04.23-23.16.07:665][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.16.35:535][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.16.35:882][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.16.46:821][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_03a4)
+[2017.04.23-23.16.49:328][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_03a5)
+[2017.04.23-23.16.50:612][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_03a2)
+[2017.04.23-23.16.52:986][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_03b2)
+[2017.04.23-23.16.54:276][738]LogEditorViewport: Clicking on Actor (LMB): TestObjective_C (TestObjective)
+[2017.04.23-23.18.34:385][305]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.18.34:542][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.18.34:542][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.18.34:543][305]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 3:18:34 PM)
+[2017.04.23-23.18.34:543][305]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.23-23.18.34:570][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026114s)
+[2017.04.23-23.18.34:572][305]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.18.34:573][305]LogPlayLevel: PIE: World Init took: (0.002706s)
+[2017.04.23-23.18.34:573][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.029972s)
+[2017.04.23-23.18.34:736][305]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.18.35:079][305]LogInit: FAudioDevice initialized.
+[2017.04.23-23.18.35:194][305]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.18.35:199][305]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.18.35
+[2017.04.23-23.18.35:200][305]LogWorld: Bringing up level for play took: 0.005546
+[2017.04.23-23.18.35:219][305]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 1.259
+[2017.04.23-23.18.35:221][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.19.32:374][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.19.32:738][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.21.49:315][575]BlueprintLog: New page: Compile TestObjective
+[2017.04.23-23.22.03:918][799]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.22.04:049][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.22.04:049][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.22.04:049][799]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 3:22:04 PM)
+[2017.04.23-23.22.04:050][799]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.23-23.22.04:119][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068532s)
+[2017.04.23-23.22.04:121][799]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.22.04:121][799]LogPlayLevel: PIE: World Init took: (0.002405s)
+[2017.04.23-23.22.04:122][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.072255s)
+[2017.04.23-23.22.04:318][799]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.22.04:805][799]LogInit: FAudioDevice initialized.
+[2017.04.23-23.22.04:939][799]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.22.04:944][799]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.22.04
+[2017.04.23-23.22.04:945][799]LogWorld: Bringing up level for play took: 0.004893
+[2017.04.23-23.22.04:960][799]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 0.999
+[2017.04.23-23.22.04:961][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.22.25:145][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.22.25:457][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.22.56:356][188]BlueprintLog: New page: Compile ActionTextHUD
+[2017.04.23-23.22.56:869][188]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2017.04.23-23.22.59:509][257]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.22.59:585][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.22.59:585][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.22.59:585][257]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 3:22:59 PM)
+[2017.04.23-23.22.59:586][257]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.23-23.22.59:596][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010015s)
+[2017.04.23-23.22.59:597][257]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.22.59:597][257]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2017.04.23-23.22.59:598][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.011914s)
+[2017.04.23-23.22.59:691][257]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.22.59:964][257]LogInit: FAudioDevice initialized.
+[2017.04.23-23.23.00:059][257]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.23.00:064][257]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.23.00
+[2017.04.23-23.23.00:065][257]LogWorld: Bringing up level for play took: 0.004672
+[2017.04.23-23.23.00:094][257]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 0.133
+[2017.04.23-23.23.00:095][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.23.16:852][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.23.17:187][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.23.24:914][914]BlueprintLog: New page: Compile ActionTextHUD
+[2017.04.23-23.23.25:372][914]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2017.04.23-23.23.27:682][959]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.23.27:870][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.23.27:870][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.23.27:870][959]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 3:23:27 PM)
+[2017.04.23-23.23.27:871][959]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.23-23.23.27:883][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012126s)
+[2017.04.23-23.23.27:884][959]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.23.27:884][959]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2017.04.23-23.23.27:885][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.014053s)
+[2017.04.23-23.23.27:994][959]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.23.28:355][959]LogInit: FAudioDevice initialized.
+[2017.04.23-23.23.28:500][959]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.23.28:506][959]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.23.28
+[2017.04.23-23.23.28:506][959]LogWorld: Bringing up level for play took: 0.005446
+[2017.04.23-23.23.28:522][959]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 0.562
+[2017.04.23-23.23.28:523][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.23.51:052][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.23.51:366][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.25.24:859][117]BlueprintLog: New page: Compile ActionTextHUD
+[2017.04.23-23.25.25:227][117]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  CastFailed
+[2017.04.23-23.25.29:018][247]BlueprintLog: New page: Compile TestObjective
+[2017.04.23-23.25.32:292][282]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.25.32:438][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.25.32:438][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.25.32:439][282]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 3:25:32 PM)
+[2017.04.23-23.25.32:439][282]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.23-23.25.32:457][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017772s)
+[2017.04.23-23.25.32:459][282]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.25.32:459][282]LogPlayLevel: PIE: World Init took: (0.002669s)
+[2017.04.23-23.25.32:460][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.021372s)
+[2017.04.23-23.25.32:658][282]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.25.33:128][282]LogInit: FAudioDevice initialized.
+[2017.04.23-23.25.33:280][282]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.25.33:288][282]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.25.33
+[2017.04.23-23.25.33:289][282]LogWorld: Bringing up level for play took: 0.007537
+[2017.04.23-23.25.33:305][282]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 1.345
+[2017.04.23-23.25.33:306][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.25.54:208][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.25.54:509][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.23-23.26.08:675][955]LogSavePackage: Save=267.60ms
+[2017.04.23-23.26.08:675][955]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/BattlegroundsLevel05E76E154BB3B5962FD215A01077B0C6.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap'
+[2017.04.23-23.26.08:722][955]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap
+[2017.04.23-23.26.08:861][955]LogFileHelpers: Saving map 'BattlegroundsLevel' took 8.974
+[2017.04.23-23.26.08:865][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/ActionTextHUD" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/ActionTextHUD.uasset" SILENT=true
+[2017.04.23-23.26.08:979][955]LogSavePackage: Save=41.05ms
+[2017.04.23-23.26.08:979][955]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/ActionTextHUDDCF75CE94E5370A8AD8D22A0E4616184.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/ActionTextHUD.uasset'
+[2017.04.23-23.26.09:026][955]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/ActionTextHUD.uasset
+[2017.04.23-23.26.09:031][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemPickup/TestObjective" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/TestObjective.uasset" SILENT=true
+[2017.04.23-23.26.09:116][955]LogSavePackage: Save=55.39ms
+[2017.04.23-23.26.09:116][955]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/TestObjective0928664D4999BB0BD8795DA230E4C770.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/TestObjective.uasset'
+[2017.04.23-23.26.09:156][955]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/ItemPickup/TestObjective.uasset
+[2017.04.23-23.26.24:548][131]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.23-23.26.24:723][131]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.23-23.26.24:724][131]LightingResults: New page: Lighting Build
+[2017.04.23-23.26.24:727][131]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2017.04.23-23.26.24:945][131]MapCheck: New page: Map Check
+[2017.04.23-23.26.24:945][131]LightingResults: New page: Lighting Build
+[2017.04.23-23.26.25:418][131]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.23-23.26.25:558][131]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.23-23.26.26:399][131]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 841.31ms to complete.
+[2017.04.23-23.26.26:407][131]LogFileHelpers: Loading map 'MainMenuLevel' took 1.689
+[2017.04.23-23.26.39:387][272]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.23-23.26.39:523][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.26.39:524][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.23-23.26.39:524][272]PIE: New page: PIE session: MainMenuLevel (Apr 23, 2017, 3:26:39 PM)
+[2017.04.23-23.26.39:525][272]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2017.04.23-23.26.39:558][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032679s)
+[2017.04.23-23.26.39:559][272]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.23-23.26.39:560][272]LogPlayLevel: PIE: World Init took: (0.002397s)
+[2017.04.23-23.26.39:561][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.035988s)
+[2017.04.23-23.26.39:734][272]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.23-23.26.40:190][272]LogInit: FAudioDevice initialized.
+[2017.04.23-23.26.40:344][272]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.26.40:347][272]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2017.04.23-19.26.40
+[2017.04.23-23.26.40:348][272]LogWorld: Bringing up level for play took: 0.003203
+[2017.04.23-23.26.40:372][272]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 0.411
+[2017.04.23-23.26.40:373][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2017.04.23-23.26.40:376][272]LogAudio:Warning: Detected orphaned looping sound 'Epic_Cinematic_Music_No_Copyright_Free_Music_Cue'.
+[2017.04.23-23.26.44:087][331]LogNet: Browse: /Game/Levels/TombLevel
+[2017.04.23-23.26.44:088][331]LogLoad: LoadMap: /Game/Levels/TombLevel
+[2017.04.23-23.26.44:254][331]Cmd: MEM
+[2017.04.23-23.26.44:386][331]LogMemory: Platform Memory Stats for Windows
+[2017.04.23-23.26.44:386][331]LogMemory: Process Physical Memory: 2117.27 MB used, 3697.51 MB peak
+[2017.04.23-23.26.44:386][331]LogMemory: Process Virtual Memory: 6618.83 MB used, 7469.15 MB peak
+[2017.04.23-23.26.44:386][331]LogMemory: Physical Memory: 6002.14 MB used,  2121.70 MB free, 8123.84 MB total
+[2017.04.23-23.26.44:386][331]LogMemory: Virtual Memory: 8182.80 MB used,  2121.70 MB free, 134217728.00 MB total
+[2017.04.23-23.26.44:386][331]LogMemory: 
+[2017.04.23-23.26.44:387][331]Allocator Stats for TBB: (not implemented)
+[2017.04.23-23.26.44:425][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:426][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.26.44:426][331]LoadErrors:Error: Error /Game/Levels/TombLevel : Can't find file for asset. /Game/ItemPickup/NewBlueprint
+[2017.04.23-23.26.44:608][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:609][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.26.44:746][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:747][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap.
+[2017.04.23-23.26.44:756][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:757][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.44:759][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:760][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.44:761][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:763][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.44:964][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:965][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.44:966][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.44:967][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.45:148][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.45:149][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.45:150][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.45:150][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.45:246][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.45:247][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.45:248][331]LogLinker:Warning: Can't find file '/Game/ItemPickup/NewBlueprint'
+[2017.04.23-23.26.45:248][331]LoadErrors: Info Failed to load /Game/ItemPickup/NewBlueprint.NewBlueprint_C Referenced by PersistentLevel
+[2017.04.23-23.26.45:249][331]LogLinker:Warning: Can't find file for asset '/Game/ItemPickup/NewBlueprint' while loading NULL.
+[2017.04.23-23.26.50:033][331]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.23-23.26.50:034][331]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.26.50:213][331]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.23-19.26.50
+[2017.04.23-23.26.50:230][331]LogWorld: Bringing up level for play took: 0.193694
+[2017.04.23-23.26.50:241][331]LogLoad: Took 6.153648 seconds to LoadMap(/Game/Levels/TombLevel)
+[2017.04.23-23.26.50:359][332]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'StaticMesh': NewBlueprint_C /Game/Levels/TombLevel.TombLevel:PersistentLevel.NewBlueprint_102
+[2017.04.23-23.27.14:377][688]LogBlueprintUserMessages: [PickupBox_16] Picked Up Orb
+[2017.04.23-23.28.02:209][ 78]LogCharacterMovement: Enemy_AI7_226 is stuck and failed to move! Velocity: X=-95.66 Y=36.53 Z=0.00 Location: X=-1728.32 Y=-19311.52 Z=2604.95 Normal: X=0.91 Y=-0.42 Z=0.00 PenetrationDepth:25.737 Actor:characterBP_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2017.04.23-23.29.06:460][755]LogNet: Browse: /Game/Levels/BattlegroundsLevel
+[2017.04.23-23.29.06:545][755]LogLoad: LoadMap: /Game/Levels/BattlegroundsLevel
+[2017.04.23-23.29.06:809][755]Cmd: MEM
+[2017.04.23-23.29.06:948][755]LogMemory: Platform Memory Stats for Windows
+[2017.04.23-23.29.06:948][755]LogMemory: Process Physical Memory: 3122.37 MB used, 3697.51 MB peak
+[2017.04.23-23.29.06:949][755]LogMemory: Process Virtual Memory: 7156.64 MB used, 7469.15 MB peak
+[2017.04.23-23.29.06:949][755]LogMemory: Physical Memory: 6714.47 MB used,  1409.37 MB free, 8123.84 MB total
+[2017.04.23-23.29.06:949][755]LogMemory: Virtual Memory: 8518.67 MB used,  1409.37 MB free, 134217728.00 MB total
+[2017.04.23-23.29.06:949][755]LogMemory: 
+[2017.04.23-23.29.06:949][755]Allocator Stats for TBB: (not implemented)
+[2017.04.23-23.29.07:503][755]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.23-23.29.07:504][755]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.29.07:518][755]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-19.29.07
+[2017.04.23-23.29.07:519][755]LogWorld: Bringing up level for play took: 0.013949
+[2017.04.23-23.29.07:530][755]LogLoad: Took 0.985211 seconds to LoadMap(/Game/Levels/BattlegroundsLevel)
+[2017.04.23-23.29.21:997][ 17]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2017.04.23-23.29.21:997][ 17]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2017.04.23-23.29.22:118][ 17]Cmd: MEM
+[2017.04.23-23.29.22:216][ 17]LogMemory: Platform Memory Stats for Windows
+[2017.04.23-23.29.22:216][ 17]LogMemory: Process Physical Memory: 3059.83 MB used, 3697.51 MB peak
+[2017.04.23-23.29.22:216][ 17]LogMemory: Process Virtual Memory: 7089.12 MB used, 7469.15 MB peak
+[2017.04.23-23.29.22:216][ 17]LogMemory: Physical Memory: 6602.38 MB used,  1521.46 MB free, 8123.84 MB total
+[2017.04.23-23.29.22:216][ 17]LogMemory: Virtual Memory: 8518.67 MB used,  1521.46 MB free, 134217728.00 MB total
+[2017.04.23-23.29.22:216][ 17]LogMemory: 
+[2017.04.23-23.29.22:216][ 17]Allocator Stats for TBB: (not implemented)
+[2017.04.23-23.29.22:216][ 17]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2017.04.23-23.29.22:227][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010720s)
+[2017.04.23-23.29.22:228][ 17]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.23-23.29.22:228][ 17]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2017.04.23-23.29.22:228][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.012411s)
+[2017.04.23-23.29.22:228][ 17]LogLoad: Game class is 'myGame_C'
+[2017.04.23-23.29.22:231][ 17]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2017.04.23-19.29.22
+[2017.04.23-23.29.22:232][ 17]LogWorld: Bringing up level for play took: 0.003335
+[2017.04.23-23.29.22:240][ 17]LogLoad: Took 0.242506 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenuLevel)
+[2017.04.23-23.29.22:242][ 17]LogAudio:Warning: Detected orphaned looping sound 'Epic_Cinematic_Music_No_Copyright_Free_Music_Cue'.
+[2017.04.23-23.29.24:677][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
