@@ -682,3 +682,48 @@ LogInit: Object subsystem initialized
 [2017.04.24-06.01.49:425][366]LogBlueprintUserMessages: [demomBoss_278] MID
 [2017.04.24-06.01.50:434][389]LogBlueprintUserMessages: [demomBoss_278] MID
 [2017.04.24-06.01.51:123][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-06.01.51:274][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-06.13.52:913][270]LogSavePackage: Save=187.69ms
+[2017.04.24-06.13.52:913][270]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test_Auto0689177A245AE27B6489C859901BAD1B8.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto0.umap'
+[2017.04.24-06.13.52:915][270]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto0.umap
+[2017.04.24-06.13.52:921][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.274
+[2017.04.24-06.13.52:921][270]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2017.04.24-06.13.52:926][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-06.13.52:963][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-06.13.52:963][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-06.13.53:060][270]LogSavePackage: Save=73.19ms
+[2017.04.24-06.13.53:060][270]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto067DE7BAB4F027012EF235397F9CF5DA5.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto0.uasset'
+[2017.04.24-06.13.53:063][270]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto0.uasset
+[2017.04.24-06.13.53:063][270]LogFileHelpers: Auto-saving content packages took 0.140
+[2017.04.24-06.24.31:394][136]LogSavePackage: Save=226.00ms
+[2017.04.24-06.24.31:394][136]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test_Auto1CEB90EC840A62F2D55DBC2BF34EA5E07.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto1.umap'
+[2017.04.24-06.24.31:399][136]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto1.umap
+[2017.04.24-06.24.31:403][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.302
+[2017.04.24-06.24.31:403][136]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2017.04.24-06.24.31:408][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-06.24.31:442][136]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-06.24.31:442][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-06.24.31:529][136]LogSavePackage: Save=69.39ms
+[2017.04.24-06.24.31:529][136]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto150B764C04C8531C71DD5E4A6D328AB1C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto1.uasset'
+[2017.04.24-06.24.31:532][136]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto1.uasset
+[2017.04.24-06.24.31:533][136]LogFileHelpers: Auto-saving content packages took 0.127
+[2017.04.24-06.34.32:371][809]LogSavePackage: Save=196.32ms
+[2017.04.24-06.34.32:371][809]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test_Auto261975A0E4DE2CA98EE04DF8C1281382A.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto2.umap'
+[2017.04.24-06.34.32:376][809]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto2.umap
+[2017.04.24-06.34.32:378][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.270
+[2017.04.24-06.34.32:378][809]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2017.04.24-06.34.32:382][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-06.34.32:419][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-06.34.32:419][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-06.34.32:509][809]LogSavePackage: Save=71.42ms
+[2017.04.24-06.34.32:509][809]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto2452C1CD248870C3E70DB5AB45FD7C06A.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto2.uasset'
+[2017.04.24-06.34.32:512][809]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto2.uasset
+[2017.04.24-06.34.32:512][809]LogFileHelpers: Auto-saving content packages took 0.133
+[2017.04.24-06.34.54:400][172]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-06.34.55:800][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
+[2017.04.24-06.34.55:882][270]LogSavePackage: Save=67.97ms
+[2017.04.24-06.34.55:882][270]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss934A2D3A465449B482B16D92BFB81CBA.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset'
+[2017.04.24-06.34.55:892][270]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset
+[2017.04.24-06.34.57:867][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.24-06.34.58:077][433]LogSavePackage: Save=152.68ms
+[2017.04.24-06.34.58:077][433]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test50CB81EA4429BDA5AF5B4EB351EC59F1.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
