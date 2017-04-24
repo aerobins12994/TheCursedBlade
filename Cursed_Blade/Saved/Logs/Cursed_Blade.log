@@ -395,3 +395,99 @@ LogInit: Object subsystem initialized
 [2017.04.24-17.55.30:541][988]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/DemonBossCloseRange3.uasset
 [2017.04.24-17.55.30:618][988]LogSavePackage: Save=21.76ms
 [2017.04.24-17.55.30:618][988]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossLongRange1EA0348A244A9D44EE032449DEC338DD8.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/DemonBossLongRange1.uasset'
+[2017.04.24-17.55.30:626][988]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/DemonBossLongRange1.uasset
+[2017.04.24-17.55.30:698][988]LogSavePackage: Save=18.12ms
+[2017.04.24-17.55.30:698][988]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossLongRange22337E56E400FF9EBEF909FB8DBA6A76C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/DemonBossLongRange2.uasset'
+[2017.04.24-17.55.30:708][988]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/DemonBossLongRange2.uasset
+[2017.04.24-17.57.50:918][ 21]LogSavePackage: Save=50.50ms
+[2017.04.24-17.57.50:918][ 21]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossLongRange23944FEE34D2B429DCF55EA9DF664D22E.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange2.uasset'
+[2017.04.24-17.57.50:933][ 21]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange2.uasset
+[2017.04.24-17.57.51:062][ 21]LogSavePackage: Save=29.22ms
+[2017.04.24-17.57.51:062][ 21]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossLongRange121AF04514C2B0504934E2EA81084417D.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange1.uasset'
+[2017.04.24-17.57.51:068][ 21]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange1.uasset
+[2017.04.24-17.57.51:142][ 21]LogSavePackage: Save=21.37ms
+[2017.04.24-17.57.51:142][ 21]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossCloseRange37AE72C0C4128905924967882AC4F34C7.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange3.uasset'
+[2017.04.24-17.57.51:150][ 21]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange3.uasset
+[2017.04.24-17.57.51:223][ 21]LogSavePackage: Save=19.16ms
+[2017.04.24-17.57.51:223][ 21]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossCloseRange2E73DAB6C47C23F15D9A553AD011D659C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange2.uasset'
+[2017.04.24-17.57.51:229][ 21]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange2.uasset
+[2017.04.24-17.57.51:305][ 21]LogSavePackage: Save=18.72ms
+[2017.04.24-17.57.51:305][ 21]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossCloseRange146E0267D4540CBF16D16B690BE000AEC.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange1.uasset'
+[2017.04.24-17.57.51:312][ 21]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange1.uasset
+[2017.04.24-18.01.12:760][219]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.061
+[2017.04.24-18.01.12:765][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/Animations/demonLordAnimBlueprint] ([1] browsable assets)...
+[2017.04.24-18.01.12:824][219]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/DemonLord/Animations/demonLordAnimBlueprint.demonLordAnimBlueprint]
+[2017.04.24-18.01.12:824][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/Animations/demonLordAnimBlueprint]
+[2017.04.24-18.01.12:911][219]LogSavePackage: Save=55.71ms
+[2017.04.24-18.01.12:911][219]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonLordAnimBlueprint_Auto2131EDDE9429F78AC7F34B79B3F8411D7.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/Animations/demonLordAnimBlueprint_Auto2.uasset'
+[2017.04.24-18.01.12:918][219]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/Animations/demonLordAnimBlueprint_Auto2.uasset
+[2017.04.24-18.01.12:918][219]LogFileHelpers: Auto-saving content packages took 0.157
+[2017.04.24-18.08.14:168][646]BlueprintLog: New page: Compile demonLordAnimBlueprint
+[2017.04.24-18.08.16:409][722]LogSavePackage: Save=46.98ms
+[2017.04.24-18.08.16:409][722]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonLordAnimBlueprint876578C942807E4CC1FB53875BC1F90C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/demonLordAnimBlueprint.uasset'
+[2017.04.24-18.08.16:430][722]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/Animations/demonLordAnimBlueprint.uasset
+[2017.04.24-18.11.13:206][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.045
+[2017.04.24-18.11.13:210][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DemonLord/Meshes/DEMON_LORD_Skeleton] ([1] browsable assets)...
+[2017.04.24-18.11.13:210][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/Meshes/DEMON_LORD_Skeleton]
+[2017.04.24-18.11.13:244][483]LogSavePackage: Save=7.67ms
+[2017.04.24-18.11.13:244][483]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DEMON_LORD_Skeleton_Auto32E94DB5E4F262AE4F8155797A9FC4023.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/Meshes/DEMON_LORD_Skeleton_Auto3.uasset'
+[2017.04.24-18.11.13:247][483]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/Meshes/DEMON_LORD_Skeleton_Auto3.uasset
+[2017.04.24-18.11.13:247][483]LogFileHelpers: Auto-saving content packages took 0.040
+[2017.04.24-18.12.23:161][475]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2017.04.24-18.12.24:114][475]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.24-18.12.31:222][772]LogSavePackage: Save=26.32ms
+[2017.04.24-18.12.31:222][772]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossCloseRange1129C95964D088AA9CBA20AAD00623BF5.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange1.uasset'
+[2017.04.24-18.12.31:230][772]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange1.uasset
+[2017.04.24-18.12.35:867][918]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2017.04.24-18.12.36:481][918]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.24-18.12.41:072][109]LogSavePackage: Save=30.38ms
+[2017.04.24-18.12.41:072][109]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossCloseRange2CFFC99F04EE810C62569D491E1ED8869.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange2.uasset'
+[2017.04.24-18.12.41:118][109]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange2.uasset
+[2017.04.24-18.12.44:114][199]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.04.24-18.12.44:687][199]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.24-18.12.56:387][685]LogSavePackage: Save=37.87ms
+[2017.04.24-18.12.56:387][685]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossCloseRange37E36171747FEEA44693C3DBB84D30C20.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange3.uasset'
+[2017.04.24-18.12.56:399][685]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossCloseRange3.uasset
+[2017.04.24-18.12.59:717][780]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2017.04.24-18.13.00:234][780]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.24-18.13.04:555][955]LogSavePackage: Save=20.30ms
+[2017.04.24-18.13.04:555][955]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossLongRange17E2B818A41AE7836EC5697AED8D925CF.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange1.uasset'
+[2017.04.24-18.13.04:563][955]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange1.uasset
+[2017.04.24-18.13.08:147][ 63]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2017.04.24-18.13.08:739][ 63]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.24-18.13.13:605][264]LogSavePackage: Save=42.18ms
+[2017.04.24-18.13.13:605][264]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/DemonBossLongRange2290FEB854B59C5188424B49DD6715AB0.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange2.uasset'
+[2017.04.24-18.13.13:619][264]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/animation_Montages/DemonBossLongRange2.uasset
+[2017.04.24-18.16.49:784][117]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-18.16.50:874][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
+[2017.04.24-18.16.50:982][154]LogSavePackage: Save=81.46ms
+[2017.04.24-18.16.50:982][154]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss3AD9CDFE4F22DCE13B5F9B8B6E02B662.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset'
+[2017.04.24-18.16.50:989][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset
+[2017.04.24-18.22.17:349][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.051
+[2017.04.24-18.22.17:355][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-18.22.17:418][301]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-18.22.17:418][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-18.22.17:745][301]LogSavePackage: Save=145.29ms
+[2017.04.24-18.22.17:745][301]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto4293084904799DA1F490F74A81EF5F32C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto4.uasset'
+[2017.04.24-18.22.17:749][301]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto4.uasset
+[2017.04.24-18.22.17:749][301]LogFileHelpers: Auto-saving content packages took 0.399
+[2017.04.24-18.29.46:540][330]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-18.29.47:635][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
+[2017.04.24-18.29.47:796][424]LogSavePackage: Save=94.73ms
+[2017.04.24-18.29.47:796][424]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss543CCBD84CD7412FB0A9E497D4F21A99.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset'
+[2017.04.24-18.29.47:816][424]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset
+[2017.04.24-18.32.18:045][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.052
+[2017.04.24-18.32.18:048][590]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-18.32.18:114][590]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-18.32.18:114][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-18.32.18:234][590]LogSavePackage: Save=102.75ms
+[2017.04.24-18.32.18:234][590]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto5F17DE3814C8BA5668D99A795478647BF.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto5.uasset'
+[2017.04.24-18.32.18:243][590]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto5.uasset
+[2017.04.24-18.32.18:243][590]LogFileHelpers: Auto-saving content packages took 0.197
+[2017.04.24-18.34.33:208][ 73]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-18.34.35:313][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
+[2017.04.24-18.34.35:442][264]LogSavePackage: Save=113.38ms
+[2017.04.24-18.34.35:442][264]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss46C5290E4A4220D216BE8182684E2171.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset'
+[2017.04.24-18.34.35:454][264]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset
+[2017.04.24-19.30.54:892][742]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-19.30.56:181][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
