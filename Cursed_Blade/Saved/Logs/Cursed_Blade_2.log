@@ -486,3 +486,96 @@ LogInit: Object subsystem initialized
 [2017.04.24-03.09.08:002][581]LogLoad: Took 7.652365 seconds to LoadMap(/Game/Levels/BattlegroundsLevel)
 [2017.04.24-03.09.28:761][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
 [2017.04.24-03.09.29:009][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.24-03.20.47:404][463]LogRenderer: Reallocating scene render targets to support 1144x708 NumSamples 1 (Frame:14151).
+[2017.04.24-03.21.25:859][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/GreenOrbMesh" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/GreenOrbMesh.uasset" SILENT=true
+[2017.04.24-03.21.25:954][968]LogSavePackage: Save=71.52ms
+[2017.04.24-03.21.25:957][968]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/GreenOrbMesh30F180044F615BF48BD7B4816328A32C.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/GreenOrbMesh.uasset'
+[2017.04.24-03.21.26:032][968]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/GreenOrbMesh.uasset
+[2017.04.24-03.22.03:432][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/BlueOrbMesh" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/BlueOrbMesh.uasset" SILENT=true
+[2017.04.24-03.22.03:535][327]LogSavePackage: Save=77.94ms
+[2017.04.24-03.22.03:535][327]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/BlueOrbMesh265E1FC8470C6D5004FDF792CE7F3B45.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/BlueOrbMesh.uasset'
+[2017.04.24-03.22.03:577][327]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/BlueOrbMesh.uasset
+[2017.04.24-03.22.46:771][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RedOrbMesh" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/RedOrbMesh.uasset" SILENT=true
+[2017.04.24-03.22.46:876][200]LogSavePackage: Save=81.03ms
+[2017.04.24-03.22.46:883][200]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/RedOrbMesh8B0C34194ADC82D892875A919C347329.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/RedOrbMesh.uasset'
+[2017.04.24-03.22.46:913][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/RedOrbMesh.uasset
+[2017.04.24-03.25.03:707][937]BlueprintLog: New page: Compile PickupRedOrb1
+[2017.04.24-03.25.50:311][ 85]BlueprintLog: New page: Compile PickupRedOrb2
+[2017.04.24-03.25.55:335][331]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.24-03.26.56:185][451]BlueprintLog: New page: Compile PickupRedOrb3
+[2017.04.24-03.27.16:680][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/PickupRedOrb1" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb1.uasset" SILENT=true
+[2017.04.24-03.27.16:756][927]LogSavePackage: Save=56.40ms
+[2017.04.24-03.27.16:756][927]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupRedOrb18416E7DC4CE0A7C82DDB79B6257B05FD.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb1.uasset'
+[2017.04.24-03.27.16:780][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb1.uasset
+[2017.04.24-03.27.16:798][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/PickupRedOrb2" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb2.uasset" SILENT=true
+[2017.04.24-03.27.16:865][927]LogSavePackage: Save=52.71ms
+[2017.04.24-03.27.16:865][927]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupRedOrb2EE838D694A1E469395E39C80D1B4928D.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb2.uasset'
+[2017.04.24-03.27.16:887][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb2.uasset
+[2017.04.24-03.27.16:903][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/PickupRedOrb3" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb3.uasset" SILENT=true
+[2017.04.24-03.27.16:971][927]LogSavePackage: Save=54.56ms
+[2017.04.24-03.27.16:972][927]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupRedOrb394399A2046461AD89D80F992B414A08B.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb3.uasset'
+[2017.04.24-03.27.16:993][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupRedOrb3.uasset
+[2017.04.24-03.28.11:085][353]BlueprintLog: New page: Compile PickupBlueOrb1
+[2017.04.24-03.29.03:536][143]BlueprintLog: New page: Compile PickupBlueOrb2
+[2017.04.24-03.29.40:659][327]BlueprintLog: New page: Compile PickupBlueOrb3
+[2017.04.24-03.29.44:537][517]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.24-03.29.46:508][600]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.24-03.29.50:879][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/PickupBlueOrb1" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb1.uasset" SILENT=true
+[2017.04.24-03.29.51:002][681]LogSavePackage: Save=99.74ms
+[2017.04.24-03.29.51:002][681]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBlueOrb176D67DFB4995F72D5A0F8BB01756F9EE.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb1.uasset'
+[2017.04.24-03.29.51:049][681]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb1.uasset
+[2017.04.24-03.29.51:088][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/PickupBlueOrb2" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb2.uasset" SILENT=true
+[2017.04.24-03.29.51:231][681]LogSavePackage: Save=114.89ms
+[2017.04.24-03.29.51:231][681]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBlueOrb2816F0A9A43295C66ECFF178FBD356CE5.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb2.uasset'
+[2017.04.24-03.29.51:279][681]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb2.uasset
+[2017.04.24-03.29.51:313][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/PickupBlueOrb3" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb3.uasset" SILENT=true
+[2017.04.24-03.29.51:448][681]LogSavePackage: Save=108.92ms
+[2017.04.24-03.29.51:449][681]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/PickupBlueOrb378E755224386A82B2FFC049A8D702BEB.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb3.uasset'
+[2017.04.24-03.29.51:491][681]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/PickupBlueOrb3.uasset
+[2017.04.24-03.34.54:300][360]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TombLevel' took 0.211
+[2017.04.24-03.34.54:321][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/character/characterBP] ([1] browsable assets)...
+[2017.04.24-03.34.54:485][360]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/character/characterBP.characterBP]
+[2017.04.24-03.34.54:485][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/character/characterBP]
+[2017.04.24-03.34.55:119][360]LogSavePackage: Save=505.23ms
+[2017.04.24-03.34.55:119][360]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP_Auto1D7405DC4478C05DD368C26AADD20B517.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto1.uasset'
+[2017.04.24-03.34.55:138][360]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/character/characterBP_Auto1.uasset
+[2017.04.24-03.34.55:138][360]LogFileHelpers: Auto-saving content packages took 0.831
+[2017.04.24-03.36.23:268][250]BlueprintLog: New page: Compile characterBP
+[2017.04.24-03.36.31:105][253]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.24-03.36.34:997][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.24-03.36.35:264][411]LogSavePackage: Save=222.52ms
+[2017.04.24-03.36.35:264][411]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP4083DDDC46A1D541537E0CBD51FB9474.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.24-03.36.35:293][411]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.24-03.37.43:982][428]BlueprintLog: New page: Compile characterBP
+[2017.04.24-03.37.51:016][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.24-03.42.41:696][313]BlueprintLog: New page: Compile characterBP
+[2017.04.24-03.42.48:967][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.24-03.42.52:777][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.24-03.42.53:089][471]LogSavePackage: Save=243.77ms
+[2017.04.24-03.42.53:089][471]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/characterBP68E9C5214D67437FC4AE90919276B488.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.24-03.42.53:115][471]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.24-03.44.00:056][819]LogEditorViewport: Clicking on Actor (LMB): PickupOrb_C (PickupOrb)
+[2017.04.24-03.45.03:356][329]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.24-03.45.03:531][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.24-03.45.03:532][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-03.45.03:533][329]PIE: New page: PIE session: TombLevel (Apr 23, 2017, 7:45:03 PM)
+[2017.04.24-03.45.03:533][329]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TombLevel
+[2017.04.24-03.45.04:115][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.581148s)
+[2017.04.24-03.45.04:117][329]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.24-03.45.04:118][329]LogPlayLevel: PIE: World Init took: (0.002591s)
+[2017.04.24-03.45.04:119][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TombLevel.TombLevel to /Game/Levels/UEDPIE_0_TombLevel.TombLevel (0.585647s)
+[2017.04.24-03.45.04:311][329]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-03.45.04:540][329]LogInit: FAudioDevice initialized.
+[2017.04.24-03.45.04:673][329]LogLoad: Game class is 'myGame_C'
+[2017.04.24-03.45.04:785][329]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TombLevel.TombLevel up for play (max tick rate 60) at 2017.04.23-23.45.04
+[2017.04.24-03.45.04:804][329]LogWorld: Bringing up level for play took: 0.129415
+[2017.04.24-03.45.04:837][329]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_TombLevel 0.436
+[2017.04.24-03.45.04:841][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.24-03.45.32:448][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.24-03.45.32:844][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TombLevel.TombLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel' with GeneratedClass '/Game/Levels/TombLevel.TombLevel_C' with ClassGeneratedBy '/Game/Levels/TombLevel.TombLevel:PersistentLevel.TombLevel'
+[2017.04.24-03.45.53:600][834]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.24-03.46.17:136][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TombLevel" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.24-03.46.38:094][946]LogSavePackage: Save=20604.13ms
+[2017.04.24-03.46.38:097][946]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/TombLevelD92DB71F46327CD45A394D975643FD5A.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap'
+[2017.04.24-03.46.38:182][946]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap
+[2017.04.24-03.46.38:440][946]LogFileHelpers: Saving map 'TombLevel' took 36.888
