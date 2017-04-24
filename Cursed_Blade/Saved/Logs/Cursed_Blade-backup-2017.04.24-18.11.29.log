@@ -1,0 +1,1107 @@
+﻿Log file open, 04/24/17 01:10:48
+LogInit:Display: Running engine for game: Cursed_Blade
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-2064781117) SRandInit(-2064781117).
+LogTaskGraph: Started task graph with 5 named threads and 7 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.122305
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.24-05.10.49:153][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.24-05.10.49:153][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.24-05.10.49:189][  0]LogInit: Computer: STEVEN-DESKTOP
+[2017.04.24-05.10.49:189][  0]LogInit: User: Steven
+[2017.04.24-05.10.49:189][  0]LogInit: CPU Page size=65536, Cores=3
+[2017.04.24-05.10.49:189][  0]LogInit: High frequency timer resolution =3.433380 MHz
+[2017.04.24-05.10.49:190][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.04.24-05.10.49:190][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.24-05.10.49:190][  0]LogMemory: Process Physical Memory: 264.56 MB used, 264.56 MB peak
+[2017.04.24-05.10.49:190][  0]LogMemory: Process Virtual Memory: 262.39 MB used, 262.39 MB peak
+[2017.04.24-05.10.49:190][  0]LogMemory: Physical Memory: 3895.65 MB used,  4278.46 MB free, 8174.11 MB total
+[2017.04.24-05.10.49:190][  0]LogMemory: Virtual Memory: 661.57 MB used,  4278.46 MB free, 134217728.00 MB total
+[2017.04.24-05.10.49:360][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.24-05.10.50:661][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.24-05.10.51:246][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.04.24-05.10.51:246][  0]LogD3D11RHI:       2017/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.04.24-05.10.51:250][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.24-05.10.51:250][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.24-05.10.51:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.24-05.10.51:261][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.24-05.10.51:261][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.24-05.10.51:261][  0]LogWindows: EnumDisplayDevices:
+[2017.04.24-05.10.51:261][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.04.24-05.10.51:262][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2017.04.24-05.10.51:263][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2017.04.24-05.10.51:263][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.04.24-05.10.51:263][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.04.24-05.10.51:263][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.04.24-05.10.51:264][  0]LogD3D11RHI:   Driver Version: 381.65 (internal:22.21.13.8165, unified:381.65)
+[2017.04.24-05.10.51:264][  0]LogD3D11RHI:      Driver Date: 3-31-2017
+[2017.04.24-05.10.51:264][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.24-05.10.51:900][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.24-05.10.52:431][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.04.24-05.10.52:439][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/13908/).
+[2017.04.24-05.10.52:439][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Steven/AppData/Local/Temp/UnrealShaderWorkingDir/DE5D71BC405089B28A820BAC250678D5/'.
+[2017.04.24-05.10.52:439][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.24-05.10.56:745][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.24-05.10.56:884][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.24-05.10.57:027][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.24-05.10.57:175][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.24-05.10.57:327][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.24-05.10.57:481][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.24-05.10.57:634][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.24-05.10.57:783][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.24-05.10.57:918][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.24-05.10.58:066][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.24-05.10.58:219][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.24-05.10.58:373][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.24-05.10.58:526][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.24-05.10.58:679][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.24-05.10.58:832][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.24-05.10.59:126][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.24-05.10.59:126][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.24-05.10.59:252][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.24-05.10.59:462][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.24-05.10.59:532][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.24-05.10.59:678][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.24-05.10.59:828][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.24-05.10.59:972][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.24-05.11.00:124][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.24-05.11.00:124][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.24-05.11.01:176][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.24-05.11.01:659][  0]LogDerivedDataCache: Loaded boot cache 0.48s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.24-05.11.01:659][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.24-05.11.01:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.24-05.11.01:659][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.24-05.11.01:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.24-05.11.01:659][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.24-05.11.01:685][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.24-05.11.01:698][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Steven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.24-05.11.02:660][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.24-05.11.02:680][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.24-05.11.03:217][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.24-05.11.03:356][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.24-05.11.03:507][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.24-05.11.03:507][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.24-05.11.03:507][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.24-05.11.04:875][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.04.24-05.11.04:978][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.04.24-05.11.05:103][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.068922 seconds
+[2017.04.24-05.11.05:112][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.24-05.11.05:112][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.24-05.11.05:112][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.24-05.11.05:259][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.24-05.11.07:588][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.24-05.11.07:593][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.24-05.11.07:593][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.24-05.11.10:158][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.24-05.11.10:248][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.24-05.11.11:124][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.24-05.11.12:256][  0]SourceControl: Info Source control is disabled
+[2017.04.24-05.11.12:259][  0]SourceControl: Info Source control is disabled
+[2017.04.24-05.11.12:416][  0]SourceControl: Info Source control is disabled
+[2017.04.24-05.11.12:571][  0]SourceControl: Info Source control is disabled
+[2017.04.24-05.11.16:491][  0]LogEngine: Initializing Engine...
+[2017.04.24-05.11.16:495][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.24-05.11.17:114][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.24-05.11.17:178][  0]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.11.17:276][  0]LogInit: FAudioDevice initialized.
+[2017.04.24-05.11.17:328][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/Steven/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.24-05.11.17:340][  0]LogInit: Texture streaming: Enabled
+[2017.04.24-05.11.17:829][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.24-05.11.19:228][  0]LogInit: Transaction tracking system initialized
+[2017.04.24-05.11.20:425][  0]BlueprintLog: New page: Editor Load
+[2017.04.24-05.11.23:464][  0]LocalizationService: Info Localization service is disabled
+[2017.04.24-05.11.25:725][  0]LogConsoleResponse:Display: 
+[2017.04.24-05.11.26:080][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.24-05.11.26:081][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.24-05.11.26:533][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/' took 0.19s
+[2017.04.24-05.11.29:387][  0]SourceControl: Info Source control is disabled
+[2017.04.24-05.11.29:392][  0]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.24-05.11.29:413][  0]LightingResults: New page: Lighting Build
+[2017.04.24-05.11.29:568][  0]MapCheck: New page: Map Check
+[2017.04.24-05.11.29:568][  0]LightingResults: New page: Lighting Build
+[2017.04.24-05.11.31:967][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.24-05.11.32:051][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.24-05.11.32:059][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.24-05.11.32:350][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 290.613ms to complete.
+[2017.04.24-05.11.32:350][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 2.961
+[2017.04.24-05.11.32:771][  0]LogCollectionManager: Loaded 0 collections in 0.004065 seconds
+[2017.04.24-05.11.32:996][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.04.24-05.11.32:996][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Developers/Steven/Collections/' took 0.01s
+[2017.04.24-05.11.32:996][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.04.24-05.11.32:996][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.24-05.11.33:015][  0]LogContentBrowser: Native class hierarchy populated in 0.0162 seconds. Added 2190 classes and 428 folders.
+[2017.04.24-05.11.33:146][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.24-05.11.33:146][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.24-05.11.33:148][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0011 seconds. Added 13 classes and 0 folders.
+[2017.04.24-05.11.33:318][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.04.24-05.11.33:535][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.04.24-05.11.33:679][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.04.24-05.11.33:816][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.24-05.11.33:847][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.24-05.11.34:017][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.04.24-05.11.34:017][  0]LogLoad: (Engine Initialization) Total time: 48.49 seconds
+[2017.04.24-05.11.34:017][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.63 seconds
+[2017.04.24-05.11.34:018][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.24-05.11.34:018][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.24-05.11.34:033][  0]LogOcInput: OculusInput pre-init called
+[2017.04.24-05.11.34:081][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.24-05.11.34:351][  0]LogRenderer: Reallocating scene render targets to support 1028x576 NumSamples 1 (Frame:2).
+[2017.04.24-05.11.34:714][  5]LogAssetRegistry: Asset discovery search completed in 29.7585 seconds
+[2017.04.24-05.11.34:714][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.24-05.11.34:714][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2017.04.24-05.11.40:126][428]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 111 classes and 0 folders.
+[2017.04.24-05.16.35:015][417]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.16.36:338][450]LogSavePackage: Save=87.84ms
+[2017.04.24-05.16.36:338][450]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI6B0BA58B4FD37248E278A1888F6D29EB.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.16.36:350][450]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.16.45:146][368]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.16.45:183][368]Cmd: MAP LOAD FILE="D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.24-05.16.45:183][368]LightingResults: New page: Lighting Build
+[2017.04.24-05.16.45:184][368]LoadErrors: New page: Loading map: AngelBossAITest.umap
+[2017.04.24-05.16.45:186][368]MapCheck: New page: Map Check
+[2017.04.24-05.16.45:186][368]LightingResults: New page: Lighting Build
+[2017.04.24-05.16.45:225][368]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.24-05.16.45:276][368]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.24-05.16.45:601][368]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 324.943ms to complete.
+[2017.04.24-05.16.45:603][368]LogFileHelpers: Loading map 'AngelBossAITest' took 0.422
+[2017.04.24-05.20.33:173][113]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.20.37:633][527]LogSavePackage: Save=165.27ms
+[2017.04.24-05.20.37:633][527]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITest5FD2216241FB4C8F47A95FA4BC706952.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.20.37:642][527]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.20.37:694][527]LogFileHelpers: Saving map 'AngelBossAITest' took 0.608
+[2017.04.24-05.20.37:817][527]LogSavePackage: Save=83.11ms
+[2017.04.24-05.20.37:817][527]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAIA653E6EB4B70C6E37C9041A19FB5471E.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.20.37:826][527]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.20.38:850][643]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.20.38:909][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.20.38:910][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.20.38:915][643]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:20:38 PM)
+[2017.04.24-05.20.38:916][643]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.20.38:925][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008926s)
+[2017.04.24-05.20.38:925][643]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.20.38:926][643]LogPlayLevel: PIE: World Init took: (0.001496s)
+[2017.04.24-05.20.38:927][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.011076s)
+[2017.04.24-05.20.38:982][643]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.20.38:994][643]LogInit: FAudioDevice initialized.
+[2017.04.24-05.20.39:075][643]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.20.39:086][643]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.20.39
+[2017.04.24-05.20.39:098][643]LogWorld: Bringing up level for play took: 0.013326
+[2017.04.24-05.20.39:249][643]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.04.24-05.20.39:264][643]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.909
+[2017.04.24-05.20.39:264][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.20.45:442][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.20.45:493][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.20.56:085][487]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.20.57:235][570]LogSavePackage: Save=83.31ms
+[2017.04.24-05.20.57:235][570]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI6714A9B44F4107E282A034A124414850.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.20.57:244][570]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.20.59:256][762]LogSavePackage: Save=165.20ms
+[2017.04.24-05.20.59:256][762]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITestCB7800694CC7E266A45A6D84B2A473ED.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.20.59:266][762]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.20.59:770][815]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.20.59:800][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.20.59:800][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.20.59:800][815]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:20:59 PM)
+[2017.04.24-05.20.59:800][815]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.20.59:807][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006459s)
+[2017.04.24-05.20.59:808][815]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.20.59:808][815]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2017.04.24-05.20.59:808][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.008530s)
+[2017.04.24-05.20.59:870][815]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.20.59:880][815]LogInit: FAudioDevice initialized.
+[2017.04.24-05.20.59:913][815]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.20.59:916][815]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.20.59
+[2017.04.24-05.20.59:916][815]LogWorld: Bringing up level for play took: 0.001402
+[2017.04.24-05.20.59:918][815]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest -0.437
+[2017.04.24-05.20.59:919][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.21.23:238][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.21.23:291][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.21.56:041][271]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.21.57:095][347]LogSavePackage: Save=83.39ms
+[2017.04.24-05.21.57:095][347]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI88825AFF4AC74217C6BDC89968B556D4.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.21.57:104][347]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.21.59:882][635]LogSavePackage: Save=165.33ms
+[2017.04.24-05.21.59:882][635]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITestD9D36E6D4DDC4DDA9DB05FA6E9B1A7AE.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.21.59:892][635]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.22.00:880][743]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.22.00:907][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.22.00:908][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.22.00:908][743]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:22:00 PM)
+[2017.04.24-05.22.00:908][743]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.22.00:914][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006336s)
+[2017.04.24-05.22.00:915][743]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.22.00:915][743]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2017.04.24-05.22.00:915][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007418s)
+[2017.04.24-05.22.00:969][743]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.22.00:979][743]LogInit: FAudioDevice initialized.
+[2017.04.24-05.22.01:008][743]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.22.01:011][743]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.22.01
+[2017.04.24-05.22.01:011][743]LogWorld: Bringing up level for play took: 0.001549
+[2017.04.24-05.22.01:014][743]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.658
+[2017.04.24-05.22.01:014][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.22.14:957][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.22.15:011][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.22.20:898][ 64]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.22.20:927][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.22.20:927][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.22.20:928][ 64]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:22:20 PM)
+[2017.04.24-05.22.20:928][ 64]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.22.20:934][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006572s)
+[2017.04.24-05.22.20:935][ 64]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.22.20:935][ 64]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2017.04.24-05.22.20:936][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007891s)
+[2017.04.24-05.22.20:991][ 64]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.22.21:001][ 64]LogInit: FAudioDevice initialized.
+[2017.04.24-05.22.21:129][ 64]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.22.21:132][ 64]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.22.21
+[2017.04.24-05.22.21:133][ 64]LogWorld: Bringing up level for play took: 0.002029
+[2017.04.24-05.22.21:143][ 64]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.788
+[2017.04.24-05.22.21:144][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.22.21:169][ 64]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:8400).
+[2017.04.24-05.22.27:651][643]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_StopJumping', from offset 15
+[2017.04.24-05.22.27:651][643]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/angelsBoss/angelBossAI.angelBossAI_C:ExecuteUbergraph_angelBossAI
+
+[2017.04.24-05.22.45:119][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.22.45:201][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.23.57:522][525]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.23.58:300][584]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.23.58:326][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.23.58:326][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.23.58:326][584]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:23:58 PM)
+[2017.04.24-05.23.58:327][584]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.23.58:333][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006506s)
+[2017.04.24-05.23.58:334][584]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.23.58:334][584]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2017.04.24-05.23.58:335][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.008054s)
+[2017.04.24-05.23.58:389][584]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.23.58:399][584]LogInit: FAudioDevice initialized.
+[2017.04.24-05.23.58:516][584]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.23.58:519][584]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.23.58
+[2017.04.24-05.23.58:519][584]LogWorld: Bringing up level for play took: 0.001722
+[2017.04.24-05.23.58:528][584]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.174
+[2017.04.24-05.23.58:529][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.24.16:605][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.24.16:688][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.24.21:144][587]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.24.25:239][999]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.24.26:329][ 92]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.24.26:357][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.24.26:357][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.24.26:357][ 92]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:24:26 PM)
+[2017.04.24-05.24.26:357][ 92]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.24.26:363][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005794s)
+[2017.04.24-05.24.26:364][ 92]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.24.26:364][ 92]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2017.04.24-05.24.26:364][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.006974s)
+[2017.04.24-05.24.26:416][ 92]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.24.26:426][ 92]LogInit: FAudioDevice initialized.
+[2017.04.24-05.24.26:542][ 92]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.24.26:545][ 92]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.24.26
+[2017.04.24-05.24.26:545][ 92]LogWorld: Bringing up level for play took: 0.001993
+[2017.04.24-05.24.26:555][ 92]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.2
+[2017.04.24-05.24.26:555][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.24.40:174][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.24.40:257][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.25.32:673][193]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.25.32:699][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.25.32:699][193]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.24-05.25.32:700][193]LogPlayLevel: [PlayLevel] Compiling angelBossAI before play...
+[2017.04.24-05.25.32:865][193]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2017.04.24-05.25.32:865][193]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:25:32 PM)
+[2017.04.24-05.25.32:866][193]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.25.32:871][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005436s)
+[2017.04.24-05.25.32:872][193]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.25.32:872][193]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2017.04.24-05.25.32:872][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.006757s)
+[2017.04.24-05.25.32:928][193]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.25.32:937][193]LogInit: FAudioDevice initialized.
+[2017.04.24-05.25.33:057][193]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.25.33:060][193]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.25.33
+[2017.04.24-05.25.33:061][193]LogWorld: Bringing up level for play took: 0.001773
+[2017.04.24-05.25.33:069][193]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.714
+[2017.04.24-05.25.33:070][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.25.47:582][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.25.47:668][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.26.08:850][866]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.26.09:758][931]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.26.09:786][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.26.09:786][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.26.09:786][931]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:26:09 PM)
+[2017.04.24-05.26.09:786][931]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.26.09:793][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006091s)
+[2017.04.24-05.26.09:794][931]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.26.09:794][931]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2017.04.24-05.26.09:794][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007942s)
+[2017.04.24-05.26.09:847][931]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.26.09:856][931]LogInit: FAudioDevice initialized.
+[2017.04.24-05.26.09:974][931]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.26.09:977][931]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.26.09
+[2017.04.24-05.26.09:978][931]LogWorld: Bringing up level for play took: 0.001795
+[2017.04.24-05.26.09:987][931]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest -0.368
+[2017.04.24-05.26.09:988][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.26.56:655][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.26.56:746][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.27.50:794][249]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.27.50:840][249]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.angelBossAI_251.CollisionCylinder is already used by CapsuleComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.REINST_angelBossAI_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.24-05.27.50:840][249]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.angelBossAI_251.Arrow is already used by ArrowComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.REINST_angelBossAI_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.24-05.27.50:840][249]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.angelBossAI_251.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.REINST_angelBossAI_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.24-05.27.50:840][249]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.angelBossAI_251.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.REINST_angelBossAI_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.04.24-05.32.49:400][619]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.32.50:683][715]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.32.50:710][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.32.50:710][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.32.50:711][715]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:32:50 PM)
+[2017.04.24-05.32.50:711][715]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.32.50:716][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005851s)
+[2017.04.24-05.32.50:718][715]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.32.50:718][715]LogPlayLevel: PIE: World Init took: (0.001496s)
+[2017.04.24-05.32.50:718][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007594s)
+[2017.04.24-05.32.50:775][715]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.32.50:785][715]LogInit: FAudioDevice initialized.
+[2017.04.24-05.32.50:900][715]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.32.50:903][715]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.32.50
+[2017.04.24-05.32.50:903][715]LogWorld: Bringing up level for play took: 0.001781
+[2017.04.24-05.32.50:912][715]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.557
+[2017.04.24-05.32.50:913][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.00:005][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.00:091][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.07:963][633]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.33.09:061][741]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.33.09:088][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.09:088][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.33.09:088][741]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:33:09 PM)
+[2017.04.24-05.33.09:088][741]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.33.09:095][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006324s)
+[2017.04.24-05.33.09:096][741]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.33.09:096][741]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2017.04.24-05.33.09:097][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.008185s)
+[2017.04.24-05.33.09:150][741]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.33.09:160][741]LogInit: FAudioDevice initialized.
+[2017.04.24-05.33.09:280][741]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.33.09:282][741]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.33.09
+[2017.04.24-05.33.09:283][741]LogWorld: Bringing up level for play took: 0.001787
+[2017.04.24-05.33.09:292][741]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.937
+[2017.04.24-05.33.09:293][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.21:080][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.21:167][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.28:794][912]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.33.28:822][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.28:822][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.33.28:822][912]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:33:28 PM)
+[2017.04.24-05.33.28:822][912]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.33.28:828][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005737s)
+[2017.04.24-05.33.28:829][912]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.33.28:829][912]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2017.04.24-05.33.28:829][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007175s)
+[2017.04.24-05.33.28:880][912]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.33.28:889][912]LogInit: FAudioDevice initialized.
+[2017.04.24-05.33.29:003][912]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.33.29:006][912]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.33.29
+[2017.04.24-05.33.29:007][912]LogWorld: Bringing up level for play took: 0.001927
+[2017.04.24-05.33.29:016][912]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.661
+[2017.04.24-05.33.29:017][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.40:653][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.40:731][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.50:188][117]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.33.51:060][195]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.33.51:091][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.33.51:091][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.33.51:091][195]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:33:51 PM)
+[2017.04.24-05.33.51:091][195]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.33.51:097][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005703s)
+[2017.04.24-05.33.51:097][195]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.33.51:098][195]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2017.04.24-05.33.51:098][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.006870s)
+[2017.04.24-05.33.51:152][195]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.33.51:162][195]LogInit: FAudioDevice initialized.
+[2017.04.24-05.33.51:287][195]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.33.51:290][195]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.33.51
+[2017.04.24-05.33.51:290][195]LogWorld: Bringing up level for play took: 0.001857
+[2017.04.24-05.33.51:300][195]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.945
+[2017.04.24-05.33.51:301][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.34.08:756][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.34.08:846][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.34.16:149][766]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.34.17:112][856]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.34.17:145][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.34.17:145][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.34.17:145][856]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:34:17 PM)
+[2017.04.24-05.34.17:146][856]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.34.17:152][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005968s)
+[2017.04.24-05.34.17:152][856]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.34.17:153][856]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2017.04.24-05.34.17:153][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007408s)
+[2017.04.24-05.34.17:208][856]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.34.17:217][856]LogInit: FAudioDevice initialized.
+[2017.04.24-05.34.17:336][856]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.34.17:340][856]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.34.17
+[2017.04.24-05.34.17:340][856]LogWorld: Bringing up level for play took: 0.001778
+[2017.04.24-05.34.17:349][856]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.994
+[2017.04.24-05.34.17:350][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.34.32:673][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.34.32:765][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.35.25:283][450]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.38.23:059][872]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.38.29:463][372]LogSavePackage: Save=76.50ms
+[2017.04.24-05.38.29:463][372]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAID54F48574E9959924F338895587BFD27.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.38.29:471][372]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.38.38:053][288]LogSavePackage: Save=172.75ms
+[2017.04.24-05.38.38:053][288]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITestC343F2654D7C9B113C58F0AB11CF47E4.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.38.38:063][288]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.38.44:866][783]LogSavePackage: Save=66.71ms
+[2017.04.24-05.38.44:866][783]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAIA9928F35461784089ACD54A63F9D7AB6.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.38.44:875][783]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.38.45:607][839]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.38.45:638][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.38.45:639][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.38.45:639][839]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:38:45 PM)
+[2017.04.24-05.38.45:639][839]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.38.45:645][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005939s)
+[2017.04.24-05.38.45:646][839]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.38.45:646][839]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2017.04.24-05.38.45:646][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007296s)
+[2017.04.24-05.38.45:707][839]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.38.45:718][839]LogInit: FAudioDevice initialized.
+[2017.04.24-05.38.45:845][839]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.38.45:848][839]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.38.45
+[2017.04.24-05.38.45:849][839]LogWorld: Bringing up level for play took: 0.002099
+[2017.04.24-05.38.45:857][839]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest -0.497
+[2017.04.24-05.38.45:858][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.38.48:122][978]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_Event', from offset 2380
+[2017.04.24-05.38.48:122][978]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/angelsBoss/angelBossAI.angelBossAI_C:ReceiveAnyDamage
+	Function /Game/angelsBoss/angelBossAI.angelBossAI_C:ExecuteUbergraph_angelBossAI
+
+[2017.04.24-05.38.53:183][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.38.53:272][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.38.54:235][ 63]LogSavePackage: Save=68.52ms
+[2017.04.24-05.38.54:235][ 63]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAIDE9EE0B44D7C1411D6630484E2A49BB6.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.38.54:240][ 63]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.40.03:875][890]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.40.07:265][158]LogSavePackage: Save=147.53ms
+[2017.04.24-05.40.07:265][158]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITestC824005F4126B041699DA68CF1688498.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.40.07:274][158]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.40.07:331][158]LogFileHelpers: Saving map 'AngelBossAITest' took 0.533
+[2017.04.24-05.40.07:442][158]LogSavePackage: Save=78.53ms
+[2017.04.24-05.40.07:442][158]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI5E2BA97C4FA77D1943513D9EDB20A0F2.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.40.07:450][158]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.40.11:077][562]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.40.11:109][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.40.11:109][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.40.11:110][562]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:40:11 PM)
+[2017.04.24-05.40.11:110][562]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.40.11:116][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005910s)
+[2017.04.24-05.40.11:117][562]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.40.11:117][562]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2017.04.24-05.40.11:117][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007601s)
+[2017.04.24-05.40.11:173][562]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.40.11:183][562]LogInit: FAudioDevice initialized.
+[2017.04.24-05.40.11:304][562]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.40.11:307][562]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.40.11
+[2017.04.24-05.40.11:307][562]LogWorld: Bringing up level for play took: 0.001706
+[2017.04.24-05.40.11:317][562]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.962
+[2017.04.24-05.40.11:318][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.40.44:908][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.40.44:991][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.40.56:865][665]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.40.57:748][724]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.40.57:775][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.40.57:775][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.40.57:776][724]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:40:57 PM)
+[2017.04.24-05.40.57:776][724]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.40.57:781][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005678s)
+[2017.04.24-05.40.57:783][724]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.40.57:783][724]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2017.04.24-05.40.57:783][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007462s)
+[2017.04.24-05.40.57:835][724]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.40.57:845][724]LogInit: FAudioDevice initialized.
+[2017.04.24-05.40.57:963][724]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.40.57:966][724]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.40.57
+[2017.04.24-05.40.57:966][724]LogWorld: Bringing up level for play took: 0.001578
+[2017.04.24-05.40.57:976][724]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest -0.379
+[2017.04.24-05.40.57:976][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.41.24:848][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.41.24:942][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.41.32:293][398]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.41.33:581][468]LogSavePackage: Save=76.28ms
+[2017.04.24-05.41.33:581][468]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAIBC3A6E65439CFE219C184FB0A860D74E.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.41.33:590][468]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.41.57:391][267]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.41.58:537][352]LogSavePackage: Save=77.95ms
+[2017.04.24-05.41.58:537][352]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI2BEC1C5248F5B4B050B356BA4EF1B8B8.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.41.58:547][352]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.43.36:829][909]LogTexture:Display: Building textures: T_starFlare_01 (AutoDXT)
+[2017.04.24-05.43.36:855][909]LogMaterial: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2017.04.24-05.43.36:905][909]LogTexture:Display: Building textures: T_GlowNoise_Circular_02 (AutoDXT)
+[2017.04.24-05.43.36:941][909]LogStaticMesh: Building static mesh SM_BlastWave...
+[2017.04.24-05.43.36:991][909]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2017.04.24-05.43.36:997][909]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave.SM_BlastWave
+[2017.04.24-05.43.37:001][909]LogTexture:Display: Building textures: T_Black_32 (AutoDXT)
+[2017.04.24-05.43.37:004][909]LogMaterial: Missing cached shader map for material M_Trans_Sprite_Master_DepthFade, compiling. 
+[2017.04.24-05.43.37:052][909]LogTexture:Display: Building textures: T_bloodTest_4X6 (AutoDXT)
+[2017.04.24-05.43.37:459][909]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2017.04.24-05.43.37:523][909]LogTexture:Display: Building textures: T_GlowNoise_01 (AutoDXT)
+[2017.04.24-05.44.19:188][751]BlueprintLog: New page: Compile angelBossProjectile
+[2017.04.24-05.44.32:175][666]LogSavePackage: Save=29.52ms
+[2017.04.24-05.44.32:175][666]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossProjectileC0BE6E694202FD4F169575880200823F.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossProjectile.uasset'
+[2017.04.24-05.44.32:183][666]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossProjectile.uasset
+[2017.04.24-05.44.48:105][298]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.44.49:317][411]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.44.49:352][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.44.49:352][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.44.49:352][411]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:44:49 PM)
+[2017.04.24-05.44.49:353][411]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.44.49:359][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006221s)
+[2017.04.24-05.44.49:360][411]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.44.49:360][411]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2017.04.24-05.44.49:360][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007756s)
+[2017.04.24-05.44.49:419][411]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.44.49:430][411]LogInit: FAudioDevice initialized.
+[2017.04.24-05.44.49:551][411]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.44.49:554][411]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.44.49
+[2017.04.24-05.44.49:555][411]LogWorld: Bringing up level for play took: 0.001863
+[2017.04.24-05.44.49:563][411]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 1.208
+[2017.04.24-05.44.49:564][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.45.10:689][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.45.10:776][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.45.22:942][  0]LogSavePackage: Save=100.57ms
+[2017.04.24-05.45.22:942][  0]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI88F81BE0471F7E436E5E58BD2A21419C.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.45.22:950][  0]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.45.25:139][234]LogSavePackage: Save=151.48ms
+[2017.04.24-05.45.25:139][234]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITest8671DD3647F49407B4871A95179FF50A.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.45.25:149][234]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.45.31:244][951]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.45.31:279][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.45.31:279][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.45.31:279][951]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:45:31 PM)
+[2017.04.24-05.45.31:279][951]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.45.31:285][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006239s)
+[2017.04.24-05.45.31:286][951]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.45.31:286][951]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2017.04.24-05.45.31:287][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007703s)
+[2017.04.24-05.45.31:344][951]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.45.31:354][951]LogInit: FAudioDevice initialized.
+[2017.04.24-05.45.31:475][951]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.45.31:478][951]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.45.31
+[2017.04.24-05.45.31:478][951]LogWorld: Bringing up level for play took: 0.001922
+[2017.04.24-05.45.31:487][951]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 1.132
+[2017.04.24-05.45.31:488][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.45.35:652][370]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1457
+[2017.04.24-05.45.35:652][370]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/angelsBoss/angelBossAI.angelBossAI_C:ExecuteUbergraph_angelBossAI
+
+[2017.04.24-05.45.39:051][370]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1871
+[2017.04.24-05.45.39:051][370]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/angelsBoss/angelBossAI.angelBossAI_C:ExecuteUbergraph_angelBossAI
+
+[2017.04.24-05.45.46:176][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.45.46:253][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.46.07:921][348]LogSavePackage: Save=69.03ms
+[2017.04.24-05.46.07:921][348]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI78C9B793468D611E1209C7B793A3ACF4.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.46.07:930][348]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.46.20:494][797]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.46.21:122][823]LogSavePackage: Save=74.18ms
+[2017.04.24-05.46.21:123][823]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI67A040A1490BAEC14590C18C8AC1C8B1.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.46.21:130][823]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.46.21:787][891]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.46.21:817][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.46.21:817][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.46.21:817][891]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:46:21 PM)
+[2017.04.24-05.46.21:817][891]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.46.21:823][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005669s)
+[2017.04.24-05.46.21:824][891]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.46.21:824][891]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2017.04.24-05.46.21:824][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.006996s)
+[2017.04.24-05.46.21:877][891]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.46.21:887][891]LogInit: FAudioDevice initialized.
+[2017.04.24-05.46.22:005][891]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.46.22:008][891]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.46.22
+[2017.04.24-05.46.22:008][891]LogWorld: Bringing up level for play took: 0.001838
+[2017.04.24-05.46.22:017][891]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest -0.338
+[2017.04.24-05.46.22:017][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.46.46:205][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.46.46:289][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.46.59:802][181]LogSavePackage: Save=155.24ms
+[2017.04.24-05.46.59:802][181]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITest92C891E843EF2707126FCD9A7824BC62.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.46.59:812][181]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.47.34:473][236]BlueprintLog: New page: Compile angelBossProjectile
+[2017.04.24-05.47.35:296][278]LogSavePackage: Save=28.55ms
+[2017.04.24-05.47.35:296][278]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossProjectile2BFB5A524B5AC481DA9F2CB335513F07.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossProjectile.uasset'
+[2017.04.24-05.47.35:306][278]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossProjectile.uasset
+[2017.04.24-05.47.37:597][470]LogSavePackage: Save=166.15ms
+[2017.04.24-05.47.37:597][470]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITest21756ACD4FFDBBDC0FB2E491C0EB93E1.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.47.37:607][470]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.47.37:658][470]LogFileHelpers: Saving map 'AngelBossAITest' took 0.605
+[2017.04.24-05.47.38:951][624]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.47.38:987][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.47.38:988][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.47.38:988][624]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:47:38 PM)
+[2017.04.24-05.47.38:988][624]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.47.38:995][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006873s)
+[2017.04.24-05.47.38:996][624]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.47.38:996][624]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2017.04.24-05.47.38:996][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.008717s)
+[2017.04.24-05.47.39:065][624]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.47.39:074][624]LogInit: FAudioDevice initialized.
+[2017.04.24-05.47.39:187][624]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.47.39:190][624]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.47.39
+[2017.04.24-05.47.39:190][624]LogWorld: Bringing up level for play took: 0.001736
+[2017.04.24-05.47.39:195][624]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.84
+[2017.04.24-05.47.39:196][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.47.48:151][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.47.48:215][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.06:848][225]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.48.07:493][250]LogSavePackage: Save=75.13ms
+[2017.04.24-05.48.07:493][250]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAIF2C014DD4F992123A27CF2B091FC8A85.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.48.07:502][250]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.48.08:198][323]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.48.08:229][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.08:229][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.48.08:229][323]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:48:08 PM)
+[2017.04.24-05.48.08:229][323]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.48.08:235][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005607s)
+[2017.04.24-05.48.08:236][323]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.48.08:236][323]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2017.04.24-05.48.08:236][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.007049s)
+[2017.04.24-05.48.08:292][323]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.48.08:302][323]LogInit: FAudioDevice initialized.
+[2017.04.24-05.48.08:423][323]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.48.08:426][323]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.48.08
+[2017.04.24-05.48.08:426][323]LogWorld: Bringing up level for play took: 0.001719
+[2017.04.24-05.48.08:435][323]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest 0.079
+[2017.04.24-05.48.08:435][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.09:785][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.09:872][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.14:858][967]BlueprintLog: New page: Compile angelBossAI
+[2017.04.24-05.48.15:502][ 10]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-05.48.15:535][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.15:535][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.48.15:535][ 10]PIE: New page: PIE session: AngelBossAITest (Apr 23, 2017, 9:48:15 PM)
+[2017.04.24-05.48.15:535][ 10]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AngelBossAITest
+[2017.04.24-05.48.15:540][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005266s)
+[2017.04.24-05.48.15:541][ 10]LogAIModule: Creating AISystem for world AngelBossAITest
+[2017.04.24-05.48.15:541][ 10]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2017.04.24-05.48.15:542][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AngelBossAITest.AngelBossAITest to /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest (0.006603s)
+[2017.04.24-05.48.15:598][ 10]LogInit: XAudio2 using 'Headphones (Ausdom M06 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-05.48.15:607][ 10]LogInit: FAudioDevice initialized.
+[2017.04.24-05.48.15:731][ 10]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.48.15:734][ 10]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AngelBossAITest.AngelBossAITest up for play (max tick rate 0) at 2017.04.24-01.48.15
+[2017.04.24-05.48.15:734][ 10]LogWorld: Bringing up level for play took: 0.001787
+[2017.04.24-05.48.15:743][ 10]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AngelBossAITest -0.612
+[2017.04.24-05.48.15:743][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.42:138][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.42:230][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest' with GeneratedClass '/Game/Levels/AngelBossAITest.AngelBossAITest_C' with ClassGeneratedBy '/Game/Levels/AngelBossAITest.AngelBossAITest:PersistentLevel.AngelBossAITest'
+[2017.04.24-05.48.44:025][550]LogSavePackage: Save=77.46ms
+[2017.04.24-05.48.44:025][550]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/angelBossAI0C32F687420CCCAE47C7AB9576A7B7F9.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset'
+[2017.04.24-05.48.44:035][550]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/angelsBoss/angelBossAI.uasset
+[2017.04.24-05.48.45:736][717]LogSavePackage: Save=156.34ms
+[2017.04.24-05.48.45:736][717]LogSavePackage: Moving 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/AngelBossAITestAA00F79748C73EEC3430C9B78024CDEE.tmp' to 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap'
+[2017.04.24-05.48.45:748][717]LogSavePackage:Display: Finished SavePackage D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Levels/AngelBossAITest.umap
+[2017.04.24-05.48.57:781][ 75]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.24-05.48.58:132][ 76]Cmd: QUIT_EDITOR
+[2017.04.24-05.48.58:785][ 76]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.24-05.48.58:826][ 76]LogExit: Preparing to exit.
+[2017.04.24-05.49.00:296][ 76]LogExit: Editor shut down
+[2017.04.24-05.49.00:297][ 76]LogExit: Transaction tracking system shut down
+[2017.04.24-05.49.00:564][ 76]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.24-05.49.00:566][ 76]LogExit: Object subsystem successfully closed.
+[2017.04.24-05.49.00:603][ 76]LogD3D11RHI: Shutdown
+[2017.04.24-05.49.00:604][ 76]LogD3D11RHI: CleanupD3DDevice
+[2017.04.24-05.49.00:787][ 76]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.24-05.49.00:940][ 76]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.24-05.49.00:940][ 76]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8375E47F-4EF0-D380-1098-8594B3DDB8EF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=57fd777c47184b4ce198e59d28693f17%7C37affbd969a64a0b8ebede4037eb50b3%7Ce153f579-52c7-4170-8d5d-6df47f81a337&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.24-05.49.00:964][ 76]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.04.24-05.49.00:965][ 76]LogModuleManager: Shutting down and abandoning module BlueprintGraph (243)
+[2017.04.24-05.49.00:965][ 76]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (242)
+[2017.04.24-05.49.00:967][ 76]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.24-05.49.00:967][ 76]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.24-05.49.00:967][ 76]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.24-05.49.00:967][ 76]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.24-05.49.00:967][ 76]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.24-05.49.00:969][ 76]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.04.24-05.49.00:976][ 76]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.24-05.49.00:976][ 76]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.24-05.49.00:976][ 76]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.24-05.49.00:977][ 76]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Collections/' was aborted.
+[2017.04.24-05.49.00:977][ 76]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/Developers/Steven/Collections/' was aborted.
+[2017.04.24-05.49.00:978][ 76]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Saved/Collections/' was aborted.
+[2017.04.24-05.49.00:978][ 76]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.24-05.49.00:979][ 76]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.24-05.49.00:979][ 76]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.24-05.49.00:979][ 76]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.24-05.49.00:979][ 76]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.24-05.49.00:979][ 76]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.24-05.49.00:979][ 76]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.24-05.49.00:979][ 76]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.24-05.49.00:980][ 76]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.24-05.49.00:980][ 76]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.24-05.49.00:980][ 76]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.24-05.49.00:981][ 76]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.24-05.49.00:981][ 76]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.24-05.49.00:982][ 76]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.24-05.49.00:983][ 76]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.24-05.49.00:984][ 76]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.24-05.49.00:985][ 76]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.24-05.49.00:985][ 76]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.24-05.49.00:985][ 76]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.24-05.49.00:985][ 76]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.24-05.49.00:986][ 76]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.24-05.49.00:986][ 76]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.24-05.49.00:987][ 76]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.24-05.49.00:988][ 76]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.24-05.49.00:989][ 76]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.24-05.49.00:989][ 76]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.24-05.49.00:990][ 76]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.24-05.49.00:990][ 76]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.24-05.49.01:208][ 76]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.24-05.49.01:209][ 76]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.24-05.49.01:209][ 76]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.24-05.49.01:209][ 76]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.24-05.49.01:209][ 76]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.24-05.49.01:210][ 76]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.24-05.49.01:211][ 76]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.24-05.49.01:211][ 76]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.24-05.49.01:212][ 76]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.24-05.49.01:212][ 76]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.24-05.49.01:213][ 76]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.24-05.49.01:214][ 76]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.24-05.49.01:214][ 76]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.24-05.49.01:215][ 76]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.24-05.49.01:215][ 76]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.24-05.49.01:215][ 76]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.24-05.49.01:215][ 76]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.24-05.49.01:216][ 76]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.24-05.49.01:216][ 76]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.24-05.49.01:216][ 76]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.24-05.49.01:216][ 76]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.24-05.49.01:218][ 76]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.24-05.49.01:219][ 76]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.24-05.49.01:219][ 76]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.24-05.49.01:220][ 76]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.24-05.49.01:220][ 76]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.24-05.49.01:264][ 76]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.24-05.49.01:265][ 76]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.24-05.49.01:266][ 76]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.24-05.49.01:268][ 76]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.24-05.49.01:268][ 76]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.24-05.49.01:268][ 76]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.24-05.49.01:269][ 76]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.24-05.49.01:269][ 76]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.24-05.49.01:270][ 76]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.24-05.49.01:281][ 76]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.24-05.49.01:281][ 76]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.24-05.49.01:282][ 76]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.24-05.49.01:283][ 76]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.24-05.49.01:283][ 76]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.24-05.49.01:284][ 76]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.24-05.49.01:285][ 76]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.24-05.49.01:286][ 76]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.24-05.49.01:506][ 76]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.24-05.49.01:507][ 76]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.24-05.49.01:507][ 76]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.24-05.49.01:507][ 76]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.24-05.49.01:507][ 76]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.24-05.49.01:508][ 76]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.24-05.49.01:508][ 76]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.24-05.49.01:508][ 76]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.24-05.49.01:508][ 76]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.24-05.49.01:509][ 76]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.24-05.49.01:509][ 76]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.24-05.49.01:509][ 76]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.24-05.49.01:509][ 76]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.24-05.49.01:511][ 76]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.24-05.49.01:511][ 76]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.24-05.49.01:511][ 76]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.24-05.49.01:511][ 76]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.24-05.49.01:512][ 76]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.24-05.49.01:512][ 76]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.24-05.49.01:512][ 76]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.24-05.49.01:512][ 76]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.24-05.49.01:512][ 76]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.24-05.49.01:513][ 76]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.24-05.49.01:514][ 76]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.24-05.49.01:515][ 76]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.24-05.49.01:515][ 76]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.24-05.49.01:515][ 76]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.24-05.49.01:515][ 76]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.24-05.49.01:516][ 76]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.24-05.49.01:517][ 76]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.24-05.49.01:517][ 76]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.24-05.49.01:517][ 76]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.24-05.49.01:517][ 76]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.24-05.49.01:518][ 76]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.24-05.49.01:518][ 76]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.24-05.49.01:518][ 76]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.24-05.49.01:518][ 76]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.24-05.49.01:519][ 76]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.24-05.49.01:519][ 76]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.24-05.49.01:521][ 76]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.24-05.49.01:523][ 76]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.24-05.49.01:524][ 76]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.24-05.49.01:625][ 76]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.24-05.49.01:726][ 76]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.24-05.49.01:726][ 76]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.24-05.49.01:726][ 76]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.24-05.49.01:726][ 76]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.24-05.49.01:727][ 76]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.24-05.49.01:727][ 76]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.24-05.49.01:727][ 76]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.24-05.49.01:727][ 76]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.24-05.49.01:727][ 76]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.24-05.49.01:727][ 76]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.24-05.49.01:729][ 76]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.24-05.49.01:729][ 76]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.24-05.49.01:731][ 76]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.24-05.49.01:732][ 76]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.24-05.49.01:732][ 76]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.24-05.49.01:732][ 76]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.24-05.49.01:733][ 76]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.24-05.49.01:734][ 76]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.24-05.49.01:734][ 76]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.24-05.49.01:737][ 76]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.24-05.49.01:737][ 76]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.24-05.49.01:745][ 76]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.24-05.49.01:745][ 76]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.24-05.49.01:745][ 76]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.24-05.49.01:746][ 76]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.24-05.49.01:746][ 76]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.24-05.49.01:746][ 76]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.24-05.49.01:746][ 76]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.24-05.49.01:747][ 76]LogDirectoryWatcher: A directory notification for 'D:/Steven/OneDrive - umich.edu/CIS/CIS 488/Github Repository/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.04.24-05.49.01:747][ 76]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.24-05.49.01:752][ 76]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.24-05.49.01:946][ 76]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.24-05.49.01:946][ 76]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.24-05.49.01:946][ 76]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.24-05.49.01:947][ 76]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.24-05.49.01:947][ 76]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.24-05.49.01:947][ 76]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.24-05.49.01:948][ 76]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.24-05.49.01:948][ 76]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.24-05.49.02:028][ 76]LogDerivedDataCache: Shutdown
+[2017.04.24-05.49.02:028][ 76]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.24-05.49.02:028][ 76]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.24-05.49.02:029][ 76]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.24-05.49.02:029][ 76]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.24-05.49.02:030][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.24-05.49.02:030][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.24-05.49.02:030][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.24-05.49.02:030][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.24-05.49.02:031][ 76]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.24-05.49.02:032][ 76]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.24-05.49.02:033][ 76]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.24-05.49.02:033][ 76]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.24-05.49.02:033][ 76]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.24-05.49.02:033][ 76]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.24-05.49.02:034][ 76]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.24-05.49.02:036][ 76]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.24-05.49.02:036][ 76]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.24-05.49.02:038][ 76]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.24-05.49.02:038][ 76]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.24-05.49.02:038][ 76]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.24-05.49.02:038][ 76]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.24-05.49.02:052][ 76]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.24-05.49.02:053][ 76]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.24-05.49.02:053][ 76]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.24-05.49.02:053][ 76]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.24-05.49.02:053][ 76]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.24-05.49.02:053][ 76]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.24-05.49.02:053][ 76]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.24-05.49.02:054][ 76]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.24-05.49.02:054][ 76]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.24-05.49.02:054][ 76]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.24-05.49.02:057][ 76]LogExit: Exiting.
+[2017.04.24-05.49.02:065][ 76]Log file closed, 04/24/17 01:49:02
