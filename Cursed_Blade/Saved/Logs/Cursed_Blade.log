@@ -470,3 +470,23 @@ LogInit: Object subsystem initialized
 [2017.04.24-00.53.52:888][298]LogPackageName:Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
 [2017.04.24-01.02.21:339][932]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2017.04.24-01.03.06:866][ 53]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0032 seconds. Added 111 classes and 0 folders.
+[2017.04.24-01.39.04:462][560]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.24-01.39.04:923][560]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.24-01.39.04:926][560]LightingResults: New page: Lighting Build
+[2017.04.24-01.39.04:941][560]LoadErrors: New page: Loading map: BattlegroundsLevel.umap
+[2017.04.24-01.39.04:984][560]MapCheck: New page: Map Check
+[2017.04.24-01.39.04:984][560]LightingResults: New page: Lighting Build
+[2017.04.24-01.39.05:529][560]LogEditorServer: Finished looking for orphan Actors (0.003 secs)
+[2017.04.24-01.39.05:836][560]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.24-01.39.24:751][560]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 18,914.524ms to complete.
+[2017.04.24-01.39.24:761][560]LogFileHelpers: Loading map 'BattlegroundsLevel' took 19.845
+[2017.04.24-01.40.33:366][917]LogAIModule: Creating AISystem for world TombLevel
+[2017.04.24-01.40.34:018][917]Cmd: MAP LOAD FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/TombLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.24-01.40.34:018][917]LightingResults: New page: Lighting Build
+[2017.04.24-01.40.34:020][917]LoadErrors: New page: Loading map: TombLevel.umap
+[2017.04.24-01.40.34:396][917]MapCheck: New page: Map Check
+[2017.04.24-01.40.34:396][917]LightingResults: New page: Lighting Build
+[2017.04.24-01.40.35:206][917]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2017.04.24-01.40.35:580][917]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.24-01.40.36:500][917]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 919.567ms to complete.
+[2017.04.24-01.40.36:503][917]LogFileHelpers: Loading map 'TombLevel' took 2.488

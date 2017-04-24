@@ -531,3 +531,66 @@ Make sure 'characterBP_C' has been compiled for  K2Node_VariableSet_0
 [2017.04.24-01.37.50:256][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.009995s)
 [2017.04.24-01.37.50:317][227]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
 [2017.04.24-01.37.50:648][227]LogInit: FAudioDevice initialized.
+[2017.04.24-01.37.50:721][227]LogLoad: Game class is 'myGame_C'
+[2017.04.24-01.37.50:725][227]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-21.37.50
+[2017.04.24-01.37.50:725][227]LogWorld: Bringing up level for play took: 0.003338
+[2017.04.24-01.37.50:736][227]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 0.335
+[2017.04.24-01.38.41:298][888]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.24-01.41.07:590][936]BlueprintLog: New page: Compile BattlegroundsLevel
+[2017.04.24-01.41.11:796][ 92]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.24-01.41.11:879][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.41.11:879][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-01.41.11:879][ 92]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 5:41:11 PM)
+[2017.04.24-01.41.11:879][ 92]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.24-01.41.11:889][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009390s)
+[2017.04.24-01.41.11:890][ 92]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.24-01.41.11:890][ 92]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2017.04.24-01.41.11:890][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.010846s)
+[2017.04.24-01.41.11:974][ 92]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-01.41.12:435][ 92]LogInit: FAudioDevice initialized.
+[2017.04.24-01.41.12:543][ 92]LogLoad: Game class is 'myGame_C'
+[2017.04.24-01.41.12:548][ 92]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-21.41.12
+[2017.04.24-01.41.12:549][ 92]LogWorld: Bringing up level for play took: 0.004895
+[2017.04.24-01.41.12:620][ 92]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 0.219
+[2017.04.24-01.41.12:621][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.41.40:623][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.41.40:929][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.41.51:245][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b2)
+[2017.04.24-01.41.53:291][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_03a2)
+[2017.04.24-01.41.54:839][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b2)
+[2017.04.24-01.41.56:431][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_03a2)
+[2017.04.24-01.41.57:743][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_03a3)
+[2017.04.24-01.42.00:250][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b2)
+[2017.04.24-01.42.01:648][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Cliffs_CliffWall_02b)
+[2017.04.24-01.42.03:601][250]LogEditorViewport: Clicking on Actor (LMB): BattlegroundsMessage_C (BattlegroundsMessage)
+[2017.04.24-01.42.55:260][465]BlueprintLog: New page: Compile BattlegroundsMessage
+[2017.04.24-01.42.59:221][534]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.24-01.42.59:324][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.42.59:324][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-01.42.59:325][534]PIE: New page: PIE session: BattlegroundsLevel (Apr 23, 2017, 5:42:59 PM)
+[2017.04.24-01.42.59:325][534]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BattlegroundsLevel
+[2017.04.24-01.42.59:343][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017658s)
+[2017.04.24-01.42.59:344][534]LogAIModule: Creating AISystem for world BattlegroundsLevel
+[2017.04.24-01.42.59:345][534]LogPlayLevel: PIE: World Init took: (0.002167s)
+[2017.04.24-01.42.59:345][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BattlegroundsLevel.BattlegroundsLevel to /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel (0.020627s)
+[2017.04.24-01.42.59:526][534]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.24-01.43.00:205][534]LogInit: FAudioDevice initialized.
+[2017.04.24-01.43.00:315][534]LogLoad: Game class is 'myGame_C'
+[2017.04.24-01.43.00:319][534]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BattlegroundsLevel.BattlegroundsLevel up for play (max tick rate 60) at 2017.04.23-21.43.00
+[2017.04.24-01.43.00:319][534]LogWorld: Bringing up level for play took: 0.003932
+[2017.04.24-01.43.00:369][534]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_BattlegroundsLevel 1.968
+[2017.04.24-01.43.00:370][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.43.25:209][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.43.25:471][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel' with GeneratedClass '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel_C' with ClassGeneratedBy '/Game/Levels/BattlegroundsLevel.BattlegroundsLevel:PersistentLevel.BattlegroundsLevel'
+[2017.04.24-01.44.47:161][217]BlueprintLog: New page: Compile OtherLevelMessage
+[2017.04.24-01.44.56:068][522]LogSavePackage: Save=266.53ms
+[2017.04.24-01.44.56:068][522]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/BattlegroundsLevel0E69FE5F43816FFB0EC38084AE89952A.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap'
+[2017.04.24-01.44.56:129][522]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Levels/BattlegroundsLevel.umap
+[2017.04.24-01.44.56:287][522]LogFileHelpers: Saving map 'BattlegroundsLevel' took 0.865
+[2017.04.24-01.44.56:290][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/BattlegroundsMessage" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/BattlegroundsMessage.uasset" SILENT=true
+[2017.04.24-01.44.56:429][522]LogSavePackage: Save=46.36ms
+[2017.04.24-01.44.56:429][522]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/BattlegroundsMessage9DE7A4EA47308BF20902358FC113C266.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/BattlegroundsMessage.uasset'
+[2017.04.24-01.44.56:486][522]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/BattlegroundsMessage.uasset
+[2017.04.24-01.44.56:490][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/OtherLevelMessage" FILE="../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/OtherLevelMessage.uasset" SILENT=true
+[2017.04.24-01.44.56:578][522]LogSavePackage: Save=50.85ms
+[2017.04.24-01.44.56:578][522]LogSavePackage: Moving '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Saved/OtherLevelMessage303BF1664A69315F55C71C98818D9A36.tmp' to '../../../../../../Users/Luis/Desktop/TheCursedBlade/Cursed_Blade/Content/Pickups/OtherLevelMessage.uasset'
