@@ -487,3 +487,198 @@ LogInit: Object subsystem initialized
 [2017.04.24-04.43.28:421][412]LogSavePackage: Save=157.18ms
 [2017.04.24-04.43.28:421][412]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test0300F63B44953195EFCBA7B058707C58.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
 [2017.04.24-04.43.28:428][412]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.04.24-04.53.29:085][403]LogSavePackage: Save=153.16ms
+[2017.04.24-04.53.29:085][403]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test_Auto5FF8BF2934E6FFFFD11A357B5052E8596.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto5.umap'
+[2017.04.24-04.53.29:088][403]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto5.umap
+[2017.04.24-04.53.29:092][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.231
+[2017.04.24-04.53.29:092][403]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.231
+[2017.04.24-04.53.29:095][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-04.53.29:162][403]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-04.53.29:162][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-04.53.29:241][403]LogSavePackage: Save=63.36ms
+[2017.04.24-04.53.29:241][403]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto50791274644E3526B33FAC596DA7FA3D7.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto5.uasset'
+[2017.04.24-04.53.29:244][403]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto5.uasset
+[2017.04.24-04.53.29:244][403]LogFileHelpers: Auto-saving content packages took 0.150
+[2017.04.24-05.00.56:189][942]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-05.00.57:519][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
+[2017.04.24-05.00.57:615][987]LogSavePackage: Save=73.85ms
+[2017.04.24-05.00.57:615][987]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBossC8531A284379236EBB3466B5CCBA3E1E.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset'
+[2017.04.24-05.00.57:626][987]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset
+[2017.04.24-05.01.00:366][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.24-05.01.00:576][125]LogSavePackage: Save=154.96ms
+[2017.04.24-05.01.00:576][125]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test8903429B4F5F5BB6D6EFB397E76FF856.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.04.24-05.01.00:583][125]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.04.24-05.01.02:842][206]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.24-05.01.02:870][206]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.01.02:870][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.01.02:871][206]PIE: New page: PIE session: AI_Test (Apr 23, 2017, 9:01:02 PM)
+[2017.04.24-05.01.02:871][206]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.24-05.01.02:883][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011771s)
+[2017.04.24-05.01.02:884][206]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.24-05.01.02:885][206]LogPlayLevel: PIE: World Init took: (0.002039s)
+[2017.04.24-05.01.02:885][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.014119s)
+[2017.04.24-05.01.02:935][206]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.24-05.01.02:947][206]LogInit: FAudioDevice initialized.
+[2017.04.24-05.01.02:996][206]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.01.03:003][206]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 60) at 2017.04.24-01.01.03
+[2017.04.24-05.01.03:005][206]LogWorld: Bringing up level for play took: 0.008547
+[2017.04.24-05.01.03:061][206]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 1.032
+[2017.04.24-05.01.03:062][206]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.01.03:889][220]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.04:886][240]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.05:876][260]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.06:861][280]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.07:885][301]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.08:849][321]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.09:871][342]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.10:866][363]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.11:866][384]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.12:850][405]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.13:873][427]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.14:478][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.01.14:732][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.01.40:448][657]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.24-05.01.40:472][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.01.40:472][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-05.01.40:473][657]PIE: New page: PIE session: AI_Test (Apr 23, 2017, 9:01:40 PM)
+[2017.04.24-05.01.40:473][657]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.24-05.01.40:481][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008029s)
+[2017.04.24-05.01.40:481][657]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.24-05.01.40:482][657]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2017.04.24-05.01.40:482][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.009161s)
+[2017.04.24-05.01.40:524][657]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.24-05.01.40:535][657]LogInit: FAudioDevice initialized.
+[2017.04.24-05.01.40:578][657]LogLoad: Game class is 'myGame_C'
+[2017.04.24-05.01.40:582][657]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 60) at 2017.04.24-01.01.40
+[2017.04.24-05.01.40:584][657]LogWorld: Bringing up level for play took: 0.005554
+[2017.04.24-05.01.40:590][657]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.56
+[2017.04.24-05.01.40:590][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.01.41:488][675]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.42:451][695]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.43:483][716]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.44:461][736]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.45:489][757]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.46:460][777]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.47:467][797]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.48:461][818]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.49:492][840]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.50:479][861]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.51:476][882]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.52:476][903]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.53:492][925]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.54:468][947]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.55:478][970]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.56:490][993]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.57:459][ 15]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.58:481][ 33]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.01.59:480][ 53]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.00:471][ 75]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.01:462][ 96]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.02:481][118]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.03:462][139]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.04:493][161]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.05:481][182]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.06:456][203]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.07:471][225]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.08:497][247]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.09:509][268]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.10:492][291]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.11:462][311]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.12:470][331]LogBlueprintUserMessages: [demomBoss_278] Hello
+[2017.04.24-05.02.12:817][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.02.13:059][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-05.11.44:894][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.042
+[2017.04.24-05.11.44:896][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-05.11.44:959][622]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-05.11.44:959][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-05.11.45:042][622]LogSavePackage: Save=64.36ms
+[2017.04.24-05.11.45:042][622]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto63AD180F248370BC0317E0E942B731CBA.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto6.uasset'
+[2017.04.24-05.11.45:046][622]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto6.uasset
+[2017.04.24-05.11.45:046][622]LogFileHelpers: Auto-saving content packages took 0.151
+[2017.04.24-05.21.45:611][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.041
+[2017.04.24-05.21.45:613][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-05.21.45:668][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-05.21.45:668][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-05.21.45:755][730]LogSavePackage: Save=65.82ms
+[2017.04.24-05.21.45:756][730]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto75CAE16E24182CD0A3626D29BB7D994E6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto7.uasset'
+[2017.04.24-05.21.45:758][730]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto7.uasset
+[2017.04.24-05.21.45:758][730]LogFileHelpers: Auto-saving content packages took 0.147
+[2017.04.24-05.45.04:321][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.043
+[2017.04.24-05.45.04:323][330]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-05.45.04:359][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-05.45.04:359][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-05.45.04:453][330]LogSavePackage: Save=74.01ms
+[2017.04.24-05.45.04:453][330]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto878660AEA48F65EADB5CEEB9C6C876196.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto8.uasset'
+[2017.04.24-05.45.04:456][330]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto8.uasset
+[2017.04.24-05.45.04:456][330]LogFileHelpers: Auto-saving content packages took 0.134
+[2017.04.24-05.55.05:127][763]LogSavePackage: Save=159.10ms
+[2017.04.24-05.55.05:127][763]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test_Auto9396AE59A4472DB01525934A47EAE4A6D.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto9.umap'
+[2017.04.24-05.55.05:130][763]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto9.umap
+[2017.04.24-05.55.05:136][763]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.236
+[2017.04.24-05.55.05:136][763]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.236
+[2017.04.24-05.55.05:139][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DemonLord/demomBoss] ([1] browsable assets)...
+[2017.04.24-05.55.05:190][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DemonLord/demomBoss.demomBoss]
+[2017.04.24-05.55.05:190][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/DemonLord/demomBoss]
+[2017.04.24-05.55.05:273][763]LogSavePackage: Save=65.44ms
+[2017.04.24-05.55.05:273][763]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss_Auto9FEB0ABFF4ED861F7D213CDBB1A23E9F5.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto9.uasset'
+[2017.04.24-05.55.05:276][763]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/DemonLord/demomBoss_Auto9.uasset
+[2017.04.24-05.55.05:276][763]LogFileHelpers: Auto-saving content packages took 0.138
+[2017.04.24-06.00.46:577][756]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-06.00.47:971][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
+[2017.04.24-06.00.48:057][804]LogSavePackage: Save=66.09ms
+[2017.04.24-06.00.48:057][804]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss9B8C9FA54E70CB0DE991639CC8B578E2.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset'
+[2017.04.24-06.00.48:066][804]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset
+[2017.04.24-06.01.15:472][440]BlueprintLog: New page: Compile demomBoss
+[2017.04.24-06.01.17:253][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
+[2017.04.24-06.01.17:344][495]LogSavePackage: Save=78.07ms
+[2017.04.24-06.01.17:344][495]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demomBoss3BDE3C65415168AE9B7A019204DF836C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset'
+[2017.04.24-06.01.17:352][495]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset
+[2017.04.24-06.01.19:623][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.24-06.01.19:857][610]LogSavePackage: Save=171.03ms
+[2017.04.24-06.01.19:858][610]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test5A8D5D644B34044A5A2271B6F2E0DC0D.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.04.24-06.01.19:865][610]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.04.24-06.01.22:399][726]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.24-06.01.22:422][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-06.01.22:422][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-06.01.22:422][726]PIE: New page: PIE session: AI_Test (Apr 23, 2017, 10:01:22 PM)
+[2017.04.24-06.01.22:423][726]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.24-06.01.22:429][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006924s)
+[2017.04.24-06.01.22:430][726]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.24-06.01.22:431][726]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2017.04.24-06.01.22:431][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008129s)
+[2017.04.24-06.01.22:468][726]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.24-06.01.22:481][726]LogInit: FAudioDevice initialized.
+[2017.04.24-06.01.22:521][726]LogLoad: Game class is 'myGame_C'
+[2017.04.24-06.01.22:527][726]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 60) at 2017.04.24-02.01.22
+[2017.04.24-06.01.22:529][726]LogWorld: Bringing up level for play took: 0.007428
+[2017.04.24-06.01.22:539][726]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.51
+[2017.04.24-06.01.22:540][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.24-06.01.23:451][746]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.24:437][768]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.25:433][791]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.26:410][812]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.27:415][835]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.28:425][859]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.29:410][883]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.30:415][908]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.31:426][933]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.32:422][958]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.33:434][984]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.34:424][  9]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.35:408][ 32]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.36:425][ 56]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.37:425][ 79]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.38:441][102]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.39:416][125]LogBlueprintUserMessages: [demomBoss_278] CLOSE
+[2017.04.24-06.01.40:416][149]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.41:443][173]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.42:440][197]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.43:422][221]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.44:421][246]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.45:413][271]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.46:406][296]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.47:433][321]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.48:413][343]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.49:425][366]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.50:434][389]LogBlueprintUserMessages: [demomBoss_278] MID
+[2017.04.24-06.01.51:123][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
