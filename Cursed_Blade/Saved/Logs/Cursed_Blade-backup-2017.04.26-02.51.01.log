@@ -1,0 +1,1121 @@
+﻿Log file open, 04/26/17 01:47:49
+LogInit:Display: Running engine for game: Cursed_Blade
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1684521879) SRandInit(1684521879).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.645800
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.26-05.47.49:568][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.26-05.47.49:568][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.26-05.47.49:639][  0]LogInit: Computer: LAPTOP-CP3ESMCT
+[2017.04.26-05.47.49:639][  0]LogInit: User: aerob
+[2017.04.26-05.47.49:639][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.26-05.47.49:639][  0]LogInit: High frequency timer resolution =2.343749 MHz
+[2017.04.26-05.47.49:639][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.04.26-05.47.49:639][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-05.47.49:639][  0]LogMemory: Process Physical Memory: 266.41 MB used, 266.41 MB peak
+[2017.04.26-05.47.49:639][  0]LogMemory: Process Virtual Memory: 262.38 MB used, 262.38 MB peak
+[2017.04.26-05.47.49:639][  0]LogMemory: Physical Memory: 3752.88 MB used,  4329.03 MB free, 8081.91 MB total
+[2017.04.26-05.47.49:639][  0]LogMemory: Virtual Memory: 675.21 MB used,  4329.03 MB free, 134217728.00 MB total
+[2017.04.26-05.47.50:243][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.26-05.47.54:960][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.26-05.47.54:971][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.04.26-05.47.54:971][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.04.26-05.47.54:973][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.26-05.47.54:973][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.26-05.47.54:973][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.26-05.47.54:978][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.26-05.47.54:978][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.26-05.47.54:978][  0]LogWindows: EnumDisplayDevices:
+[2017.04.26-05.47.54:978][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.04.26-05.47.54:979][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.26-05.47.54:979][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.26-05.47.54:979][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.04.26-05.47.54:979][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.04.26-05.47.54:979][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
+[2017.04.26-05.47.54:979][  0]LogD3D11RHI:      Driver Date: 10-24-2016
+[2017.04.26-05.47.54:979][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.26-05.47.54:986][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.26-05.47.54:992][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.04.26-05.47.54:992][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Intermediate/Shaders/WorkingDirectory/3824/).
+[2017.04.26-05.47.54:993][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aerob/AppData/Local/Temp/UnrealShaderWorkingDir/4D0131DA42D7CF10B0F13189CA27E379/'.
+[2017.04.26-05.47.54:993][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.26-05.48.01:033][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.26-05.48.01:112][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.26-05.48.01:189][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.26-05.48.01:266][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.26-05.48.01:377][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.26-05.48.01:454][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.26-05.48.01:535][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.26-05.48.01:613][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.26-05.48.01:684][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.26-05.48.01:790][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.26-05.48.01:867][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.26-05.48.01:946][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.26-05.48.02:025][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.26-05.48.02:104][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.26-05.48.02:183][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.26-05.48.02:344][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.26-05.48.02:344][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.26-05.48.02:405][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.26-05.48.02:617][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.26-05.48.02:663][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.26-05.48.02:739][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.26-05.48.02:816][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.26-05.48.02:895][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.26-05.48.02:973][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.26-05.48.02:973][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.26-05.48.04:396][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.26-05.48.05:146][  0]LogDerivedDataCache: Loaded boot cache 0.75s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.26-05.48.05:146][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.26-05.48.05:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.26-05.48.05:146][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.26-05.48.05:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.26-05.48.05:146][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.26-05.48.05:222][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.26-05.48.05:250][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aerob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.26-05.48.13:611][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.26-05.48.13:615][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.26-05.48.13:951][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.26-05.48.14:029][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.26-05.48.14:102][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.26-05.48.14:102][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.26-05.48.14:102][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.26-05.48.16:041][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: cursed_blade, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3550933385
+[2017.04.26-05.48.16:233][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2017.04.26-05.48.16:329][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.065929 seconds
+[2017.04.26-05.48.16:338][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.26-05.48.16:338][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.04.26-05.48.16:338][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.26-05.48.16:517][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.26-05.48.17:987][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.26-05.48.18:022][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.26-05.48.18:023][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.26-05.48.49:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.26-05.48.50:040][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.26-05.48.50:865][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.26-05.48.51:450][  0]SourceControl: Info Source control is disabled
+[2017.04.26-05.48.52:800][  0]SourceControl: Info Source control is disabled
+[2017.04.26-05.48.52:876][  0]SourceControl: Info Source control is disabled
+[2017.04.26-05.48.52:948][  0]SourceControl: Info Source control is disabled
+[2017.04.26-05.48.55:473][  0]LogEngine: Initializing Engine...
+[2017.04.26-05.48.55:474][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.26-05.48.55:812][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.26-05.48.55:852][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-05.48.56:887][  0]LogInit: FAudioDevice initialized.
+[2017.04.26-05.48.56:919][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/aerob/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.26-05.48.56:928][  0]LogInit: Texture streaming: Enabled
+[2017.04.26-05.48.59:459][  0]LogInit: Transaction tracking system initialized
+[2017.04.26-05.48.59:987][  0]BlueprintLog: New page: Editor Load
+[2017.04.26-05.49.01:421][  0]LocalizationService: Info Localization service is disabled
+[2017.04.26-05.49.03:104][  0]LogConsoleResponse:Display: 
+[2017.04.26-05.49.03:986][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.26-05.49.03:986][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.26-05.49.04:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/' took 0.09s
+[2017.04.26-05.49.06:411][  0]SourceControl: Info Source control is disabled
+[2017.04.26-05.49.06:411][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.26-05.49.06:446][  0]LightingResults: New page: Lighting Build
+[2017.04.26-05.49.06:512][  0]MapCheck: New page: Map Check
+[2017.04.26-05.49.06:512][  0]LightingResults: New page: Lighting Build
+[2017.04.26-05.49.10:249][  0]LogTexture:Display: Building textures: CURSED_BLADE (AutoDXT)
+[2017.04.26-05.49.10:714][  0]LogTexture:Display: Building textures: controls (BGRA8)
+[2017.04.26-05.49.11:074][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2017.04.26-05.49.11:280][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.26-05.49.11:280][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.26-05.49.11:373][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 92.368ms to complete.
+[2017.04.26-05.49.11:373][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 4.962
+[2017.04.26-05.49.11:655][  0]LogCollectionManager: Loaded 0 collections in 0.003330 seconds
+[2017.04.26-05.49.11:756][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Collections/' took 0.01s
+[2017.04.26-05.49.11:756][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' took 0.01s
+[2017.04.26-05.49.11:756][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Collections/' took 0.01s
+[2017.04.26-05.49.11:756][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.04.26-05.49.11:767][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2190 classes and 428 folders.
+[2017.04.26-05.49.11:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.26-05.49.11:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.26-05.49.11:837][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 13 classes and 0 folders.
+[2017.04.26-05.49.11:928][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.04.26-05.49.14:081][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.04.26-05.49.14:149][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.04.26-05.49.14:259][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.26-05.49.14:264][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.26-05.49.14:359][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.04.26-05.49.14:359][  0]LogLoad: (Engine Initialization) Total time: 90.52 seconds
+[2017.04.26-05.49.14:359][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.47 seconds
+[2017.04.26-05.49.14:359][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.26-05.49.14:359][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.26-05.49.14:377][  0]LogOcInput: OculusInput pre-init called
+[2017.04.26-05.49.14:396][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.26-05.49.15:039][  0]LogRenderer: Reallocating scene render targets to support 772x264 NumSamples 1 (Frame:2).
+[2017.04.26-05.49.15:802][  0]LogPackageName:Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.16:179][  2]LogPackageName: SearchForPackageOnDisk took   0.352s, but failed to resolve JW_FlameDungeon.
+[2017.04.26-05.49.16:179][  2]LogPackageName:Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2017.04.26-05.49.16:628][ 22]LogPackageName:Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.17:037][ 47]LogPackageName: SearchForPackageOnDisk took   0.411s, but failed to resolve JW_FlameDungeon.
+[2017.04.26-05.49.17:037][ 47]LogPackageName:Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2017.04.26-05.49.30:860][320]LogPackageName:Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.31:159][326]LogPackageName: SearchForPackageOnDisk took   0.299s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2017.04.26-05.49.31:159][326]LogPackageName:Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2017.04.26-05.49.32:225][347]LogPackageName:Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.32:531][353]LogPackageName: SearchForPackageOnDisk took   0.305s, but failed to resolve JW_Ice_Mountain.
+[2017.04.26-05.49.32:531][353]LogPackageName:Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.04.26-05.49.33:378][369]LogPackageName:Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.33:687][376]LogPackageName: SearchForPackageOnDisk took   0.308s, but failed to resolve FX_Meshes.
+[2017.04.26-05.49.33:687][376]LogPackageName:Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2017.04.26-05.49.33:740][377]LogPackageName:Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.34:045][383]LogPackageName: SearchForPackageOnDisk took   0.304s, but failed to resolve FX_Meshes.
+[2017.04.26-05.49.34:045][383]LogPackageName:Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2017.04.26-05.49.34:380][390]LogPackageName:Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.34:680][396]LogPackageName: SearchForPackageOnDisk took   0.301s, but failed to resolve 'FX_Ambient.
+[2017.04.26-05.49.34:680][396]LogPackageName:Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2017.04.26-05.49.34:851][399]LogPackageName:Warning: String asset reference "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.35:151][405]LogPackageName: SearchForPackageOnDisk took   0.300s, but failed to resolve CastleEffects.
+[2017.04.26-05.49.35:151][405]LogPackageName:Warning: String asset reference "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2017.04.26-05.49.36:723][436]LogPackageName:Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.37:029][442]LogPackageName: SearchForPackageOnDisk took   0.305s, but failed to resolve StaticMesh'FX_Meshes.
+[2017.04.26-05.49.37:029][442]LogPackageName:Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2017.04.26-05.49.37:058][443]LogPackageName:Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.37:371][449]LogPackageName: SearchForPackageOnDisk took   0.312s to resolve m_FogSheet_02.
+[2017.04.26-05.49.38:287][467]LogPackageName:Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.38:591][473]LogPackageName: SearchForPackageOnDisk took   0.304s, but failed to resolve FX_Test_LAN.
+[2017.04.26-05.49.38:591][473]LogPackageName:Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2017.04.26-05.49.40:607][512]LogPackageName:Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.40:885][517]LogPackageName: SearchForPackageOnDisk took   0.278s to resolve m_FogSheet_02.
+[2017.04.26-05.49.40:989][519]LogPackageName:Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.41:300][526]LogPackageName: SearchForPackageOnDisk took   0.310s to resolve m_FogSheet_02.
+[2017.04.26-05.49.41:359][527]LogPackageName:Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.49.41:669][533]LogPackageName: SearchForPackageOnDisk took   0.309s to resolve m_FogSheet_02.
+[2017.04.26-05.50.14:463][155]LogPackageName:Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.14:789][162]LogPackageName: SearchForPackageOnDisk took   0.326s, but failed to resolve JW_Ice_Mountain.
+[2017.04.26-05.50.14:789][162]LogPackageName:Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.04.26-05.50.14:892][164]LogPackageName:Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.15:220][171]LogPackageName: SearchForPackageOnDisk took   0.329s to resolve S_Survival_CA_Chicken_02.
+[2017.04.26-05.50.19:099][245]LogPackageName:Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.19:464][252]LogPackageName: SearchForPackageOnDisk took   0.364s, but failed to resolve JW_Ice_Mountain.
+[2017.04.26-05.50.19:464][252]LogPackageName:Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.04.26-05.50.19:652][256]LogPackageName:Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.19:999][263]LogPackageName: SearchForPackageOnDisk took   0.347s, but failed to resolve Env_ALL_Artifacts.
+[2017.04.26-05.50.19:999][263]LogPackageName:Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2017.04.26-05.50.22:429][310]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.22:755][317]LogPackageName: SearchForPackageOnDisk took   0.326s, but failed to resolve Env_Ice_Rocky.
+[2017.04.26-05.50.22:755][317]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.04.26-05.50.22:790][318]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.23:117][324]LogPackageName: SearchForPackageOnDisk took   0.327s, but failed to resolve Env_Ice_Rocky.
+[2017.04.26-05.50.23:117][324]LogPackageName:Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.04.26-05.50.27:142][401]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.27:433][407]LogPackageName: SearchForPackageOnDisk took   0.292s, but failed to resolve Exo_Deco01.
+[2017.04.26-05.50.27:433][407]LogPackageName:Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
+[2017.04.26-05.50.28:040][418]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow. Please consider resaving package in order to speed-up loading.
+[2017.04.26-05.50.28:329][424]LogPackageName: SearchForPackageOnDisk took   0.290s, but failed to resolve Env_Ice_RuinedWalls001.
+[2017.04.26-05.50.28:329][424]LogPackageName:Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
+[2017.04.26-05.50.40:647][658]LogAssetRegistry: Asset discovery search completed in 144.4364 seconds
+[2017.04.26-05.50.40:647][658]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.26-05.50.40:647][658]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2017.04.26-06.15.19:800][815]LogRenderer: Reallocating scene render targets to support 856x576 NumSamples 1 (Frame:9894).
+[2017.04.26-06.18.11:223][308]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.061
+[2017.04.26-06.18.11:228][308]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.04.26-06.18.11:228][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2017.04.26-06.18.11:253][308]LogSavePackage: Save=9.18ms
+[2017.04.26-06.18.11:253][308]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton_Auto16BEAE34B4D0A6B1D90F4FB9239E7DEF2.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset'
+[2017.04.26-06.18.11:256][308]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset
+[2017.04.26-06.18.11:256][308]LogFileHelpers: Auto-saving content packages took 0.031
+[2017.04.26-06.21.08:042][962]LogSavePackage: Save=9.66ms
+[2017.04.26-06.21.08:042][962]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_Skeleton054F3EA343DE833BA95345BA355B486B.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2017.04.26-06.21.08:051][962]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2017.04.26-06.24.59:400][302]LogSavePackage: Save=29.96ms
+[2017.04.26-06.24.59:400][302]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/sk_CharM_BaseEEBF2BB64D0A45504C3A66B56C178470.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset'
+[2017.04.26-06.24.59:409][302]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset
+[2017.04.26-06.31.16:577][694]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.31.16:639][694]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.26-06.31.16:639][694]LightingResults: New page: Lighting Build
+[2017.04.26-06.31.16:641][694]LoadErrors: New page: Loading map: AI_Test.umap
+[2017.04.26-06.31.16:642][694]MapCheck: New page: Map Check
+[2017.04.26-06.31.16:642][694]LightingResults: New page: Lighting Build
+[2017.04.26-06.31.16:766][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.26-06.31.16:853][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.26-06.31.16:976][694]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 122.463ms to complete.
+[2017.04.26-06.31.16:976][694]LogFileHelpers: Loading map 'AI_Test' took 0.338
+[2017.04.26-06.32.00:688][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.26-06.32.58:121][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/left_turn_46.left_turn_46
+[2017.04.26-06.32.58:152][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/left_turn_46.left_turn_46
+[2017.04.26-06.32.58:178][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle2.mutant_idle2
+[2017.04.26-06.32.58:212][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle2.mutant_idle2
+[2017.04.26-06.32.58:252][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle_2.mutant_idle_2
+[2017.04.26-06.32.58:266][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle_2.mutant_idle_2
+[2017.04.26-06.32.58:290][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping2.mutant_jumping2
+[2017.04.26-06.32.58:299][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping2.mutant_jumping2
+[2017.04.26-06.32.58:311][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping_2.mutant_jumping_2
+[2017.04.26-06.32.58:314][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping_2.mutant_jumping_2
+[2017.04.26-06.32.58:335][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_left_turn_46.mutant_left_turn_46
+[2017.04.26-06.32.58:339][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_left_turn_46.mutant_left_turn_46
+[2017.04.26-06.32.58:351][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_46.mutant_right_turn_46
+[2017.04.26-06.32.58:363][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_46.mutant_right_turn_46
+[2017.04.26-06.32.58:373][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_91.mutant_right_turn_91
+[2017.04.26-06.32.58:380][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_91.mutant_right_turn_91
+[2017.04.26-06.32.58:410][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45_2.mutant_right_turn_45_2
+[2017.04.26-06.32.58:414][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45_2.mutant_right_turn_45_2
+[2017.04.26-06.32.58:427][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_run_inPlace2.mutant_run_inPlace2
+[2017.04.26-06.32.58:447][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_run_inPlace2.mutant_run_inPlace2
+[2017.04.26-06.32.58:464][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_walking_inPlace2.mutant_walking_inPlace2
+[2017.04.26-06.32.58:468][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_walking_inPlace2.mutant_walking_inPlace2
+[2017.04.26-06.33.10:348][178]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.26-06.35.05:741][582]LogSavePackage: Save=20.59ms
+[2017.04.26-06.35.05:741][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/left_turn_4624F75DDD4D9F50E709B506AD705E4BB4.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/left_turn_46.uasset'
+[2017.04.26-06.35.05:752][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/left_turn_46.uasset
+[2017.04.26-06.35.05:847][582]LogSavePackage: Save=21.08ms
+[2017.04.26-06.35.05:847][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_idle_2D5F3CE2B46FCAD934231099189103DCC.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle_2.uasset'
+[2017.04.26-06.35.05:854][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle_2.uasset
+[2017.04.26-06.35.05:952][582]LogSavePackage: Save=23.54ms
+[2017.04.26-06.35.05:952][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_idle23D4654804600B6D1C2AE84B8749743E4.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle2.uasset'
+[2017.04.26-06.35.05:959][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle2.uasset
+[2017.04.26-06.35.06:047][582]LogSavePackage: Save=18.61ms
+[2017.04.26-06.35.06:047][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping_2CA8981F14029DFE48BAF6BB9C206B7D7.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping_2.uasset'
+[2017.04.26-06.35.06:054][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping_2.uasset
+[2017.04.26-06.35.06:141][582]LogSavePackage: Save=21.06ms
+[2017.04.26-06.35.06:141][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping29CDCB9BA4AAC2EDCF2B2D484946B89D6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping2.uasset'
+[2017.04.26-06.35.06:149][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping2.uasset
+[2017.04.26-06.35.06:236][582]LogSavePackage: Save=19.05ms
+[2017.04.26-06.35.06:237][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_left_turn_46B7615A8C4F12544DC7F73C80F25152DE.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_left_turn_46.uasset'
+[2017.04.26-06.35.06:244][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_left_turn_46.uasset
+[2017.04.26-06.35.06:332][582]LogSavePackage: Save=19.00ms
+[2017.04.26-06.35.06:332][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_460555BEB04CB3086042092BA7A44086F6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_46.uasset'
+[2017.04.26-06.35.06:340][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_46.uasset
+[2017.04.26-06.35.06:430][582]LogSavePackage: Save=19.72ms
+[2017.04.26-06.35.06:430][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_91C6393DD24B9802E158C2F0BFD6EDA4E6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_91.uasset'
+[2017.04.26-06.35.06:438][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_91.uasset
+[2017.04.26-06.35.06:559][582]LogSavePackage: Save=48.37ms
+[2017.04.26-06.35.06:559][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_45_2325C5D164032CEEBE0AAA4BA83C7C4F9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_45_2.uasset'
+[2017.04.26-06.35.06:566][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_45_2.uasset
+[2017.04.26-06.35.06:696][582]LogSavePackage: Save=40.98ms
+[2017.04.26-06.35.06:697][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_run_inPlace2117D50684B4AAD62E5697E840E121DF9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_run_inPlace2.uasset'
+[2017.04.26-06.35.06:722][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_run_inPlace2.uasset
+[2017.04.26-06.35.06:836][582]LogSavePackage: Save=37.84ms
+[2017.04.26-06.35.06:836][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_walking_inPlace26DE032034F21F8BD338D09A99F51D558.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_walking_inPlace2.uasset'
+[2017.04.26-06.35.06:846][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_walking_inPlace2.uasset
+[2017.04.26-06.35.55:031][259]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.26-06.37.24:613][ 78]LogSavePackage: Save=24.88ms
+[2017.04.26-06.37.24:613][ 78]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demon__idelWalkRunD839C8964E2B8EF35C4A76B9419F2C84.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demon__idelWalkRun.uasset'
+[2017.04.26-06.37.24:619][ 78]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demon__idelWalkRun.uasset
+[2017.04.26-06.40.54:352][954]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.26-06.41.08:043][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.26-06.41.08:291][ 54]LogSavePackage: Save=190.75ms
+[2017.04.26-06.41.08:291][ 54]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test31F06A614BB66F4EBEC97EA210B6C35E.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.04.26-06.41.08:300][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.04.26-06.41.39:123][236]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 111 classes and 0 folders.
+[2017.04.26-06.41.40:708][236]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.26-06.41.43:911][261]LogSavePackage: Save=22.16ms
+[2017.04.26-06.41.43:911][261]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonMinionAnimBP118707D24ECBD09CFC8AFFADC2241CE9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset'
+[2017.04.26-06.41.43:917][261]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset
+[2017.04.26-06.41.50:843][367]LogSavePackage: Save=8.91ms
+[2017.04.26-06.41.50:843][367]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_SkeletonA555F006495D6DDF0F344EB879BFEEEF.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2017.04.26-06.41.50:850][367]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2017.04.26-06.42.45:838][467]BlueprintLog: New page: Compile demonMinionAnimBP
+[2017.04.26-06.42.45:993][467]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.04.26-06.43.12:128][ 17]LogSavePackage: Save=27.05ms
+[2017.04.26-06.43.12:128][ 17]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonMinionAnimBPFF1A87A14062D6C5FBFABF8792E71291.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset'
+[2017.04.26-06.43.12:136][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset
+[2017.04.26-06.44.09:344][128]LogRenderer: Reallocating scene render targets to support 912x576 NumSamples 1 (Frame:34002).
+[2017.04.26-06.44.09:595][129]LogRenderer: Reallocating scene render targets to support 960x576 NumSamples 1 (Frame:34004).
+[2017.04.26-06.44.09:652][129]LogRenderer: Reallocating scene render targets to support 964x576 NumSamples 1 (Frame:34006).
+[2017.04.26-06.44.41:094][545]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2017.04.26-06.44.47:301][609]LogSavePackage: Save=10.99ms
+[2017.04.26-06.44.47:301][609]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_Skeleton7F7B9B1B4C81715CE650D8B9324F5D1F.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset'
+[2017.04.26-06.44.47:338][609]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset
+[2017.04.26-06.44.57:735][694]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.26-06.45.00:162][725]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.26-06.45.00:192][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-06.45.00:192][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.26-06.45.00:221][725]PIE: New page: PIE session: AI_Test (Apr 25, 2017, 10:45:00 PM)
+[2017.04.26-06.45.00:221][725]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.00:236][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014535s)
+[2017.04.26-06.45.00:236][725]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.00:237][725]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.04.26-06.45.00:237][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.015831s)
+[2017.04.26-06.45.00:288][725]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-06.45.00:303][725]LogInit: FAudioDevice initialized.
+[2017.04.26-06.45.00:394][725]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.00:400][725]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.00
+[2017.04.26-06.45.00:402][725]LogWorld: Bringing up level for play took: 0.007852
+[2017.04.26-06.45.00:473][725]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2017.04.26-06.45.00:482][725]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.47
+[2017.04.26-06.45.00:482][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-06.45.00:538][725]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:34769).
+[2017.04.26-06.45.03:440][748]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.03:440][748]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.03:618][748]Cmd: MEM
+[2017.04.26-06.45.03:656][748]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.03:656][748]LogMemory: Process Physical Memory: 2720.07 MB used, 2730.40 MB peak
+[2017.04.26-06.45.03:656][748]LogMemory: Process Virtual Memory: 3483.77 MB used, 3494.70 MB peak
+[2017.04.26-06.45.03:656][748]LogMemory: Physical Memory: 5756.57 MB used,  2325.34 MB free, 8081.91 MB total
+[2017.04.26-06.45.03:656][748]LogMemory: Virtual Memory: 4327.26 MB used,  2325.34 MB free, 134217728.00 MB total
+[2017.04.26-06.45.03:656][748]LogMemory: 
+[2017.04.26-06.45.03:656][748]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.03:656][748]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.03:664][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007747s)
+[2017.04.26-06.45.03:664][748]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.03:665][748]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2017.04.26-06.45.03:665][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008593s)
+[2017.04.26-06.45.03:665][748]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.03:671][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.03
+[2017.04.26-06.45.03:673][748]LogWorld: Bringing up level for play took: 0.007666
+[2017.04.26-06.45.03:707][748]LogLoad: Took 0.266053 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.07:238][777]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.07:238][777]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.07:406][777]Cmd: MEM
+[2017.04.26-06.45.07:445][777]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.07:445][777]LogMemory: Process Physical Memory: 2638.73 MB used, 2730.40 MB peak
+[2017.04.26-06.45.07:445][777]LogMemory: Process Virtual Memory: 3384.57 MB used, 3494.70 MB peak
+[2017.04.26-06.45.07:445][777]LogMemory: Physical Memory: 5677.62 MB used,  2404.29 MB free, 8081.91 MB total
+[2017.04.26-06.45.07:445][777]LogMemory: Virtual Memory: 4314.07 MB used,  2404.29 MB free, 134217728.00 MB total
+[2017.04.26-06.45.07:445][777]LogMemory: 
+[2017.04.26-06.45.07:445][777]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.07:445][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.07:453][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007709s)
+[2017.04.26-06.45.07:453][777]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.07:454][777]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2017.04.26-06.45.07:454][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008740s)
+[2017.04.26-06.45.07:454][777]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.07:460][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.07
+[2017.04.26-06.45.07:462][777]LogWorld: Bringing up level for play took: 0.007763
+[2017.04.26-06.45.07:465][777]LogLoad: Took 0.227282 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.10:946][806]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.10:946][806]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.11:107][806]Cmd: MEM
+[2017.04.26-06.45.11:147][806]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.11:147][806]LogMemory: Process Physical Memory: 2564.88 MB used, 2730.40 MB peak
+[2017.04.26-06.45.11:147][806]LogMemory: Process Virtual Memory: 3304.89 MB used, 3494.70 MB peak
+[2017.04.26-06.45.11:147][806]LogMemory: Physical Memory: 5602.86 MB used,  2479.05 MB free, 8081.91 MB total
+[2017.04.26-06.45.11:147][806]LogMemory: Virtual Memory: 4298.69 MB used,  2479.05 MB free, 134217728.00 MB total
+[2017.04.26-06.45.11:147][806]LogMemory: 
+[2017.04.26-06.45.11:147][806]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.11:147][806]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.11:155][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008139s)
+[2017.04.26-06.45.11:156][806]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.11:156][806]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2017.04.26-06.45.11:156][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.009029s)
+[2017.04.26-06.45.11:156][806]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.11:163][806]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.11
+[2017.04.26-06.45.11:165][806]LogWorld: Bringing up level for play took: 0.008140
+[2017.04.26-06.45.11:168][806]LogLoad: Took 0.221393 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.13:993][830]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.13:993][830]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.14:165][830]Cmd: MEM
+[2017.04.26-06.45.14:203][830]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.14:203][830]LogMemory: Process Physical Memory: 2548.92 MB used, 2730.40 MB peak
+[2017.04.26-06.45.14:203][830]LogMemory: Process Virtual Memory: 3302.00 MB used, 3494.70 MB peak
+[2017.04.26-06.45.14:203][830]LogMemory: Physical Memory: 5586.78 MB used,  2495.13 MB free, 8081.91 MB total
+[2017.04.26-06.45.14:203][830]LogMemory: Virtual Memory: 4298.69 MB used,  2495.13 MB free, 134217728.00 MB total
+[2017.04.26-06.45.14:203][830]LogMemory: 
+[2017.04.26-06.45.14:203][830]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.14:203][830]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.14:212][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007717s)
+[2017.04.26-06.45.14:212][830]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.14:212][830]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2017.04.26-06.45.14:212][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008596s)
+[2017.04.26-06.45.14:213][830]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.14:219][830]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.14
+[2017.04.26-06.45.14:221][830]LogWorld: Bringing up level for play took: 0.007773
+[2017.04.26-06.45.14:224][830]LogLoad: Took 0.230145 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.16:924][854]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.16:924][854]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.17:093][854]Cmd: MEM
+[2017.04.26-06.45.17:130][854]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.17:130][854]LogMemory: Process Physical Memory: 2557.34 MB used, 2730.40 MB peak
+[2017.04.26-06.45.17:130][854]LogMemory: Process Virtual Memory: 3303.18 MB used, 3494.70 MB peak
+[2017.04.26-06.45.17:130][854]LogMemory: Physical Memory: 5595.03 MB used,  2486.88 MB free, 8081.91 MB total
+[2017.04.26-06.45.17:130][854]LogMemory: Virtual Memory: 4298.69 MB used,  2486.88 MB free, 134217728.00 MB total
+[2017.04.26-06.45.17:130][854]LogMemory: 
+[2017.04.26-06.45.17:130][854]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.17:130][854]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.17:138][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007805s)
+[2017.04.26-06.45.17:139][854]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.17:139][854]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.04.26-06.45.17:140][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008728s)
+[2017.04.26-06.45.17:140][854]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.17:146][854]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.17
+[2017.04.26-06.45.17:148][854]LogWorld: Bringing up level for play took: 0.007591
+[2017.04.26-06.45.17:151][854]LogLoad: Took 0.226876 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.19:870][879]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.19:873][879]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.20:033][879]Cmd: MEM
+[2017.04.26-06.45.20:071][879]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.20:071][879]LogMemory: Process Physical Memory: 2567.36 MB used, 2730.40 MB peak
+[2017.04.26-06.45.20:071][879]LogMemory: Process Virtual Memory: 3334.65 MB used, 3494.70 MB peak
+[2017.04.26-06.45.20:071][879]LogMemory: Physical Memory: 5605.78 MB used,  2476.13 MB free, 8081.91 MB total
+[2017.04.26-06.45.20:071][879]LogMemory: Virtual Memory: 4314.69 MB used,  2476.13 MB free, 134217728.00 MB total
+[2017.04.26-06.45.20:071][879]LogMemory: 
+[2017.04.26-06.45.20:071][879]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.20:071][879]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.20:079][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007910s)
+[2017.04.26-06.45.20:079][879]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.20:079][879]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2017.04.26-06.45.20:080][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008838s)
+[2017.04.26-06.45.20:080][879]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.20:085][879]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.20
+[2017.04.26-06.45.20:088][879]LogWorld: Bringing up level for play took: 0.007265
+[2017.04.26-06.45.20:091][879]LogLoad: Took 0.218041 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.23:647][910]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.23:648][910]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.23:806][910]Cmd: MEM
+[2017.04.26-06.45.23:845][910]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.23:845][910]LogMemory: Process Physical Memory: 2575.11 MB used, 2730.40 MB peak
+[2017.04.26-06.45.23:845][910]LogMemory: Process Virtual Memory: 3327.39 MB used, 3494.70 MB peak
+[2017.04.26-06.45.23:845][910]LogMemory: Physical Memory: 5613.45 MB used,  2468.45 MB free, 8081.91 MB total
+[2017.04.26-06.45.23:845][910]LogMemory: Virtual Memory: 4314.69 MB used,  2468.45 MB free, 134217728.00 MB total
+[2017.04.26-06.45.23:845][910]LogMemory: 
+[2017.04.26-06.45.23:845][910]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.23:845][910]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.23:853][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008017s)
+[2017.04.26-06.45.23:854][910]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.23:854][910]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.04.26-06.45.23:854][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008975s)
+[2017.04.26-06.45.23:854][910]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.23:862][910]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.23
+[2017.04.26-06.45.23:864][910]LogWorld: Bringing up level for play took: 0.008814
+[2017.04.26-06.45.23:867][910]LogLoad: Took 0.219078 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.26:593][934]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.26:596][934]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.26:765][934]Cmd: MEM
+[2017.04.26-06.45.26:802][934]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.26:802][934]LogMemory: Process Physical Memory: 2558.63 MB used, 2730.40 MB peak
+[2017.04.26-06.45.26:802][934]LogMemory: Process Virtual Memory: 3316.76 MB used, 3494.70 MB peak
+[2017.04.26-06.45.26:802][934]LogMemory: Physical Memory: 5598.38 MB used,  2483.53 MB free, 8081.91 MB total
+[2017.04.26-06.45.26:802][934]LogMemory: Virtual Memory: 4314.69 MB used,  2483.53 MB free, 134217728.00 MB total
+[2017.04.26-06.45.26:802][934]LogMemory: 
+[2017.04.26-06.45.26:802][934]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.26:802][934]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.26:810][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007907s)
+[2017.04.26-06.45.26:811][934]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.26:811][934]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2017.04.26-06.45.26:811][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008789s)
+[2017.04.26-06.45.26:811][934]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.26:816][934]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.26
+[2017.04.26-06.45.26:818][934]LogWorld: Bringing up level for play took: 0.006883
+[2017.04.26-06.45.26:821][934]LogLoad: Took 0.224986 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.29:506][958]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.29:506][958]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.29:670][958]Cmd: MEM
+[2017.04.26-06.45.29:708][958]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.29:708][958]LogMemory: Process Physical Memory: 2567.16 MB used, 2730.40 MB peak
+[2017.04.26-06.45.29:708][958]LogMemory: Process Virtual Memory: 3334.31 MB used, 3494.70 MB peak
+[2017.04.26-06.45.29:708][958]LogMemory: Physical Memory: 5606.46 MB used,  2475.45 MB free, 8081.91 MB total
+[2017.04.26-06.45.29:708][958]LogMemory: Virtual Memory: 4314.69 MB used,  2475.45 MB free, 134217728.00 MB total
+[2017.04.26-06.45.29:708][958]LogMemory: 
+[2017.04.26-06.45.29:708][958]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.29:708][958]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.29:716][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007711s)
+[2017.04.26-06.45.29:717][958]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.29:717][958]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.04.26-06.45.29:717][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008852s)
+[2017.04.26-06.45.29:717][958]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.29:725][958]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.29
+[2017.04.26-06.45.29:728][958]LogWorld: Bringing up level for play took: 0.009750
+[2017.04.26-06.45.29:731][958]LogLoad: Took 0.225261 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.33:340][989]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.33:341][989]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.33:500][989]Cmd: MEM
+[2017.04.26-06.45.33:538][989]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.33:538][989]LogMemory: Process Physical Memory: 2569.80 MB used, 2730.40 MB peak
+[2017.04.26-06.45.33:538][989]LogMemory: Process Virtual Memory: 3318.35 MB used, 3494.70 MB peak
+[2017.04.26-06.45.33:538][989]LogMemory: Physical Memory: 5609.52 MB used,  2472.39 MB free, 8081.91 MB total
+[2017.04.26-06.45.33:538][989]LogMemory: Virtual Memory: 4314.69 MB used,  2472.39 MB free, 134217728.00 MB total
+[2017.04.26-06.45.33:538][989]LogMemory: 
+[2017.04.26-06.45.33:538][989]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.33:538][989]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.33:545][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007401s)
+[2017.04.26-06.45.33:546][989]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.33:546][989]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2017.04.26-06.45.33:546][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008328s)
+[2017.04.26-06.45.33:546][989]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.33:553][989]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.33
+[2017.04.26-06.45.33:555][989]LogWorld: Bringing up level for play took: 0.008022
+[2017.04.26-06.45.33:558][989]LogLoad: Took 0.217731 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.35:305][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-06.45.35:600][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-06.47.37:898][802]LogSavePackage: Save=24.27ms
+[2017.04.26-06.47.37:898][802]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/sk_CharM_Base134B962242AE652DFB9FB99C6F37C71A.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset'
+[2017.04.26-06.47.37:905][802]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:BndEvt__Collision_K2Node_ComponentBoundEvent_4_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:ExecuteUbergraph_nightshadeProjectile' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:UserConstructionScript' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:LightEffect' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:ProjectileMovement' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:ProjectileCollision' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:ProjectileMesh' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.nightshadeProjectile_C:DefaultSceneRoot' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:DefaultSceneRoot' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:ProjectileMesh' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:ProjectileCollision' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:ProjectileMovement' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:LightEffect' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:UserConstructionScript' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:ExecuteUbergraph_nightshadeProjectile' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C:BndEvt__Collision_K2Node_ComponentBoundEvent_4_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:585][934]LogMetaData: Removing '/Game/demons/nightshade/nightshadeProjectile.SKEL_nightshadeProjectile_C' ref from Metadata '/Game/demons/nightshadeProjectile.PackageMetaData'
+[2017.04.26-06.49.49:977][934]LogSavePackage: Save=358.05ms
+[2017.04.26-06.49.49:977][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_diffuseB5E48FAD46DAE3DB0D16E5B4394586C0.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_diffuse.uasset'
+[2017.04.26-06.49.49:984][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_diffuse.uasset
+[2017.04.26-06.49.50:027][934]LogSavePackage: Save=26.38ms
+[2017.04.26-06.49.50:027][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_glow289BDCDF4F392298B5DE32BE58D5DB08.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_glow.uasset'
+[2017.04.26-06.49.50:034][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_glow.uasset
+[2017.04.26-06.49.50:170][934]LogSavePackage: Save=62.18ms
+[2017.04.26-06.49.50:170][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_FriedrichBE00686F4084536268910FA01894A99F.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich.uasset'
+[2017.04.26-06.49.50:177][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich.uasset
+[2017.04.26-06.49.50:270][934]LogSavePackage: Save=18.94ms
+[2017.04.26-06.49.50:270][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_Anim_mixamo_comA467605A419ECAD9A58CC5A709835616.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_Anim_mixamo_com.uasset'
+[2017.04.26-06.49.50:275][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_Anim_mixamo_com.uasset
+[2017.04.26-06.49.50:365][934]LogSavePackage: Save=23.35ms
+[2017.04.26-06.49.50:365][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_Anim_Take_001D0D6A57A4C4F3166339B9EA426BD84F9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_Anim_Take_001.uasset'
+[2017.04.26-06.49.50:373][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_Anim_Take_001.uasset
+[2017.04.26-06.49.50:397][934]LogSavePackage: Save=17.26ms
+[2017.04.26-06.49.50:397][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_PhysicsAsset6476A56E43CCD653D1B5BFB518D1F6CF.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_PhysicsAsset.uasset'
+[2017.04.26-06.49.50:403][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_PhysicsAsset.uasset
+[2017.04.26-06.49.50:426][934]LogSavePackage: Save=11.83ms
+[2017.04.26-06.49.50:426][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_SkeletonBABDEC53458B6D0D81EBC2A674C29A9F.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_Skeleton.uasset'
+[2017.04.26-06.49.50:463][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_J_Friedrich_Skeleton.uasset
+[2017.04.26-06.49.50:597][934]LogSavePackage: Save=42.61ms
+[2017.04.26-06.49.50:597][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_MAT9839E40C4BA8B8113A79C59322282C8A.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_MAT.uasset'
+[2017.04.26-06.49.50:605][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_MAT.uasset
+[2017.04.26-06.49.50:920][934]LogSavePackage: Save=290.90ms
+[2017.04.26-06.49.50:920][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_normal0127617C4209DDF02DCB63845B7F46A7.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_normal.uasset'
+[2017.04.26-06.49.50:925][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_normal.uasset
+[2017.04.26-06.49.51:334][934]LogSavePackage: Save=386.91ms
+[2017.04.26-06.49.51:334][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_specularD9B27A154105BFB7C9E5528700D9DA07.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_specular.uasset'
+[2017.04.26-06.49.51:340][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/Nightshade_specular.uasset
+[2017.04.26-06.49.51:475][934]LogSavePackage: Save=64.70ms
+[2017.04.26-06.49.51:475][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/nightshadeProjectileA905D81C44BB8414E023F5B530873721.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/nightshadeProjectile.uasset'
+[2017.04.26-06.49.51:481][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightshade/nightshadeProjectile.uasset
+[2017.04.26-06.49.52:741][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonRangedAI" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset" SILENT=true
+[2017.04.26-06.49.52:817][934]LogSavePackage: Save=61.19ms
+[2017.04.26-06.49.52:817][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonRangedAI6D13830B41691AD1B7C7EE84D75E1B09.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset'
+[2017.04.26-06.49.52:821][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset
+[2017.04.26-06.49.52:887][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demon_anim/jump_attack" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/jump_attack.uasset" SILENT=true
+[2017.04.26-06.49.52:925][934]LogSavePackage: Save=24.42ms
+[2017.04.26-06.49.52:925][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/jump_attackD2362DCD41F6338171DC72A9AB1EDF3F.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/jump_attack.uasset'
+[2017.04.26-06.49.52:929][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/jump_attack.uasset
+[2017.04.26-06.49.52:993][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demon_anim/mutant_dying" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_dying.uasset" SILENT=true
+[2017.04.26-06.49.53:135][934]LogSavePackage: Save=82.46ms
+[2017.04.26-06.49.53:136][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_dyingB28B16DC499A6013806845A5EF5D592B.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_dying.uasset'
+[2017.04.26-06.49.53:142][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_dying.uasset
+[2017.04.26-06.49.53:284][934]LogSavePackage: Save=32.10ms
+[2017.04.26-06.49.53:284][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_jump_attack3594BA9D49637B8643D1D6BB357C8286.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_jump_attack.uasset'
+[2017.04.26-06.49.53:288][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_jump_attack.uasset
+[2017.04.26-06.49.53:358][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demon_anim/mutant_punch" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_punch.uasset" SILENT=true
+[2017.04.26-06.49.53:411][934]LogSavePackage: Save=29.15ms
+[2017.04.26-06.49.53:411][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_punch73C286F64309D4F0B703D5A9E876325A.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_punch.uasset'
+[2017.04.26-06.49.53:415][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_punch.uasset
+[2017.04.26-06.49.53:526][934]LogSavePackage: Save=25.92ms
+[2017.04.26-06.49.53:526][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_roaringE13EC6EC452980AE0DEEAC8B5202DEBC.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_roaring.uasset'
+[2017.04.26-06.49.53:530][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_roaring.uasset
+[2017.04.26-06.49.53:653][934]LogSavePackage: Save=21.94ms
+[2017.04.26-06.49.53:653][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_swiping17FF19A4444CCC608C08E49013BBAABD.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_swiping.uasset'
+[2017.04.26-06.49.53:657][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/mutant_swiping.uasset
+[2017.04.26-06.49.53:761][934]LogSavePackage: Save=20.59ms
+[2017.04.26-06.49.53:761][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_1H_Magic_Attack_014E5F99A64C250C130D322FB0C71D4F57.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/Standing_1H_Magic_Attack_01.uasset'
+[2017.04.26-06.49.53:764][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/Standing_1H_Magic_Attack_01.uasset
+[2017.04.26-06.49.53:912][934]LogSavePackage: Save=29.46ms
+[2017.04.26-06.49.53:912][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_2H_Magic_Area_Attack_02FDDF79F54B5FD88D58EA1AB436F09039.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/Standing_2H_Magic_Area_Attack_02.uasset'
+[2017.04.26-06.49.53:915][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/Standing_2H_Magic_Area_Attack_02.uasset
+[2017.04.26-06.49.54:023][934]LogSavePackage: Save=22.42ms
+[2017.04.26-06.49.54:023][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_React_Death_BackwardD18A1E6844C699AFDF44E6AADBAC8C8B.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/Standing_React_Death_Backward.uasset'
+[2017.04.26-06.49.54:026][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/Standing_React_Death_Backward.uasset
+[2017.04.26-06.49.54:126][934]LogSavePackage: Save=20.03ms
+[2017.04.26-06.49.54:126][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/sword_and_shield_casting_26A072F934F9C9167E1B57E8B98041583.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/sword_and_shield_casting_2.uasset'
+[2017.04.26-06.49.54:129][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_anim/sword_and_shield_casting_2.uasset
+[2017.04.26-06.49.54:237][934]LogSavePackage: Save=21.27ms
+[2017.04.26-06.49.54:237][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/left_turn_4545DB7AFC49398279880FCBB1D308088C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/left_turn_45.uasset'
+[2017.04.26-06.49.54:240][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/left_turn_45.uasset
+[2017.04.26-06.49.54:338][934]LogSavePackage: Save=19.85ms
+[2017.04.26-06.49.54:338][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_902DC4AF2C4E16ECAF0555538C511254C2.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_90.uasset'
+[2017.04.26-06.49.54:341][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_90.uasset
+[2017.04.26-06.49.54:444][934]LogSavePackage: Save=20.05ms
+[2017.04.26-06.49.54:444][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_run_inPlace668BF9FC47B0A9E017F1ACB7EB591517.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_run_inPlace.uasset'
+[2017.04.26-06.49.54:448][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_run_inPlace.uasset
+[2017.04.26-06.49.54:554][934]LogSavePackage: Save=20.29ms
+[2017.04.26-06.49.54:554][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_walking_inPlaceD2733A014B23D88C57E08993AF4F8F02.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_walking_inPlace.uasset'
+[2017.04.26-06.49.54:557][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_walking_inPlace.uasset
+[2017.04.26-06.49.54:657][934]LogSavePackage: Save=18.83ms
+[2017.04.26-06.49.54:657][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/NightShadeBS63631E044AEC22C9EC037BB6C7C013A9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/NightShadeBS.uasset'
+[2017.04.26-06.49.54:659][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/NightShadeBS.uasset
+[2017.04.26-06.49.54:758][934]LogSavePackage: Save=18.41ms
+[2017.04.26-06.49.54:758][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/nightshadeBlendSpace41063B1E483C8E4444BB25BCF44BF6A6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/nightshadeBlendSpace.uasset'
+[2017.04.26-06.49.54:761][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/nightshadeBlendSpace.uasset
+[2017.04.26-06.49.54:873][934]LogSavePackage: Save=25.66ms
+[2017.04.26-06.49.54:873][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/nightshade_animBP0EEDBED64ABFEC9E84926D92642C5F2C.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/nightshade_animBP.uasset'
+[2017.04.26-06.49.54:876][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/nightshade_animBP.uasset
+[2017.04.26-06.49.54:970][934]LogSavePackage: Save=19.81ms
+[2017.04.26-06.49.54:970][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_1H_Magic_Attack_01E26CED564A0C73D8F9FF35AF71A6F9DA.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_1H_Magic_Attack_01.uasset'
+[2017.04.26-06.49.54:973][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_1H_Magic_Attack_01.uasset
+[2017.04.26-06.49.55:078][934]LogSavePackage: Save=24.61ms
+[2017.04.26-06.49.55:078][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_2H_Magic_Area_Attack_024E7B00374B56237C2937B38343CA74AD.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_2H_Magic_Area_Attack_02.uasset'
+[2017.04.26-06.49.55:082][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_2H_Magic_Area_Attack_02.uasset
+[2017.04.26-06.49.55:211][934]LogSavePackage: Save=45.54ms
+[2017.04.26-06.49.55:211][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/standing_idleE174BA4741050512D2A5A79108AE84C1.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/standing_idle.uasset'
+[2017.04.26-06.49.55:214][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/standing_idle.uasset
+[2017.04.26-06.49.55:340][934]LogSavePackage: Save=21.61ms
+[2017.04.26-06.49.55:340][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/standing_idle_0270EB5FC2441D43CF4ACE2B81C47127C0.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/standing_idle_02.uasset'
+[2017.04.26-06.49.55:344][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/standing_idle_02.uasset
+[2017.04.26-06.49.55:445][934]LogSavePackage: Save=21.39ms
+[2017.04.26-06.49.55:445][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_Jump8F7FB01E4B5953BD7F63FBA6F79B4B94.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Jump.uasset'
+[2017.04.26-06.49.55:448][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Jump.uasset
+[2017.04.26-06.49.55:551][934]LogSavePackage: Save=22.53ms
+[2017.04.26-06.49.55:551][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_React_Death_BackwardE91DD1754F8B53402F0AB781747769FD.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_React_Death_Backward.uasset'
+[2017.04.26-06.49.55:555][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_React_Death_Backward.uasset
+[2017.04.26-06.49.55:661][934]LogSavePackage: Save=21.24ms
+[2017.04.26-06.49.55:661][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_React_Large_From_FrontED024D4849106AF3856AC285F876DACF.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_React_Large_From_Front.uasset'
+[2017.04.26-06.49.55:664][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_React_Large_From_Front.uasset
+[2017.04.26-06.49.55:770][934]LogSavePackage: Save=20.01ms
+[2017.04.26-06.49.55:770][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_React_Small_From_Front6C6CD5804CF9D9312AE57B875B56F6FE.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_React_Small_From_Front.uasset'
+[2017.04.26-06.49.55:773][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_React_Small_From_Front.uasset
+[2017.04.26-06.49.55:876][934]LogSavePackage: Save=20.63ms
+[2017.04.26-06.49.55:876][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_Run_BackAD985E7140FDCD3BBFEBE4BBDB1B7C6A.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Run_Back.uasset'
+[2017.04.26-06.49.55:879][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Run_Back.uasset
+[2017.04.26-06.49.55:985][934]LogSavePackage: Save=19.54ms
+[2017.04.26-06.49.55:985][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_Run_Forward3FF16DCE46D1B433A34BD2B6E1A5D605.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Run_Forward.uasset'
+[2017.04.26-06.49.55:988][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Run_Forward.uasset
+[2017.04.26-06.49.56:092][934]LogSavePackage: Save=20.84ms
+[2017.04.26-06.49.56:092][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_Turn_Left_9026F3F57440A8E191DF0E9F904B248520.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Turn_Left_90.uasset'
+[2017.04.26-06.49.56:095][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Turn_Left_90.uasset
+[2017.04.26-06.49.56:202][934]LogSavePackage: Save=20.12ms
+[2017.04.26-06.49.56:202][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_Turn_Right_9063EF10EB4C4D254C79FEEB86A8032B68.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Turn_Right_90.uasset'
+[2017.04.26-06.49.56:205][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Turn_Right_90.uasset
+[2017.04.26-06.49.56:309][934]LogSavePackage: Save=19.68ms
+[2017.04.26-06.49.56:309][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_Walk_BackE145401346147EC4133FC8BA864F8385.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Walk_Back.uasset'
+[2017.04.26-06.49.56:312][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Walk_Back.uasset
+[2017.04.26-06.49.56:417][934]LogSavePackage: Save=19.74ms
+[2017.04.26-06.49.56:417][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Standing_Walk_Forward390DBCEE4722169EC5C7E0BFE409DBA5.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Walk_Forward.uasset'
+[2017.04.26-06.49.56:420][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/nightShadeMovement/Standing_Walk_Forward.uasset
+[2017.04.26-06.49.56:528][934]LogSavePackage: Save=22.82ms
+[2017.04.26-06.49.56:528][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_idleAC45ABF74345AA0F320A7AAEA5DF9FF8.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle.uasset'
+[2017.04.26-06.49.56:531][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle.uasset
+[2017.04.26-06.49.56:640][934]LogSavePackage: Save=20.43ms
+[2017.04.26-06.49.56:640][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_idle_1EA8C5D42418CB15BF06964B063B39760.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle_1.uasset'
+[2017.04.26-06.49.56:643][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_idle_1.uasset
+[2017.04.26-06.49.56:745][934]LogSavePackage: Save=21.16ms
+[2017.04.26-06.49.56:745][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_jumpingD1FABA4B462A758AA19DB99A8208A2E1.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping.uasset'
+[2017.04.26-06.49.56:748][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping.uasset
+[2017.04.26-06.49.56:889][934]LogSavePackage: Save=19.38ms
+[2017.04.26-06.49.56:889][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping_1B5057A7F41762412D075A091CFA21EB7.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping_1.uasset'
+[2017.04.26-06.49.56:892][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_jumping_1.uasset
+[2017.04.26-06.49.56:994][934]LogSavePackage: Save=20.58ms
+[2017.04.26-06.49.56:994][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_left_turn_4503E55A6A462FEC39E1DC73BAE5E5A607.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_left_turn_45.uasset'
+[2017.04.26-06.49.56:997][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_left_turn_45.uasset
+[2017.04.26-06.49.57:112][934]LogSavePackage: Save=23.58ms
+[2017.04.26-06.49.57:112][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_45E3935C3B407211FD3DB3B7B08D5A8457.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45.uasset'
+[2017.04.26-06.49.57:116][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45.uasset
+[2017.04.26-06.49.57:224][934]LogSavePackage: Save=20.84ms
+[2017.04.26-06.49.57:224][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_45_171732FF74BEA94C3B1471DAC63A1ACD0.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45_1.uasset'
+[2017.04.26-06.49.57:227][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demon_movement/mutant_right_turn_45_1.uasset
+[2017.04.26-06.49.57:231][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonRangedAI" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset" SILENT=true
+[2017.04.26-06.49.57:292][934]LogSavePackage: Save=49.97ms
+[2017.04.26-06.49.57:292][934]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonRangedAIEC5AC88A400936B8A7B521ACF9559634.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset'
+[2017.04.26-06.49.57:295][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset
+[2017.04.26-06.50.42:891][148]Cmd: QUIT_EDITOR
+[2017.04.26-06.50.43:292][148]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.26-06.50.43:384][148]LogExit: Preparing to exit.
+[2017.04.26-06.50.44:258][148]LogDirectoryWatcher: A directory notification for 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.04.26-06.50.44:517][148]LogExit: Editor shut down
+[2017.04.26-06.50.44:518][148]LogExit: Transaction tracking system shut down
+[2017.04.26-06.50.47:034][148]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.26-06.50.47:034][148]LogExit: Object subsystem successfully closed.
+[2017.04.26-06.50.47:219][148]LogD3D11RHI: Shutdown
+[2017.04.26-06.50.47:234][148]LogD3D11RHI: CleanupD3DDevice
+[2017.04.26-06.50.48:129][148]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.26-06.50.48:989][148]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.26-06.50.48:989][148]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B770C4117-40F7-3D02-1BF8-42B3F723ADD0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=387b70224916b372f018038901396989%7Ccd786ad7a4df419daec99cc9d0720e3a%7C81e74947-e005-436d-b267-0a7a8cd5b3bd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.26-06.50.49:097][148]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (248)
+[2017.04.26-06.50.49:128][148]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (247)
+[2017.04.26-06.50.49:128][148]LogModuleManager: Shutting down and abandoning module BlueprintGraph (246)
+[2017.04.26-06.50.49:128][148]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (245)
+[2017.04.26-06.50.49:144][148]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (244)
+[2017.04.26-06.50.49:145][148]LogModuleManager: Shutting down and abandoning module AnimationEditor (243)
+[2017.04.26-06.50.49:145][148]LogModuleManager: Shutting down and abandoning module SkeletonEditor (242)
+[2017.04.26-06.50.49:145][148]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.26-06.50.49:145][148]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.26-06.50.49:145][148]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.26-06.50.49:145][148]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.26-06.50.49:145][148]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.26-06.50.49:158][148]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.04.26-06.50.49:166][148]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.26-06.50.49:166][148]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.26-06.50.49:166][148]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.26-06.50.49:166][148]LogDirectoryWatcher: A directory notification for 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Collections/' was aborted.
+[2017.04.26-06.50.49:166][148]LogDirectoryWatcher: A directory notification for 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Developers/aerob/Collections/' was aborted.
+[2017.04.26-06.50.49:166][148]LogDirectoryWatcher: A directory notification for 'C:/Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Collections/' was aborted.
+[2017.04.26-06.50.49:166][148]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.26-06.50.49:187][148]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.26-06.50.49:195][148]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.26-06.50.49:280][148]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.26-06.50.49:280][148]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.26-06.50.49:280][148]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.26-06.50.49:280][148]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.26-06.50.49:280][148]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.26-06.50.49:294][148]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.26-06.50.49:319][148]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.26-06.50.49:331][148]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.26-06.50.49:403][148]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.26-06.50.49:455][148]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.26-06.50.49:488][148]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.26-06.50.49:509][148]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.26-06.50.49:604][148]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.26-06.50.49:604][148]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.26-06.50.49:604][148]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.26-06.50.49:604][148]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.26-06.50.49:604][148]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.26-06.50.49:604][148]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.26-06.50.49:680][148]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.26-06.50.49:826][148]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.26-06.50.49:857][148]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.26-06.50.49:857][148]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.26-06.50.49:871][148]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.26-06.50.49:872][148]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.26-06.50.49:976][148]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.26-06.50.49:981][148]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.26-06.50.49:981][148]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.26-06.50.49:981][148]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.26-06.50.49:991][148]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.26-06.50.50:025][148]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.26-06.50.50:032][148]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.26-06.50.50:040][148]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.26-06.50.50:049][148]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.26-06.50.50:049][148]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.26-06.50.50:056][148]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.26-06.50.50:077][148]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.26-06.50.50:087][148]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.26-06.50.50:102][148]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.26-06.50.50:117][148]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.26-06.50.50:117][148]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.26-06.50.50:129][148]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.26-06.50.50:139][148]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.26-06.50.50:141][148]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.26-06.50.50:141][148]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.26-06.50.50:142][148]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.26-06.50.50:156][148]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.26-06.50.50:173][148]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.26-06.50.50:196][148]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.26-06.50.50:203][148]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.26-06.50.50:204][148]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.26-06.50.50:271][148]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.26-06.50.50:277][148]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.26-06.50.50:299][148]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.26-06.50.50:335][148]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.26-06.50.50:335][148]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.26-06.50.50:354][148]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.26-06.50.50:357][148]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.26-06.50.50:357][148]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.26-06.50.50:357][148]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.26-06.50.50:390][148]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.26-06.50.50:390][148]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.26-06.50.50:392][148]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.26-06.50.50:404][148]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.26-06.50.50:417][148]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.26-06.50.50:448][148]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.26-06.50.50:469][148]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.26-06.50.50:479][148]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.26-06.50.50:497][148]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.26-06.50.50:497][148]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.26-06.50.50:611][148]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.26-06.50.50:665][148]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.26-06.50.50:665][148]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.26-06.50.50:665][148]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.26-06.50.50:665][148]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.26-06.50.50:692][148]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.26-06.50.50:710][148]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.26-06.50.50:710][148]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.26-06.50.50:710][148]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.26-06.50.50:710][148]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.26-06.50.50:710][148]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.26-06.50.50:716][148]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.26-06.50.50:716][148]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.26-06.50.50:807][148]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.26-06.50.50:807][148]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.26-06.50.50:807][148]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.26-06.50.50:807][148]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.26-06.50.50:832][148]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.26-06.50.50:835][148]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.26-06.50.50:835][148]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.26-06.50.50:835][148]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.26-06.50.50:835][148]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.26-06.50.50:917][148]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.26-06.50.50:932][148]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.26-06.50.50:934][148]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.26-06.50.50:934][148]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.26-06.50.50:950][148]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.26-06.50.50:950][148]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.26-06.50.50:958][148]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.26-06.50.51:010][148]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.26-06.50.51:022][148]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.26-06.50.51:034][148]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.26-06.50.51:034][148]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.26-06.50.51:060][148]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.26-06.50.51:060][148]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.26-06.50.51:060][148]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.26-06.50.51:069][148]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.26-06.50.51:070][148]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.26-06.50.51:070][148]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.26-06.50.51:090][148]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.26-06.50.51:097][148]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.26-06.50.51:346][148]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.26-06.50.51:448][148]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.26-06.50.51:568][148]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.26-06.50.51:568][148]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.26-06.50.51:607][148]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.26-06.50.51:614][148]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.26-06.50.51:626][148]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.26-06.50.51:627][148]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.26-06.50.51:645][148]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.26-06.50.51:645][148]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.26-06.50.51:645][148]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.26-06.50.51:645][148]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.26-06.50.51:779][148]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.26-06.50.51:793][148]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.26-06.50.51:817][148]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.26-06.50.51:858][148]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.26-06.50.51:858][148]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.26-06.50.51:858][148]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.26-06.50.51:900][148]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.26-06.50.51:928][148]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.26-06.50.51:928][148]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.26-06.50.51:990][148]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.26-06.50.51:990][148]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.26-06.50.51:995][148]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.26-06.50.51:995][148]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.26-06.50.51:995][148]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.26-06.50.51:995][148]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.26-06.50.51:995][148]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.26-06.50.51:995][148]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.26-06.50.51:995][148]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.26-06.50.51:996][148]LogDirectoryWatcher: A directory notification for '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/' was aborted.
+[2017.04.26-06.50.51:997][148]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.26-06.50.52:002][148]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.26-06.50.52:513][148]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.26-06.50.52:513][148]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.26-06.50.52:525][148]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.26-06.50.52:531][148]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.26-06.50.52:539][148]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.26-06.50.52:551][148]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.26-06.50.52:551][148]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.26-06.50.52:566][148]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.26-06.50.52:634][148]LogDerivedDataCache: Shutdown
+[2017.04.26-06.50.52:634][148]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.26-06.50.52:646][148]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.26-06.50.52:657][148]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.26-06.50.52:664][148]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.26-06.50.52:671][148]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.26-06.50.52:671][148]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.26-06.50.52:679][148]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.26-06.50.52:679][148]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.26-06.50.52:708][148]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.26-06.50.52:708][148]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.26-06.50.52:708][148]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.26-06.50.52:708][148]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.26-06.50.52:723][148]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.26-06.50.52:731][148]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.26-06.50.52:731][148]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.26-06.50.52:731][148]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.26-06.50.52:743][148]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.26-06.50.52:753][148]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.26-06.50.52:763][148]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.26-06.50.52:763][148]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.26-06.50.52:763][148]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.26-06.50.52:763][148]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.26-06.50.52:763][148]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.26-06.50.52:763][148]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.26-06.50.52:763][148]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.26-06.50.52:764][148]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.26-06.50.52:764][148]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.26-06.50.52:764][148]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.26-06.50.52:764][148]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.26-06.50.52:764][148]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.26-06.50.52:764][148]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.26-06.50.52:764][148]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.26-06.50.52:776][148]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.26-06.50.52:787][148]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.26-06.50.52:797][148]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.26-06.50.52:797][148]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.26-06.50.52:797][148]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.26-06.50.52:797][148]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.26-06.50.52:797][148]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.26-06.50.52:797][148]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.26-06.50.52:798][148]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.26-06.50.52:798][148]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.26-06.50.52:798][148]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.26-06.50.52:812][148]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.26-06.50.52:812][148]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.26-06.50.52:812][148]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.26-06.50.52:812][148]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.26-06.50.52:845][148]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.26-06.50.52:861][148]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.26-06.50.52:861][148]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.26-06.50.52:937][148]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.26-06.50.52:937][148]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.26-06.50.52:937][148]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.26-06.50.52:937][148]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.26-06.50.52:976][148]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.26-06.50.52:980][148]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.26-06.50.52:980][148]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.26-06.50.52:994][148]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.26-06.50.53:008][148]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.26-06.50.53:008][148]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.26-06.50.53:008][148]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.26-06.50.53:021][148]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.26-06.50.53:031][148]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.26-06.50.53:031][148]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.26-06.50.53:046][148]LogExit: Exiting.
+[2017.04.26-06.50.53:086][148]Log file closed, 04/26/17 02:50:53
