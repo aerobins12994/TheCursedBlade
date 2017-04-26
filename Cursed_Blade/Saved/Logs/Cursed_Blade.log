@@ -361,3 +361,311 @@ LogInit: Object subsystem initialized
 [2017.04.26-06.21.08:051][962]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
 [2017.04.26-06.24.59:400][302]LogSavePackage: Save=29.96ms
 [2017.04.26-06.24.59:400][302]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/sk_CharM_BaseEEBF2BB64D0A45504C3A66B56C178470.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset'
+[2017.04.26-06.24.59:409][302]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset
+[2017.04.26-06.31.16:577][694]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.31.16:639][694]Cmd: MAP LOAD FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.26-06.31.16:639][694]LightingResults: New page: Lighting Build
+[2017.04.26-06.31.16:641][694]LoadErrors: New page: Loading map: AI_Test.umap
+[2017.04.26-06.31.16:642][694]MapCheck: New page: Map Check
+[2017.04.26-06.31.16:642][694]LightingResults: New page: Lighting Build
+[2017.04.26-06.31.16:766][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.26-06.31.16:853][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.26-06.31.16:976][694]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 122.463ms to complete.
+[2017.04.26-06.31.16:976][694]LogFileHelpers: Loading map 'AI_Test' took 0.338
+[2017.04.26-06.32.00:688][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.26-06.32.58:121][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/left_turn_46.left_turn_46
+[2017.04.26-06.32.58:152][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/left_turn_46.left_turn_46
+[2017.04.26-06.32.58:178][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle2.mutant_idle2
+[2017.04.26-06.32.58:212][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle2.mutant_idle2
+[2017.04.26-06.32.58:252][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle_2.mutant_idle_2
+[2017.04.26-06.32.58:266][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_idle_2.mutant_idle_2
+[2017.04.26-06.32.58:290][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping2.mutant_jumping2
+[2017.04.26-06.32.58:299][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping2.mutant_jumping2
+[2017.04.26-06.32.58:311][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping_2.mutant_jumping_2
+[2017.04.26-06.32.58:314][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_jumping_2.mutant_jumping_2
+[2017.04.26-06.32.58:335][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_left_turn_46.mutant_left_turn_46
+[2017.04.26-06.32.58:339][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_left_turn_46.mutant_left_turn_46
+[2017.04.26-06.32.58:351][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_46.mutant_right_turn_46
+[2017.04.26-06.32.58:363][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_46.mutant_right_turn_46
+[2017.04.26-06.32.58:373][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_91.mutant_right_turn_91
+[2017.04.26-06.32.58:380][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_91.mutant_right_turn_91
+[2017.04.26-06.32.58:410][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45_2.mutant_right_turn_45_2
+[2017.04.26-06.32.58:414][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_right_turn_45_2.mutant_right_turn_45_2
+[2017.04.26-06.32.58:427][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_run_inPlace2.mutant_run_inPlace2
+[2017.04.26-06.32.58:447][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_run_inPlace2.mutant_run_inPlace2
+[2017.04.26-06.32.58:464][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_walking_inPlace2.mutant_walking_inPlace2
+[2017.04.26-06.32.58:468][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mutant_walking_inPlace2.mutant_walking_inPlace2
+[2017.04.26-06.33.10:348][178]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.26-06.35.05:741][582]LogSavePackage: Save=20.59ms
+[2017.04.26-06.35.05:741][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/left_turn_4624F75DDD4D9F50E709B506AD705E4BB4.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/left_turn_46.uasset'
+[2017.04.26-06.35.05:752][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/left_turn_46.uasset
+[2017.04.26-06.35.05:847][582]LogSavePackage: Save=21.08ms
+[2017.04.26-06.35.05:847][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_idle_2D5F3CE2B46FCAD934231099189103DCC.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle_2.uasset'
+[2017.04.26-06.35.05:854][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle_2.uasset
+[2017.04.26-06.35.05:952][582]LogSavePackage: Save=23.54ms
+[2017.04.26-06.35.05:952][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_idle23D4654804600B6D1C2AE84B8749743E4.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle2.uasset'
+[2017.04.26-06.35.05:959][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_idle2.uasset
+[2017.04.26-06.35.06:047][582]LogSavePackage: Save=18.61ms
+[2017.04.26-06.35.06:047][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping_2CA8981F14029DFE48BAF6BB9C206B7D7.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping_2.uasset'
+[2017.04.26-06.35.06:054][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping_2.uasset
+[2017.04.26-06.35.06:141][582]LogSavePackage: Save=21.06ms
+[2017.04.26-06.35.06:141][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_jumping29CDCB9BA4AAC2EDCF2B2D484946B89D6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping2.uasset'
+[2017.04.26-06.35.06:149][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_jumping2.uasset
+[2017.04.26-06.35.06:236][582]LogSavePackage: Save=19.05ms
+[2017.04.26-06.35.06:237][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_left_turn_46B7615A8C4F12544DC7F73C80F25152DE.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_left_turn_46.uasset'
+[2017.04.26-06.35.06:244][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_left_turn_46.uasset
+[2017.04.26-06.35.06:332][582]LogSavePackage: Save=19.00ms
+[2017.04.26-06.35.06:332][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_460555BEB04CB3086042092BA7A44086F6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_46.uasset'
+[2017.04.26-06.35.06:340][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_46.uasset
+[2017.04.26-06.35.06:430][582]LogSavePackage: Save=19.72ms
+[2017.04.26-06.35.06:430][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_91C6393DD24B9802E158C2F0BFD6EDA4E6.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_91.uasset'
+[2017.04.26-06.35.06:438][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_91.uasset
+[2017.04.26-06.35.06:559][582]LogSavePackage: Save=48.37ms
+[2017.04.26-06.35.06:559][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_right_turn_45_2325C5D164032CEEBE0AAA4BA83C7C4F9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_45_2.uasset'
+[2017.04.26-06.35.06:566][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_right_turn_45_2.uasset
+[2017.04.26-06.35.06:696][582]LogSavePackage: Save=40.98ms
+[2017.04.26-06.35.06:697][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_run_inPlace2117D50684B4AAD62E5697E840E121DF9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_run_inPlace2.uasset'
+[2017.04.26-06.35.06:722][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_run_inPlace2.uasset
+[2017.04.26-06.35.06:836][582]LogSavePackage: Save=37.84ms
+[2017.04.26-06.35.06:836][582]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/mutant_walking_inPlace26DE032034F21F8BD338D09A99F51D558.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_walking_inPlace2.uasset'
+[2017.04.26-06.35.06:846][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/mutant_walking_inPlace2.uasset
+[2017.04.26-06.35.55:031][259]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.26-06.37.24:613][ 78]LogSavePackage: Save=24.88ms
+[2017.04.26-06.37.24:613][ 78]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demon__idelWalkRunD839C8964E2B8EF35C4A76B9419F2C84.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demon__idelWalkRun.uasset'
+[2017.04.26-06.37.24:619][ 78]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demon__idelWalkRun.uasset
+[2017.04.26-06.40.54:352][954]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.26-06.41.08:043][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/AI_Test" FILE="../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.26-06.41.08:291][ 54]LogSavePackage: Save=190.75ms
+[2017.04.26-06.41.08:291][ 54]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/AI_Test31F06A614BB66F4EBEC97EA210B6C35E.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap'
+[2017.04.26-06.41.08:300][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/Levels/AI_Test.umap
+[2017.04.26-06.41.39:123][236]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 111 classes and 0 folders.
+[2017.04.26-06.41.40:708][236]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.26-06.41.43:911][261]LogSavePackage: Save=22.16ms
+[2017.04.26-06.41.43:911][261]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonMinionAnimBP118707D24ECBD09CFC8AFFADC2241CE9.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset'
+[2017.04.26-06.41.43:917][261]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset
+[2017.04.26-06.41.50:843][367]LogSavePackage: Save=8.91ms
+[2017.04.26-06.41.50:843][367]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/SK_Mannequin_SkeletonA555F006495D6DDF0F344EB879BFEEEF.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2017.04.26-06.41.50:850][367]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset
+[2017.04.26-06.42.45:838][467]BlueprintLog: New page: Compile demonMinionAnimBP
+[2017.04.26-06.42.45:993][467]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.04.26-06.43.12:128][ 17]LogSavePackage: Save=27.05ms
+[2017.04.26-06.43.12:128][ 17]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/demonMinionAnimBPFF1A87A14062D6C5FBFABF8792E71291.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset'
+[2017.04.26-06.43.12:136][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/demonMovement2/demonMinionAnimBP.uasset
+[2017.04.26-06.44.09:344][128]LogRenderer: Reallocating scene render targets to support 912x576 NumSamples 1 (Frame:34002).
+[2017.04.26-06.44.09:595][129]LogRenderer: Reallocating scene render targets to support 960x576 NumSamples 1 (Frame:34004).
+[2017.04.26-06.44.09:652][129]LogRenderer: Reallocating scene render targets to support 964x576 NumSamples 1 (Frame:34006).
+[2017.04.26-06.44.41:094][545]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2017.04.26-06.44.47:301][609]LogSavePackage: Save=10.99ms
+[2017.04.26-06.44.47:301][609]LogSavePackage: Moving '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Saved/Nightshade_J_Friedrich_Skeleton7F7B9B1B4C81715CE650D8B9324F5D1F.tmp' to '../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset'
+[2017.04.26-06.44.47:338][609]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerob/Desktop/c3/TheCursedBlade/Cursed_Blade/Content/demons/Nightshade_J_Friedrich_Skeleton.uasset
+[2017.04.26-06.44.57:735][694]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.26-06.45.00:162][725]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.26-06.45.00:192][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-06.45.00:192][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.26-06.45.00:221][725]PIE: New page: PIE session: AI_Test (Apr 25, 2017, 10:45:00 PM)
+[2017.04.26-06.45.00:221][725]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.00:236][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014535s)
+[2017.04.26-06.45.00:236][725]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.00:237][725]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.04.26-06.45.00:237][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.015831s)
+[2017.04.26-06.45.00:288][725]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-06.45.00:303][725]LogInit: FAudioDevice initialized.
+[2017.04.26-06.45.00:394][725]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.00:400][725]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.00
+[2017.04.26-06.45.00:402][725]LogWorld: Bringing up level for play took: 0.007852
+[2017.04.26-06.45.00:473][725]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2017.04.26-06.45.00:482][725]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.47
+[2017.04.26-06.45.00:482][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-06.45.00:538][725]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:34769).
+[2017.04.26-06.45.03:440][748]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.03:440][748]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.03:618][748]Cmd: MEM
+[2017.04.26-06.45.03:656][748]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.03:656][748]LogMemory: Process Physical Memory: 2720.07 MB used, 2730.40 MB peak
+[2017.04.26-06.45.03:656][748]LogMemory: Process Virtual Memory: 3483.77 MB used, 3494.70 MB peak
+[2017.04.26-06.45.03:656][748]LogMemory: Physical Memory: 5756.57 MB used,  2325.34 MB free, 8081.91 MB total
+[2017.04.26-06.45.03:656][748]LogMemory: Virtual Memory: 4327.26 MB used,  2325.34 MB free, 134217728.00 MB total
+[2017.04.26-06.45.03:656][748]LogMemory: 
+[2017.04.26-06.45.03:656][748]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.03:656][748]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.03:664][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007747s)
+[2017.04.26-06.45.03:664][748]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.03:665][748]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2017.04.26-06.45.03:665][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008593s)
+[2017.04.26-06.45.03:665][748]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.03:671][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.03
+[2017.04.26-06.45.03:673][748]LogWorld: Bringing up level for play took: 0.007666
+[2017.04.26-06.45.03:707][748]LogLoad: Took 0.266053 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.07:238][777]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.07:238][777]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.07:406][777]Cmd: MEM
+[2017.04.26-06.45.07:445][777]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.07:445][777]LogMemory: Process Physical Memory: 2638.73 MB used, 2730.40 MB peak
+[2017.04.26-06.45.07:445][777]LogMemory: Process Virtual Memory: 3384.57 MB used, 3494.70 MB peak
+[2017.04.26-06.45.07:445][777]LogMemory: Physical Memory: 5677.62 MB used,  2404.29 MB free, 8081.91 MB total
+[2017.04.26-06.45.07:445][777]LogMemory: Virtual Memory: 4314.07 MB used,  2404.29 MB free, 134217728.00 MB total
+[2017.04.26-06.45.07:445][777]LogMemory: 
+[2017.04.26-06.45.07:445][777]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.07:445][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.07:453][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007709s)
+[2017.04.26-06.45.07:453][777]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.07:454][777]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2017.04.26-06.45.07:454][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008740s)
+[2017.04.26-06.45.07:454][777]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.07:460][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.07
+[2017.04.26-06.45.07:462][777]LogWorld: Bringing up level for play took: 0.007763
+[2017.04.26-06.45.07:465][777]LogLoad: Took 0.227282 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.10:946][806]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.10:946][806]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.11:107][806]Cmd: MEM
+[2017.04.26-06.45.11:147][806]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.11:147][806]LogMemory: Process Physical Memory: 2564.88 MB used, 2730.40 MB peak
+[2017.04.26-06.45.11:147][806]LogMemory: Process Virtual Memory: 3304.89 MB used, 3494.70 MB peak
+[2017.04.26-06.45.11:147][806]LogMemory: Physical Memory: 5602.86 MB used,  2479.05 MB free, 8081.91 MB total
+[2017.04.26-06.45.11:147][806]LogMemory: Virtual Memory: 4298.69 MB used,  2479.05 MB free, 134217728.00 MB total
+[2017.04.26-06.45.11:147][806]LogMemory: 
+[2017.04.26-06.45.11:147][806]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.11:147][806]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.11:155][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008139s)
+[2017.04.26-06.45.11:156][806]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.11:156][806]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2017.04.26-06.45.11:156][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.009029s)
+[2017.04.26-06.45.11:156][806]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.11:163][806]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.11
+[2017.04.26-06.45.11:165][806]LogWorld: Bringing up level for play took: 0.008140
+[2017.04.26-06.45.11:168][806]LogLoad: Took 0.221393 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.13:993][830]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.13:993][830]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.14:165][830]Cmd: MEM
+[2017.04.26-06.45.14:203][830]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.14:203][830]LogMemory: Process Physical Memory: 2548.92 MB used, 2730.40 MB peak
+[2017.04.26-06.45.14:203][830]LogMemory: Process Virtual Memory: 3302.00 MB used, 3494.70 MB peak
+[2017.04.26-06.45.14:203][830]LogMemory: Physical Memory: 5586.78 MB used,  2495.13 MB free, 8081.91 MB total
+[2017.04.26-06.45.14:203][830]LogMemory: Virtual Memory: 4298.69 MB used,  2495.13 MB free, 134217728.00 MB total
+[2017.04.26-06.45.14:203][830]LogMemory: 
+[2017.04.26-06.45.14:203][830]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.14:203][830]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.14:212][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007717s)
+[2017.04.26-06.45.14:212][830]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.14:212][830]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2017.04.26-06.45.14:212][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008596s)
+[2017.04.26-06.45.14:213][830]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.14:219][830]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.14
+[2017.04.26-06.45.14:221][830]LogWorld: Bringing up level for play took: 0.007773
+[2017.04.26-06.45.14:224][830]LogLoad: Took 0.230145 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.16:924][854]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.16:924][854]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.17:093][854]Cmd: MEM
+[2017.04.26-06.45.17:130][854]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.17:130][854]LogMemory: Process Physical Memory: 2557.34 MB used, 2730.40 MB peak
+[2017.04.26-06.45.17:130][854]LogMemory: Process Virtual Memory: 3303.18 MB used, 3494.70 MB peak
+[2017.04.26-06.45.17:130][854]LogMemory: Physical Memory: 5595.03 MB used,  2486.88 MB free, 8081.91 MB total
+[2017.04.26-06.45.17:130][854]LogMemory: Virtual Memory: 4298.69 MB used,  2486.88 MB free, 134217728.00 MB total
+[2017.04.26-06.45.17:130][854]LogMemory: 
+[2017.04.26-06.45.17:130][854]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.17:130][854]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.17:138][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007805s)
+[2017.04.26-06.45.17:139][854]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.17:139][854]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.04.26-06.45.17:140][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008728s)
+[2017.04.26-06.45.17:140][854]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.17:146][854]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.17
+[2017.04.26-06.45.17:148][854]LogWorld: Bringing up level for play took: 0.007591
+[2017.04.26-06.45.17:151][854]LogLoad: Took 0.226876 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.19:870][879]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.19:873][879]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.20:033][879]Cmd: MEM
+[2017.04.26-06.45.20:071][879]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.20:071][879]LogMemory: Process Physical Memory: 2567.36 MB used, 2730.40 MB peak
+[2017.04.26-06.45.20:071][879]LogMemory: Process Virtual Memory: 3334.65 MB used, 3494.70 MB peak
+[2017.04.26-06.45.20:071][879]LogMemory: Physical Memory: 5605.78 MB used,  2476.13 MB free, 8081.91 MB total
+[2017.04.26-06.45.20:071][879]LogMemory: Virtual Memory: 4314.69 MB used,  2476.13 MB free, 134217728.00 MB total
+[2017.04.26-06.45.20:071][879]LogMemory: 
+[2017.04.26-06.45.20:071][879]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.20:071][879]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.20:079][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007910s)
+[2017.04.26-06.45.20:079][879]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.20:079][879]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2017.04.26-06.45.20:080][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008838s)
+[2017.04.26-06.45.20:080][879]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.20:085][879]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.20
+[2017.04.26-06.45.20:088][879]LogWorld: Bringing up level for play took: 0.007265
+[2017.04.26-06.45.20:091][879]LogLoad: Took 0.218041 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.23:647][910]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.23:648][910]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.23:806][910]Cmd: MEM
+[2017.04.26-06.45.23:845][910]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.23:845][910]LogMemory: Process Physical Memory: 2575.11 MB used, 2730.40 MB peak
+[2017.04.26-06.45.23:845][910]LogMemory: Process Virtual Memory: 3327.39 MB used, 3494.70 MB peak
+[2017.04.26-06.45.23:845][910]LogMemory: Physical Memory: 5613.45 MB used,  2468.45 MB free, 8081.91 MB total
+[2017.04.26-06.45.23:845][910]LogMemory: Virtual Memory: 4314.69 MB used,  2468.45 MB free, 134217728.00 MB total
+[2017.04.26-06.45.23:845][910]LogMemory: 
+[2017.04.26-06.45.23:845][910]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.23:845][910]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.23:853][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008017s)
+[2017.04.26-06.45.23:854][910]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.23:854][910]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.04.26-06.45.23:854][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008975s)
+[2017.04.26-06.45.23:854][910]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.23:862][910]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.23
+[2017.04.26-06.45.23:864][910]LogWorld: Bringing up level for play took: 0.008814
+[2017.04.26-06.45.23:867][910]LogLoad: Took 0.219078 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.26:593][934]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.26:596][934]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.26:765][934]Cmd: MEM
+[2017.04.26-06.45.26:802][934]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.26:802][934]LogMemory: Process Physical Memory: 2558.63 MB used, 2730.40 MB peak
+[2017.04.26-06.45.26:802][934]LogMemory: Process Virtual Memory: 3316.76 MB used, 3494.70 MB peak
+[2017.04.26-06.45.26:802][934]LogMemory: Physical Memory: 5598.38 MB used,  2483.53 MB free, 8081.91 MB total
+[2017.04.26-06.45.26:802][934]LogMemory: Virtual Memory: 4314.69 MB used,  2483.53 MB free, 134217728.00 MB total
+[2017.04.26-06.45.26:802][934]LogMemory: 
+[2017.04.26-06.45.26:802][934]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.26:802][934]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.26:810][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007907s)
+[2017.04.26-06.45.26:811][934]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.26:811][934]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2017.04.26-06.45.26:811][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008789s)
+[2017.04.26-06.45.26:811][934]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.26:816][934]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.26
+[2017.04.26-06.45.26:818][934]LogWorld: Bringing up level for play took: 0.006883
+[2017.04.26-06.45.26:821][934]LogLoad: Took 0.224986 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.29:506][958]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.29:506][958]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.29:670][958]Cmd: MEM
+[2017.04.26-06.45.29:708][958]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.29:708][958]LogMemory: Process Physical Memory: 2567.16 MB used, 2730.40 MB peak
+[2017.04.26-06.45.29:708][958]LogMemory: Process Virtual Memory: 3334.31 MB used, 3494.70 MB peak
+[2017.04.26-06.45.29:708][958]LogMemory: Physical Memory: 5606.46 MB used,  2475.45 MB free, 8081.91 MB total
+[2017.04.26-06.45.29:708][958]LogMemory: Virtual Memory: 4314.69 MB used,  2475.45 MB free, 134217728.00 MB total
+[2017.04.26-06.45.29:708][958]LogMemory: 
+[2017.04.26-06.45.29:708][958]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.29:708][958]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.29:716][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007711s)
+[2017.04.26-06.45.29:717][958]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.29:717][958]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.04.26-06.45.29:717][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008852s)
+[2017.04.26-06.45.29:717][958]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.29:725][958]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.29
+[2017.04.26-06.45.29:728][958]LogWorld: Bringing up level for play took: 0.009750
+[2017.04.26-06.45.29:731][958]LogLoad: Took 0.225261 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.33:340][989]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-06.45.33:341][989]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-06.45.33:500][989]Cmd: MEM
+[2017.04.26-06.45.33:538][989]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-06.45.33:538][989]LogMemory: Process Physical Memory: 2569.80 MB used, 2730.40 MB peak
+[2017.04.26-06.45.33:538][989]LogMemory: Process Virtual Memory: 3318.35 MB used, 3494.70 MB peak
+[2017.04.26-06.45.33:538][989]LogMemory: Physical Memory: 5609.52 MB used,  2472.39 MB free, 8081.91 MB total
+[2017.04.26-06.45.33:538][989]LogMemory: Virtual Memory: 4314.69 MB used,  2472.39 MB free, 134217728.00 MB total
+[2017.04.26-06.45.33:538][989]LogMemory: 
+[2017.04.26-06.45.33:538][989]Allocator Stats for TBB: (not implemented)
+[2017.04.26-06.45.33:538][989]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-06.45.33:545][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007401s)
+[2017.04.26-06.45.33:546][989]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-06.45.33:546][989]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2017.04.26-06.45.33:546][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.008328s)
+[2017.04.26-06.45.33:546][989]LogLoad: Game class is 'myGame_C'
+[2017.04.26-06.45.33:553][989]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.26-02.45.33
+[2017.04.26-06.45.33:555][989]LogWorld: Bringing up level for play took: 0.008022
+[2017.04.26-06.45.33:558][989]LogLoad: Took 0.217731 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-06.45.35:305][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-06.45.35:600][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
