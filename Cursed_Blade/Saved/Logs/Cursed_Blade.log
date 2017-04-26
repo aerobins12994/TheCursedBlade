@@ -571,3 +571,143 @@ LogInit: Object subsystem initialized
 [2017.04.26-03.09.35:615][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
 [2017.04.26-03.10.13:722][961]BlueprintLog: New page: Compile demonAi
 [2017.04.26-03.10.14:991][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/demonAi" FILE="../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset" SILENT=true
+[2017.04.26-03.10.15:047][ 38]LogSavePackage: Save=44.05ms
+[2017.04.26-03.10.15:047][ 38]LogSavePackage: Moving '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/demonAi97874951422E071559C145833EB96CBF.tmp' to '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset'
+[2017.04.26-03.10.15:051][ 38]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/demonAi.uasset
+[2017.04.26-03.12.39:546][997]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/demons/demon_anim/Standing_React_Death_Backward.Standing_React_Death_Backward
+[2017.04.26-03.12.50:276][741]BlueprintLog: New page: Compile demonRangedAI
+[2017.04.26-03.12.51:214][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/demons/demonRangedAI" FILE="../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset" SILENT=true
+[2017.04.26-03.12.51:270][793]LogSavePackage: Save=43.59ms
+[2017.04.26-03.12.51:270][793]LogSavePackage: Moving '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/demonRangedAI83C0303B435FAC792E980DA3930F250F.tmp' to '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset'
+[2017.04.26-03.12.51:274][793]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/demons/demonRangedAI.uasset
+[2017.04.26-03.12.58:939][315]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.26-03.12.58:974][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.12.58:974][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.26-03.12.58:975][315]PIE: New page: PIE session: AI_Test (Apr 25, 2017, 7:12:58 PM)
+[2017.04.26-03.12.58:975][315]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-03.12.58:981][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006149s)
+[2017.04.26-03.12.58:981][315]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-03.12.58:981][315]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2017.04.26-03.12.58:982][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.006956s)
+[2017.04.26-03.12.59:009][315]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-03.12.59:045][315]LogInit: FAudioDevice initialized.
+[2017.04.26-03.12.59:106][315]LogLoad: Game class is 'myGame_C'
+[2017.04.26-03.12.59:110][315]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.25-23.12.59
+[2017.04.26-03.12.59:111][315]LogWorld: Bringing up level for play took: 0.003890
+[2017.04.26-03.12.59:119][315]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.509
+[2017.04.26-03.12.59:120][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.13.51:410][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.13.51:521][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.13.53:204][236]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.26-03.13.53:226][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.13.53:226][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.26-03.13.53:226][236]PIE: New page: PIE session: AI_Test (Apr 25, 2017, 7:13:53 PM)
+[2017.04.26-03.13.53:226][236]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-03.13.53:232][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005924s)
+[2017.04.26-03.13.53:232][236]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-03.13.53:232][236]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2017.04.26-03.13.53:233][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.006592s)
+[2017.04.26-03.13.53:260][236]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-03.13.53:293][236]LogInit: FAudioDevice initialized.
+[2017.04.26-03.13.53:358][236]LogLoad: Game class is 'myGame_C'
+[2017.04.26-03.13.53:361][236]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.25-23.13.53
+[2017.04.26-03.13.53:363][236]LogWorld: Bringing up level for play took: 0.004036
+[2017.04.26-03.13.53:374][236]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test 0.771
+[2017.04.26-03.13.53:375][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.14.53:939][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.14.54:044][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.15.01:446][976]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.04.26-03.15.01:694][981]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CursedBlade
+
+[2017.04.26-03.15.01:694][981]LogTemp:Display: CWD: C:\Program Files\Epic Games\UE_4.14\Engine\Binaries\DotNet\IOS
+
+[2017.04.26-03.15.01:694][981]LogTemp:Display: Initial Dir: C:\Program Files\Epic Games\UE_4.14
+
+[2017.04.26-03.15.01:694][981]LogTemp:Display: Env CWD: C:\Program Files\Epic Games\UE_4.14\Engine\Binaries\DotNet\IOS
+
+[2017.04.26-03.15.01:694][981]LogTemp:Display: BranchPath = UMD-CIS239-01/C/Program Files/Epic Games/UE_4.14/Engine/Binaries --- GameBranchPath = UMD-CIS239-01/C/Program Files/Epic Games/UE_4.14/Engine/Binaries
+
+[2017.04.26-03.15.01:788][987]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\aerobins\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.04.26-03.15.01:788][987]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.04.26-03.15.01:788][987]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.04.26-03.15.01:788][987]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.04.26-03.15.01:788][987]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.04.26-03.15.01:788][987]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.04.26-03.15.01:788][987]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.04.26-03.15.40:051][477]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.26-03.15.40:075][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.15.40:075][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.26-03.15.40:075][477]PIE: New page: PIE session: AI_Test (Apr 25, 2017, 7:15:40 PM)
+[2017.04.26-03.15.40:075][477]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-03.15.40:081][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005764s)
+[2017.04.26-03.15.40:081][477]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-03.15.40:081][477]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2017.04.26-03.15.40:082][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.006502s)
+[2017.04.26-03.15.40:111][477]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-03.15.40:146][477]LogInit: FAudioDevice initialized.
+[2017.04.26-03.15.40:209][477]LogLoad: Game class is 'myGame_C'
+[2017.04.26-03.15.40:213][477]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.25-23.15.40
+[2017.04.26-03.15.40:214][477]LogWorld: Bringing up level for play took: 0.003713
+[2017.04.26-03.15.40:226][477]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.362
+[2017.04.26-03.15.40:226][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.16.51:693][702]LogNet: Browse: /Game/Levels/AI_Test
+[2017.04.26-03.16.51:693][702]LogLoad: LoadMap: /Game/Levels/AI_Test
+[2017.04.26-03.16.51:713][702]Cmd: MEM
+[2017.04.26-03.16.51:729][702]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-03.16.51:729][702]LogMemory: Process Physical Memory: 1963.02 MB used, 2241.80 MB peak
+[2017.04.26-03.16.51:729][702]LogMemory: Process Virtual Memory: 3605.20 MB used, 3929.91 MB peak
+[2017.04.26-03.16.51:729][702]LogMemory: Physical Memory: 9402.64 MB used,  6898.05 MB free, 16300.68 MB total
+[2017.04.26-03.16.51:729][702]LogMemory: Virtual Memory: 4362.16 MB used,  6898.05 MB free, 8388608.00 MB total
+[2017.04.26-03.16.51:729][702]LogMemory: 
+[2017.04.26-03.16.51:729][702]Allocator Stats for TBB: (not implemented)
+[2017.04.26-03.16.51:729][702]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-03.16.51:735][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005532s)
+[2017.04.26-03.16.51:735][702]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-03.16.51:735][702]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2017.04.26-03.16.51:735][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.006195s)
+[2017.04.26-03.16.51:736][702]LogLoad: Game class is 'myGame_C'
+[2017.04.26-03.16.51:738][702]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.25-23.16.51
+[2017.04.26-03.16.51:740][702]LogWorld: Bringing up level for play took: 0.003326
+[2017.04.26-03.16.51:741][702]LogLoad: Took 0.048040 seconds to LoadMap(/Game/Levels/UEDPIE_0_AI_Test)
+[2017.04.26-03.17.09:522][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.17.09:605][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.17.17:867][550]LogRenderer: Reallocating scene render targets to support 1292x912 NumSamples 1 (Frame:72997).
+[2017.04.26-03.17.39:389][121]BlueprintLog: New page: Compile characterBP
+[2017.04.26-03.17.42:188][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/character/characterBP" FILE="../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset" SILENT=true
+[2017.04.26-03.17.42:302][268]LogSavePackage: Save=102.96ms
+[2017.04.26-03.17.42:302][268]LogSavePackage: Moving '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/characterBP432B4F06403411E704A446ACC232FA2E.tmp' to '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset'
+[2017.04.26-03.17.42:306][268]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/character/characterBP.uasset
+[2017.04.26-03.17.47:585][640]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.26-03.17.47:622][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.17.47:622][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.26-03.17.47:622][640]PIE: New page: PIE session: AI_Test (Apr 25, 2017, 7:17:47 PM)
+[2017.04.26-03.17.47:622][640]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_AI_Test
+[2017.04.26-03.17.47:628][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005666s)
+[2017.04.26-03.17.47:629][640]LogAIModule: Creating AISystem for world AI_Test
+[2017.04.26-03.17.47:629][640]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2017.04.26-03.17.47:629][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AI_Test.AI_Test to /Game/Levels/UEDPIE_0_AI_Test.AI_Test (0.006377s)
+[2017.04.26-03.17.47:657][640]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-03.17.47:694][640]LogInit: FAudioDevice initialized.
+[2017.04.26-03.17.47:757][640]LogLoad: Game class is 'myGame_C'
+[2017.04.26-03.17.47:760][640]LogWorld: Bringing World /Game/Levels/UEDPIE_0_AI_Test.AI_Test up for play (max tick rate 0) at 2017.04.25-23.17.47
+[2017.04.26-03.17.47:761][640]LogWorld: Bringing up level for play took: 0.003637
+[2017.04.26-03.17.47:770][640]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_AI_Test -0.805
+[2017.04.26-03.17.47:770][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.18.04:425][864]LogCharacterMovement: Enemy_AI4_166 is stuck and failed to move! Velocity: X=185.29 Y=339.99 Z=0.00 Location: X=-227.32 Y=87.35 Z=108.90 Normal: X=-0.39 Y=-0.28 Z=-0.88 PenetrationDepth:25.686 Actor:characterBP_C_0 Component:SwordCollision BoneName:None (0 other events since notify)
+[2017.04.26-03.18.51:451][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.18.51:546][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/AI_Test.AI_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test' with GeneratedClass '/Game/Levels/AI_Test.AI_Test_C' with ClassGeneratedBy '/Game/Levels/AI_Test.AI_Test:PersistentLevel.AI_Test'
+[2017.04.26-03.19.29:688][382]LogSavePackage: Save=132.44ms
+[2017.04.26-03.19.29:688][382]LogSavePackage: Moving '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/AI_Test_Auto19EAAAD0C4262913C42E4D586D305AF8C.tmp' to '../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto1.umap'
+[2017.04.26-03.19.29:693][382]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Saved/Autosaves/Game/Levels/AI_Test_Auto1.umap
+[2017.04.26-03.19.29:695][382]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/AI_Test' took 0.172
+[2017.04.26-03.19.29:695][382]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.172
+[2017.04.26-03.23.29:353][237]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DemonLord/Animations/DEMON_LORD_death.DEMON_LORD_death
+[2017.04.26-03.23.41:622][162]BlueprintLog: New page: Compile demomBoss
+[2017.04.26-03.23.42:535][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemonLord/demomBoss" FILE="../../../../../../Users/aerobins/Desktop/curse/TheCursedBlade/Cursed_Blade/Content/DemonLord/demomBoss.uasset" SILENT=true
